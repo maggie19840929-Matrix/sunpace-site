@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>SunPace 内容编辑器</title>
+<style>
+  :root {
+    --navy: #0D1638;
+    --panel: #151F49;
+    --line: rgba(255,255,255,0.12);
+    --text: #fff;
+    --muted: rgba(255,255,255,0.58);
+    --orange: #F07820;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: linear-gradient(160deg, #0B1230, #1A2860);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", sans-serif;
+  }
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 18px 28px;
+    background: rgba(11,18,48,0.88);
+    backdrop-filter: blur(16px);
+    border-bottom: 1px solid var(--line);
+  }
+  h1 { margin: 0; font-size: 1.15rem; letter-spacing: 0.04em; }
+  main { max-width: 980px; margin: 0 auto; padding: 30px 20px 60px; }
+  .hint {
+    margin-bottom: 24px;
+    padding: 16px 18px;
+    border: 1px solid rgba(240,120,32,0.22);
+    background: rgba(240,120,32,0.08);
+    border-radius: 10px;
+    color: rgba(255,255,255,0.76);
+    line-height: 1.8;
+    font-size: 0.9rem;
+  }
+  .section {
+    margin-top: 22px;
+    padding: 22px;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    background: rgba(255,255,255,0.045);
+  }
+  .section-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  h2 { margin: 0; font-size: 1rem; }
+  .items { display: flex; flex-direction: column; gap: 14px; }
+  .item {
+    padding: 16px;
+    border-radius: 10px;
+    background: rgba(13,22,56,0.72);
+    border: 1px solid var(--line);
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+  .full { grid-column: 1 / -1; }
+  label {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    color: var(--muted);
+    font-size: 0.76rem;
+    letter-spacing: 0.03em;
+  }
+  input, textarea {
+    width: 100%;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: rgba(255,255,255,0.07);
+    color: var(--text);
+    padding: 10px 11px;
+    font: inherit;
+    outline: none;
+  }
+  textarea { min-height: 86px; resize: vertical; line-height: 1.6; }
+  input:focus, textarea:focus { border-color: rgba(240,120,32,0.55); }
+  .actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-top: 12px;
+  }
+  button, .button {
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 9px 14px;
+    background: rgba(255,255,255,0.07);
+    color: var(--text);
+    cursor: pointer;
+    font: inherit;
+    font-size: 0.82rem;
+    text-decoration: none;
+  }
+  .primary {
+    border-color: rgba(240,120,32,0.5);
+    background: linear-gradient(135deg, var(--orange), #F99440);
+    font-weight: 700;
+  }
+  .danger { color: #ffb6a6; border-color: rgba(255,120,90,0.32); }
+  .ghost { color: rgba(255,255,255,0.7); }
+  .toolbar { display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-end; }
+  .file-input { display: none; }
+  @media (max-width: 680px) {
+    header { align-items: flex-start; flex-direction: column; padding: 16px 18px; }
+    main { padding: 22px 14px 44px; }
+    .grid { grid-template-columns: 1fr; }
+    .section { padding: 16px; }
+    .section-head { align-items: flex-start; flex-direction: column; }
+    .toolbar { justify-content: flex-start; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>SunPace 内容编辑器</h1>
+    <div style="color:rgba(255,255,255,0.42);font-size:0.78rem;margin-top:5px;">大事纪 / 线下活动预告</div>
+  </div>
+  <div class="toolbar">
+    <a class="button ghost" href="/" target="_blank">查看首页</a>
+    <button class="primary" id="downloadBtn" type="button">下载 site-content.json</button>
+  </div>
+</header>
+
+<main>
+  <div class="hint">
+    这个页面用于快速编辑官网首页的大事纪和活动预告。改完后点击“下载 site-content.json”，再到 GitHub 替换 `data/site-content.json`，Netlify 会自动重新部署。
+  </div>
+
+  <section class="section">
+    <div class="section-head">
+      <h2>大事纪</h2>
+      <button id="addMilestone" type="button">新增大事纪</button>
+    </div>
+    <div class="items" id="milestones"></div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <h2>线下活动预告</h2>
+      <button id="addEvent" type="button">新增活动</button>
+    </div>
+    <div class="items" id="events"></div>
+  </section>
+</main>
+
+<script>
+  let content = { milestones: [], events: [] };
+
+  function field(label, value, path, multiline = false) {
+    const input = multiline
+      ? `<textarea data-path="${path}">${escapeHtml(value)}</textarea>`
+      : `<input data-path="${path}" value="${escapeHtml(value)}">`;
+    return `<label>${label}${input}</label>`;
+  }
+
+  function escapeHtml(value) {
+    return String(value || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  }
+
+  function render() {
+    document.getElementById('milestones').innerHTML = content.milestones.map((item, index) => `
+      <div class="item">
+        <div class="grid">
+          ${field('年份', item.year, `milestones.${index}.year`)}
+          ${field('英文标签', item.label, `milestones.${index}.label`)}
+          ${field('标题', item.title, `milestones.${index}.title`, false)}
+          ${field('说明', item.description, `milestones.${index}.description`, true)}
+        </div>
+        <div class="actions">
+          <button type="button" data-move="milestones.${index}.-1">上移</button>
+          <button type="button" data-move="milestones.${index}.1">下移</button>
+          <button class="danger" type="button" data-remove="milestones.${index}">删除</button>
+        </div>
+      </div>
+    `).join('');
+
+    document.getElementById('events').innerHTML = content.events.map((item, index) => `
+      <div class="item">
+        <div class="grid">
+          ${field('日期数字', item.day, `events.${index}.day`)}
+          ${field('月份', item.month, `events.${index}.month`)}
+          ${field('标题', item.title, `events.${index}.title`)}
+          ${field('标签，用逗号分隔', (item.tags || []).join('，'), `events.${index}.tags`)}
+          ${field('按钮文字', item.actionText, `events.${index}.actionText`)}
+          ${field('按钮链接', item.actionHref, `events.${index}.actionHref`)}
+          <div class="full">${field('说明', item.description, `events.${index}.description`, true)}</div>
+        </div>
+        <div class="actions">
+          <button type="button" data-move="events.${index}.-1">上移</button>
+          <button type="button" data-move="events.${index}.1">下移</button>
+          <button class="danger" type="button" data-remove="events.${index}">删除</button>
+        </div>
+      </div>
+    `).join('');
+  }
+
+  function updateValue(path, value) {
+    const [group, indexText, key] = path.split('.');
+    const index = Number(indexText);
+    if (key === 'tags') {
+      content[group][index][key] = value.split(/[，,]/).map(tag => tag.trim()).filter(Boolean);
+      return;
+    }
+    content[group][index][key] = value;
+  }
+
+  function moveItem(group, index, direction) {
+    const target = index + direction;
+    if (target < 0 || target >= content[group].length) return;
+    const [item] = content[group].splice(index, 1);
+    content[group].splice(target, 0, item);
+    render();
+  }
+
+  function removeItem(group, index) {
+    content[group].splice(index, 1);
+    render();
+  }
+
+  async function loadContent() {
+    const res = await fetch('/data/site-content.json', { cache: 'no-store' });
+    content = await res.json();
+    content.milestones ||= [];
+    content.events ||= [];
+    render();
+  }
+
+  document.addEventListener('input', event => {
+    const path = event.target.dataset.path;
+    if (path) updateValue(path, event.target.value);
+  });
+
+  document.addEventListener('click', event => {
+    const remove = event.target.dataset.remove;
+    if (remove) {
+      const [group, index] = remove.split('.');
+      removeItem(group, Number(index));
+    }
+
+    const move = event.target.dataset.move;
+    if (move) {
+      const [group, index, direction] = move.split('.');
+      moveItem(group, Number(index), Number(direction));
+    }
+  });
+
+  document.getElementById('addMilestone').addEventListener('click', () => {
+    content.milestones.push({
+      year: '2026',
+      label: 'UPDATE',
+      title: '新的大事纪标题',
+      description: '在这里填写这条大事纪的说明。'
+    });
+    render();
+  });
+
+  document.getElementById('addEvent').addEventListener('click', () => {
+    content.events.push({
+      day: '01',
+      month: '6 月',
+      title: '新的线下活动',
+      tags: ['地点待定', '限额预约'],
+      description: '在这里填写活动说明。',
+      actionText: '预约活动名额',
+      actionHref: '#contact'
+    });
+    render();
+  });
+
+  document.getElementById('downloadBtn').addEventListener('click', () => {
+    const blob = new Blob([JSON.stringify(content, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = 'site-content.json';
+    link.click();
+    URL.revokeObjectURL(url);
+  });
+
+  loadContent();
+</script>
+</body>
+</html>

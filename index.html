@@ -748,30 +748,7 @@
       <div class="sec-title">大事纪</div>
       <div class="sec-sub">记录昇培教育在高校合作、国际资源与语言备考中心建设中的关键节点。</div>
     </div>
-    <div class="timeline">
-      <!-- 修改大事纪内容：复制一个 timeline-item 就能新增一条；删除一整块 timeline-item 就能移除一条。 -->
-      <div class="timeline-item reveal">
-        <div class="timeline-date">2026<span>AI CENTER</span></div>
-        <div>
-          <div class="timeline-title">南京理工大学科技园 AI 备考中心投入运营</div>
-          <div class="timeline-desc">围绕 PTE、留学规划与国际项目咨询，建设线下学习、模考与顾问服务一体化空间。</div>
-        </div>
-      </div>
-      <div class="timeline-item reveal">
-        <div class="timeline-date">2025<span>UNIVERSITY</span></div>
-        <div>
-          <div class="timeline-title">南京高校合作网络持续扩展</div>
-          <div class="timeline-desc">与南京师范大学、南京农业大学、南京林业大学等高校建立合作基础，服务在校学生国际化发展需求。</div>
-        </div>
-      </div>
-      <div class="timeline-item reveal">
-        <div class="timeline-date">2024<span>GLOBAL</span></div>
-        <div>
-          <div class="timeline-title">国际院校与就业资源体系成型</div>
-          <div class="timeline-desc">形成覆盖澳大利亚、英国、香港及东南亚方向的学历深造、海外交流与职业赋能路径。</div>
-        </div>
-      </div>
-    </div>
+    <div class="timeline" id="milestoneList"></div>
   </div>
 </section>
 
@@ -783,35 +760,7 @@
       <div class="sec-title">线下活动预告</div>
       <div class="sec-sub">近期活动以高校 PTE 集训营、模考诊断和留学路径咨询为主，名额以企业微信确认为准。</div>
     </div>
-    <div class="event-list">
-      <!-- 修改线下活动预告：复制一个 event-card 就能新增活动；日期、地点、标签和报名文案都在这一块里。 -->
-      <div class="event-card reveal">
-        <div class="event-day"><strong>18</strong><span>5 月</span></div>
-        <div>
-          <div class="timeline-title">高校 PTE 集训营 · 南京站</div>
-          <div class="event-meta">
-            <span>南京理工大学科技园</span>
-            <span>适合 50-65 分段</span>
-            <span>线下小班</span>
-          </div>
-          <div class="timeline-desc">围绕 RA、RS、DI、WE 等高频题型进行诊断训练，现场给出个人提分建议。</div>
-          <a class="event-action" href="#contact">预约活动名额</a>
-        </div>
-      </div>
-      <div class="event-card reveal">
-        <div class="event-day"><strong>25</strong><span>5 月</span></div>
-        <div>
-          <div class="timeline-title">PTE 全真模考与成绩复盘</div>
-          <div class="event-meta">
-            <span>AI 备考中心</span>
-            <span>限额预约</span>
-            <span>含口语诊断</span>
-          </div>
-          <div class="timeline-desc">完成一次全流程模拟测试，并由顾问结合目标分数拆解下一阶段学习节奏。</div>
-          <a class="event-action" href="#contact">预约模考诊断</a>
-        </div>
-      </div>
-    </div>
+    <div class="event-list" id="eventList"></div>
   </div>
 </section>
 
@@ -968,7 +917,67 @@
     entries => entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); }),
     { threshold: 0.1 }
   );
-  document.querySelectorAll('.reveal').forEach(el => obs.observe(el));
+
+  function observeReveals(root = document) {
+    root.querySelectorAll('.reveal').forEach(el => obs.observe(el));
+  }
+
+  function escapeHtml(value) {
+    return String(value || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  }
+
+  function renderMilestones(items = []) {
+    const list = document.getElementById('milestoneList');
+    list.innerHTML = items.map(item => `
+      <div class="timeline-item reveal">
+        <div class="timeline-date">${escapeHtml(item.year)}<span>${escapeHtml(item.label)}</span></div>
+        <div>
+          <div class="timeline-title">${escapeHtml(item.title)}</div>
+          <div class="timeline-desc">${escapeHtml(item.description)}</div>
+        </div>
+      </div>
+    `).join('');
+    observeReveals(list);
+  }
+
+  function renderEvents(items = []) {
+    const list = document.getElementById('eventList');
+    list.innerHTML = items.map(item => `
+      <div class="event-card reveal">
+        <div class="event-day"><strong>${escapeHtml(item.day)}</strong><span>${escapeHtml(item.month)}</span></div>
+        <div>
+          <div class="timeline-title">${escapeHtml(item.title)}</div>
+          <div class="event-meta">
+            ${(item.tags || []).map(tag => `<span>${escapeHtml(tag)}</span>`).join('')}
+          </div>
+          <div class="timeline-desc">${escapeHtml(item.description)}</div>
+          <a class="event-action" href="${escapeHtml(item.actionHref || '#contact')}">${escapeHtml(item.actionText || '预约咨询')}</a>
+        </div>
+      </div>
+    `).join('');
+    observeReveals(list);
+  }
+
+  async function loadSiteContent() {
+    try {
+      const res = await fetch('/data/site-content.json', { cache: 'no-store' });
+      if (!res.ok) throw new Error('content missing');
+      const data = await res.json();
+      renderMilestones(data.milestones || []);
+      renderEvents(data.events || []);
+    } catch (error) {
+      renderMilestones([]);
+      renderEvents([]);
+    }
+  }
+
+  observeReveals();
+  loadSiteContent();
 
   // Sunny panel toggle
   const trigger = document.getElementById('sunnyTrigger');

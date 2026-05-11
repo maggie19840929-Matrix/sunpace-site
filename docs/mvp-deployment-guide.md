@@ -12,6 +12,7 @@
 - 图片资源：logo、Sunny、企业微信二维码
 - 大事纪模块
 - 线下活动预告模块
+- 大事纪 / 活动预告快速编辑器：`/admin/`
 - Sunny 对话窗口
 - Sunny 基础问答后端：`netlify/functions/sunny-chat.mjs`
 - Sunny 本地兜底知识库：`data/pte-knowledge.json`
@@ -42,6 +43,7 @@ MVP 暂不强依赖 OpenAI API。即使不配置 OpenAI 环境变量，Sunny 也
 - `order/`
 - `data/`
 - `docs/`
+- `admin/`
 - `netlify/`
 - `netlify.toml`
 - `README.md`
@@ -206,10 +208,28 @@ MVP 跑稳定后，再接 OpenAI Vector Store。
 
 第四阶段：运营后台
 
-- 大事纪改成 JSON 或 CMS 管理
-- 活动预告改成 JSON 或 CMS 管理
+- 当前已有轻量编辑器 `/admin/`
+- 后续可升级成带登录的 CMS 管理
 - Sunny 问题记录到表格或数据库
 - 顾问可以查看高频问题
+
+## 快速修改大事纪和活动预告
+
+当前 MVP 已有一个轻量编辑器：
+
+`/admin/`
+
+使用方式：
+
+1. 打开 Netlify 临时域名或正式域名后面的 `/admin/`。
+2. 修改大事纪或线下活动预告。
+3. 点击“下载 site-content.json”。
+4. 到 GitHub 仓库打开 `data/site-content.json`。
+5. 点击编辑或上传替换文件。
+6. Commit changes。
+7. Netlify 会自动重新部署。
+
+注意：这个编辑器不会直接写入服务器。它的作用是帮你生成正确格式的 JSON 文件。真正上线生效，仍然需要把 JSON 文件提交到 GitHub。
 
 ## 常见问题
 
@@ -228,4 +248,3 @@ MVP 跑稳定后，再接 OpenAI Vector Store。
 ### 什么时候接 OpenAI？
 
 等首页、关于我们、预定教材、活动预告和 Sunny 基础问答都稳定后再接。建议不要第一天就把所有功能都打开。
-

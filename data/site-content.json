@@ -1,0 +1,42 @@
+{
+  "milestones": [
+    {
+      "year": "2026",
+      "label": "AI CENTER",
+      "title": "南京理工大学科技园 AI 备考中心投入运营",
+      "description": "围绕 PTE、留学规划与国际项目咨询，建设线下学习、模考与顾问服务一体化空间。"
+    },
+    {
+      "year": "2025",
+      "label": "UNIVERSITY",
+      "title": "南京高校合作网络持续扩展",
+      "description": "与南京师范大学、南京农业大学、南京林业大学等高校建立合作基础，服务在校学生国际化发展需求。"
+    },
+    {
+      "year": "2024",
+      "label": "GLOBAL",
+      "title": "国际院校与就业资源体系成型",
+      "description": "形成覆盖澳大利亚、英国、香港及东南亚方向的学历深造、海外交流与职业赋能路径。"
+    }
+  ],
+  "events": [
+    {
+      "day": "18",
+      "month": "5 月",
+      "title": "高校 PTE 集训营 · 南京站",
+      "tags": ["南京理工大学科技园", "适合 50-65 分段", "线下小班"],
+      "description": "围绕 RA、RS、DI、WE 等高频题型进行诊断训练，现场给出个人提分建议。",
+      "actionText": "预约活动名额",
+      "actionHref": "#contact"
+    },
+    {
+      "day": "25",
+      "month": "5 月",
+      "title": "PTE 全真模考与成绩复盘",
+      "tags": ["AI 备考中心", "限额预约", "含口语诊断"],
+      "description": "完成一次全流程模拟测试，并由顾问结合目标分数拆解下一阶段学习节奏。",
+      "actionText": "预约模考诊断",
+      "actionHref": "#contact"
+    }
+  ]
+}

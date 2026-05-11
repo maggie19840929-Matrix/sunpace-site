@@ -4,6 +4,7 @@
 
 - 首页“大事纪”模块
 - 首页“线下活动预告”模块
+- 大事纪 / 活动预告快速编辑器：`/admin/`
 - Sunny PTE 问答面板
 - Netlify Function：`/api/sunny-chat`
 - 本地课程知识库示例：`data/pte-knowledge.json`
@@ -31,12 +32,17 @@
 
 ## 修改首页内容
 
-首页内容在 `index.html`。
+大事纪和线下活动预告已经抽到 `data/site-content.json`。
 
-- 大事纪：搜索 `修改大事纪内容`
-- 线下活动预告：搜索 `修改线下活动预告`
+快速修改方式：
 
-新增一条大事纪时，复制一整块 `timeline-item`；新增一条活动时，复制一整块 `event-card`。每块里的标题、日期、地点、标签和说明文字都可以直接替换。
+1. 打开 `/admin/`
+2. 修改大事纪或活动预告
+3. 点击“下载 site-content.json”
+4. 到 GitHub 替换 `data/site-content.json`
+5. Netlify 会自动重新部署
+
+说明：当前 `/admin/` 是轻量编辑器，不是在线后台。它不会直接改服务器文件，也不需要数据库。这样 MVP 阶段更稳、更安全。
 
 ## 页面路径
 
@@ -45,6 +51,7 @@
 - 首页：`index.html`
 - 关于我们：`about/index.html`
 - 预定教材：`order/index.html`
+- 内容编辑器：`admin/index.html`
 
 ## Sunny 访问限制
 
