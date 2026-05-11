@@ -46,6 +46,12 @@
     line-height: 1.8;
     font-size: 0.9rem;
   }
+  .status {
+    min-height: 22px;
+    margin: -8px 0 18px;
+    color: #ffc18c;
+    font-size: 0.86rem;
+  }
   .section {
     margin-top: 22px;
     padding: 22px;
@@ -144,8 +150,9 @@
 
 <main>
   <div class="hint">
-    这个页面用于快速编辑官网首页的大事纪和活动预告。改完后点击“下载 site-content.json”，再到 GitHub 替换 `data/site-content.json`，Netlify 会自动重新部署。
+    这个页面用于快速编辑官网首页的大事纪和活动预告。新增内容会出现在列表最上方。改完后点击“下载 site-content.json”，再到 GitHub 替换 `data/site-content.json`，Netlify 会自动重新部署。
   </div>
+  <div class="status" id="status" aria-live="polite"></div>
 
   <section class="section">
     <div class="section-head">
@@ -220,6 +227,22 @@
     `).join('');
   }
 
+  function setStatus(message) {
+    const status = document.getElementById('status');
+    status.textContent = message;
+    if (message) {
+      window.clearTimeout(setStatus.timer);
+      setStatus.timer = window.setTimeout(() => { status.textContent = ''; }, 4000);
+    }
+  }
+
+  function focusField(path) {
+    const input = document.querySelector(`[data-path="${path}"]`);
+    if (!input) return;
+    input.focus();
+    input.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+
   function updateValue(path, value) {
     const [group, indexText, key] = path.split('.');
     const index = Number(indexText);
@@ -271,17 +294,19 @@
   });
 
   document.getElementById('addMilestone').addEventListener('click', () => {
-    content.milestones.push({
+    content.milestones.unshift({
       year: '2026',
       label: 'UPDATE',
       title: '新的大事纪标题',
       description: '在这里填写这条大事纪的说明。'
     });
     render();
+    setStatus('已新增一条大事纪，已放在列表最上方。');
+    focusField('milestones.0.title');
   });
 
   document.getElementById('addEvent').addEventListener('click', () => {
-    content.events.push({
+    content.events.unshift({
       day: '01',
       month: '6 月',
       title: '新的线下活动',
@@ -291,6 +316,8 @@
       actionHref: '#contact'
     });
     render();
+    setStatus('已新增一条线下活动，已放在列表最上方。');
+    focusField('events.0.title');
   });
 
   document.getElementById('downloadBtn').addEventListener('click', () => {
