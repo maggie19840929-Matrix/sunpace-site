@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>关于我们 · SunPace 昇培教育</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy:        #1C2D6B;
+    --navy-deep:   #111E4D;
+    --navy-light:  #2A3F8F;
+    --orange:      #F07820;
+    --orange-light:#F99440;
+    --orange-pale: #FEF0E4;
+    --warm-bg:     #F4F6FB;
+    --card-bg:     #FFFFFF;
+    --text-primary:   #1A2340;
+    --text-secondary: #5B6785;
+    --border:      #DDE3F0;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--warm-bg);
+    font-family: 'Noto Sans SC', sans-serif;
+    color: var(--text-primary);
+    min-height: 100vh;
+  }
+
+  /* ── OUTER WRAPPER: constrains everything to same max-width ── */
+  .site-wrap {
+    max-width: 680px;
+    margin: 0 auto;
+    padding-bottom: 60px;
+  }
+
+  /* ── HERO (inside site-wrap, so same width as card) ── */
+  .hero {
+    position: relative;
+    border-radius: 0 0 24px 24px;
+    overflow: hidden;
+    padding: 56px 28px 112px;  /* extra bottom padding → clear gap before card */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .hero-bg {
+    position: absolute; inset: 0;
+    background: linear-gradient(145deg, var(--navy-deep) 0%, var(--navy) 55%, #1A3870 100%);
+  }
+  .hero-orb {
+    position: absolute; border-radius: 50%;
+    background: radial-gradient(circle, rgba(240,120,32,0.22) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero-orb-1 { width: 280px; height: 280px; top: -80px; right: -60px; }
+  .hero-orb-2 { width: 180px; height: 180px; bottom: -60px; left: -30px; opacity: 0.5; }
+
+  .hero-content {
+    position: relative; text-align: center;
+    display: flex; flex-direction: column; align-items: center;
+  }
+  .hero-logo {
+    width: 72px; height: 72px;
+    background: rgba(255,255,255,0.1);
+    border: 1.5px solid rgba(255,255,255,0.2);
+    border-radius: 18px;
+    display: flex; align-items: center; justify-content: center;
+    margin-bottom: 18px; backdrop-filter: blur(4px); overflow: hidden;
+  }
+  .hero-logo img { width: 56px; height: 56px; object-fit: contain; }
+  .hero-badge {
+    display: inline-block;
+    background: rgba(240,120,32,0.2);
+    border: 1px solid rgba(240,120,32,0.4);
+    color: var(--orange-light);
+    font-size: 0.65rem; letter-spacing: 0.12em;
+    padding: 4px 16px; border-radius: 20px;
+    margin-bottom: 14px; font-weight: 500;
+    white-space: nowrap;
+  }
+  .hero-title {
+    font-family: 'Noto Serif SC', serif;
+    font-size: clamp(2rem, 7vw, 2.8rem);
+    font-weight: 700; color: #fff;
+    text-shadow: 0 2px 20px rgba(0,0,0,0.3);
+    letter-spacing: 0.06em; line-height: 1.2;
+  }
+  .hero-en {
+    font-size: 0.7rem; letter-spacing: 0.28em;
+    color: rgba(249,148,64,0.8); margin-top: 5px; font-weight: 500;
+  }
+  .hero-sub {
+    margin-top: 12px; color: rgba(255,255,255,0.6);
+    font-size: 0.82rem; letter-spacing: 0.06em;
+  }
+
+  /* ── MAIN CARD (overlaps hero bottom) ── */
+  .main-card {
+    background: var(--card-bg);
+    border-radius: 20px;
+    box-shadow: 0 8px 40px rgba(28,45,107,0.1), 0 1px 0 rgba(255,255,255,0.9) inset;
+    margin-top: -20px;
+    border: 1px solid var(--border);
+    overflow: hidden;
+    padding: 0 0 40px;
+  }
+
+  /* ── SECTIONS ── */
+  .section { padding: 36px 32px 0; }
+  .divider {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--border), transparent);
+    margin: 32px 32px 0;
+  }
+
+  .section-label { display: flex; align-items: center; gap: 10px; margin-bottom: 22px; }
+  .section-label::before {
+    content: ''; display: block; width: 4px; height: 22px;
+    background: linear-gradient(180deg, var(--orange) 0%, var(--orange-light) 100%);
+    border-radius: 2px; flex-shrink: 0;
+  }
+  .section-label h2 {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.05rem; font-weight: 600; color: var(--navy); letter-spacing: 0.05em;
+  }
+
+  /* ── MISSION ── */
+  .mission-block {
+    background: linear-gradient(135deg, #EEF1FA 0%, #F4F6FB 100%);
+    border: 1px solid rgba(28,45,107,0.1);
+    border-radius: 14px; padding: 24px 22px;
+  }
+  .mission-lead {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.08rem; font-weight: 600; color: var(--navy);
+    line-height: 1.75; margin-bottom: 14px;
+  }
+  .mission-lead em { font-style: normal; color: var(--orange); }
+  .mission-body {
+    font-size: 0.88rem; line-height: 1.95; color: var(--text-secondary);
+  }
+
+  /* ── PILLARS ── */
+  .pillar-grid { display: grid; gap: 14px; margin-top: 4px; }
+
+  .pillar-card {
+    border: 1.5px solid var(--border); border-radius: 14px;
+    overflow: hidden; background: #fff;
+    transition: border-color 0.2s, transform 0.15s, box-shadow 0.2s;
+  }
+  .pillar-card:hover {
+    border-color: rgba(240,120,32,0.45);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(240,120,32,0.12);
+  }
+  .pillar-header {
+    display: flex; align-items: center; gap: 12px; padding: 14px 16px;
+    background: linear-gradient(90deg, #EEF1FA 0%, #fff 100%);
+    border-bottom: 1px solid var(--border);
+  }
+  .pillar-num {
+    width: 36px; height: 36px; flex-shrink: 0; border-radius: 10px;
+    background: linear-gradient(135deg, var(--navy) 0%, var(--navy-light) 100%);
+    display: flex; align-items: center; justify-content: center;
+    font-family: 'Noto Serif SC', serif; font-weight: 700;
+    font-size: 1rem; color: #fff;
+  }
+  .pillar-name {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 0.95rem; font-weight: 600; color: var(--navy);
+    flex: 1;
+  }
+  .pillar-tag {
+    flex-shrink: 0; font-size: 0.65rem; font-weight: 500;
+    color: var(--orange); background: var(--orange-pale);
+    border: 1px solid rgba(240,120,32,0.25); border-radius: 10px; padding: 2px 10px;
+  }
+  .pillar-body { padding: 14px 16px; }
+  .pillar-desc {
+    font-size: 0.82rem; color: var(--text-secondary); line-height: 1.85;
+  }
+  .pillar-points { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .pillar-point {
+    font-size: 0.7rem; background: var(--warm-bg); color: var(--text-secondary);
+    border-radius: 4px; padding: 3px 9px;
+  }
+  .pillar-point::before { content: '◆ '; color: var(--orange); font-size: 0.55rem; }
+
+  /* ── UNIVERSITIES ── */
+  .uni-section-intro {
+    font-size: 0.85rem; color: var(--text-secondary); line-height: 1.8;
+    margin-bottom: 20px;
+  }
+
+  .uni-list { display: flex; flex-direction: column; gap: 10px; }
+
+  .uni-row {
+    display: flex; align-items: center; gap: 14px;
+    padding: 14px 16px;
+    background: #fff;
+    border: 1.5px solid var(--border);
+    border-radius: 12px;
+    transition: border-color 0.2s, box-shadow 0.15s;
+  }
+  .uni-row:hover {
+    border-color: rgba(28,45,107,0.3);
+    box-shadow: 0 3px 12px rgba(28,45,107,0.07);
+  }
+  .uni-row.pending {
+    background: #FAFBFD;
+    border-style: dashed;
+    border-color: #C8D0E8;
+  }
+  .uni-dot {
+    width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0;
+  }
+  .uni-dot.signed   { background: var(--orange); }
+  .uni-dot.pending-dot {
+    background: transparent;
+    border: 2px solid #C8D0E8;
+  }
+  .uni-info { flex: 1; }
+  .uni-name {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 0.9rem; font-weight: 600; color: var(--text-primary);
+  }
+  .uni-row.pending .uni-name { color: var(--text-secondary); }
+  .uni-collab {
+    font-size: 0.73rem; color: var(--text-secondary); margin-top: 2px;
+  }
+  .uni-status {
+    flex-shrink: 0; font-size: 0.65rem; font-weight: 600;
+    border-radius: 8px; padding: 3px 10px;
+  }
+  .uni-status.active {
+    background: rgba(240,120,32,0.1); color: var(--orange);
+    border: 1px solid rgba(240,120,32,0.2);
+  }
+  .uni-status.soon {
+    background: #F0F2FA; color: #8898C8;
+    border: 1px solid #DDE3F0;
+  }
+
+  .uni-legend {
+    display: flex; gap: 20px; margin-top: 14px;
+    font-size: 0.72rem; color: var(--text-secondary);
+  }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .legend-dot { width: 8px; height: 8px; border-radius: 50%; }
+
+  /* ── XIAOHONGSHU ── */
+  .xhs-block {
+    display: flex; align-items: center; gap: 18px;
+    background: linear-gradient(135deg, #FFF5F5 0%, #FFF0F0 100%);
+    border: 1.5px solid rgba(255,36,66,0.18);
+    border-radius: 14px; padding: 18px 20px;
+  }
+  /* Official XHS logo as inline SVG */
+  .xhs-logo-wrap {
+    width: 52px; height: 52px; flex-shrink: 0; border-radius: 12px;
+    overflow: hidden; display: flex; align-items: center; justify-content: center;
+    background: #FF2442;
+  }
+  .xhs-logo-wrap svg { width: 36px; height: 36px; }
+  .xhs-label {
+    font-size: 0.7rem; color: #FF2442; letter-spacing: 0.06em;
+    margin-bottom: 4px; font-weight: 500;
+  }
+  .xhs-name {
+    font-weight: 700; font-size: 1rem; color: var(--text-primary);
+    font-family: 'Noto Serif SC', serif;
+  }
+  .xhs-hint { font-size: 0.75rem; color: var(--text-secondary); margin-top: 3px; }
+
+  /* ── CTA ── */
+  .cta-block {
+    margin: 32px 32px 0;
+    background: linear-gradient(135deg, var(--navy-deep) 0%, var(--navy) 100%);
+    border-radius: 16px; padding: 28px 24px; text-align: center;
+    position: relative; overflow: hidden;
+  }
+  .cta-block::after {
+    content: ''; position: absolute; top: -40px; right: -40px;
+    width: 150px; height: 150px; border-radius: 50%;
+    background: rgba(240,120,32,0.18);
+  }
+  .cta-title {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.1rem; font-weight: 700; color: #fff; margin-bottom: 8px;
+  }
+  .cta-sub { font-size: 0.82rem; color: rgba(255,255,255,0.65); margin-bottom: 20px; line-height: 1.6; }
+  .btn-cta {
+    display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+    background: linear-gradient(135deg, var(--orange) 0%, var(--orange-light) 100%);
+    color: #fff; font-family: 'Noto Sans SC', sans-serif;
+    font-size: 0.9rem; font-weight: 600; padding: 12px 32px; border-radius: 50px;
+    text-decoration: none; border: none; cursor: default;
+    position: relative; z-index: 1; letter-spacing: 0.04em;
+  }
+
+  /* ── FOOTER ── */
+  .footer {
+    text-align: center; padding: 28px 16px;
+    font-size: 0.72rem; color: var(--text-secondary);
+    letter-spacing: 0.06em; opacity: 0.7;
+  }
+
+  /* ── FADE IN ── */
+  .fade-in { opacity: 0; transform: translateY(14px); animation: fadeUp 0.55s ease forwards; }
+  .fade-in:nth-child(1) { animation-delay: 0.05s; }
+  .fade-in:nth-child(2) { animation-delay: 0.15s; }
+  .fade-in:nth-child(3) { animation-delay: 0.25s; }
+  .fade-in:nth-child(4) { animation-delay: 0.35s; }
+  .fade-in:nth-child(5) { animation-delay: 0.42s; }
+  @keyframes fadeUp { to { opacity: 1; transform: translateY(0); } }
+
+  @media (max-width: 480px) {
+    .section { padding: 28px 20px 0; }
+    .divider { margin: 28px 20px 0; }
+    .cta-block { margin: 28px 20px 0; }
+    .hero { padding: 48px 20px 96px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="site-wrap">
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-bg"></div>
+    <div class="hero-orb hero-orb-1"></div>
+    <div class="hero-orb hero-orb-2"></div>
+    <div class="hero-content">
+      <div class="hero-logo" id="heroLogoBox">
+        <img src="./SunPace_Minimalist_Logo.png" alt="SunPace"
+             onerror="document.getElementById('heroLogoBox').style.display='none'">
+      </div>
+      <div class="hero-badge">INTERNATIONAL EDUCATION · 国际教育</div>
+      <div class="hero-title">昇培教育</div>
+      <div class="hero-en">SUNPACE</div>
+      <div class="hero-sub">构建跨境人才成长的全链条通道</div>
+    </div>
+  </div>
+
+  <div class="main-card">
+
+    <!-- ① 关于我们 -->
+    <div class="section">
+      <div class="section-label"><h2>关于我们</h2></div>
+      <div class="mission-block fade-in">
+        <div class="mission-lead">
+          专注<em>国际教育与全球人才培养</em>，<br>
+          打造学历深造、海外实践与职业赋能的<em>全链条成长体系</em>。
+        </div>
+        <div class="mission-body">
+          SunPace 昇培教育深耕国际教育领域，整合澳大利亚、英国、香港及东南亚等多个国家和地区的优质高校与产业资源。我们面向有意拓展国际视野、提升全球竞争力的学员，提供从学历深造、海外交流到职业认证的一体化服务，重点聚焦 AI、IT 及全球化服务业等前沿领域，助力学员实现从人才培养到高质量就业的跨越。
+        </div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- ② 核心业务 -->
+    <div class="section">
+      <div class="section-label"><h2>核心业务</h2></div>
+      <div class="pillar-grid">
+
+        <div class="pillar-card fade-in">
+          <div class="pillar-header">
+            <div class="pillar-num">Ⅰ</div>
+            <div class="pillar-name">国际学历深造</div>
+            <div class="pillar-tag">学历制</div>
+          </div>
+          <div class="pillar-body">
+            <div class="pillar-desc">
+              依托政府级教育合作背景，为学员提供高中直通、本科衔接及硕士直通等多元学历路径，合作院校覆盖澳大利亚、英国、香港及东南亚多所知名高校，包括悉尼科技大学（QS 全球 97 位）等顶尖院校。专业方向覆盖 IT 及人工智能应用、旅游酒店管理、工商管理、教育学及护理等，毕业生可申请澳洲 485 工作签证及各地相应居留权益。
+            </div>
+            <div class="pillar-points">
+              <span class="pillar-point">高中直通班</span>
+              <span class="pillar-point">大学定向直通班</span>
+              <span class="pillar-point">硕士衔接课程</span>
+              <span class="pillar-point">IT · AI 专业</span>
+              <span class="pillar-point">澳大利亚 · 英国 · 香港</span>
+              <span class="pillar-point">东南亚合作院校</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="pillar-card fade-in">
+          <div class="pillar-header">
+            <div class="pillar-num">Ⅱ</div>
+            <div class="pillar-name">海外交流与带薪实践</div>
+            <div class="pillar-tag">非学历制</div>
+          </div>
+          <div class="pillar-body">
+            <div class="pillar-desc">
+              为合作高校在读学生提供澳洲六个月交流项目，课程安排为三个月学习加三个月带薪实习，可获澳洲院校结业证书及海外工作证明，并可选择直通澳洲硕士课程。带薪实习阶段预期收入约 12,000—16,000 澳币，同时享有合法打工时长权益。
+            </div>
+            <div class="pillar-points">
+              <span class="pillar-point">澳洲交换生项目</span>
+              <span class="pillar-point">带薪实习</span>
+              <span class="pillar-point">澳洲结业证书</span>
+              <span class="pillar-point">硕士直通通道</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="pillar-card fade-in">
+          <div class="pillar-header">
+            <div class="pillar-num">Ⅲ</div>
+            <div class="pillar-name">全球职业认证与就业</div>
+            <div class="pillar-tag">职业技能</div>
+          </div>
+          <div class="pillar-body">
+            <div class="pillar-desc">
+              与全球领先签证服务机构 VFS Global 及 VFS Academy 达成战略合作，同时深度对接国内外知名企业、外资机构及央国企资源，构建多元化就业推荐通道。结业学员可对接全球 3,800 余个签证中心运营岗位（覆盖国内 18 个城市），以及国际旅行社、外资企业、央国企等优质雇主，并享有昇培教育持续的就业跟踪服务。
+            </div>
+            <div class="pillar-points">
+              <span class="pillar-point">VFS Global 合作认证</span>
+              <span class="pillar-point">外资企业岗位推荐</span>
+              <span class="pillar-point">央国企就业通道</span>
+              <span class="pillar-point">全球 3800+ 签证中心</span>
+              <span class="pillar-point">国内 18 城岗位</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- ③ 高校战略合作 -->
+    <div class="section">
+      <div class="section-label"><h2>高校战略合作</h2></div>
+      <p class="uni-section-intro">
+        昇培教育积极构建高校合作生态，通过集训营、就业创业实习基地等多种形式与各院校深度协作，持续为学员拓展实习实践与就业资源，并将逐步覆盖更多优质院校。
+      </p>
+
+      <div class="uni-list">
+        <div class="uni-row fade-in">
+          <div class="uni-dot signed"></div>
+          <div class="uni-info">
+            <div class="uni-name">南京师范大学</div>
+            <div class="uni-collab">高校集训营合作</div>
+          </div>
+          <div class="uni-status active">已签约</div>
+        </div>
+
+        <div class="uni-row fade-in">
+          <div class="uni-dot signed"></div>
+          <div class="uni-info">
+            <div class="uni-name">南京农业大学</div>
+            <div class="uni-collab">就业创业实习基地合作</div>
+          </div>
+          <div class="uni-status active">已签约</div>
+        </div>
+
+        <div class="uni-row fade-in">
+          <div class="uni-dot signed"></div>
+          <div class="uni-info">
+            <div class="uni-name">南京林业大学</div>
+            <div class="uni-collab">就业创业实习基地合作</div>
+          </div>
+          <div class="uni-status active">已签约</div>
+        </div>
+
+        <div class="uni-row pending fade-in">
+          <div class="uni-dot pending-dot"></div>
+          <div class="uni-info">
+            <div class="uni-name">南京理工大学 及更多院校</div>
+            <div class="uni-collab">战略合作洽谈中，敬请期待</div>
+          </div>
+          <div class="uni-status soon">即将签约</div>
+        </div>
+      </div>
+
+      <div class="uni-legend">
+        <div class="legend-item">
+          <div class="legend-dot" style="background:var(--orange)"></div>
+          <span>已建立合作关系</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background:transparent;border:2px solid #C8D0E8;"></div>
+          <span>合作洽谈中</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- ④ 关注我们 -->
+    <div class="section" style="padding-bottom: 0;">
+      <div class="section-label"><h2>关注我们</h2></div>
+      <div class="xhs-block fade-in">
+        <!-- XHS official logo SVG -->
+        <div class="xhs-logo-wrap">
+          <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <!-- White rounded "note/book" icon representing XHS -->
+            <rect x="18" y="12" width="64" height="76" rx="10" fill="white" opacity="0.95"/>
+            <!-- Lines representing content -->
+            <rect x="30" y="28" width="40" height="5" rx="2.5" fill="#FF2442"/>
+            <rect x="30" y="40" width="40" height="5" rx="2.5" fill="#FF2442" opacity="0.6"/>
+            <rect x="30" y="52" width="28" height="5" rx="2.5" fill="#FF2442" opacity="0.4"/>
+            <!-- Small circle/bookmark -->
+            <circle cx="50" cy="72" r="7" fill="#FF2442" opacity="0.85"/>
+          </svg>
+        </div>
+        <div>
+          <div class="xhs-label">小红书 · XIAOHONGSHU</div>
+          <div class="xhs-name">SunPace南京昇培</div>
+          <div class="xhs-hint">搜索账号名关注我们 · 国际教育资讯 / AI 职场洞察 / 留学干货</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- CTA -->
+    <div class="cta-block" style="margin-top:32px;">
+      <div class="cta-title">开启你的国际教育之旅</div>
+      <div class="cta-sub">了解更多课程与项目详情，或预定 PTE 备考教材</div>
+      <div class="btn-cta">立即联系我们了解详情</div>
+
+    </div>
+
+  </div><!-- /main-card -->
+
+  <div class="footer">© 2026 SunPace · 版权所有</div>
+
+</div><!-- /site-wrap -->
+
+</body>
+</html>
