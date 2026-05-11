@@ -1,41 +1,42 @@
 {
   "milestones": [
     {
+      "year": "2026年",
+      "label": "University",
+      "title": "南京农业大学签约授牌",
+      "description": "2026年4月16日，SunPace与南京农业大学签约授牌，SunPace成为南京农业大学“就业创业”实习基地"
+    },
+    {
+      "year": "2026年",
+      "label": "University",
+      "title": "南京林业大学签约授牌",
+      "description": "2026年4月2日，SunPace与南京林业大学签约授牌，SunPace成为南京林业大学“大学生就业创业&大学生社会实践”实训基地"
+    },
+    {
       "year": "2026",
-      "label": "AI CENTER",
-      "title": "南京理工大学科技园 AI 备考中心投入运营",
-      "description": "围绕 PTE、留学规划与国际项目咨询，建设线下学习、模考与顾问服务一体化空间。"
+      "label": "English Proficiency Assessment",
+      "title": "VFS全球签证中心春季招聘英语能力测评",
+      "description": "2026年3月19日，VFS全球签证中心春招入职英语能力水平考试"
     },
     {
-      "year": "2025",
-      "label": "UNIVERSITY",
-      "title": "南京高校合作网络持续扩展",
-      "description": "与南京师范大学、南京农业大学、南京林业大学等高校建立合作基础，服务在校学生国际化发展需求。"
-    },
-    {
-      "year": "2024",
-      "label": "GLOBAL",
-      "title": "国际院校与就业资源体系成型",
-      "description": "形成覆盖澳大利亚、英国、香港及东南亚方向的学历深造、海外交流与职业赋能路径。"
+      "year": "2026",
+      "label": "Open Day",
+      "title": "SunPace正式对外营业",
+      "description": "2026年1月22日，SunPace正式对外营业"
     }
   ],
   "events": [
     {
-      "day": "18",
-      "month": "5 月",
+      "day": "15日",
+      "month": "7 月",
       "title": "高校 PTE 集训营 · 南京站",
-      "tags": ["南京理工大学科技园", "适合 50-65 分段", "线下小班"],
-      "description": "围绕 RA、RS、DI、WE 等高频题型进行诊断训练，现场给出个人提分建议。",
+      "tags": [
+        "南京211高校",
+        "适合 50-65 分段",
+        "高校线下集训营"
+      ],
+      "description": "本次线下高校集训营会围绕：\n📌 备考路径规划\n📌 高频题型训练\n📌 口语/写作提分表达\n📌 每日练习和反馈节奏",
       "actionText": "预约活动名额",
-      "actionHref": "#contact"
-    },
-    {
-      "day": "25",
-      "month": "5 月",
-      "title": "PTE 全真模考与成绩复盘",
-      "tags": ["AI 备考中心", "限额预约", "含口语诊断"],
-      "description": "完成一次全流程模拟测试，并由顾问结合目标分数拆解下一阶段学习节奏。",
-      "actionText": "预约模考诊断",
       "actionHref": "#contact"
     }
   ]
