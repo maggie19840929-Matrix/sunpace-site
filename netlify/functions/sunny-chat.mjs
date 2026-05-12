@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs';
 
 const DATA_URL = new URL('../../data/pte-knowledge.json', import.meta.url);
+const GENERATED_DATA_URL = new URL('../../data/pte-knowledge.generated.json', import.meta.url);
 
 export const config = {
   path: '/api/sunny-chat',
@@ -18,12 +19,18 @@ function json(body, status = 200) {
   });
 }
 
-function loadKnowledge() {
+function readJson(url) {
   try {
-    return JSON.parse(readFileSync(DATA_URL, 'utf8'));
+    return JSON.parse(readFileSync(url, 'utf8'));
   } catch (error) {
     return [];
   }
+}
+
+function loadKnowledge() {
+  const curated = readJson(DATA_URL).map(entry => ({ ...entry, sourceType: 'curated' }));
+  const generated = readJson(GENERATED_DATA_URL).map(entry => ({ ...entry, sourceType: 'generated' }));
+  return [...curated, ...generated];
 }
 
 function normalize(text) {
@@ -33,23 +40,39 @@ function normalize(text) {
 function scoreEntry(question, entry) {
   const q = normalize(question);
   const title = normalize(entry.title);
-  let score = title && q.includes(title) ? 4 : 0;
+  let score = 0;
+  if (title && q.includes(title)) score += 4;
 
   for (const keyword of entry.keywords || []) {
     const key = normalize(keyword);
     if (key && q.includes(key)) score += key.length > 2 ? 3 : 2;
   }
 
+  if (score > 0 && entry.sourceType === 'curated') score += 4;
   return score;
 }
 
 function findMatches(question, knowledge) {
-  return knowledge
+  const scored = knowledge
     .map(entry => ({ entry, score: scoreEntry(question, entry) }))
     .filter(item => item.score > 0)
-    .sort((a, b) => b.score - a.score)
-    .slice(0, 2)
-    .map(item => item.entry);
+    .sort((a, b) => b.score - a.score);
+
+  const curated = scored.filter(item => item.entry.sourceType === 'curated');
+  if (curated.length) {
+    return curated.slice(0, 2).map(item => item.entry);
+  }
+
+  const seen = new Set();
+  const generated = [];
+  for (const item of scored) {
+    const key = item.entry.title || item.entry.id;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    generated.push(item.entry);
+    if (generated.length >= 2) break;
+  }
+  return generated;
 }
 
 function buildAnswer(matches) {
@@ -60,7 +83,16 @@ function buildAnswer(matches) {
     ].join('');
   }
 
-  const answer = matches.map(item => item.answer).join(' ');
+  const answer = matches.map(item => {
+    if (item.sourceType === 'generated') {
+      return [
+        `我在 SunPace PTE 资料库里找到了与「${item.title}」相关的内容。`,
+        '这部分资料已进入 Sunny 的自动索引，适合进一步咨询对应题型、模板、学习计划或备考方法。',
+        '如果你告诉我当前分数、目标分数和考试时间，我可以先按资料主题帮你拆一个训练方向。'
+      ].join('');
+    }
+    return item.answer;
+  }).join(' ');
   return `${answer} 如果你愿意，可以继续告诉我你的当前分数、目标分数和考试日期，我会按时间帮你拆训练优先级。`;
 }
 
