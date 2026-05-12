@@ -1,5 +1,6 @@
 import { readFileSync } from 'node:fs';
 
+const SUNPACE_DATA_URL = new URL('../../data/pte-knowledge.sunpace.json', import.meta.url);
 const DATA_URL = new URL('../../data/pte-knowledge.json', import.meta.url);
 const GENERATED_DATA_URL = new URL('../../data/pte-knowledge.generated.json', import.meta.url);
 
@@ -28,9 +29,10 @@ function readJson(url) {
 }
 
 function loadKnowledge() {
+  const sunpace = readJson(SUNPACE_DATA_URL).map(entry => ({ ...entry, sourceType: 'sunpace' }));
   const curated = readJson(DATA_URL).map(entry => ({ ...entry, sourceType: 'curated' }));
   const generated = readJson(GENERATED_DATA_URL).map(entry => ({ ...entry, sourceType: 'generated' }));
-  return [...curated, ...generated];
+  return [...sunpace, ...curated, ...generated];
 }
 
 function normalize(text) {
@@ -48,6 +50,7 @@ function scoreEntry(question, entry) {
     if (key && q.includes(key)) score += key.length > 2 ? 3 : 2;
   }
 
+  if (score > 0 && entry.sourceType === 'sunpace') score += 8;
   if (score > 0 && entry.sourceType === 'curated') score += 4;
   return score;
 }
@@ -57,6 +60,11 @@ function findMatches(question, knowledge) {
     .map(entry => ({ entry, score: scoreEntry(question, entry) }))
     .filter(item => item.score > 0)
     .sort((a, b) => b.score - a.score);
+
+  const sunpace = scored.filter(item => item.entry.sourceType === 'sunpace');
+  if (sunpace.length) {
+    return sunpace.slice(0, 2).map(item => item.entry);
+  }
 
   const curated = scored.filter(item => item.entry.sourceType === 'curated');
   if (curated.length) {
@@ -73,6 +81,10 @@ function findMatches(question, knowledge) {
     if (generated.length >= 2) break;
   }
   return generated;
+}
+
+function hasHumanAnswer(matches) {
+  return matches.some(item => item.sourceType === 'sunpace' || item.sourceType === 'curated');
 }
 
 function buildAnswer(matches) {
@@ -158,13 +170,20 @@ export default async function handler(request) {
       return json({ error: 'Question is required' }, 400);
     }
 
+    const knowledge = loadKnowledge();
+    const matches = findMatches(question, knowledge);
+    if (hasHumanAnswer(matches)) {
+      return json({
+        answer: buildAnswer(matches),
+        sources: matches.map(item => ({ id: item.id, title: item.title }))
+      });
+    }
+
     const aiAnswer = await askOpenAIKnowledgeBase(question);
     if (aiAnswer) {
       return json({ answer: aiAnswer, sources: [{ id: 'openai-vector-store', title: 'SunPace PTE 课程知识库' }] });
     }
 
-    const knowledge = loadKnowledge();
-    const matches = findMatches(question, knowledge);
     return json({
       answer: buildAnswer(matches),
       sources: matches.map(item => ({ id: item.id, title: item.title }))
