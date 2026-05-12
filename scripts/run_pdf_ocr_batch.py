@@ -55,6 +55,26 @@ def read_queue(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(f))
 
 
+def resolve_source_path(row: dict[str, str], remap_from: str, remap_to: str) -> Path:
+    original = row["source_path"]
+    if remap_from and remap_to and original.startswith(remap_from):
+        original = remap_to.rstrip("/") + original[len(remap_from):]
+    return Path(original)
+
+
+def require_sources(rows: list[dict[str, str]], remap_from: str, remap_to: str) -> None:
+    missing = [row for row in rows if not resolve_source_path(row, remap_from, remap_to).exists()]
+    if len(missing) == len(rows):
+        first = missing[0]["source_path"] if missing else ""
+        common_root = "/Volumes/PTE_Resources"
+        hint = (
+            f"None of the queued PDF files are reachable. First missing file:\n{first}\n\n"
+            f"If the course drive is not mounted, reconnect it so {common_root} exists, then run this script again.\n"
+            "If the drive is mounted somewhere else, use --remap-from and --remap-to."
+        )
+        raise SystemExit(hint)
+
+
 def render_page(page: Any, scale: float):
     bitmap = page.render(scale=scale)
     return bitmap.to_pil()
@@ -111,6 +131,8 @@ def main() -> None:
     parser.add_argument("--limit", type=int, default=5)
     parser.add_argument("--max-pages", type=int, default=6)
     parser.add_argument("--scale", type=float, default=2.0)
+    parser.add_argument("--remap-from", default="", help="Replace this source path prefix from the queue")
+    parser.add_argument("--remap-to", default="", help="Use this mounted path prefix instead")
     args = parser.parse_args()
 
     queue_path = Path(args.queue).expanduser().resolve()
@@ -123,11 +145,12 @@ def main() -> None:
     text_dir.mkdir(parents=True, exist_ok=True)
 
     queue_rows = read_queue(queue_path)[: args.limit]
+    require_sources(queue_rows, args.remap_from, args.remap_to)
     ocr = RapidOCR()
     result_rows: list[dict[str, Any]] = []
 
     for index, row in enumerate(queue_rows, start=1):
-        source_path = Path(row["source_path"])
+        source_path = resolve_source_path(row, args.remap_from, args.remap_to)
         title = Path(row["relative_path"]).stem
         output_name = f"{index:03d}-{safe_slug(title)}.txt"
         output_path = text_dir / output_name
