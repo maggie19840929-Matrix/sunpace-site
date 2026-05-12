@@ -7,6 +7,7 @@
 - 大事纪 / 活动预告快速编辑器：`/admin/`
 - Sunny PTE 问答面板
 - Netlify Function：`/api/sunny-chat`
+- SunPace 自有答疑话术库：`data/pte-knowledge.sunpace.json`
 - 本地课程知识库示例：`data/pte-knowledge.json`
 - 夜间自动生成课程索引：`data/pte-knowledge.generated.json`
 - Sunny 问答限流：默认每个 IP 每 60 秒最多 6 次请求
@@ -14,7 +15,13 @@
 
 ## 更新课程库
 
-人工整理的高质量答案放在 `data/pte-knowledge.json`。建议每条包含：
+Sunny 现在按这个顺序找答案：
+
+1. `data/pte-knowledge.sunpace.json`：SunPace 自己的答疑话术，优先级最高，适合放老师可以直接讲给学生听的回答。
+2. `data/pte-knowledge.json`：人工整理的基础答案，作为补充。
+3. `data/pte-knowledge.generated.json`：夜间从课程资料自动生成的索引，兜底使用，不直接输出大段课程原文。
+
+人工整理的答案建议每条包含：
 
 ```json
 {
@@ -25,9 +32,9 @@
 }
 ```
 
-建议只放你有权用于官网服务的内容，不要整段复制受版权保护的课程原文。
+建议只把你确认适合公开答疑的话术放进 `data/pte-knowledge.sunpace.json`。淘宝购买课程、PDF 或老师讲义里的原文不要整段复制到官网回答里，Sunny 可以吸收主题和方法，但输出应改写成 SunPace 自己的表达。
 
-夜间自动处理课程库后生成的索引放在 `data/pte-knowledge.generated.json`。Sunny 会优先匹配人工答案；如果人工库没有命中，再使用自动索引作为补充。自动索引不会直接把课程正文整段输出给访客。
+夜间自动处理课程库后生成的索引放在 `data/pte-knowledge.generated.json`。如果前两个人工库没有命中，再使用自动索引作为补充。自动索引不会直接把课程正文整段输出给访客。
 
 如果要把 Mac mini 上的完整课程资料同步给 Sunny，推荐使用 OpenAI Vector Store，详细流程见：
 
