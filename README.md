@@ -12,6 +12,8 @@
 - 夜间自动生成课程索引：`data/pte-knowledge.generated.json`
 - Sunny 问答限流：默认每个 IP 每 60 秒最多 6 次请求
 - Sunny 可接 OpenAI Vector Store 托管知识库
+- PDF OCR / 视频转写阶段二队列脚本：`scripts/plan_phase2_ingestion.py`
+- PDF OCR 小批量处理脚本：`scripts/run_pdf_ocr_batch.py`
 
 ## 更新课程库
 
@@ -39,6 +41,18 @@ Sunny 现在按这个顺序找答案：
 如果要把 Mac mini 上的完整课程资料同步给 Sunny，推荐使用 OpenAI Vector Store，详细流程见：
 
 `docs/sunny-knowledge-pipeline.md`
+
+如果要继续处理图片版 PDF 和视频课程，先生成阶段二队列：
+
+```bash
+python3 scripts/plan_phase2_ingestion.py --media-limit 80
+```
+
+本次已生成队列：`knowledge_exports/phase2/20260512-090856`。具体说明见：
+
+`docs/phase2-ingestion-plan.md`
+
+说明：`.codex_deps/` 和 `knowledge_exports/` 是本地处理目录，不需要上传到 GitHub，也不应该部署到官网。
 
 ## 修改首页内容
 
