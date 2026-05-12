@@ -80,6 +80,33 @@
 - 改革后 DI/RL 还能用模板吗
 - PTE 数字反应怎么练
 
+已完成第三批 PDF OCR：
+
+`knowledge_exports/phase2-ocr/20260512-232921`
+
+本次结果：
+
+- 从队列第 21 个 PDF 开始处理。
+- 处理 PDF：47 个。
+- 每个 PDF 最多识别前 8 页。
+- 成功 OCR：47 个。
+- 至此 `pdf-ocr-queue.csv` 中 67 个 PDF 候选已全部完成 OCR。
+
+第三批新增到 `data/pte-knowledge.sunpace.json` 的话术方向：
+
+- PTE 词汇搭配怎么积累
+- PTE 英美拼写要不要统一
+- PTE 语法基础怎么补
+- 词根词缀适合怎么学
+- PTE 辅音发音怎么练
+- PTE 练习平台怎么配合使用
+- PTE 机经和预测怎么用
+- PTE 官方练习题怎么做
+- PTE Core 口语怎么准备
+- 泛听训练对 PTE 有用吗
+- PTE 口音会影响分数吗
+- PTE 报考前要检查什么
+
 ## PDF OCR 顺序
 
 优先处理 `pdf-ocr-queue.csv` 前 20-40 行。
