@@ -56,6 +56,30 @@
 
 注意：OCR 文字只作为内部理解材料，不能直接发布原文。
 
+已完成第二批 PDF OCR：
+
+`knowledge_exports/phase2-ocr/20260512-172646`
+
+本次结果：
+
+- 处理 PDF：20 个。
+- 每个 PDF 最多识别前 8 页。
+- 成功 OCR：20 个。
+- 识别内容已继续改写成 SunPace 自有答疑话术。
+
+第二批新增到 `data/pte-knowledge.sunpace.json` 的话术方向：
+
+- 阅读 FIB 固定搭配怎么背
+- SST 逻辑速刷怎么用
+- RS 按话题分类怎么练
+- FIB 速刷资料怎么用
+- RO 速记口诀怎么用
+- SST 和 LFIB 怎么一起练
+- ASQ 机经要不要背
+- WE 大作文如何提升词汇多样性
+- 改革后 DI/RL 还能用模板吗
+- PTE 数字反应怎么练
+
 ## PDF OCR 顺序
 
 优先处理 `pdf-ocr-queue.csv` 前 20-40 行。
