@@ -128,6 +128,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--queue", default="knowledge_exports/phase2/20260512-090856/pdf-ocr-queue.csv")
     parser.add_argument("--output-dir", default="knowledge_exports/phase2-ocr")
+    parser.add_argument("--offset", type=int, default=0, help="Skip this many queue rows before processing")
     parser.add_argument("--limit", type=int, default=5)
     parser.add_argument("--max-pages", type=int, default=6)
     parser.add_argument("--scale", type=float, default=2.0)
@@ -144,7 +145,7 @@ def main() -> None:
     text_dir = out_dir / "texts"
     text_dir.mkdir(parents=True, exist_ok=True)
 
-    queue_rows = read_queue(queue_path)[: args.limit]
+    queue_rows = read_queue(queue_path)[args.offset: args.offset + args.limit]
     require_sources(queue_rows, args.remap_from, args.remap_to)
     ocr = RapidOCR()
     result_rows: list[dict[str, Any]] = []
@@ -186,6 +187,7 @@ def main() -> None:
         "runId": run_id,
         "queue": str(queue_path),
         "generatedAt": datetime.now().isoformat(timespec="seconds"),
+        "offset": args.offset,
         "limit": args.limit,
         "maxPages": args.max_pages,
         "scale": args.scale,
