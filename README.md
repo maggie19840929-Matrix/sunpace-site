@@ -8,12 +8,13 @@
 - Sunny PTE 问答面板
 - Netlify Function：`/api/sunny-chat`
 - 本地课程知识库示例：`data/pte-knowledge.json`
+- 夜间自动生成课程索引：`data/pte-knowledge.generated.json`
 - Sunny 问答限流：默认每个 IP 每 60 秒最多 6 次请求
 - Sunny 可接 OpenAI Vector Store 托管知识库
 
 ## 更新课程库
 
-把淘宝购买的 PTE 精品课程资料整理成 JSON 条目，追加到 `data/pte-knowledge.json`。建议每条包含：
+人工整理的高质量答案放在 `data/pte-knowledge.json`。建议每条包含：
 
 ```json
 {
@@ -25,6 +26,8 @@
 ```
 
 建议只放你有权用于官网服务的内容，不要整段复制受版权保护的课程原文。
+
+夜间自动处理课程库后生成的索引放在 `data/pte-knowledge.generated.json`。Sunny 会优先匹配人工答案；如果人工库没有命中，再使用自动索引作为补充。自动索引不会直接把课程正文整段输出给访客。
 
 如果要把 Mac mini 上的完整课程资料同步给 Sunny，推荐使用 OpenAI Vector Store，详细流程见：
 
