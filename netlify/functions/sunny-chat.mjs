@@ -4,6 +4,35 @@ const SUNPACE_DATA_URL = new URL('../../data/pte-knowledge.sunpace.json', import
 const DATA_URL = new URL('../../data/pte-knowledge.json', import.meta.url);
 const GENERATED_DATA_URL = new URL('../../data/pte-knowledge.generated.json', import.meta.url);
 
+const OUT_OF_SCOPE_ANSWER = [
+  '这个问题先被 Sunny 学姐拦一下哈。',
+  '我现在主要负责 SunPace 的 PTE 备考、题型训练、模考诊断、课程安排和留学备考相关问题。',
+  '天气、八卦、闲聊和生活百科我就不展开啦，怕把你的备考节奏带跑偏。',
+  '你可以直接问我：RA 怎么练、WFD 怎么提分、58 到 65 怎么规划，或者我适合哪个课程。'
+].join('');
+
+const GREETING_ANSWER = [
+  '来啦，我是 Sunny，小昇学姐在线。',
+  '我主要帮你看 PTE 备考、题型提分、模考诊断和 SunPace 课程安排。',
+  '你可以直接把当前分数、目标分数和考试时间丢给我，我帮你先拆训练优先级。'
+].join('');
+
+const SCOPE_KEYWORDS = [
+  'pte', 'pearson', 'academic', 'core', 'sunpace', '昇培', '小昇', 'sunny',
+  'ra', 'rs', 'di', 'rl', 'asq', 'wfd', 'sst', 'fib', 'ro', 'we', 'swt', 'rts', 'sgd',
+  'read aloud', 'repeat sentence', 'describe image', 'retell lecture', 'write from dictation',
+  'summarize spoken text', 'summarize written text', 'write essay', 'response to situation',
+  '口语', '听力', '阅读', '写作', '朗读', '复述', '听写', '小作文', '大作文',
+  '题型', '模考', '备考', '提分', '目标分', '当前分', '分数', '评分', '机经', '高频',
+  '模板', '词汇', '语法', '发音', '流利度', '卡顿', '回读', '错题', '复盘',
+  '考试', '考位', '报名', '换题', '课程', '集训', '顾问', '企业微信',
+  '留学', '澳洲', '签证', '语言班', '英语考试'
+];
+
+const GREETING_PATTERNS = [
+  /^(hi|hello|hey|你好|您好|哈喽|hello sunny|hi sunny|在吗|在不在|你是谁|你能做什么|你会什么)[\s!！。?？]*$/i
+];
+
 export const config = {
   path: '/api/sunny-chat',
   rateLimit: {
@@ -37,6 +66,22 @@ function loadKnowledge() {
 
 function normalize(text) {
   return String(text || '').toLowerCase();
+}
+
+function isGreeting(question) {
+  const q = String(question || '').trim();
+  return GREETING_PATTERNS.some(pattern => pattern.test(q));
+}
+
+function isInSunnyScope(question) {
+  const q = normalize(question);
+  const tokens = q.match(/[a-z0-9]+/g) || [];
+  return SCOPE_KEYWORDS.some(keyword => {
+    if (/^[a-z0-9]{1,2}$/.test(keyword)) {
+      return tokens.includes(keyword);
+    }
+    return q.includes(keyword);
+  });
 }
 
 function scoreEntry(question, entry) {
@@ -178,6 +223,14 @@ export default async function handler(request) {
 
     if (!question) {
       return json({ error: 'Question is required' }, 400);
+    }
+
+    if (isGreeting(question)) {
+      return json({ answer: GREETING_ANSWER, sources: [{ id: 'sunny-greeting', title: 'Sunny 小昇' }] });
+    }
+
+    if (!isInSunnyScope(question)) {
+      return json({ answer: OUT_OF_SCOPE_ANSWER, sources: [{ id: 'sunny-scope-gate', title: 'Sunny 只回答 PTE 相关问题' }] });
     }
 
     const knowledge = loadKnowledge();

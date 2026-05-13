@@ -702,7 +702,7 @@
   </div>
   <div class="sunny-panel-body">
     <div class="sunny-chat" id="sunnyChat" aria-live="polite">
-      <div class="sunny-msg">嗨，我是 <em>Sunny</em>。你可以直接问：PTE 58 到 65 怎么规划？或者 Describe Image 怎么练？</div>
+      <div class="sunny-msg">嗨，我是 <em>Sunny</em>，小昇学姐在线。PTE 备考、题型、提分节奏和课程安排都可以问我；生活闲聊我会轻轻拦住，免得你复习跑偏。</div>
     </div>
     <div class="sunny-quick" aria-label="快捷问题">
       <button type="button" data-question="PTE 58 到 65 应该怎么备考？">58 到 65</button>
@@ -988,6 +988,22 @@
   const input   = document.getElementById('sunnyInput');
   const send    = document.getElementById('sunnySend');
   const quicks  = document.querySelectorAll('[data-question]');
+  const sunnyScopeKeywords = [
+    'pte', 'pearson', 'academic', 'core', 'sunpace', '昇培', '小昇', 'sunny',
+    'ra', 'rs', 'di', 'rl', 'asq', 'wfd', 'sst', 'fib', 'ro', 'we', 'swt', 'rts', 'sgd',
+    'read aloud', 'repeat sentence', 'describe image', 'retell lecture', 'write from dictation',
+    'summarize spoken text', 'summarize written text', 'write essay', 'response to situation',
+    '口语', '听力', '阅读', '写作', '朗读', '复述', '听写', '小作文', '大作文',
+    '题型', '模考', '备考', '提分', '目标分', '当前分', '分数', '评分', '机经', '高频',
+    '模板', '词汇', '语法', '发音', '流利度', '卡顿', '回读', '错题', '复盘',
+    '考试', '考位', '报名', '换题', '课程', '集训', '顾问', '企业微信',
+    '留学', '澳洲', '签证', '语言班', '英语考试'
+  ];
+  const sunnyGreetingPatterns = [
+    /^(hi|hello|hey|你好|您好|哈喽|hello sunny|hi sunny|在吗|在不在|你是谁|你能做什么|你会什么)[\s!！。?？]*$/i
+  ];
+  const sunnyOutOfScopeReply = '这个问题先被 Sunny 学姐拦一下哈。我现在主要负责 SunPace 的 PTE 备考、题型训练、模考诊断、课程安排和留学备考相关问题。天气、八卦、闲聊和生活百科我就不展开啦，怕把你的备考节奏带跑偏。你可以直接问我：RA 怎么练、WFD 怎么提分、58 到 65 怎么规划，或者我适合哪个课程。';
+  const sunnyGreetingReply = '来啦，我是 Sunny，小昇学姐在线。我主要帮你看 PTE 备考、题型提分、模考诊断和 SunPace 课程安排。你可以直接把当前分数、目标分数和考试时间丢给我，我帮你先拆训练优先级。';
 
   function openSunnyPanel() {
     panel.classList.add('active');
@@ -1019,14 +1035,42 @@
     return msg;
   }
 
+  function isSunnyGreeting(question) {
+    return sunnyGreetingPatterns.some(pattern => pattern.test(question.trim()));
+  }
+
+  function isSunnyScope(question) {
+    const q = question.toLowerCase();
+    const tokens = q.match(/[a-z0-9]+/g) || [];
+    return sunnyScopeKeywords.some(keyword => {
+      if (/^[a-z0-9]{1,2}$/.test(keyword)) {
+        return tokens.includes(keyword);
+      }
+      return q.includes(keyword);
+    });
+  }
+
   async function askSunny(question) {
     const clean = question.trim();
     if (!clean) return;
 
     addSunnyMessage(clean, 'user');
     input.value = '';
+
+    if (isSunnyGreeting(clean)) {
+      addSunnyMessage(sunnyGreetingReply);
+      input.focus();
+      return;
+    }
+
+    if (!isSunnyScope(clean)) {
+      addSunnyMessage(sunnyOutOfScopeReply);
+      input.focus();
+      return;
+    }
+
     send.disabled = true;
-    const loading = addSunnyMessage('Sunny 正在查课程库...', 'loading');
+    const loading = addSunnyMessage('Sunny 学姐翻一下课程库...', 'loading');
 
     try {
       const res = await fetch('/api/sunny-chat', {
@@ -1042,10 +1086,10 @@
       if (!res.ok) throw new Error('request failed');
       const data = await res.json();
       loading.remove();
-      addSunnyMessage(data.answer || '我暂时没有找到合适答案，建议添加企业微信让顾问帮你判断。');
+      addSunnyMessage(data.answer || '这题我暂时没翻到很稳的答案，先别硬猜。建议添加企业微信，让顾问按你的目标分帮你判断一下。');
     } catch (err) {
       loading.remove();
-      addSunnyMessage('我现在还没有连上后台课程库。先给你一个通用建议：PTE 备考先做一次模考定位，再按 RA/RS/DI/WFD 等高权重题型拆训练；如果目标是 65+，每天要固定口语跟读、听写和错题复盘。');
+      addSunnyMessage('我现在有点连不上后台课程库，先别慌。通用方向是：PTE 备考先做一次模考定位，再按 RA/RS/DI/WFD 等高权重题型拆训练；如果目标是 65+，每天固定口语跟读、听写和错题复盘。');
     } finally {
       send.disabled = false;
       input.focus();
