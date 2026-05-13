@@ -550,6 +550,12 @@
   .sunny-msg.loading {
     color: rgba(255,255,255,0.42);
   }
+  .sunny-cursor {
+    color: var(--orange-lt);
+    display: inline-block;
+    margin-left: 2px;
+    animation: sunny-cursor-blink 0.8s steps(2, start) infinite;
+  }
   .sunny-msg em {
     color: var(--orange-lt);
     font-style: normal;
@@ -620,6 +626,10 @@
   @keyframes sunny-float {
     0%,100% { transform: translateY(0px); }
     50%      { transform: translateY(-4px); }
+  }
+  @keyframes sunny-cursor-blink {
+    0%,45% { opacity: 1; }
+    46%,100% { opacity: 0; }
   }
 
   /* ── MOBILE ── */
@@ -988,6 +998,7 @@
   const input   = document.getElementById('sunnyInput');
   const send    = document.getElementById('sunnySend');
   const quicks  = document.querySelectorAll('[data-question]');
+  window.SUNNY_UI_VERSION = 'typewriter-slow-20260514';
   const sunnyScopeKeywords = [
     'pte', 'pearson', 'academic', 'core', 'sunpace', '昇培', '小昇', 'sunny',
     'ra', 'rs', 'di', 'rl', 'asq', 'wfd', 'sst', 'fib', 'ro', 'we', 'swt', 'rts', 'sgd',
@@ -1058,24 +1069,29 @@
   async function addSunnyTypedMessage(text) {
     const msg = addSunnyMessage('', 'assistant');
     const chars = Array.from(text || '');
-    const baseDelay = chars.length > 600 ? 14 : chars.length > 360 ? 18 : chars.length > 180 ? 24 : 38;
+    const baseDelay = chars.length > 600 ? 24 : chars.length > 360 ? 32 : chars.length > 180 ? 44 : 70;
     let output = '';
+    const typedText = document.createElement('span');
+    const cursor = document.createElement('span');
+    cursor.className = 'sunny-cursor';
+    cursor.textContent = '▍';
+    msg.replaceChildren(typedText, cursor);
 
     for (const char of chars) {
       output += char;
-      msg.textContent = `${output}▍`;
+      typedText.textContent = output;
       chat.scrollTop = chat.scrollHeight;
 
       if ('。！？!?'.includes(char)) {
-        await sleep(baseDelay + 180);
+        await sleep(baseDelay + 240);
       } else if ('，、；;：:'.includes(char)) {
-        await sleep(baseDelay + 80);
+        await sleep(baseDelay + 120);
       } else {
         await sleep(baseDelay);
       }
     }
 
-    msg.textContent = output;
+    cursor.remove();
     return msg;
   }
 
