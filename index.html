@@ -1058,21 +1058,24 @@
   async function addSunnyTypedMessage(text) {
     const msg = addSunnyMessage('', 'assistant');
     const chars = Array.from(text || '');
-    const baseDelay = chars.length > 360 ? 12 : chars.length > 180 ? 16 : 22;
+    const baseDelay = chars.length > 600 ? 14 : chars.length > 360 ? 18 : chars.length > 180 ? 24 : 38;
+    let output = '';
 
     for (const char of chars) {
-      msg.textContent += char;
+      output += char;
+      msg.textContent = `${output}▍`;
       chat.scrollTop = chat.scrollHeight;
 
       if ('。！？!?'.includes(char)) {
-        await sleep(baseDelay + 90);
+        await sleep(baseDelay + 180);
       } else if ('，、；;：:'.includes(char)) {
-        await sleep(baseDelay + 45);
+        await sleep(baseDelay + 80);
       } else {
         await sleep(baseDelay);
       }
     }
 
+    msg.textContent = output;
     return msg;
   }
 
