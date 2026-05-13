@@ -1010,6 +1010,7 @@
     '稍等，我帮你对一下题型重点...',
     '让我先把备考优先级捋一下...'
   ];
+  let sunnyBusy = false;
 
   function openSunnyPanel() {
     panel.classList.add('active');
@@ -1054,6 +1055,27 @@
     return addSunnyMessage(text, 'loading');
   }
 
+  async function addSunnyTypedMessage(text) {
+    const msg = addSunnyMessage('', 'assistant');
+    const chars = Array.from(text || '');
+    const baseDelay = chars.length > 360 ? 12 : chars.length > 180 ? 16 : 22;
+
+    for (const char of chars) {
+      msg.textContent += char;
+      chat.scrollTop = chat.scrollHeight;
+
+      if ('。！？!?'.includes(char)) {
+        await sleep(baseDelay + 90);
+      } else if ('，、；;：:'.includes(char)) {
+        await sleep(baseDelay + 45);
+      } else {
+        await sleep(baseDelay);
+      }
+    }
+
+    return msg;
+  }
+
   function isSunnyGreeting(question) {
     return sunnyGreetingPatterns.some(pattern => pattern.test(question.trim()));
   }
@@ -1071,8 +1093,9 @@
 
   async function askSunny(question) {
     const clean = question.trim();
-    if (!clean) return;
+    if (!clean || sunnyBusy) return;
 
+    sunnyBusy = true;
     addSunnyMessage(clean, 'user');
     input.value = '';
     send.disabled = true;
@@ -1082,14 +1105,14 @@
       if (isSunnyGreeting(clean)) {
         await sleep(randomBetween(700, 1200));
         loading.remove();
-        addSunnyMessage(sunnyGreetingReply);
+        await addSunnyTypedMessage(sunnyGreetingReply);
         return;
       }
 
       if (!isSunnyScope(clean)) {
         await sleep(randomBetween(800, 1400));
         loading.remove();
-        addSunnyMessage(sunnyOutOfScopeReply);
+        await addSunnyTypedMessage(sunnyOutOfScopeReply);
         return;
       }
 
@@ -1104,17 +1127,18 @@
       ]);
       if (res.status === 429) {
         loading.remove();
-        addSunnyMessage('同学，Sunny 这边问题有点多。请稍等一分钟再问，这样可以保证每个人都能稳定拿到回复。');
+        await addSunnyTypedMessage('同学，Sunny 这边问题有点多。请稍等一分钟再问，这样可以保证每个人都能稳定拿到回复。');
         return;
       }
       if (!res.ok) throw new Error('request failed');
       const data = await res.json();
       loading.remove();
-      addSunnyMessage(data.answer || '这题我暂时没翻到很稳的答案，先别硬猜。建议添加企业微信，让顾问按你的目标分帮你判断一下。');
+      await addSunnyTypedMessage(data.answer || '这题我暂时没翻到很稳的答案，先别硬猜。建议添加企业微信，让顾问按你的目标分帮你判断一下。');
     } catch (err) {
       loading.remove();
-      addSunnyMessage('我现在有点连不上后台课程库，先别慌。通用方向是：PTE 备考先做一次模考定位，再按 RA/RS/DI/WFD 等高权重题型拆训练；如果目标是 65+，每天固定口语跟读、听写和错题复盘。');
+      await addSunnyTypedMessage('我现在有点连不上后台课程库，先别慌。通用方向是：PTE 备考先做一次模考定位，再按 RA/RS/DI/WFD 等高权重题型拆训练；如果目标是 65+，每天固定口语跟读、听写和错题复盘。');
     } finally {
+      sunnyBusy = false;
       send.disabled = false;
       input.focus();
     }
