@@ -1952,5 +1952,71 @@
       "数字信息"
     ],
     "answer": "SST 不是所有数字都要写，但能定位主题的数字值得记。Sunny 建议优先记年份、比例、金额、年龄或能体现核心事实的数字，比如宇宙年龄、实验人数、变化幅度。数字不要单独散着写，要和名词词组绑在一起，比如 13.8 billion years old of the universe，这样才有信息价值。"
+  },
+  {
+    "id": "sunpace-listening-sst-acronym-proper-nouns",
+    "title": "SST 缩写和专有名词怎么写",
+    "keywords": [
+      "SST",
+      "缩写",
+      "大写",
+      "专有名词",
+      "ADSL",
+      "HTML",
+      "Great Depression",
+      "capital letters",
+      "proper nouns"
+    ],
+    "answer": "SST 里听到缩写和专有名词时，尽量按正式写法写。Sunny 建议 ADSL、HTML 这类缩写全部大写；Great Depression 这类历史事件也要注意首字母大写。不会展开缩写没关系，先把听到的字母写准。专有名词往往是主题或时间锚点，写对会让答案更清楚。"
+  },
+  {
+    "id": "sunpace-listening-sst-process-steps",
+    "title": "SST 流程步骤型内容怎么记",
+    "keywords": [
+      "SST",
+      "流程",
+      "步骤",
+      "process",
+      "first step",
+      "second step",
+      "face recognition",
+      "transform",
+      "put name"
+    ],
+    "answer": "SST 如果在解释一个过程，不要只记主题词。Sunny 建议按步骤写笔记：第一步获取什么信息，第二步怎么转换，第三步得到什么结果。比如听到 take information、transform it、put a name 这类动词，就把它们当成流程骨架。答案写成顺序关系，会比堆名词更像总结。"
+  },
+  {
+    "id": "sunpace-listening-sst-social-problem-solution",
+    "title": "SST 社会问题类怎么抓重点",
+    "keywords": [
+      "SST",
+      "社会问题",
+      "environment",
+      "air pollution",
+      "agreement",
+      "consensus",
+      "solution",
+      "问题解决",
+      "fixable",
+      "社会问题类",
+      "怎么抓重点"
+    ],
+    "answer": "SST 社会问题类通常有三层：问题是什么、为什么难解决、有没有解决路径。Sunny 建议先抓问题范围，比如影响很多国家或生态系统；再抓阻碍，比如各方没有 agreement 或 consensus；最后抓例子或解决方向，比如某个国家从技术或政策上可解决。这样答案会有完整的 problem-solution 结构。"
+  },
+  {
+    "id": "sunpace-listening-sst-technology-changes-industry",
+    "title": "SST 科技改变行业类怎么写",
+    "keywords": [
+      "SST",
+      "科技改变行业",
+      "Internet",
+      "journalism",
+      "technology",
+      "collaborative process",
+      "spread news",
+      "gain information",
+      "industry change"
+    ],
+    "answer": "SST 听到科技和行业变化时，要写清楚“什么技术改变了什么行业”。Sunny 建议先写技术或平台，再写行业变化：生产方式、传播速度、参与者、信息获取方式有什么不同。比如互联网改变新闻业时，可以抓 collaborative process、faster spreading、gain information 和 audience participation 这类词组。"
   }
 ]
