@@ -1,0 +1,6 @@
+.DS_Store
+.codex_deps/
+knowledge_exports/
+content_exports/
+__pycache__/
+*.zip
