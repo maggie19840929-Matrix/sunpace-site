@@ -42,12 +42,22 @@ function normalize(text) {
 function scoreEntry(question, entry) {
   const q = normalize(question);
   const title = normalize(entry.title);
+  const genericKeywords = new Set(['内容']);
   let score = 0;
   if (title && q.includes(title)) score += 4;
 
   for (const keyword of entry.keywords || []) {
     const key = normalize(keyword);
-    if (key && q.includes(key)) score += key.length > 2 ? 3 : 2;
+    if (!key) continue;
+    if (genericKeywords.has(key)) continue;
+
+    if (/^[a-z0-9]{1,2}$/.test(key)) {
+      const tokens = q.match(/[a-z0-9]+/g) || [];
+      if (tokens.includes(key)) score += 2;
+      continue;
+    }
+
+    if (q.includes(key)) score += key.length > 2 ? 3 : 2;
   }
 
   if (score > 0 && entry.sourceType === 'sunpace') score += 8;
