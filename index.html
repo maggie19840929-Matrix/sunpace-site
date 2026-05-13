@@ -1004,6 +1004,12 @@
   ];
   const sunnyOutOfScopeReply = '这个问题先被 Sunny 学姐拦一下哈。我现在主要负责 SunPace 的 PTE 备考、题型训练、模考诊断、课程安排和留学备考相关问题。天气、八卦、闲聊和生活百科我就不展开啦，怕把你的备考节奏带跑偏。你可以直接问我：RA 怎么练、WFD 怎么提分、58 到 65 怎么规划，或者我适合哪个课程。';
   const sunnyGreetingReply = '来啦，我是 Sunny，小昇学姐在线。我主要帮你看 PTE 备考、题型提分、模考诊断和 SunPace 课程安排。你可以直接把当前分数、目标分数和考试时间丢给我，我帮你先拆训练优先级。';
+  const sunnyThinkingTexts = [
+    'Sunny 学姐翻一下课程库...',
+    '我看一下这题该怎么拆...',
+    '稍等，我帮你对一下题型重点...',
+    '让我先把备考优先级捋一下...'
+  ];
 
   function openSunnyPanel() {
     panel.classList.add('active');
@@ -1035,6 +1041,19 @@
     return msg;
   }
 
+  function randomBetween(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+
+  function sleep(ms) {
+    return new Promise(resolve => window.setTimeout(resolve, ms));
+  }
+
+  function addSunnyThinking() {
+    const text = sunnyThinkingTexts[randomBetween(0, sunnyThinkingTexts.length - 1)];
+    return addSunnyMessage(text, 'loading');
+  }
+
   function isSunnyGreeting(question) {
     return sunnyGreetingPatterns.some(pattern => pattern.test(question.trim()));
   }
@@ -1056,28 +1075,33 @@
 
     addSunnyMessage(clean, 'user');
     input.value = '';
-
-    if (isSunnyGreeting(clean)) {
-      addSunnyMessage(sunnyGreetingReply);
-      input.focus();
-      return;
-    }
-
-    if (!isSunnyScope(clean)) {
-      addSunnyMessage(sunnyOutOfScopeReply);
-      input.focus();
-      return;
-    }
-
     send.disabled = true;
-    const loading = addSunnyMessage('Sunny 学姐翻一下课程库...', 'loading');
+    const loading = addSunnyThinking();
 
     try {
-      const res = await fetch('/api/sunny-chat', {
+      if (isSunnyGreeting(clean)) {
+        await sleep(randomBetween(700, 1200));
+        loading.remove();
+        addSunnyMessage(sunnyGreetingReply);
+        return;
+      }
+
+      if (!isSunnyScope(clean)) {
+        await sleep(randomBetween(800, 1400));
+        loading.remove();
+        addSunnyMessage(sunnyOutOfScopeReply);
+        return;
+      }
+
+      const responsePromise = fetch('/api/sunny-chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ question: clean })
       });
+      const [res] = await Promise.all([
+        responsePromise,
+        sleep(randomBetween(1100, 1900))
+      ]);
       if (res.status === 429) {
         loading.remove();
         addSunnyMessage('同学，Sunny 这边问题有点多。请稍等一分钟再问，这样可以保证每个人都能稳定拿到回复。');
