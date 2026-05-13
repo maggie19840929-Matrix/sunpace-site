@@ -989,6 +989,12 @@
   const send    = document.getElementById('sunnySend');
   const quicks  = document.querySelectorAll('[data-question]');
 
+  function openSunnyPanel() {
+    panel.classList.add('active');
+    trigger.classList.add('panel-open');
+    window.setTimeout(() => input.focus(), 120);
+  }
+
   trigger.addEventListener('click', () => {
     panel.classList.toggle('active');
     trigger.classList.toggle('panel-open');
@@ -1053,6 +1059,11 @@
   quicks.forEach(btn => {
     btn.addEventListener('click', () => askSunny(btn.dataset.question || ''));
   });
+
+  const sunnyParams = new URLSearchParams(window.location.search);
+  if (sunnyParams.get('sunny') === '1' || window.location.hash === '#sunny') {
+    openSunnyPanel();
+  }
 </script>
 </body>
 </html>
