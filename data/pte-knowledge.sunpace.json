@@ -1681,5 +1681,87 @@
       "发音饱满度"
     ],
     "answer": "RA 不需要故意很高或很低的音调，保持自然、稳定、机器能清楚收音就好。Sunny 建议音量适中，音调不要飘，重点把元音发饱满，辅音边界说清楚。很多同学容易混 N/L、W/V，或者元音太扁，听起来不清楚。练习时录音回放，先改清晰度，再追求语调漂亮。"
+  },
+  {
+    "id": "sunpace-listening-sst-first-sentences-topic",
+    "title": "SST 开头两三句为什么重要",
+    "keywords": [
+      "SST",
+      "开头",
+      "主题词",
+      "前两句",
+      "前三句",
+      "topic",
+      "主题句",
+      "听力总结开头"
+    ],
+    "answer": "SST 的开头两三句通常会引出主题词或核心问题。Sunny 建议一开始就集中注意力，把主题词先拿下，再听后面是在解释原因、举例、对比还是给结论。如果开头漏掉，后面很多细节会变成散点；如果主题抓住了，即使细节不完整，也更容易写出一段像 summary 的答案。"
+  },
+  {
+    "id": "sunpace-listening-sst-two-group-comparison",
+    "title": "SST 听到两组人或两种情况怎么写",
+    "keywords": [
+      "SST",
+      "两组人",
+      "两种情况",
+      "对比",
+      "the other",
+      "one group",
+      "comparison",
+      "A和B"
+    ],
+    "answer": "SST 听到 one group、the other group、two factors 这类结构时，要马上意识到文章在做对比。Sunny 建议笔记分成 A/B 两栏：A 是谁、收到什么信息或有什么特征；B 是谁、差异在哪里；最后听结果是哪一组更有效或影响更明显。这样写出来会比堆关键词更有逻辑。"
+  },
+  {
+    "id": "sunpace-listening-sst-cause-effect-chain",
+    "title": "SST 原因和结果链怎么抓",
+    "keywords": [
+      "SST",
+      "原因结果",
+      "因果",
+      "cause",
+      "effect",
+      "because",
+      "result",
+      "影响",
+      "故事线",
+      "原因和结果链",
+      "怎么抓"
+    ],
+    "answer": "SST 很多题其实是在讲一个现象、原因和结果。Sunny 建议听到 because、therefore、as a result、lead to、due to 这类信号时，把前后内容连起来：先写现象，再写原因，最后写影响。不要只记孤立名词，比如只写 credit card 或 globalization；要尽量写出它们导致了什么变化。"
+  },
+  {
+    "id": "sunpace-listening-sst-positive-negative-turn",
+    "title": "SST 先讲好处又讲坏处怎么处理",
+    "keywords": [
+      "SST",
+      "优点缺点",
+      "正面负面",
+      "先扬后抑",
+      "but",
+      "however",
+      "tipping point",
+      "转折",
+      "先讲好处",
+      "又讲坏处",
+      "怎么处理"
+    ],
+    "answer": "SST 如果先讲好处、再用 but 或 however 转到问题，答案里也要体现这种转折。Sunny 建议笔记写成两块：前半部分是优势或积极影响，后半部分是风险、限制或负面结果。转折后的内容通常更重要，尤其是作者要说明“不是越多越好”或“需要重新理解”的时候。"
+  },
+  {
+    "id": "sunpace-listening-sst-phrase-not-single-word",
+    "title": "SST 关键词要记单词还是词组",
+    "keywords": [
+      "SST",
+      "关键词",
+      "词组",
+      "单词",
+      "短语",
+      "broad perspectives",
+      "cash flow",
+      "brand image",
+      "management knowledge"
+    ],
+    "answer": "SST 关键词尽量记成词组，而不是孤立单词。Sunny 建议把名词前面的形容词、限定词或搭配一起带上，比如 broad perspectives、cash flow、brand image、management knowledge。只写 perspectives 或 image 也许有一点信息，但词组更具体，后面更容易扩成完整句。"
   }
 ]
