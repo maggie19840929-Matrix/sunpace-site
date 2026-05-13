@@ -1763,5 +1763,67 @@
       "management knowledge"
     ],
     "answer": "SST 关键词尽量记成词组，而不是孤立单词。Sunny 建议把名词前面的形容词、限定词或搭配一起带上，比如 broad perspectives、cash flow、brand image、management knowledge。只写 perspectives 或 image 也许有一点信息，但词组更具体，后面更容易扩成完整句。"
+  },
+  {
+    "id": "sunpace-listening-sst-question-opening",
+    "title": "SST 用问句开头要怎么听",
+    "keywords": [
+      "SST",
+      "问句开头",
+      "开头是问题",
+      "why",
+      "how",
+      "question",
+      "主题",
+      "信号词",
+      "开头是问句",
+      "怎么听"
+    ],
+    "answer": "SST 如果开头是问句，不要只把它当普通疑问句听。Sunny 建议马上判断它问的是谁、什么现象、为什么或怎样发生；这个问题通常就是文章主题。后面的内容往往是在回答这个问题，所以笔记可以按“问题 -> 原因/解释 -> 结论”来组织。"
+  },
+  {
+    "id": "sunpace-listening-sst-two-ways-list",
+    "title": "SST 听到 two ways 或 two reasons 怎么记",
+    "keywords": [
+      "SST",
+      "two ways",
+      "two reasons",
+      "两种方式",
+      "两个原因",
+      "列表结构",
+      "first",
+      "second"
+    ],
+    "answer": "SST 听到 two ways、two reasons、two factors 时，要立刻准备分点。Sunny 建议笔记写成 1 和 2：每一点先记一个核心名词或词组，再补动词关系。不要把两个原因混在一行，否则写 summary 时容易漏掉其中一条。"
+  },
+  {
+    "id": "sunpace-listening-sst-speed-and-stress",
+    "title": "SST 语速突然变快或变慢怎么处理",
+    "keywords": [
+      "SST",
+      "语速",
+      "变快",
+      "变慢",
+      "重读",
+      "放慢",
+      "听不清",
+      "stress"
+    ],
+    "answer": "SST 语速突然变快时，不要慌，很多快速段只是补充细节。Sunny 建议优先抓语速放慢、声音更清楚、重读更明显的位置，因为那里常常是解释、结论或关键词。听不清的快段可以放过，先保住主题词、转折词和被强调的词组。"
+  },
+  {
+    "id": "sunpace-listening-sst-explain-terms-from-to",
+    "title": "SST 术语解释怎么写得清楚",
+    "keywords": [
+      "SST",
+      "术语解释",
+      "definition",
+      "from to",
+      "move from",
+      "devolution",
+      "解释概念",
+      "转移"
+    ],
+    "answer": "SST 里遇到新术语时，后面常常会跟解释。Sunny 建议听定义时抓动词结构，比如 move something from A to B、refer to、mean、be defined as。写答案时不用复述所有例子，只要把术语和解释关系写清楚，比如某种变化是把权力、资源或信息从一个层级转到另一个层级。"
   }
 ]
