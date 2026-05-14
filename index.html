@@ -485,9 +485,14 @@
   .sunny-head {
     display: flex;
     gap: 14px;
-    align-items: center;
+    align-items: flex-start;
     padding: 18px 18px 14px;
     border-bottom: 1px solid rgba(255,255,255,0.06);
+  }
+  .sunny-head-main {
+    flex: 1;
+    min-width: 0;
+    padding-right: 18px;
   }
   .sunny-panel-img {
     width: 74px;
@@ -566,6 +571,55 @@
     padding: 0 16px 12px;
     overflow-x: auto;
   }
+  .sunny-diagnosis-open {
+    margin-top: 8px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: linear-gradient(135deg, var(--orange), var(--orange-lt));
+    border: 1px solid rgba(255,205,164,0.5);
+    border-radius: 999px;
+    color: #fff;
+    padding: 6px 9px 6px 11px;
+    font: inherit;
+    cursor: pointer;
+    text-align: left;
+    box-shadow: 0 6px 16px rgba(240,120,32,0.22);
+    transition: background 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
+  }
+  .sunny-diagnosis-text {
+    min-width: 0;
+  }
+  .sunny-diagnosis-text strong {
+    display: block;
+    font-size: 0.66rem;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+  }
+  .sunny-diagnosis-note {
+    display: none;
+  }
+  .sunny-diagnosis-open::after {
+    content: "›";
+    width: 15px;
+    height: 15px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 0.82rem;
+    line-height: 1;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.18);
+  }
+  .sunny-diagnosis-open:hover {
+    transform: translateY(-1px);
+    border-color: rgba(255,224,196,0.72);
+  }
+  .sunny-diagnosis-open:active {
+    transform: translateY(0);
+  }
   .sunny-quick button {
     flex: 0 0 auto;
     background: rgba(255,255,255,0.05);
@@ -575,11 +629,6 @@
     padding: 7px 10px;
     font-size: 0.68rem;
     cursor: pointer;
-  }
-  .sunny-quick button.sunny-diagnosis-open {
-    color: #fff;
-    background: rgba(240,120,32,0.16);
-    border-color: rgba(240,120,32,0.32);
   }
   .sunny-form {
     display: flex;
@@ -731,6 +780,11 @@
     padding: 10px;
     color: rgba(255,255,255,0.62);
   }
+  .sunny-field-help {
+    color: rgba(255,255,255,0.34);
+    font-size: 0.66rem;
+    line-height: 1.5;
+  }
   .sunny-consent {
     display: flex;
     gap: 9px;
@@ -870,9 +924,15 @@
   <button class="sunny-close" id="sunnyClose">✕</button>
   <div class="sunny-head">
     <img class="sunny-panel-img" src="./sunny_bg.jpg" alt="Sunny 小昇" onerror="this.style.display='none'">
-    <div>
+    <div class="sunny-head-main">
       <div class="sunny-name">小昇 Sunny<span>PTE 助教</span></div>
       <div class="sunny-status">可以问我 PTE 备考、题型、提分节奏和课程安排。</div>
+      <button class="sunny-diagnosis-open" id="sunnyDiagnosisOpen" type="button">
+        <span class="sunny-diagnosis-text">
+          <strong>分数单诊断</strong>
+          <span class="sunny-diagnosis-note">上传截图给教研看</span>
+        </span>
+      </button>
     </div>
   </div>
   <div class="sunny-panel-body">
@@ -880,7 +940,6 @@
       <div class="sunny-msg">嗨，我是 <em>Sunny</em>，小昇学姐在线。PTE 备考、题型、提分节奏和课程安排都可以问我；生活闲聊我会轻轻拦住，免得你复习跑偏。</div>
     </div>
     <div class="sunny-quick" aria-label="快捷问题">
-      <button class="sunny-diagnosis-open" id="sunnyDiagnosisOpen" type="button">分数单诊断</button>
       <button type="button" data-question="PTE 58 到 65 应该怎么备考？">58 到 65</button>
       <button type="button" data-question="PTE 口语 RA 和 DI 怎么提分？">口语提分</button>
       <button type="button" data-question="高校 PTE 集训营适合什么基础？">集训营适合谁</button>
@@ -898,7 +957,7 @@
     <div class="sunny-diagnosis-head">
       <div>
         <div class="sunny-diagnosis-title" id="sunnyDiagnosisTitle">分数单诊断</div>
-        <div class="sunny-diagnosis-sub">把目标分、考试时间和分数单发给 Sunny，教研老师会按四项和题型优先级做判断。</div>
+        <div class="sunny-diagnosis-sub">先填目标分和当前情况；有分数单截图或 PDF 可以一起上传，方便教研判断。</div>
       </div>
       <button class="sunny-diagnosis-close" id="sunnyDiagnosisClose" type="button" aria-label="关闭分数单诊断">✕</button>
     </div>
@@ -943,8 +1002,9 @@
         </div>
       </div>
       <div class="sunny-field">
-        <label for="diagnosisReport">分数单截图</label>
-        <input id="diagnosisReport" name="scoreReport" type="file" accept="image/*,.pdf" required>
+        <label for="diagnosisReport">分数单截图/PDF（可选）</label>
+        <input id="diagnosisReport" name="scoreReport" type="file" accept="image/*,.pdf">
+        <div class="sunny-field-help">电脑端选择本地文件；手机端可从相册或文件中选择。</div>
       </div>
       <div class="sunny-field">
         <label for="diagnosisIssue">目前最想解决的问题</label>
@@ -1471,9 +1531,9 @@
       }
 
       diagnosisStatus.className = 'sunny-form-status ok';
-      diagnosisStatus.textContent = '已收到。Sunny 会把分数单和目标分整理给教研老师。';
+      diagnosisStatus.textContent = '已收到。Sunny 会把你的目标分和已填写信息整理给教研老师。';
       addSunnyMessage('我提交了分数单诊断', 'user');
-      await addSunnyTypedMessage('收到啦。我会先把你的目标分、四项分数和分数单整理好，正式诊断交给 SunPace 教研老师来判断。小提醒：如果分数单里有姓名或证件号，之后也可以发遮挡版，更安心。');
+      await addSunnyTypedMessage('收到啦。我会先把你的目标分、四项分数和已填写信息整理好，正式诊断交给 SunPace 教研老师来判断。小提醒：如果之后补充分数单截图，记得遮住姓名或证件号，更安心。');
       diagnosisForm.reset();
       window.setTimeout(closeDiagnosis, 900);
     } catch (err) {
