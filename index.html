@@ -576,6 +576,11 @@
     font-size: 0.68rem;
     cursor: pointer;
   }
+  .sunny-quick button.sunny-diagnosis-open {
+    color: #fff;
+    background: rgba(240,120,32,0.16);
+    border-color: rgba(240,120,32,0.32);
+  }
   .sunny-form {
     display: flex;
     gap: 8px;
@@ -623,6 +628,163 @@
   }
   .sunny-close:hover { color: rgba(255,255,255,0.7); }
 
+  /* ── SUNNY DIAGNOSIS ── */
+  .sunny-diagnosis {
+    position: fixed;
+    inset: 0;
+    z-index: 210;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background: rgba(7,12,32,0.68);
+    backdrop-filter: blur(12px);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s ease;
+  }
+  .sunny-diagnosis.active {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  .sunny-diagnosis-card {
+    width: min(520px, 100%);
+    max-height: min(760px, calc(100vh - 40px));
+    overflow-y: auto;
+    background: rgba(13,22,56,0.98);
+    border: 1px solid rgba(240,120,32,0.28);
+    border-radius: 18px;
+    box-shadow: 0 24px 80px rgba(0,0,0,0.35);
+  }
+  .sunny-diagnosis-head {
+    display: flex;
+    justify-content: space-between;
+    gap: 18px;
+    padding: 20px 20px 14px;
+    border-bottom: 1px solid rgba(255,255,255,0.07);
+  }
+  .sunny-diagnosis-title {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+  }
+  .sunny-diagnosis-sub {
+    margin-top: 6px;
+    color: rgba(255,255,255,0.48);
+    font-size: 0.72rem;
+    line-height: 1.7;
+  }
+  .sunny-diagnosis-close {
+    width: 32px;
+    height: 32px;
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 10px;
+    color: rgba(255,255,255,0.55);
+    background: rgba(255,255,255,0.04);
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+  .sunny-diagnosis-form {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    padding: 18px 20px 20px;
+  }
+  .sunny-field-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+  .sunny-field {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .sunny-field label,
+  .sunny-consent {
+    color: rgba(255,255,255,0.66);
+    font-size: 0.72rem;
+    line-height: 1.5;
+  }
+  .sunny-field input,
+  .sunny-field select,
+  .sunny-field textarea {
+    width: 100%;
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 12px;
+    background: rgba(255,255,255,0.06);
+    color: #fff;
+    padding: 11px 12px;
+    outline: none;
+    font: inherit;
+    font-size: 0.78rem;
+  }
+  .sunny-field textarea {
+    min-height: 92px;
+    resize: vertical;
+  }
+  .sunny-field input::placeholder,
+  .sunny-field textarea::placeholder {
+    color: rgba(255,255,255,0.28);
+  }
+  .sunny-field input[type="file"] {
+    padding: 10px;
+    color: rgba(255,255,255,0.62);
+  }
+  .sunny-consent {
+    display: flex;
+    gap: 9px;
+    align-items: flex-start;
+  }
+  .sunny-consent input {
+    margin-top: 3px;
+    accent-color: var(--orange);
+  }
+  .sunny-diagnosis-actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-top: 2px;
+  }
+  .sunny-diagnosis-note {
+    color: rgba(255,255,255,0.38);
+    font-size: 0.66rem;
+    line-height: 1.6;
+  }
+  .sunny-diagnosis-submit {
+    border: none;
+    border-radius: 12px;
+    background: linear-gradient(135deg, var(--orange), var(--orange-lt));
+    color: #fff;
+    padding: 12px 16px;
+    font-weight: 700;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .sunny-diagnosis-submit:disabled {
+    opacity: 0.58;
+    cursor: not-allowed;
+  }
+  .sunny-form-status {
+    min-height: 20px;
+    color: rgba(255,255,255,0.56);
+    font-size: 0.72rem;
+    line-height: 1.6;
+  }
+  .sunny-form-status.ok { color: #9be7b0; }
+  .sunny-form-status.error { color: #ffb0a3; }
+  .sunny-honeypot {
+    position: absolute;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+  }
+
   @keyframes sunny-float {
     0%,100% { transform: translateY(0px); }
     50%      { transform: translateY(-4px); }
@@ -647,6 +809,9 @@
     .event-day { min-height: 72px; width: 92px; }
     .sunny-panel { right: 16px; bottom: 82px; }
     .sunny-trigger { right: 18px; bottom: 22px; }
+    .sunny-field-grid { grid-template-columns: 1fr; }
+    .sunny-diagnosis-actions { flex-direction: column; align-items: stretch; }
+    .sunny-diagnosis-submit { width: 100%; }
     .stat:first-child { border-radius: 14px 0 0 0; }
     .stat:nth-child(2) { border-radius: 0 14px 0 0; }
     .stat:nth-child(3) { border-radius: 0 0 0 14px; }
@@ -715,6 +880,7 @@
       <div class="sunny-msg">嗨，我是 <em>Sunny</em>，小昇学姐在线。PTE 备考、题型、提分节奏和课程安排都可以问我；生活闲聊我会轻轻拦住，免得你复习跑偏。</div>
     </div>
     <div class="sunny-quick" aria-label="快捷问题">
+      <button class="sunny-diagnosis-open" id="sunnyDiagnosisOpen" type="button">分数单诊断</button>
       <button type="button" data-question="PTE 58 到 65 应该怎么备考？">58 到 65</button>
       <button type="button" data-question="PTE 口语 RA 和 DI 怎么提分？">口语提分</button>
       <button type="button" data-question="高校 PTE 集训营适合什么基础？">集训营适合谁</button>
@@ -722,6 +888,81 @@
     <form class="sunny-form" id="sunnyForm">
       <input class="sunny-input" id="sunnyInput" name="question" type="text" maxlength="180" autocomplete="off" placeholder="输入你的 PTE 问题">
       <button class="sunny-send" id="sunnySend" type="submit">发送</button>
+    </form>
+  </div>
+</div>
+
+<!-- SUNNY SCORE DIAGNOSIS -->
+<div class="sunny-diagnosis" id="sunnyDiagnosis" aria-hidden="true">
+  <div class="sunny-diagnosis-card" role="dialog" aria-modal="true" aria-labelledby="sunnyDiagnosisTitle">
+    <div class="sunny-diagnosis-head">
+      <div>
+        <div class="sunny-diagnosis-title" id="sunnyDiagnosisTitle">分数单诊断</div>
+        <div class="sunny-diagnosis-sub">把目标分、考试时间和分数单发给 Sunny，教研老师会按四项和题型优先级做判断。</div>
+      </div>
+      <button class="sunny-diagnosis-close" id="sunnyDiagnosisClose" type="button" aria-label="关闭分数单诊断">✕</button>
+    </div>
+    <form class="sunny-diagnosis-form" id="sunnyDiagnosisForm" name="sunny-score-diagnosis" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" enctype="multipart/form-data">
+      <input type="hidden" name="form-name" value="sunny-score-diagnosis">
+      <p class="sunny-honeypot">
+        <label>不要填写这一栏 <input name="bot-field"></label>
+      </p>
+      <div class="sunny-field-grid">
+        <div class="sunny-field">
+          <label for="diagnosisTarget">目标分</label>
+          <select id="diagnosisTarget" name="targetScore" required>
+            <option value="">选择目标</option>
+            <option value="50">50</option>
+            <option value="58">58</option>
+            <option value="65">65</option>
+            <option value="79">79</option>
+            <option value="other">其他</option>
+          </select>
+        </div>
+        <div class="sunny-field">
+          <label for="diagnosisExamDate">下次考试时间</label>
+          <input id="diagnosisExamDate" name="examDate" type="date">
+        </div>
+      </div>
+      <div class="sunny-field-grid">
+        <div class="sunny-field">
+          <label for="diagnosisListening">听力 L</label>
+          <input id="diagnosisListening" name="listeningScore" type="number" min="10" max="90" inputmode="numeric" placeholder="例如 54">
+        </div>
+        <div class="sunny-field">
+          <label for="diagnosisReading">阅读 R</label>
+          <input id="diagnosisReading" name="readingScore" type="number" min="10" max="90" inputmode="numeric" placeholder="例如 58">
+        </div>
+        <div class="sunny-field">
+          <label for="diagnosisSpeaking">口语 S</label>
+          <input id="diagnosisSpeaking" name="speakingScore" type="number" min="10" max="90" inputmode="numeric" placeholder="例如 50">
+        </div>
+        <div class="sunny-field">
+          <label for="diagnosisWriting">写作 W</label>
+          <input id="diagnosisWriting" name="writingScore" type="number" min="10" max="90" inputmode="numeric" placeholder="例如 60">
+        </div>
+      </div>
+      <div class="sunny-field">
+        <label for="diagnosisReport">分数单截图</label>
+        <input id="diagnosisReport" name="scoreReport" type="file" accept="image/*,.pdf" required>
+      </div>
+      <div class="sunny-field">
+        <label for="diagnosisIssue">目前最想解决的问题</label>
+        <textarea id="diagnosisIssue" name="mainConcern" maxlength="500" placeholder="例如：目标 65，口语和听力一直卡住；或者 2 周后考试，不知道先救哪一项。"></textarea>
+      </div>
+      <div class="sunny-field">
+        <label for="diagnosisContact">微信或手机号</label>
+        <input id="diagnosisContact" name="contact" type="text" maxlength="80" autocomplete="tel" placeholder="方便老师联系你" required>
+      </div>
+      <label class="sunny-consent">
+        <input id="diagnosisConsent" name="privacyConsent" type="checkbox" value="yes" required>
+        <span>我同意 SunPace 使用这些信息做 PTE 诊断。分数单仅用于教研诊断，不公开展示；建议遮住姓名、证件号等个人信息。</span>
+      </label>
+      <div class="sunny-form-status" id="sunnyDiagnosisStatus" aria-live="polite"></div>
+      <div class="sunny-diagnosis-actions">
+        <div class="sunny-diagnosis-note">Sunny 会先整理情况，正式诊断由教研老师接管。</div>
+        <button class="sunny-diagnosis-submit" id="sunnyDiagnosisSubmit" type="submit">提交给 Sunny</button>
+      </div>
     </form>
   </div>
 </div>
@@ -998,6 +1239,13 @@
   const input   = document.getElementById('sunnyInput');
   const send    = document.getElementById('sunnySend');
   const quicks  = document.querySelectorAll('[data-question]');
+  const diagnosisOpen = document.getElementById('sunnyDiagnosisOpen');
+  const diagnosis = document.getElementById('sunnyDiagnosis');
+  const diagnosisClose = document.getElementById('sunnyDiagnosisClose');
+  const diagnosisForm = document.getElementById('sunnyDiagnosisForm');
+  const diagnosisSubmit = document.getElementById('sunnyDiagnosisSubmit');
+  const diagnosisStatus = document.getElementById('sunnyDiagnosisStatus');
+  const diagnosisReport = document.getElementById('diagnosisReport');
   window.SUNNY_UI_VERSION = 'typewriter-slow-20260514';
   const sunnyScopeKeywords = [
     'pte', 'pearson', 'academic', 'core', 'sunpace', '昇培', '小昇', 'sunny',
@@ -1029,6 +1277,18 @@
     window.setTimeout(() => input.focus(), 120);
   }
 
+  function openDiagnosis() {
+    diagnosis.classList.add('active');
+    diagnosis.setAttribute('aria-hidden', 'false');
+    openSunnyPanel();
+    window.setTimeout(() => document.getElementById('diagnosisTarget')?.focus(), 120);
+  }
+
+  function closeDiagnosis() {
+    diagnosis.classList.remove('active');
+    diagnosis.setAttribute('aria-hidden', 'true');
+  }
+
   trigger.addEventListener('click', () => {
     panel.classList.toggle('active');
     trigger.classList.toggle('panel-open');
@@ -1037,7 +1297,18 @@
     panel.classList.remove('active');
     trigger.classList.remove('panel-open');
   });
+  diagnosisOpen.addEventListener('click', openDiagnosis);
+  diagnosisClose.addEventListener('click', closeDiagnosis);
+  diagnosis.addEventListener('click', e => {
+    if (e.target === diagnosis) closeDiagnosis();
+  });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && diagnosis.classList.contains('active')) {
+      closeDiagnosis();
+    }
+  });
   document.addEventListener('click', e => {
+    if (diagnosis.contains(e.target)) return;
     if (!panel.contains(e.target) && e.target !== trigger) {
       panel.classList.remove('active');
       trigger.classList.remove('panel-open');
@@ -1171,9 +1442,54 @@
     btn.addEventListener('click', () => askSunny(btn.dataset.question || ''));
   });
 
+  diagnosisForm.addEventListener('submit', async e => {
+    e.preventDefault();
+    diagnosisStatus.className = 'sunny-form-status';
+    diagnosisStatus.textContent = '';
+
+    const file = diagnosisReport.files?.[0];
+    if (file && file.size > 8 * 1024 * 1024) {
+      diagnosisStatus.className = 'sunny-form-status error';
+      diagnosisStatus.textContent = '截图有点大，先压到 8MB 以内再提交。';
+      return;
+    }
+
+    diagnosisSubmit.disabled = true;
+    diagnosisStatus.textContent = 'Sunny 正在整理你的诊断信息...';
+
+    try {
+      const formData = new FormData(diagnosisForm);
+
+      if (window.location.protocol === 'file:') {
+        await sleep(700);
+      } else {
+        const res = await fetch('/', {
+          method: 'POST',
+          body: formData
+        });
+        if (!res.ok) throw new Error('diagnosis submit failed');
+      }
+
+      diagnosisStatus.className = 'sunny-form-status ok';
+      diagnosisStatus.textContent = '已收到。Sunny 会把分数单和目标分整理给教研老师。';
+      addSunnyMessage('我提交了分数单诊断', 'user');
+      await addSunnyTypedMessage('收到啦。我会先把你的目标分、四项分数和分数单整理好，正式诊断交给 SunPace 教研老师来判断。小提醒：如果分数单里有姓名或证件号，之后也可以发遮挡版，更安心。');
+      diagnosisForm.reset();
+      window.setTimeout(closeDiagnosis, 900);
+    } catch (err) {
+      diagnosisStatus.className = 'sunny-form-status error';
+      diagnosisStatus.textContent = '提交暂时没有成功。可以稍后再试，或先把分数单发给顾问。';
+    } finally {
+      diagnosisSubmit.disabled = false;
+    }
+  });
+
   const sunnyParams = new URLSearchParams(window.location.search);
   if (sunnyParams.get('sunny') === '1' || window.location.hash === '#sunny') {
     openSunnyPanel();
+  }
+  if (sunnyParams.get('diagnosis') === '1' || window.location.hash === '#diagnosis') {
+    openDiagnosis();
   }
 </script>
 </body>
