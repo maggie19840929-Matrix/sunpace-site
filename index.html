@@ -940,6 +940,7 @@
       <div class="sunny-msg">嗨，我是 <em>Sunny</em>，小昇学姐在线。PTE 备考、题型、提分节奏和课程安排都可以问我；生活闲聊我会轻轻拦住，免得你复习跑偏。</div>
     </div>
     <div class="sunny-quick" aria-label="快捷问题">
+      <button type="button" data-question="PTE 50 到 58 应该怎么备考？">50 到 58</button>
       <button type="button" data-question="PTE 58 到 65 应该怎么备考？">58 到 65</button>
       <button type="button" data-question="PTE 口语 RA 和 DI 怎么提分？">口语提分</button>
       <button type="button" data-question="高校 PTE 集训营适合什么基础？">集训营适合谁</button>
@@ -1314,6 +1315,10 @@
     'summarize spoken text', 'summarize written text', 'write essay', 'response to situation',
     '口语', '听力', '阅读', '写作', '朗读', '复述', '听写', '小作文', '大作文',
     '题型', '模考', '备考', '提分', '目标分', '当前分', '分数', '评分', '机经', '高频',
+    '成绩单', '分数单', '小分', '供分', '权重', '题型权重', 'skills profile', 'score report',
+    'speaking', 'listening', 'reading', 'writing', 'short speaking', 'extended speaking',
+    'short writing', 'extended writing', 'open response', 'reproducing', 'comprehension',
+    '50到58', '50 到 58', '50-58', '58到65', '58 到 65', '58-65', '目标58', '目标65', '目标79',
     '模板', '词汇', '语法', '发音', '流利度', '卡顿', '回读', '错题', '复盘',
     '考试', '考位', '报名', '换题', '课程', '集训', '顾问', '企业微信',
     '留学', '澳洲', '签证', '语言班', '英语考试'
@@ -1321,7 +1326,7 @@
   const sunnyGreetingPatterns = [
     /^(hi|hello|hey|你好|您好|哈喽|hello sunny|hi sunny|在吗|在不在|你是谁|你能做什么|你会什么)[\s!！。?？]*$/i
   ];
-  const sunnyOutOfScopeReply = '这个问题先被 Sunny 学姐拦一下哈。我现在主要负责 SunPace 的 PTE 备考、题型训练、模考诊断、课程安排和留学备考相关问题。天气、八卦、闲聊和生活百科我就不展开啦，怕把你的备考节奏带跑偏。你可以直接问我：RA 怎么练、WFD 怎么提分、58 到 65 怎么规划，或者我适合哪个课程。';
+  const sunnyOutOfScopeReply = '这个问题先被 Sunny 学姐拦一下哈。我现在主要负责 SunPace 的 PTE 备考、题型训练、模考诊断、课程安排和留学备考相关问题。天气、八卦、闲聊和生活百科我就不展开啦，怕把你的备考节奏带跑偏。你可以直接问我：RA 怎么练、WFD 怎么提分、50 到 58 怎么规划，或者发分数单做诊断。';
   const sunnyGreetingReply = '来啦，我是 Sunny，小昇学姐在线。我主要帮你看 PTE 备考、题型提分、模考诊断和 SunPace 课程安排。你可以直接把当前分数、目标分数和考试时间丢给我，我帮你先拆训练优先级。';
   const sunnyThinkingTexts = [
     'Sunny 学姐翻一下课程库...',

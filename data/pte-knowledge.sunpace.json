@@ -15,6 +15,24 @@
     "answer": "Sunny 建议先不要急着刷题，第一步是做一次完整模考，判断你的短板是在口语流利度、听力精听、阅读词汇，还是写作结构。诊断后再按目标分拆训练：50-65 分段优先抓 RA、RS、DI、WFD、WE；65+ 还要加强 SST、FIB、RO 和错题复盘。没有诊断就直接学模板，容易忙一周但不知道分数为什么没动。"
   },
   {
+    "id": "sunpace-plan-50-58",
+    "title": "PTE 50 到 58 提分路径",
+    "keywords": [
+      "50",
+      "58",
+      "50到58",
+      "50 到 58",
+      "50-58",
+      "目标58",
+      "pte 58",
+      "低分段",
+      "基础薄弱",
+      "四个50",
+      "四个58"
+    ],
+    "answer": "50 到 58 这一档，Sunny 不建议一上来按 65 的强度猛冲，先把“能稳定拿分的基础盘”守住。第一优先级是 RA、RS、DI 和 WFD：RA 先做到不断句、不回读、声音清楚；RS 先抓主干和意群，不追求长句逐字满还原；DI 用简单模板说满 30 秒左右；WFD 每天精练 15-20 句，把漏词、复数、时态和拼写错分开记。第二优先级是 WE/SWT 的结构和基础语法，再补阅读 FIB 的词性、搭配。这个分段先追求“少送分、不断档、有复盘”，别被太多小题带乱。"
+  },
+  {
     "id": "sunpace-plan-58-65",
     "title": "PTE 58 到 65 提分路径",
     "keywords": [
@@ -212,9 +230,71 @@
       "Score Guide",
       "分数",
       "PTE Academic Score Guide",
-      "怎么算分"
+      "怎么算分",
+      "供分",
+      "权重",
+      "题型权重",
+      "Question Weighting",
+      "交叉供分"
     ],
-    "answer": "PTE 评分要看题型贡献，不要只看单项总分。口语、听力、阅读、写作之间有交叉贡献，比如 RA 会影响口语和阅读，WFD 会影响听力和写作。备考时优先抓高权重且可训练的题型：RA、RS、DI、WFD、WE、SWT，再根据模考报告补短板。"
+    "answer": "PTE 评分要看题型贡献，不要只看单项总分。按官方题型权重理解，口语里 DI、SGD、RS、RL、RTS、RA 都有明显贡献；写作里 WE、SWT、WFD、SST 是关键；阅读里 FIB 下拉、SWT、FIB 拖拽、HIW 和 RO 更值得优先处理；听力里 SGD、RS、RL、WFD、SST、HIW 和 FIB Type In 更关键。Sunny 会把它翻译成备考动作：先抓高权重、可训练、能交叉供分的题型，再用低权重选择题做补充。"
+  },
+  {
+    "id": "sunpace-official-question-weighting-priorities",
+    "title": "PTE 官方题型权重下的提分关键",
+    "keywords": [
+      "官方权重",
+      "题型权重",
+      "Question Weighting",
+      "供分表",
+      "供分",
+      "权重",
+      "官方",
+      "哪些题最重要",
+      "哪些题型最重要",
+      "最重要",
+      "提分关键",
+      "高权重题型",
+      "分值占比",
+      "抓大放小"
+    ],
+    "answer": "如果按官方平均题型权重来排，提分要先抓大头。口语重点看 DI、SGD、RS、RL、RTS 和 RA，其中 DI、SGD、RS 对口语贡献尤其明显；写作重点是 WE、SWT、WFD 和 SST；阅读重点是 FIB 下拉、SWT、FIB 拖拽、HIW 和 RO；听力重点是 SGD、RS、RL、WFD、SST、HIW 和听力 FIB。选择题、SMW、HCS 这类可以练，但目标 50-65 的同学不要把主力时间压在低权重题上。Sunny 的顺序通常是：先稳 RA/RS/DI/WFD，再根据分数单补 WE/SWT/SST/FIB/RO/HIW。"
+  },
+  {
+    "id": "sunpace-score-report-diagnosis-by-subscore",
+    "title": "PTE 成绩单四项小分怎么诊断",
+    "keywords": [
+      "成绩单",
+      "分数单",
+      "小分",
+      "诊断",
+      "score report",
+      "profile",
+      "口语低",
+      "听力低",
+      "阅读低",
+      "写作低",
+      "哪项先补"
+    ],
+    "answer": "看 PTE 成绩单时，Sunny 不会只看“哪一项低”，而是反推背后的题型。口语低，先查 DI、SGD、RS、RL、RTS、RA，尤其看流利度、发音、卡顿和内容相关性；听力低，重点查 SGD、RS、RL、WFD、SST、HIW 和听力 FIB，是不是听不住句子、漏关键词或拼写不稳；阅读低，先看 FIB 下拉、SWT、FIB 拖拽、HIW、RO，是词性搭配弱还是句间逻辑弱；写作低，优先查 WE、SWT、WFD、SST，是结构、语法、拼写还是漏词。目标 50-58 先救高权重和基础错误，目标 58-65 再增加稳定性和错题复盘。"
+  },
+  {
+    "id": "sunpace-skills-profile-question-mapping",
+    "title": "PTE Skills Profile 对应哪些题型",
+    "keywords": [
+      "Skills Profile",
+      "技能画像",
+      "open response",
+      "reproducing",
+      "extended writing",
+      "short writing",
+      "extended speaking",
+      "short speaking",
+      "multiple skills comprehension",
+      "single skill comprehension",
+      "成绩单画像"
+    ],
+    "answer": "Skills Profile 更适合做学习反馈，不要把它当成单独的正式分数。看到 Open response speaking & writing，Sunny 会联想到 DI、RL、SGD、RTS、SWT、WE、SST；看到 Reproducing spoken & written language，会重点看 RA、RS、WFD；Extended writing 对应 SWT、WE、SST；Short writing 对应 WFD；Extended speaking 对应 DI、RL、SGD、RTS；Short speaking 对应 RA、RS；Multiple skills comprehension 会牵到 RS、RL、SGD、SWT、SST、HCS、HIW、WFD；Single skill comprehension 多对应 ASQ、RTS、FIB、RO、选择题和 SMW。用它诊断时，要回到具体题型和训练动作，别只盯一个标签焦虑。"
   },
   {
     "id": "sunpace-mock-review",
@@ -2989,5 +3069,795 @@
       "主题"
     ],
     "answer": "SST 遇到概念定义类文章，可以按“主题词 + 定义 + 作用/例子 + 结论”来组织。比如一个术语、一本书、一个理论或一个技术出现时，先说明它是什么，再写它解决什么问题、带来什么影响，最后补一个例子或对比。不要只堆专有名词；Sunny 更看重你能不能把概念之间的关系写清楚。"
+  },
+  {
+    "id": "sunpace-listening-sst-high-frequency-four-step-loop",
+    "title": "SST 高频题应该怎么复习",
+    "keywords": [
+      "SST",
+      "高频题",
+      "真题音频",
+      "近似音频",
+      "不完整题",
+      "参考答案",
+      "关键词",
+      "听记",
+      "复习方法"
+    ],
+    "answer": "SST 高频题不要一上来就背答案，Sunny 建议用四步走：先读参考答案，弄懂这篇到底在讲什么；再把参考答案当 RA 材料读几遍，熟悉关键词的发音和拼写；然后边看边听，标出自己真的听到的关键词；最后关掉答案做一次听记。这样练出来的是“听到关键词就能反应”的能力，不是临场硬想背过哪一篇。"
+  },
+  {
+    "id": "sunpace-listening-sst-keyword-stress-repeat",
+    "title": "SST 听不全时怎么抓关键词",
+    "keywords": [
+      "SST",
+      "关键词",
+      "语气强调",
+      "重复",
+      "放慢",
+      "主题词",
+      "笔记",
+      "听力",
+      "summary"
+    ],
+    "answer": "SST 听不全很正常，别急着把每个词都抓住。Sunny 会让你优先盯三类信号：老师明显放慢或加重语气的词、反复出现的词、开头或段落转折处出现的主题词。比如情绪、经济危机、市场经济、语言消亡这类词如果反复出现，通常就是 summary 的骨架。先抓骨架，再补原因、影响、例子，小手别抖，够用了。"
+  },
+  {
+    "id": "sunpace-listening-sst-long-sentence-note-taking",
+    "title": "SST 长句信息太密怎么记",
+    "keywords": [
+      "SST",
+      "长句",
+      "信息密集",
+      "从句",
+      "名词性从句",
+      "AI",
+      "global economy",
+      "笔记",
+      "summary"
+    ],
+    "answer": "SST 遇到很长、信息很密的句子，不要整句照搬。Sunny 建议先找主干：谁或什么主题，发生了什么，带来什么结果。遇到 what/how/why 这种从句，可以把它当成一个名词块来记，比如“what brains do”可以理解成“大脑如何运作”。笔记里先写 AI、human brains、technology、global economy 这类核心名词，再用 affects、causes、leads to、is related to 把关系串起来。"
+  },
+  {
+    "id": "sunpace-listening-sst-academic-term-spelling",
+    "title": "SST 学术词听到了但不会写怎么办",
+    "keywords": [
+      "SST",
+      "学术词",
+      "拼写",
+      "发音",
+      "Artificial Intelligence",
+      "dendrochronology",
+      "ambiguous",
+      "multitude",
+      "关键词"
+    ],
+    "answer": "SST 里的学术词不需要你每个都像词典一样完美，但高频主题词要尽量会读会写。Sunny 建议把长词按发音拆块，比如 Artificial Intelligence、ambiguous、multitude 这类词，先记重音和大概拼写；特别长的术语可以先记主题含义，再补拼写。考试里如果一个词是全文核心，尽量写完整；如果只是细节词，别为了它丢掉后面的原因和结果。"
+  },
+  {
+    "id": "sunpace-listening-sst-problem-solution-structure",
+    "title": "SST 问题解决类文章怎么写",
+    "keywords": [
+      "SST",
+      "问题解决",
+      "food crisis",
+      "market economy",
+      "language in danger",
+      "cause",
+      "effect",
+      "solution",
+      "结构"
+    ],
+    "answer": "很多 SST 都是“问题 + 原因 + 影响 + 解决”的结构，比如粮食危机、市场经济负面影响、语言消亡这类。Sunny 建议你听的时候把笔记分四栏：problem、causes、effects、solutions。写 summary 时先点出问题，再写一两个主要原因和影响，最后补措施或结论。这样即使你没听全，也能写出一段逻辑完整的答案，不会像把关键词撒在纸上一样散。"
+  },
+  {
+    "id": "sunpace-speaking-ra-pause-by-breath-unit",
+    "title": "RA 长句一口气读不完怎么办",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "长句",
+      "停顿",
+      "气息",
+      "标点",
+      "意群",
+      "慢速跟读",
+      "口语"
+    ],
+    "answer": "RA 长句不要硬憋到标点，憋到最后声音会塌，机器也不爱听。Sunny 建议先按标点看大结构，如果一口气读不到标点，就按意群停：主语和谓语之间、定语从句前、并列结构前后都可以作为备选停顿点。停顿没有唯一答案，关键是读出来顺、气息稳、意思不断。先慢速找到舒服的停顿，再逐步提到考试速度。"
+  },
+  {
+    "id": "sunpace-speaking-ra-avoid-word-by-word",
+    "title": "RA 为什么不能一个词一个词读",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "一个词一个词",
+      "断读",
+      "连读",
+      "音波",
+      "流利度",
+      "发音",
+      "口语"
+    ],
+    "answer": "RA 最怕读成“一个词、一个词、一个词”的小碎步。Sunny 会让你先保证声音连起来，哪怕不会很漂亮的连读，也不要把每个词都切断。比如 those of a student 这类短语，至少要读成一个小块，而不是每个词都孤零零掉出来。机器听的是连续音流，声音越碎，流利度和识别稳定性越容易受影响。"
+  },
+  {
+    "id": "sunpace-listening-sst-question-opening-signal",
+    "title": "SST 开头是问句要怎么处理",
+    "keywords": [
+      "SST",
+      "问句开头",
+      "信号词",
+      "主题",
+      "research",
+      "baby smile",
+      "文章结构",
+      "听力"
+    ],
+    "answer": "SST 如果开头用了问句，通常不是闲聊，而是在提示整篇要讨论的核心问题。Sunny 建议你听到问句时先记主题，比如“婴儿为什么笑”“某个现象为什么重要”，后面大概率会跟实验、原因、结论。写 summary 时不用复述问句本身，可以改成陈述：the lecture discusses...，再补研究过程和发现。"
+  },
+  {
+    "id": "sunpace-listening-sst-list-examples-selectively",
+    "title": "SST 听到一串例子要全写吗",
+    "keywords": [
+      "SST",
+      "例子",
+      "列举",
+      "学科",
+      "organization studies",
+      "social science",
+      "psychology",
+      "economics",
+      "summary"
+    ],
+    "answer": "SST 听到一串例子不用全写，尤其是 social science、psychology、sociology、economics 这种连续列举。Sunny 建议先记上位概念，比如 organization studies is interdisciplinary，再挑两三个你最确定的例子。例子是用来支撑主旨的，不是让你和录音拼手速。主旨稳住，例子写对两三个，比硬写一串错词更划算。"
+  },
+  {
+    "id": "sunpace-listening-sst-interview-qa-structure",
+    "title": "SST 遇到采访问答怎么记",
+    "keywords": [
+      "SST",
+      "采访",
+      "问答",
+      "recycling water",
+      "because",
+      "so",
+      "原因",
+      "回答",
+      "笔记"
+    ],
+    "answer": "SST 如果是采访问答，不要把两个人的话分开硬记。Sunny 建议先听问题，因为问题通常直接暴露主题；再抓回答里的 because、so、therefore 这类原因和结果信号。比如问为什么要循环用水，答案就重点记 fresh water 不够、需求增长、总水量变化跟不上使用速度。写的时候用一段话概括问答关系就行。"
+  },
+  {
+    "id": "sunpace-listening-sst-history-development-structure",
+    "title": "SST 历史发展类文章怎么写",
+    "keywords": [
+      "SST",
+      "历史发展",
+      "software",
+      "technology",
+      "discipline",
+      "timeline",
+      "影响",
+      "未来",
+      "结构"
+    ],
+    "answer": "历史发展类 SST 可以按时间线来写：起点、发展、影响、未来。比如软件史这类文章，先写它作为新技术和新学科出现，再写它如何融入生活或社会，最后补未来探索。Sunny 建议你重点抓 extraordinary、remarkable、new technology、major discipline 这类评价词，因为它们能帮你判断作者真正想强调的是“发展很快、影响很大”。"
+  },
+  {
+    "id": "sunpace-listening-sst-science-process-terms",
+    "title": "SST 科学类文章术语很多怎么办",
+    "keywords": [
+      "SST",
+      "科学类",
+      "biology",
+      "DNA",
+      "RNA",
+      "synthetic biology",
+      "术语",
+      "过程",
+      "功能"
+    ],
+    "answer": "科学类 SST 术语多，但写作结构其实很固定。Sunny 建议你不要追每个专业词的完美拼写，先抓“研究对象 + 功能 + 应用”。比如 DNA/RNA 可以记成 genetic information, cells, proteins；合成生物学可以记成 using biological methods to solve food, energy or medical problems。听到术语后问自己：它是什么、做什么、带来什么应用。"
+  },
+  {
+    "id": "sunpace-speaking-ra-difficult-words-pass-strategy",
+    "title": "RA 遇到难词要不要一直纠结",
+    "keywords": [
+      "RA",
+      "难词",
+      "生词",
+      "Plato",
+      "Socrates",
+      "pronunciation",
+      "技巧",
+      "慢速跟读",
+      "口语"
+    ],
+    "answer": "RA 遇到难词不要在一个词上死磕到整句崩掉。Sunny 建议先把核心技巧跑顺：意群停顿、重音、声音连贯、整体节奏。难词可以单独拆出来练，比如专有名词、学术词先查读音，再放回句子。考试时如果某个词真的不稳，也要平稳带过去，别因为一个词把后面整串都读散。"
+  },
+  {
+    "id": "sunpace-speaking-ra-punctuation-priority",
+    "title": "RA 标点都要停吗",
+    "keywords": [
+      "RA",
+      "标点",
+      "句号",
+      "逗号",
+      "冒号",
+      "停顿",
+      "意群",
+      "流利度",
+      "口语"
+    ],
+    "answer": "RA 不是每个标点都必须停一样久。Sunny 会让你优先尊重句号，因为句号基本代表一句结束；冒号、分号可以接近小句停顿；逗号要看意思，不是见到就机械停。停顿的目的不是表演标点，而是让句子更好懂、气息更稳。读出来如果像切菜一样一段段断开，就要减少小停顿。"
+  },
+  {
+    "id": "sunpace-speaking-ra-accent-consistency",
+    "title": "RA 英音美音混一点会扣很多分吗",
+    "keywords": [
+      "RA",
+      "英音",
+      "美音",
+      "口音",
+      "发音",
+      "中国学生",
+      "稳定",
+      "清晰",
+      "口语"
+    ],
+    "answer": "RA 不要求你变成纯英音或纯美音，Sunny 更在意的是清晰、稳定、可识别。中国学生如果个别音带一点美音或英音差异，不用过度恐慌；真正要避免的是同一个词每次读法都飘、元音含糊、尾音吞没。先保证关键词读准、重音稳定、声音连续，再慢慢优化口音细节。"
+  },
+  {
+    "id": "sunpace-speaking-ra-word-stress-fullness",
+    "title": "RA 生词要先练什么",
+    "keywords": [
+      "RA",
+      "生词",
+      "重音",
+      "音节",
+      "元音饱满",
+      "pronunciation",
+      "慢速跟读",
+      "口语"
+    ],
+    "answer": "RA 生词不要只看中文意思，先练三个点：重音在哪、主要元音是不是饱满、尾音有没有交代清楚。比如 generation、communication、interactive 这种词，如果重音错了，整词听感会变形。Sunny 建议先单词慢读，再放回短语，最后放回整句；别一上来就追速度，速度太早上去，错误也会跟着上高速。"
+  },
+  {
+    "id": "sunpace-speaking-ra-linking-from-slow-to-normal",
+    "title": "RA 慢速跟读练到什么程度算有效",
+    "keywords": [
+      "RA",
+      "慢速跟读",
+      "正常速度",
+      "连读",
+      "失爆",
+      "节奏",
+      "流利度",
+      "口语"
+    ],
+    "answer": "RA 慢速跟读不是永远慢慢读，而是先把读音、意群和连贯感搭起来。Sunny 建议你先慢速读清楚单词和停顿，再练常见连读、失爆，最后提到接近考试速度。有效的标志是：你不用一个词一个词盯着读，也不会一提速就漏词、断气或乱停。慢只是梯子，最后还是要走到自然速度。"
+  },
+  {
+    "id": "sunpace-listening-sst-similar-topic-variants",
+    "title": "SST 高频题同名或相似题怎么区分",
+    "keywords": [
+      "SST",
+      "高频题",
+      "相似题",
+      "Industrial Revolution",
+      "version",
+      "主题变体",
+      "关键词",
+      "summary"
+    ],
+    "answer": "有些 SST 高频题题名很像，甚至同一个主题会有不同版本。Sunny 建议不要只按标题背，要按“这篇真正讨论的角度”区分。比如同样是 Industrial Revolution，一篇可能强调负面影响，另一篇可能讲如何理解工业革命这个概念。复习时给每篇加一个小标签：原因版、影响版、概念版、例子版，这样考试遇到近似音频时不容易串台。"
+  },
+  {
+    "id": "sunpace-listening-sst-live-practice-loop",
+    "title": "SST 平时带练怎么练最有效",
+    "keywords": [
+      "SST",
+      "带练",
+      "听记",
+      "关键词",
+      "笔记",
+      "复听",
+      "高频题",
+      "练习流程"
+    ],
+    "answer": "SST 带练最有效的顺序不是老师一讲你就抄，而是先把自己放进考试状态。Sunny 建议第一遍直接听记，写下自己能抓到的关键词；然后对照老师梳理主题、重点信息和逻辑；最后再复听一遍，检查哪些关键词第一次没抓到。这个循环能同时练耳朵、笔记和 summary 结构，比单纯看答案踏实很多。"
+  },
+  {
+    "id": "sunpace-listening-wfd-long-sentence-review",
+    "title": "WFD 长难句怎么复习",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "长难句",
+      "看着听",
+      "盲听",
+      "复述",
+      "statistics",
+      "高频句"
+    ],
+    "answer": "WFD 长难句可以用“两遍法”。第一遍看着文本听，确认句子结构、难词和容易漏的功能词；第二遍关掉文本盲听，把它当考试句子复述或写下来。Sunny 建议你特别留意并列结构和同一个对象对应两个动作的句子，比如“对统计数据既 impressed 又 skeptical”这种，记逻辑比死背声音更稳。"
+  },
+  {
+    "id": "sunpace-speaking-di-framework-replacement",
+    "title": "DI 可以用固定框架吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "框架",
+      "替换",
+      "图表",
+      "流程图",
+      "地图",
+      "口语",
+      "改革后"
+    ],
+    "answer": "DI 可以有框架，但不能只背一段万金油。Sunny 建议准备几个可替换的小模块：开头说图表类型和主题，中间描述最高值、最低值、变化趋势或流程顺序，结尾做一句整体总结。不同图片要替换关键词和数据，不要把柱状图、流程图、地图都塞进同一句模板里。框架是扶手，不是遮羞布。"
+  },
+  {
+    "id": "sunpace-writing-swt-template-caution",
+    "title": "SWT 改革后能不能套模板",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "模板",
+      "改革后",
+      "90分模板",
+      "阅读",
+      "写作",
+      "关键词",
+      "风险"
+    ],
+    "answer": "SWT 可以学习模板思路，但不要迷信所谓万能 90 分句子。Sunny 建议把模板当作句子组织工具，比如如何连接主旨、原因、结果和例子；真正得分还是看你有没有抓住原文核心信息、语法是否稳定、字数是否合规。改革后更要谨慎，模板如果和原文逻辑不贴，反而会让答案看起来很空。"
+  },
+  {
+    "id": "sunpace-listening-sst-notes-before-template",
+    "title": "SST 先写模板还是先写笔记内容",
+    "keywords": [
+      "SST",
+      "模板",
+      "笔记",
+      "字数",
+      "关键词",
+      "summary",
+      "听记",
+      "内容优先"
+    ],
+    "answer": "SST 不要一上来先把模板打满。Sunny 建议先把自己听到的主题、关键词、原因和结果写出来，再用模板把句子连顺。如果字数已经够了，模板里没有内容贡献的套话可以删掉。考试里真正体现你能力的是笔记内容，不是模板有多完整；为了凑模板少写关键词，这个买卖不划算。"
+  },
+  {
+    "id": "sunpace-listening-sst-source-labels",
+    "title": "SST 原文、真题音频、近似音频有什么区别",
+    "keywords": [
+      "SST",
+      "原文",
+      "真题音频",
+      "近似音频",
+      "高频题",
+      "参考答案",
+      "听力",
+      "复习优先级"
+    ],
+    "answer": "SST 高频资料里的标签要看清楚。Sunny 一般会这样理解：真题音频最接近考试声音，优先练听记；原文说明文章内容本身是考试材料，但声音不一定一样；近似音频适合熟悉主题和关键词，不要当成百分百原题声音。复习时先保证真题音频会听、会记，再用原文和近似音频补主题库。"
+  },
+  {
+    "id": "sunpace-listening-sst-repeat-keyword-priority",
+    "title": "SST 反复出现的词一定要记吗",
+    "keywords": [
+      "SST",
+      "重复词",
+      "关键词",
+      "luxury brand",
+      "need",
+      "主题词",
+      "听记",
+      "summary"
+    ],
+    "answer": "SST 里反复出现的词通常优先级很高，尤其是名词或名词词组。Sunny 建议你听到一个词反复出现，就先把它记下来，再判断它在讲定义、分类、原因还是影响。比如 luxury brand、need 这种反复出现的主题词，比单独听到的 millions 更重要。数字或形容词如果没有对象，价值会打折；主题词才是骨架。"
+  },
+  {
+    "id": "sunpace-listening-sst-noun-phrase-notes",
+    "title": "SST 笔记应该多记名词还是动词",
+    "keywords": [
+      "SST",
+      "笔记",
+      "名词",
+      "名词词组",
+      "动词",
+      "关键词",
+      "multi-functional word",
+      "summary"
+    ],
+    "answer": "SST 笔记里名词和名词词组通常比零散动词更稳。Sunny 会让你优先记主题、对象、分类和例子，比如 multi-functional word、social structure、basic needs 这类块状信息。动词当然有用，但如果手速跟不上，先保住“谁/什么东西”和“哪几个方面”，再补关系词。这样写 summary 时更容易搭出完整句子。"
+  },
+  {
+    "id": "sunpace-listening-sst-comparison-feature-structure",
+    "title": "SST 对比特征类文章怎么写",
+    "keywords": [
+      "SST",
+      "对比",
+      "特征",
+      "Mars",
+      "Earth",
+      "atmosphere",
+      "gravity",
+      "landscape",
+      "structure"
+    ],
+    "answer": "对比特征类 SST 可以按“对比对象 + 相似点/不同点 + 单独特征 + 总结”来写。比如火星和地球这类题，先写 Mars is compared with Earth，再补 geological surface、landscape、atmosphere、water、gravity 这类特征。不要把所有细节平铺，先把文章分成几块：和谁比、比什么、这个对象自己有什么特点。"
+  },
+  {
+    "id": "sunpace-speaking-ra-one-sentence-no-pause",
+    "title": "RA 一句话任务里看到标点要停吗",
+    "keywords": [
+      "RA",
+      "一句话",
+      "标点",
+      "停顿",
+      "流利度",
+      "虚词",
+      "the way we do",
+      "口语"
+    ],
+    "answer": "RA 如果是很短的一句话，Sunny 通常建议不要因为中间的小标点硬停。短句里过多停顿会破坏流利度，尤其是逗号、连接符这类不一定代表真正换气的位置。更重要的是把虚词读轻，把核心词读清楚，比如 the way we do 这种小块要自然连起来。短句追求的是顺，不是把标点一个个表演出来。"
+  },
+  {
+    "id": "sunpace-listening-wfd-long-phrase-tail",
+    "title": "WFD 长短语尾巴总漏怎么办",
+    "keywords": [
+      "WFD",
+      "长短语",
+      "series of",
+      "postgraduate education",
+      "online learning resources",
+      "尾音",
+      "复数",
+      "听写"
+    ],
+    "answer": "WFD 长短语最容易漏尾巴和复数。Sunny 建议你听到 series of、a number of、a variety of 这类结构时，耳朵要自动等后面的名词；听到很长的名词串，比如 postgraduate education online learning resources，不要中途放弃，先抓最后的核心名词 resources。长短语不是每个词都同等重要，头尾和复数往往决定对错。"
+  },
+  {
+    "id": "sunpace-speaking-ra-stop-consonant-linking",
+    "title": "RA 失爆到底怎么练",
+    "keywords": [
+      "RA",
+      "失爆",
+      "爆破音",
+      "辅音",
+      "about the past",
+      "that happened",
+      "连贯",
+      "发音",
+      "口语"
+    ],
+    "answer": "RA 里的失爆可以先抓一个简单原则：爆破音后面接辅音时，不要把爆破音炸得太明显。比如 about the past、that happened 这种，如果每个 t 都完整弹出来，会很有中断感。Sunny 建议慢速练时先读清楚，再把前一个爆破音轻轻收住，让声音顺过去。目标不是故意吞词，而是减少硬断点。"
+  },
+  {
+    "id": "sunpace-listening-sst-incomplete-audio-no-sound",
+    "title": "SST 不完整题没有音频怎么复习",
+    "keywords": [
+      "SST",
+      "不完整题",
+      "没有音频",
+      "参考答案",
+      "RA",
+      "关键词",
+      "听力",
+      "复习"
+    ],
+    "answer": "SST 不完整题没有音频时，也不是完全不能练。Sunny 建议先看中文或参考答案搞懂故事，再把参考答案当 RA 材料朗读，重点练关键词的发音和拼写。这样考试真听到相关主题时，关键词会更容易被耳朵抓住。没有音频的题不要死背整段，重点是把故事线和关键词反应建立起来。"
+  },
+  {
+    "id": "sunpace-listening-sst-word-form-conversion",
+    "title": "SST 关键词词性不会变怎么办",
+    "keywords": [
+      "SST",
+      "词性转换",
+      "名词",
+      "动词",
+      "形容词",
+      "fuel-efficient",
+      "safe technology",
+      "summary",
+      "语法"
+    ],
+    "answer": "SST 写 summary 时，关键词词性不会变就别硬挑战。Sunny 建议优先用你最稳的表达，比如听到 fuel-efficient 不确定怎么放句子里，可以改写成 high fuel efficiency；听到 safe technology，可以写 technology is safe。关键是意思准确、语法稳定。为了炫一个复杂词形把句子写错，真的不值。"
+  },
+  {
+    "id": "sunpace-reading-understand-not-memorize-answers",
+    "title": "阅读刷题只背答案可以吗",
+    "keywords": [
+      "阅读",
+      "刷题",
+      "答案",
+      "理解",
+      "FIB",
+      "RO",
+      "词义",
+      "高分",
+      "备考"
+    ],
+    "answer": "阅读不能只背答案，尤其目标 79+ 的同学。Sunny 会让你每做错一题都搞清楚：为什么选这个词，另外三个为什么不行；是词义错、搭配错、语法错，还是上下文逻辑错。题目可以高频，但考试空位和选项可能有变化。你理解了整段，变化也能应对；只背答案，稍微换个空就容易懵。"
+  },
+  {
+    "id": "sunpace-listening-sst-keywords-over-original-order",
+    "title": "SST summary 必须按原文顺序写吗",
+    "keywords": [
+      "SST",
+      "summary",
+      "原文顺序",
+      "逻辑",
+      "关键词",
+      "模板",
+      "高分",
+      "听记"
+    ],
+    "answer": "SST 写 summary 不需要完全复刻原文顺序。Sunny 建议你优先保证关键词、主旨和语法正确，再把信息组织成顺的句子。原文某一句没听懂，但关键词抓到了，也可以用自己的正确表达写出来。高分段当然要尽量完整，但不要为了追原文逻辑，把自己写不稳的句子硬拼出来。关键词在，表达稳，才是底盘。"
+  },
+  {
+    "id": "sunpace-listening-sst-easy-passage-connected-notes",
+    "title": "SST 简单文章是不是随便记几个词就行",
+    "keywords": [
+      "SST",
+      "简单文章",
+      "关键词",
+      "关联",
+      "animal",
+      "human",
+      "main idea",
+      "内容分",
+      "笔记"
+    ],
+    "answer": "越简单的 SST 越不能只记几个零散词。Sunny 会提醒你：简单文章大家都能听到 animal、human、nature 这种词，真正拉开差距的是你有没有记出它们之间的关系。比如“人类也是动物”“自然环境帮助病人恢复”这种主旨关系，要比单独几个词更有内容分。简单题要多写一点连接关系，不要只撒关键词。"
+  },
+  {
+    "id": "sunpace-listening-sst-writing-frequency-vs-notes",
+    "title": "SST 需要每天完整写一篇吗",
+    "keywords": [
+      "SST",
+      "完整写作",
+      "听记",
+      "备考频率",
+      "每周",
+      "summary",
+      "练习安排",
+      "模板"
+    ],
+    "answer": "SST 不一定每天都完整写一篇，但听记要更频繁。Sunny 建议全天备考的同学可以每天完整写一篇，同时多做几篇听记；不是全天备考的话，每周完整写一两篇就够，重点是持续练“听到关键词并组织笔记”。完整写作检查格式和语法，听记训练反应速度，两件事别混成一件事。"
+  },
+  {
+    "id": "sunpace-speaking-ra-speed-without-swallowing",
+    "title": "RA 一提速就吞音怎么办",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "提速",
+      "吞音",
+      "音节",
+      "business",
+      "sustained",
+      "流利度",
+      "口语"
+    ],
+    "answer": "RA 提速不是把音节省掉。Sunny 建议你先找出一提速就丢的词，比如 business、sustained 这种容易吞中间音节或尾音的词，单独慢读到稳定，再放回句子。速度可以快一点，但核心词不能糊成一团。真正的流利度是“顺且清楚”，不是“快但听不见词”。"
+  },
+  {
+    "id": "sunpace-listening-sst-avoid-scattered-simple-words",
+    "title": "SST 笔记写一堆简单词够吗",
+    "keywords": [
+      "SST",
+      "笔记",
+      "简单词",
+      "关键词",
+      "主旨",
+      "内容分",
+      "关联",
+      "summary"
+    ],
+    "answer": "只写一堆简单词通常不够。Sunny 建议你每篇至少抓到“主题 + 关键对象 + 关系/结论”。比如听到 people、animal、nature 只是起点，最好还能写出 people are animals、natural landscape helps recovery 这种关系。SST 内容分不是看你撒了多少词，而是看这些词能不能让系统和老师看出你在讲哪篇文章、讲什么关系。"
+  },
+  {
+    "id": "sunpace-listening-sst-keyword-coverage-target",
+    "title": "SST 一篇大概要记多少关键词",
+    "keywords": [
+      "SST",
+      "关键词数量",
+      "10到15个",
+      "12个关键词",
+      "高分",
+      "笔记",
+      "内容分",
+      "听力"
+    ],
+    "answer": "没有死规定，但 Sunny 会给一个练习目标：一篇 SST 尽量覆盖 10 到 15 个有效关键词或关键词组，高分目标的同学尽量接近 12 个以上。注意是有效关键词，不是 the、talk about 这种泛词。优先记主题词、专有名词、分类、原因、结果和重要例子；如果时间不够，先保最能识别这篇文章的词。"
+  },
+  {
+    "id": "sunpace-listening-sst-template-is-plan-b",
+    "title": "SST 高分段还要用模板吗",
+    "keywords": [
+      "SST",
+      "模板",
+      "Plan B",
+      "65+",
+      "高分",
+      "关键词",
+      "笔记",
+      "summary"
+    ],
+    "answer": "模板可以留作 Plan B，但目标 65+ 或更高的同学不要过度依赖模板。Sunny 建议你先写自己的笔记和关键词，再用最少的模板把句子接顺。模板的作用是兜底字数和结构，不是替代内容。如果你能自己写出清楚的 4 到 6 句，通常比套一大段空模板更自然。"
+  },
+  {
+    "id": "sunpace-test-change-video-caution",
+    "title": "看到网课说 PTE 分数分布变了要马上改策略吗",
+    "keywords": [
+      "PTE",
+      "分数分布",
+      "改革",
+      "题型权重",
+      "SST",
+      "SWT",
+      "RO",
+      "HIW",
+      "官方说明",
+      "备考策略"
+    ],
+    "answer": "不要只根据单个网课视频就大幅改备考策略。Sunny 建议把这类信息当作提醒，再去看官方说明、模考表现和老师诊断。即使某些题型贡献或数量有调整，基础能力还是绕不开：听力要能记关键词，阅读要懂逻辑，写作要语法稳定。可以微调时间分配，但不要突然把某个题型完全放弃。"
+  },
+  {
+    "id": "sunpace-listening-sst-dont-replay-missed-words",
+    "title": "SST 漏听一个词要不要回想",
+    "keywords": [
+      "SST",
+      "漏听",
+      "回想",
+      "笔记",
+      "关键词",
+      "听力",
+      "取舍",
+      "进度"
+    ],
+    "answer": "SST 漏听一个词不要一直回想。Sunny 会让你记住：录音不会等你，回想一个词很容易丢掉后面一整串。听到一个词组就先写，写完马上回到录音；如果没写上，就放掉，继续抓后面的名词、连接词后的信息和重复词。SST 笔记靠取舍，不靠把每一秒都追回来。"
+  },
+  {
+    "id": "sunpace-listening-sst-abbreviation-notes",
+    "title": "SST 笔记可以用缩写吗",
+    "keywords": [
+      "SST",
+      "缩写",
+      "笔记",
+      "3到4个字母",
+      "关键词",
+      "速度",
+      "听记",
+      "summary"
+    ],
+    "answer": "可以用缩写，而且很建议练。Sunny 建议缩写不要短到自己认不出来，一般保留 3 到 4 个关键字母就够。比如 important 可以写 imp，environment 可以写 envi，后面写 summary 时再还原。缩写的目的不是好看，是让你在录音速度下多抓几个有效词；但专有名词和容易拼错的高频词，平时还是要练完整拼写。"
+  },
+  {
+    "id": "sunpace-listening-sst-low-resistance-review",
+    "title": "SST 很抵触不想练怎么办",
+    "keywords": [
+      "SST",
+      "抵触",
+      "复习",
+      "高频音频",
+      "碎片时间",
+      "听力",
+      "备考",
+      "练习量"
+    ],
+    "answer": "SST 如果很抵触，Sunny 建议先降低启动难度。不是每篇都要完整写，时间紧可以两三天完整写一篇，其他时间用碎片时间听高频音频、看参考答案、熟悉故事和关键词。比如通勤、睡前、休息时打开音频听一小段也有用。先让耳朵熟起来，再逐步恢复听记和完整写作，别一开始就把自己吓退。"
+  },
+  {
+    "id": "sunpace-listening-sst-full-analysis-for-hard-passages",
+    "title": "SST 难文章要不要看中文逻辑",
+    "keywords": [
+      "SST",
+      "难文章",
+      "中文逻辑",
+      "思维导图",
+      "参考答案",
+      "关键词",
+      "理解",
+      "复习"
+    ],
+    "answer": "难文章可以看中文逻辑或思维导图，尤其是单词生、结构复杂的题。Sunny 建议先弄懂故事分几块，再回到英文关键词上。简单文章可以直接读参考答案和听音频；复杂文章先看中文逻辑，能帮你知道每段在讲什么、哪些词是关键词。目的不是背中文，而是让英文关键词有位置可放。"
+  },
+  {
+    "id": "sunpace-speaking-di-rl-listen-first-or-answer-first",
+    "title": "DI/RL 带练时先听老师分析还是先自己说",
+    "keywords": [
+      "DI",
+      "RL",
+      "Retell Lecture",
+      "Describe Image",
+      "先分析",
+      "先作答",
+      "口语",
+      "模拟考试"
+    ],
+    "answer": "DI/RL 带练两种顺序都可以，但目标不一样。Sunny 建议新题或完全听不懂的材料，可以先听老师分析原文，建立框架；已经有基础的同学，最好先按考试流程自己做一遍，再听分析，这样更能暴露真实问题。练习时尽量模拟考试：听完给自己短暂准备，再说 30 秒以上，不要只停留在看懂材料。"
+  },
+  {
+    "id": "sunpace-listening-sst-proper-noun-capitalization",
+    "title": "SST 专有名词大小写重要吗",
+    "keywords": [
+      "SST",
+      "专有名词",
+      "大小写",
+      "Big Bang Theory",
+      "Adam Smith",
+      "The Republic",
+      "书名",
+      "拼写"
+    ],
+    "answer": "重要，但不用被大小写吓住。Sunny 建议专有名词尽量按规范写，比如 Adam Smith、The Republic、Big Bang Theory 这类名称要大写；如果只是泛指 big bang 这个现象，小写也能接受。考试里拼写和清晰度更关键，平时复习时把常见人名、书名、理论名当成固定块来记，会更稳。"
+  },
+  {
+    "id": "sunpace-listening-sst-blank-interval-review",
+    "title": "SST 学完马上写还是隔一天写",
+    "keywords": [
+      "SST",
+      "间隔复习",
+      "空白时间",
+      "盲听",
+      "笔记",
+      "复习效果",
+      "summary",
+      "备考"
+    ],
+    "answer": "Sunny 更建议留一点空白时间再写。当天可以先看参考答案、标关键词、听音频，把文章学明白；第二天或后天再抽一篇做盲听和完整 summary，检查自己还记不记得故事、能不能抓到关键词。马上写容易变成短时记忆，隔一段再写，才更像考试时的真实反应。"
+  },
+  {
+    "id": "sunpace-listening-sst-content-score-strategy",
+    "title": "SST 内容分一定要拿满吗",
+    "keywords": [
+      "SST",
+      "内容分",
+      "保一争二",
+      "关键词",
+      "格式",
+      "语法",
+      "拼写",
+      "评分"
+    ],
+    "answer": "SST 内容分不一定非要每次拿满。Sunny 会用“保一争二”的思路：先确保你听到一部分有效关键词，能拿到基础内容分；同时把格式、字数、语法、词汇和拼写这些更可控的分稳住。内容当然越多越好，但不要为了追求完美内容，写出大量没把握的拼写和句子。稳分比冒险更重要。"
+  },
+  {
+    "id": "sunpace-listening-sst-linking-word-signal",
+    "title": "SST 听到连接词后要记什么",
+    "keywords": [
+      "SST",
+      "连接词",
+      "because",
+      "however",
+      "therefore",
+      "firstly",
+      "secondly",
+      "关键词",
+      "笔记"
+    ],
+    "answer": "SST 听到连接词时，后面的名词和关键词要竖起耳朵。Sunny 建议把 because 后面当原因，however 后面当转折重点，therefore/so 后面当结果，firstly/secondly 后面当分论点。听不懂整句也没关系，先抓连接词后面的名词词组。它们很可能就是你 summary 里的骨架。"
+  },
+  {
+    "id": "sunpace-listening-sst-format-checklist",
+    "title": "SST 写完后检查什么",
+    "keywords": [
+      "SST",
+      "检查",
+      "50到70词",
+      "格式",
+      "标点",
+      "拼写",
+      "语法",
+      "summary"
+    ],
+    "answer": "SST 写完后一定留时间检查。Sunny 的检查顺序是：字数是不是 50 到 70；有没有顶格连续写，不要分段；句首大写和句末标点有没有；拼写有没有明显错误；语法是不是用自己有把握的结构。内容分靠听力，格式和拼写这些分是自己能守住的，小细节别白白送走。"
   }
 ]
