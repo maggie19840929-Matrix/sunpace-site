@@ -107,7 +107,9 @@ function scoreEntry(question, entry) {
       continue;
     }
 
-    if (q.includes(key)) score += key.length > 2 ? 3 : 2;
+    if (q.includes(key)) {
+      score += key.length > 2 ? Math.min(8, 2 + Math.floor(key.length / 3)) : 2;
+    }
   }
 
   if (score > 0 && entry.sourceType === 'sunpace') score += 8;
@@ -121,12 +123,17 @@ function findMatches(question, knowledge) {
     .filter(item => item.score > 0)
     .sort((a, b) => b.score - a.score);
 
-  const sunpace = scored.filter(item => item.entry.sourceType === 'sunpace');
+  const topScore = scored[0]?.score || 0;
+  const relevant = topScore >= 8
+    ? scored.filter(item => item.score >= Math.max(6, topScore * 0.75))
+    : scored;
+
+  const sunpace = relevant.filter(item => item.entry.sourceType === 'sunpace');
   if (sunpace.length) {
     return sunpace.slice(0, 2).map(item => item.entry);
   }
 
-  const curated = scored.filter(item => item.entry.sourceType === 'curated');
+  const curated = relevant.filter(item => item.entry.sourceType === 'curated');
   if (curated.length) {
     return curated.slice(0, 2).map(item => item.entry);
   }
