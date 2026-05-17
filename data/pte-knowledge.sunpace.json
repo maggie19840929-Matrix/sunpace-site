@@ -5501,5 +5501,13 @@
     "source": "phase2-media batch 76, reading practice",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-key-sentence-boundary",
+    "title": "SWT 关键句到底要画到哪里",
+    "answer": "SWT 找关键句时，很多学生会找到同一个关键词，但画出来的范围不一样。Sunny 会提醒：不要只盯一个醒目的词，要看这句话是否从主语开始、有没有完整谓语、是否把比较对象或结果说完。遇到 which、that、because、but 后面的内容，要判断它是不是关键解释；如果只是例子或修饰，可以删，如果承接主旨就要保留。最稳的做法是先圈完整句，再缩到能独立表达意思的主干。",
+    "source": "phase2-media batch 77, SWT writing practice",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
