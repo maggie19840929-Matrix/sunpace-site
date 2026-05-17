@@ -5557,5 +5557,69 @@
     "source": "phase2-media local staging batch 80, reading practice",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-core-vs-detail-sentences",
+    "title": "SWT 怎么区分核心句和细节句",
+    "answer": "SWT 里不是每一句看起来具体的信息都要抄。Sunny 会让学生先判断：这句话是在概括主旨，还是只是在列举 you can、they can 这类具体能做什么。核心句通常先总说一个好处、问题或结论；后面一串例子、动作、注册、搜索、参加会议，多半只是支撑细节。基础同学可以先保留每段第一句或总起句，再删掉重复解释和例子，这样答案更像总结，而不是复制清单。",
+    "source": "phase2-media local staging batch 81, writing practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-option-grouping-once-only",
+    "title": "FIBR 选项怎么分组，为什么一个词只能用一次",
+    "answer": "FIBR 做选项题时，Sunny 会先把明显一组的词圈出来，比如 exist/existence、extinct/extinction 这种同根词，或者意思相近但词性不同的词。一个选项通常只能用一次，所以如果前面已经用了某个词或它对应形式，后面就要重新判断，不能凭感觉重复套。分组的好处是先缩小范围：看空格需要名词还是形容词，再在同组里按语境选，例如 endangered 是濒危，extinction 是灭绝，文章如果还在说栖息地被威胁，就不能直接选灭绝。",
+    "source": "phase2-media local staging batch 81, reading practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibr-two-minute-grouping",
+    "title": "FIBR 两分钟内怎么加快判断",
+    "answer": "FIBR 每题时间不要拖太久，Sunny 建议把目标控制在两分钟左右。第一步先扫选项，把同根词、同义词、词性相同的一组先分出来；第二步看每个空格缺什么词性；第三步再用上下文判断正负方向和搭配。这样比从第一空开始硬翻译快很多。遇到难词时，不要卡在一个词上超过二三十秒，先用分组排除，再把最有把握的空拿下。",
+    "source": "phase2-media local staging batch 81, reading practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibr-including-vs-containing",
+    "title": "FIBR 逗号后 including 和 containing 怎么区分",
+    "answer": "FIBR 里看到逗号后面接补充内容时，Sunny 会优先检查 including 这种用法。including 常用来补充“包括哪些例子”，后面直接跟名词或名词短语；containing 更强调“某物里面含有什么”，通常要有明确主体。考试中如果句子是在列举范围或例子，including 往往比 containing 自然。不要只看中文都是“包含”，要看它在句子里的搭配位置。",
+    "source": "phase2-media local staging batch 82, reading practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibr-dont-overcheck-distractors",
+    "title": "FIBR 选出来后还要不要纠结其他选项",
+    "answer": "FIBR 做到一个明显合理的答案后，不要把大量时间花在解释为什么其他每个选项都不选。Sunny 会提醒学生：平时复盘可以看干扰项，但考试时如果词性、搭配、语境都对，就先往下走。尤其 50-65 分段，时间管理比把一道题研究透更重要。过度纠结容易浪费时间，还可能把第一反应改错。",
+    "source": "phase2-media local staging batch 82, reading practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-pay-costs-vs-bills",
+    "title": "FIBR 费用类词怎么分 costs 和 bills",
+    "answer": "FIBR 遇到 pay、utility、meter 这类费用语境时，Sunny 会让学生区分 costs 和 bills。costs 更像费用总额或成本，适合说支付水电等公共服务费用；bills 更像具体账单，常见搭配是 pay the bill 或 pay bills。文章如果说有些单元没有独立计量表，物业或房东承担 utility costs；如果每家有独立表，就更可能是家庭自己付 bills。",
+    "source": "phase2-media local staging batch 82, reading practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibr-form-beats-rough-meaning",
+    "title": "FIBR 意思对但形式不对也不能选",
+    "answer": "FIBR 里有些选项中文意思看起来对，但形式不合句子就不能选。Sunny 会提醒学生：比如 more 后面不能随便接已经是比较级含义的词，或者空格需要形容词却放了名词，都会让句子不顺。做题顺序是先看语法位置和固定结构，再看中文意思。意思差不多但形式不对，考试里照样会错。",
+    "source": "phase2-media local staging batch 82, reading practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-background-vs-thesis",
+    "title": "SWT 背景句和关键句怎么区分",
+    "answer": "SWT 里第一句不一定永远是关键句。Sunny 会让学生判断：这句话是在交代背景，还是在概括全文真正要说的观点。如果第一句只是说某个话题被广泛讨论，后面小标题或段落才分别展开优点、缺点、原因，那第一句可能只是背景句，不一定要放进答案。信号词、重复词、首尾句都要看，但最后还要结合内容判断它是不是承载主旨。",
+    "source": "phase2-media local staging batch 82, writing practice",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
