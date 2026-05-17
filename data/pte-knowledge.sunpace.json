@@ -5509,5 +5509,53 @@
     "source": "phase2-media batch 77, SWT writing practice",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibr-pos-before-meaning",
+    "title": "FIBR 不要先猜意思，要先定词性",
+    "answer": "FIBR 做题时，Sunny 会先让学生判断空格在句子里做什么成分，再去看意思。比如空格前后已经能看出主语、宾语、定语从句，句子却缺谓语，那就先锁定动词；如果空格后面接介词，还要检查动词和介词搭配是否自然。不要一看到选项眼熟就选，先问自己：这里缺名词、动词、形容词，还是副词？词性定错，意思再像也容易错。",
+    "source": "phase2-media local staging batch 79a, reading practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-preposition-age-time",
+    "title": "FIBR 年龄和时间点怎么看介词",
+    "answer": "FIBR 里遇到年龄、年份、具体时间点，Sunny 会提醒学生先看介词搭配。比如 at 37、at the age of 20 这类表达，at 通常指明确时间点或年龄点；如果是一个时间段或范围，再考虑 in、during、between 之类。做题时不要只看数字本身，要看数字前后的介词和名词结构，很多空不是考生词量，而是在考固定搭配和句子是否顺。",
+    "source": "phase2-media local staging batch 79a, reading practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-target-accuracy-by-score",
+    "title": "不同目标分阅读 FIB 要做到多少正确率",
+    "answer": "阅读 FIB 不同目标分不需要用同一个标准要求自己。Sunny 会告诉学生：50-58 分段先追求超过一半，稳定做到 60%-70% 正确率就有意义；58-65 分段要逐步把重点题型推到 70%-80%；如果目标 79+，才需要对细节和难题更较真。不要因为一两道难题崩心态，先把 RW、RO、FIB 这些高价值题型的时间和正确率稳住。",
+    "source": "phase2-media local staging batch 80, reading practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-parallel-form-and-meaning",
+    "title": "FIBR 看到 and 要检查前后形式一致",
+    "answer": "FIBR 里遇到 and，不要只看中文意思，要检查 and 前后的词性和形式是否一致。Sunny 会让学生看：前面如果是过去分词、动名词、名词短语，后面通常也要在形式上对应；同时意思也要能并列或递进。比如一个词表示促进、推动，另一个选项如果只是创造但搭配别扭，就算大概相关也不稳。and 是很重要的结构提示，能帮你从多个相似选项里排掉不合群的那个。",
+    "source": "phase2-media local staging batch 80, reading practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-collocation-over-dictionary",
+    "title": "FIBR 为什么固定搭配比单词中文更重要",
+    "answer": "FIBR 很多错不是因为完全不认识单词，而是只记中文、不看搭配。Sunny 会提醒：像 distinctive feature、living matter、allow time 这类表达，要按常见搭配理解；notorious 虽然也是形容词，但常带负面名声，放在 feature 前就可能语气不对。做题时先看这个词平时跟谁一起出现，再看它放进文章语境是否自然，别只凭一个中文释义硬选。",
+    "source": "phase2-media local staging batch 80, reading practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-context-elimination",
+    "title": "FIBR 不认识词时怎么用上下文排除",
+    "answer": "FIBR 遇到不熟的词，不要立刻放弃。Sunny 会让学生先看上下文的方向：前一句是不是在说无聊，后面有没有 but/however 转折；空格附近是不是有 old age、feature、infection 这类能限定语义的词。先判断语境是正面、负面、转折还是解释，再排除语气不合或搭配奇怪的选项。很多时候你不需要完全翻译整句，也能靠结构和语境选出更自然的答案。",
+    "source": "phase2-media local staging batch 80, reading practice",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
