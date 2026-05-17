@@ -5621,5 +5621,1064 @@
     "source": "phase2-media local staging batch 82, writing practice",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-eyes-fast-mouth-slow",
+    "title": "RA 朗读为什么要眼睛快、嘴巴慢",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "朗读",
+      "眼睛快嘴巴慢",
+      "语速",
+      "卡顿",
+      "回读"
+    ],
+    "answer": "RA 不是越快越好。Sunny 会提醒学生保持“眼睛先看、嘴巴稳读”：眼睛提前扫到后面的词，嘴巴不要抢太快，否则容易漏词、读错或中途卡住。刚开始练 RA 时先把完整度和清晰度守住，再逐步加快。考试里遇到长句，提前找好停顿点，嘴巴跟着意群走，比一口气硬冲更稳。",
+    "source": "phase2-media local staging batch 83, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-tight-energetic-voice",
+    "title": "RA 机器更喜欢什么样的声音状态",
+    "keywords": [
+      "RA",
+      "口语",
+      "发音",
+      "流利度",
+      "停顿",
+      "语速",
+      "声音"
+    ],
+    "answer": "RA 的声音状态要紧凑、有力、清楚，不要慢悠悠地拖。Sunny 会让学生检查三件事：会的词不要读错，停顿只做短暂换气，声音要往外放出来。如果练习平台里停顿斜杠很多，说明停顿太长；如果自己读到断气或眼睛跟不上，说明语速太快。目标是干脆稳定，不是机械飙速。",
+    "source": "phase2-media local staging batch 83, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-linking-weak-forms",
+    "title": "RA 连读和弱读应该怎么练",
+    "keywords": [
+      "RA",
+      "连读",
+      "弱读",
+      "吞音",
+      "发音",
+      "read aloud"
+    ],
+    "answer": "RA 里的连读和弱读不用刻意读得很重，但也不能完全吞掉。Sunny 会建议把问题分成两类记：一类是连读，比如 all of、in our lives 这种容易粘在一起的地方；另一类是弱读或尾音，比如 -s、-ed、of、to。练习时先把声音轻轻带出来，再追求自然。会的部分要清楚，不认识的词可以后面单独补，不要在考试里因为一个细节拖垮整句。",
+    "source": "phase2-media local staging batch 83, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-say-known-parts-fluently",
+    "title": "DI 遇到难词或信息太多要怎么说",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "图表",
+      "口语",
+      "模板",
+      "流利度"
+    ],
+    "answer": "DI 不是把图里每个词都硬读完。Sunny 会让学生先保证会说的部分流畅：标题、单位、明显类别、最大最小值、趋势或对比先说清楚。太长、太难、会影响流利度的专有名词可以跳过或简化，不要为了一个词卡住。准备时间里先规划哪几个信息放一句，真正开口时把这些信息说顺，比堆很多零散词更容易稳定拿分。",
+    "source": "phase2-media local staging batch 83, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-text-labels-more-content",
+    "title": "DI 图里文字标签要不要多说",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "图表描述",
+      "文字标签",
+      "内容分"
+    ],
+    "answer": "DI 图里如果有文字标签、地区名、分类名，Sunny 通常会建议多说一点，因为这些内容能帮你把答案撑满，也能补内容分。做法不是乱读一串，而是按顺序把看得清、读得顺的标签放进模板句里。除非标签太长太难，会明显影响流畅度，否则不要只说两三句就结束；可以多加一两句类别或数据，让答案更完整。",
+    "source": "phase2-media local staging batch 83, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibrw-dont-read-every-line",
+    "title": "FIBRW 长文章要不要从头到尾精读",
+    "keywords": [
+      "FIBRW",
+      "FIB",
+      "Reading and Writing Fill in the Blanks",
+      "阅读",
+      "精读",
+      "时间管理"
+    ],
+    "answer": "FIBRW 遇到长文章不要从头到尾精读。Sunny 会让学生先看空格附近，没空的整行通常不用花太多时间；第一句可以看，因为它常给主题，但真正作答要围绕空格前后。平时复盘可以看翻译和解析，考试时不需要每句都翻。目标是用词性、搭配、上下文快速定位答案，而不是把文章读成阅读理解。",
+    "source": "phase2-media local staging batch 83, reading FIBRW practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-middle-vs-center",
+    "title": "FIBR 里 middle 和 center 怎么区分",
+    "keywords": [
+      "FIBR",
+      "FIB",
+      "middle",
+      "center",
+      "阅读",
+      "词义区分"
+    ],
+    "answer": "FIBR 里 middle 和 center 都可能翻成“中间”，但用法不一样。middle 更偏物理位置上的中间，比如中间那一段、那个位置；center 更强调中心、核心、枢纽。文章如果说一个城市是 political and social movements 的中心，通常更接近 center；如果只是说某物在空间位置的中间，才更像 middle。不要只看中文，要看它修饰的是位置还是功能。",
+    "source": "phase2-media local staging batch 83, reading FIBR practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-paragraph-topic-sentences",
+    "title": "SWT 多段文章怎么找关键句",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "小作文",
+      "关键句",
+      "主题句",
+      "写作"
+    ],
+    "answer": "SWT 多段文章不要把每段当成孤立内容。Sunny 会让学生先判断整篇的总主题，再去每个自然段里找观点句，尤其关注每段第一句和最后一句。找到三四个关键句后还要筛掉过细的例子、解释和重复信息。答案不是把所有看起来重要的句子拼起来，而是保留能支撑主旨的核心观点，再压成一句语法完整的总结。",
+    "source": "phase2-media local staging batch 83, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-one-sentence-known-words",
+    "title": "RA 一句话模式怎么选最稳的内容",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "一句话",
+      "短句",
+      "不会的词",
+      "发音"
+    ],
+    "answer": "RA 一句话模式里，Sunny 会让学生优先选自己最有把握的 8-10 个以上单词。最好能超过 10 个词，但前提是不能把不会读、不确定、容易读错的词硬放进去。遇到长词或数字没把握，可以选前后更简单的一段，把它读清楚、读稳。少一点但准确，比为了凑长度读错一两个关键词更划算。",
+    "source": "phase2-media local staging batches 84-85, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-punctuation-is-breath",
+    "title": "RA 标点停顿怎么处理",
+    "keywords": [
+      "RA",
+      "停顿",
+      "标点",
+      "逗号",
+      "流利度",
+      "断句"
+    ],
+    "answer": "RA 看到逗号、插入语或短语边界时，可以短暂换气，但不要把每个标点都读成很长的停顿。Sunny 会提醒学生：前面的铺垫短语可以轻停，真正的主干句要尽量一口气连起来。停顿太多会让流利度碎掉，完全不停又容易卡住。练习时先标出意群，再把停顿压短，做到“有断点但不断气”。",
+    "source": "phase2-media local staging batches 84-85, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-stress-not-flat",
+    "title": "RA 声音太平怎么办",
+    "keywords": [
+      "RA",
+      "重音",
+      "降调",
+      "声音",
+      "语调",
+      "口语"
+    ],
+    "answer": "RA 不是只要不断就行，声音太平也会影响表现。Sunny 会让学生把内容词读得更有力量，比如名词、动词、形容词和数字；句末该降调时不要一直往上飘。语速已经够的学生，不要继续加速，而是把声音放出来、重音打清楚、尾音收稳。这样比平平地快速读完更像自然朗读。",
+    "source": "phase2-media local staging batches 84-85, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-group-error-categories",
+    "title": "RA 错词复盘怎么分类",
+    "keywords": [
+      "RA",
+      "错词",
+      "复盘",
+      "尾音",
+      "连读",
+      "发音"
+    ],
+    "answer": "RA 复盘不要只把错词零散抄下来。Sunny 会建议按错因分类：停顿总出错的句子放一类，尾音和复数容易吞的词放一类，连读弱读放一类，常见元音或重音错误再放一类。每天复盘时每类挑几条反复读，比把所有错词混在一起更容易形成肌肉记忆。",
+    "source": "phase2-media local staging batches 84-85, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-round-numbers",
+    "title": "DI 数字要不要读得特别精确",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "数字",
+      "近似值",
+      "图表",
+      "单位"
+    ],
+    "answer": "DI 里的数字不用每次都读到特别精确。Sunny 会让学生先保证流利度和信息完整：43.7% 可以说 around 40% 或 about 44%，0.3 这类小数如果容易卡壳，可以换成更好说的近似表达。关键是带上单位、最大最小、明显对比或趋势。为了一个小数卡住，通常不如用近似值顺畅说完。",
+    "source": "phase2-media local staging batches 84-85, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-no-title-use-visible-label",
+    "title": "DI 没有标题时怎么开头",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "标题",
+      "模板",
+      "文字标签",
+      "图表描述"
+    ],
+    "answer": "DI 如果图上没有现成标题，不要在准备时间里纠结。Sunny 会让学生直接拿图里最明显的文字、类别名或对象名当开头主题。模板本身可以短一点，把时间留给图中的文字、数字、单位和颜色等可见信息。顺时针说、逆时针说都可以，重点是信息顺、不卡壳，不是逻辑讲得像作文。",
+    "source": "phase2-media local staging batches 84-85, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibrw-skip-no-blank-lines",
+    "title": "FIBRW 没有空的整行要不要看",
+    "keywords": [
+      "FIBRW",
+      "FIB",
+      "阅读",
+      "空格",
+      "时间管理",
+      "跳读"
+    ],
+    "answer": "FIBRW 里如果有一整行没有空，Sunny 通常会建议先跳过，不要从头到尾精读。第一句可以看，因为它常常给主题；真正需要投入时间的是空格前后、转折词和固定搭配附近。长文章满屏空也不要慌，按空格逐个解决，比把每句都翻译完更有效。",
+    "source": "phase2-media local staging batches 84-85, reading FIBRW practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-grammar-before-meaning",
+    "title": "FIBR 先看语法还是先看意思",
+    "keywords": [
+      "FIBR",
+      "FIB",
+      "语法",
+      "词性",
+      "可数名词",
+      "阅读"
+    ],
+    "answer": "FIBR 遇到多个词意思都像能通时，Sunny 会让学生先看语法位置。比如 has been 后面优先找过去分词；空格需要名词时，要看可数名词是否需要复数、冠词或限定词；stay 后面常接形容词而不是名词。意思只是第一层，词性、形式和句子成分不对，就算中文大概说得通也不能选。",
+    "source": "phase2-media local staging batches 84-85, reading FIBR practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-synonym-color",
+    "title": "FIB 近义词怎么区分语义色彩",
+    "keywords": [
+      "FIB",
+      "FIBRW",
+      "近义词",
+      "chronic",
+      "lasting",
+      "语义色彩"
+    ],
+    "answer": "FIB 近义词不能只背中文。Sunny 会让学生看语义色彩和常见搭配：chronic 常用于疾病、长期浪费、反复且偏负面的状态；lasting 更中性，强调时间上的持续。两个词都可能表示“长期”，但文章如果只是说影响持续，不一定适合 chronic；如果是慢性、反复、负面的问题，chronic 才更自然。",
+    "source": "phase2-media local staging batches 84-85, reading FIBRW practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibr-fixed-prepositions",
+    "title": "FIB 介词固定搭配要怎么准备",
+    "keywords": [
+      "FIB",
+      "FIBRW",
+      "介词",
+      "固定搭配",
+      "in",
+      "on"
+    ],
+    "answer": "FIB 里介词不是小细节，很多空就是在考固定搭配。Sunny 会建议把高频搭配按词组记，而不是只背单个介词。比如 in the car、on the train 这种差异，本质上是英文习惯；阅读里遇到介词空，要先想固定搭配，再结合句子结构和语境。平时复盘时把错过的介词搭配单独建一栏。",
+    "source": "phase2-media local staging batches 84-85, reading FIBRW practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-however-signal",
+    "title": "阅读里 however 为什么要特别看",
+    "keywords": [
+      "Reading",
+      "FIB",
+      "RO",
+      "however",
+      "转折",
+      "逻辑"
+    ],
+    "answer": "阅读题里看到 however，Sunny 会让学生停一下看逻辑，因为它通常引出新信息或转折重点。FIB 里，however 后面的句子可能决定固定搭配或语义方向；RO 里，它常常帮你判断前后句顺序。不要把 however 当普通连接词扫过去，它往往是文章结构变化的信号。",
+    "source": "phase2-media local staging batches 84-85, reading practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-full-vs-one-sentence",
+    "title": "RA 什么时候读全篇，什么时候读单句",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "全篇",
+      "一句话",
+      "基础弱",
+      "口语"
+    ],
+    "answer": "RA 不是所有人都必须用同一种策略。Sunny 会根据学生基础来拆：基础还不错、文章难度中等偏简单时，可以练全篇，重点是节奏和清晰度；如果基础弱、目标分还在 50-58，或者这篇生词多，就先选单句。单句要选最容易、最有把握的部分，不要为了读得长把难词和不确定发音放进去。",
+    "source": "phase2-media local staging batches 86-87, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-silent-select-before-speaking",
+    "title": "RA 开口前可以先沉默几秒吗",
+    "keywords": [
+      "RA",
+      "准备时间",
+      "沉默",
+      "选句子",
+      "一句话",
+      "流利度"
+    ],
+    "answer": "RA 一句话模式里，开口前短暂沉默几秒是可以的，关键是用这几秒快速选最稳的句子。Sunny 会提醒学生：先扫有没有不会读的词、容易错的尾音和需要停顿的位置，再开口。不要一看到文本就急着读，结果中途发现单词不会。前面花几秒选准，后面读得完整清楚，通常更稳。",
+    "source": "phase2-media local staging batches 86-87, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-dont-swing-speed",
+    "title": "RA 为什么不能简单处很快、难处很慢",
+    "keywords": [
+      "RA",
+      "语速",
+      "流利度",
+      "节奏",
+      "意群",
+      "拖音"
+    ],
+    "answer": "RA 语速要整体稳定，不要会的地方突然很快、难的地方突然慢下来。Sunny 会让学生按意群读，简单处也保持清楚，难处可以略慢但不要拖音。机器更喜欢稳定、连续、能听清的节奏。忽快忽慢会暴露卡顿，也容易让停顿位置变乱。",
+    "source": "phase2-media local staging batches 86-87, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-template-clean-first",
+    "title": "DI 模板要先练到什么程度",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "模板",
+      "熟练度",
+      "图表",
+      "口语"
+    ],
+    "answer": "DI 模板本身要先练到干净、顺口、不卡。Sunny 会提醒学生：真正考试不可能每张图都练过，所以模板要成为自动反应。模板越熟，准备时间越能留给图上的文字、数字、单位和颜色。不要把大量注意力花在临场想模板上；模板固定后，再训练怎么把不同图的信息快速塞进去。",
+    "source": "phase2-media local staging batches 86-87, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-word-form-grouping",
+    "title": "FIBR 选项怎么先按形式分组",
+    "keywords": [
+      "FIBR",
+      "FIB",
+      "选项分组",
+      "形式分组",
+      "同源词",
+      "二选一",
+      "词性",
+      "动词形式",
+      "阅读"
+    ],
+    "answer": "FIBR 做题时，Sunny 会让学生先把选项按形式分组。比如 decreasing 和 mounting 都是 -ing，shake 和 shaken 是同源不同形式，center 和 middle 是近义组。先分组的好处是：空格需要什么词性或形式时，只在那一组里二选一，不会被其他选项带乱。这样速度更快，也更容易看出干扰项。",
+    "source": "phase2-media local staging batches 86-87, reading FIBR practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-noun-of-noun",
+    "title": "FIBR 看到 of 前后要检查什么",
+    "keywords": [
+      "FIBR",
+      "FIB",
+      "of",
+      "名词",
+      "语法",
+      "阅读"
+    ],
+    "answer": "FIBR 里看到 of，Sunny 会让学生检查它前后是不是名词结构。很多表达是“名词 + of + 名词”，空格如果在 of 前后，就要先判断这个位置需要名词、名词短语还是其他形式。不要只用中文意思硬套；如果词性不是名词，或单复数、冠词不合适，意思再像也不稳。",
+    "source": "phase2-media local staging batches 86-87, reading FIBR practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibr-time-order-established",
+    "title": "FIBR 怎么用时间顺序排除 develop 和 establish",
+    "keywords": [
+      "FIBR",
+      "develop",
+      "establish",
+      "时间顺序",
+      "语境",
+      "阅读"
+    ],
+    "answer": "FIBR 遇到 develop 和 establish 这种都像能说通的词，要看时间顺序。Sunny 会让学生判断文章是在说“第一次被建立为一个学科/制度”，还是后续慢慢发展。如果前面讲最初阶段，后面才讲后续发展，established 往往更自然；developed 更像已经存在之后的演变。时间线能帮你排掉意思相近的干扰项。",
+    "source": "phase2-media local staging batches 86-87, reading FIBRW practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-conclusion-and-cause-signals",
+    "title": "SWT 结论词和因果词要不要保留",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "结论词",
+      "hence",
+      "therefore",
+      "so",
+      "核心信息",
+      "因果",
+      "关键句"
+    ],
+    "answer": "SWT 里看到 hence、therefore、so 这类结论信号，Sunny 会建议优先看后面的内容，因为它常常承载作者想推出的核心信息。因果关系也值得保留，但时间状语、背景铺垫和重复例子可以压缩或删掉。答案要抓“为什么”和“所以什么”，不要把无关的时间地点细节塞进去占字数。",
+    "source": "phase2-media local staging batches 86-87, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-continuous-phrase-8-12",
+    "title": "RA 一句话模式要选连续多少词",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "一句话",
+      "8-12词",
+      "意群",
+      "连续短语",
+      "口语"
+    ],
+    "answer": "RA 一句话模式不是在全文里挑零散单词。Sunny 会让学生选一段连续、读得顺的意群，理想长度大约 10 个词；如果题目很难，8 个左右也可以接受。重点是这段要连贯、发音有把握、停顿少。不要为了凑长，把不会读的长词、数字或专有名词硬塞进去。",
+    "source": "phase2-media local staging batches 88-89, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-three-score-checks",
+    "title": "RA 练习后要检查哪三类分数问题",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "发音",
+      "流利度",
+      "重音",
+      "复盘",
+      "口语"
+    ],
+    "answer": "RA 复盘时，Sunny 会让学生按三类问题看：第一是发音，有没有吞音、加音、拖音或把会的词读错；第二是流利度，语速是否稳定，有没有重复和长停顿；第三是重音，单词重音和句子重音是不是太平。不要只看总分，要知道自己到底卡在发音、流利度还是声音表现。",
+    "source": "phase2-media local staging batches 88-89, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-content-vs-function-words",
+    "title": "RA 内容词和功能词声音要一样重吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "内容词",
+      "功能词",
+      "弱读",
+      "连读",
+      "重音"
+    ],
+    "answer": "RA 里不是每个词都要同样用力。Sunny 会让学生把名词、动词、形容词、数字这类内容词读清楚、给一点重音；of、to、a、the 这类功能词可以更轻，和前后词自然连起来。但轻读不等于吞掉，尾音和基本发音仍要带出来。平时要单独积累常见词的重音位置，避免把会的词读得很奇怪。",
+    "source": "phase2-media local staging batches 88-89, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-visible-info-priority",
+    "title": "DI 准备时间先看哪些可见信息",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "可见信息",
+      "数字",
+      "文字",
+      "最大最小",
+      "图表"
+    ],
+    "answer": "DI 的内容主要来自图上看得见的信息：文字、数字、颜色、大小、位置和单位。Sunny 会让学生准备时先抓明显文字或标题，再抓最大值、最小值、显眼对比，之后补其他读得顺的数字或标签。如果一时看不懂图的深层意思，就说你看得到且能说顺的信息，不要在准备时间里卡着想复杂逻辑。",
+    "source": "phase2-media local staging batches 88-89, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-template-and-data-speed",
+    "title": "DI 为什么不能模板很快、数据很慢",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "模板",
+      "语速",
+      "数据",
+      "流利度",
+      "口语"
+    ],
+    "answer": "DI 里模板熟很重要，但不能模板部分飞快，到了图上内容突然变慢或卡住。Sunny 会提醒学生把模板和数据放在同一个稳定节奏里：模板要顺，数字和标签也要用自己能保证清楚的速度说出来。如果某个词或数字会明显拖垮流利度，就换成更简单、近似或更有把握的表达。",
+    "source": "phase2-media local staging batches 88-89, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-we-due-to-the-fact-clause",
+    "title": "WE 模板里 due to the fact 后面怎么接",
+    "keywords": [
+      "WE",
+      "Write Essay",
+      "due to the fact",
+      "作文模板",
+      "从句",
+      "语法"
+    ],
+    "answer": "WE 模板里如果写 due to the fact，后面要接一个完整的事实从句，比如 due to the fact that...。Sunny 会提醒学生不要随手删掉 the fact：删掉以后结构就变成 due to + 名词或名词短语，后面不能直接硬接完整句。模板句要背意思，也要背语法骨架，否则改一个小词就可能把句子改坏。",
+    "source": "phase2-media local staging batches 88-89, writing WE practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-we-however-return-thesis",
+    "title": "WE 让步后 however 要怎么用",
+    "keywords": [
+      "WE",
+      "Write Essay",
+      "however",
+      "让步",
+      "立场",
+      "作文逻辑"
+    ],
+    "answer": "WE 里写了让步、反方观点或例子之后，Sunny 会让学生用 however 把句子转回自己的主立场。however 后面不能继续顺着反方解释，而要明确告诉考官：虽然有这个点，但我的核心观点仍然是什么。这样文章逻辑不会跑偏，模板也不会变成两边都在支持、最后立场不清。",
+    "source": "phase2-media local staging batches 88-89, writing WE practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibr-proper-nouns",
+    "title": "FIBR 遇到一堆人名地名要不要纠结",
+    "keywords": [
+      "FIBR",
+      "FIB",
+      "专有名词",
+      "人名",
+      "地名",
+      "阅读",
+      "干扰项"
+    ],
+    "answer": "FIBR 里出现很多人名、地名或机构名时，Sunny 不建议学生纠结每个名字怎么读、是什么意思。很多专有名词只是背景或分类标签，真正决定答案的常常是它们之间的关系、前后动词、介词和选项词性。做题时可以把重复名字当成 A、B、C 来看，先抓结构和空格附近线索。",
+    "source": "phase2-media local staging batches 88-89, reading FIBR practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-rate-vs-ratio",
+    "title": "FIB 里 rate 和 ratio 怎么区分",
+    "keywords": [
+      "FIB",
+      "FIBR",
+      "rate",
+      "ratio",
+      "比例",
+      "比率",
+      "阅读"
+    ],
+    "answer": "FIB 遇到 rate 和 ratio，不要只按中文“比例”选。Sunny 会让学生看数字关系：rate 更常表示比率、速度、水平或百分比；ratio 更强调两个量之间的对比关系，比如 1:8、2:8 这种比例结构。文章如果只是说某个百分比、发生率或增长水平，rate 往往更自然；如果在比较两类数量的对应关系，再优先考虑 ratio。",
+    "source": "phase2-media local staging batches 88-89, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-one-sentence-not-full-sentence",
+    "title": "RA 一句话一定要从大写读到句号吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "一句话",
+      "大写",
+      "句号",
+      "选句子",
+      "口语"
+    ],
+    "answer": "RA 一句话模式不是必须从大写读到句号，也不是必须选一个语法完整的大句子。Sunny 会让学生选连续、好读、能一口气顺下来的 8-12 个词；开头和结尾可以落在意群边界上。重点是这段听起来连贯、发音有把握、没有长停顿，而不是形式上像一整句。",
+    "source": "phase2-media local staging batches 90-91, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-avoid-line-break-range",
+    "title": "RA 一句话选段要不要跨行",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "一句话",
+      "跨行",
+      "转行",
+      "选段",
+      "流利度"
+    ],
+    "answer": "RA 一句话选段时，如果同一行已经够 8-12 个词，Sunny 通常会建议先选同一行里最稳的连续意群。跨行不是不可以，但很多学生一换行眼睛跟不上，容易漏词、卡顿或后半句没准备到。除非跨行那段明显更简单、更熟，否则先保同一行的稳定输出。",
+    "source": "phase2-media local staging batches 90-91, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-number-year-drill",
+    "title": "RA 里数字和年份总卡怎么办",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "数字",
+      "年份",
+      "两位数",
+      "三位数",
+      "口语"
+    ],
+    "answer": "RA 里数字、年份、两位数和三位数经常让学生突然卡住。Sunny 会建议每天单独花 10-20 分钟练数字读法，尤其是年份、百分比和长数字。准备时如果数字读法有把握，就可以放进选段；如果会拖慢整句，就先选更顺的词组，课后再把数字专项补起来。",
+    "source": "phase2-media local staging batches 90-91, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rs-first-chunk-more-content",
+    "title": "RS 只听到四五个词够不够",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "复述",
+      "意群",
+      "四个词",
+      "4个词",
+      "内容太少",
+      "内容",
+      "口语"
+    ],
+    "answer": "RS 只蹦出四五个零散词通常不太够。Sunny 会让学生优先保住第一个有画面感的意群，比如人物/对象 + 动作 + 地点或目的；哪怕后半句漏了，前半句也要尽量说成一小段完整声音。内容可以少一点，但要顺，不要一个词一个词散着说。课后跟读时要同时模仿内容、重音和节奏。",
+    "source": "phase2-media local staging batches 90-91, speaking RS practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-complete-sentence-not-phrase",
+    "title": "SWT 关键句能不能只抄短语",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "关键句",
+      "短语",
+      "完整句",
+      "语法"
+    ],
+    "answer": "SWT 找关键句时，Sunny 会提醒学生不能只抄几个看起来重要的短语。关键内容必须最后能变成一句语法完整的英文：有主语、谓语，必要的宾语或补足语也要带上。像一串名词、how 引导的短语、并列短语，如果没有后面的谓语和结果，就只是材料，不是可直接放进答案的完整句。",
+    "source": "phase2-media local staging batches 90-91, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-trim-without-breaking-grammar",
+    "title": "SWT 关键句太多太长怎么删",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "删减",
+      "关键句",
+      "75词",
+      "语法",
+      "取舍"
+    ],
+    "answer": "SWT 如果关键句太多、快超过字数，Sunny 会先让学生删不影响主干的定语、状语、例子和重复解释；如果不确定怎么删才语法正确，就宁可舍掉一整个优先级较低的句子，不要从中间硬切成残句。删减的底线是：答案仍然是一句话、5-75 词、主干完整、连接正确。",
+    "source": "phase2-media local staging batches 90-91, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-arrive-in-at",
+    "title": "FIBR 里 arrive in 和 arrive at 怎么选",
+    "keywords": [
+      "FIBR",
+      "FIB",
+      "arrive in",
+      "arrive at",
+      "介词",
+      "固定搭配",
+      "地点"
+    ],
+    "answer": "FIBR 遇到 arrive 后面的介词，Sunny 会让学生先判断地点大小和类型。arrive in 通常接国家、城市、区域这类较大的地点，比如 arrive in London；arrive at 更常接具体点位，比如机场、学校、车站或某个场所。不要只看中文“到达”，介词空经常就是固定搭配和地点类型一起考。",
+    "source": "phase2-media local staging batches 90-91, reading FIBR practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-look-at-vs-look-into",
+    "title": "FIBR 里 look at 和 look into 怎么区分",
+    "keywords": [
+      "FIBR",
+      "FIB",
+      "look at",
+      "look into",
+      "介词",
+      "固定搭配",
+      "阅读"
+    ],
+    "answer": "FIBR 里 look at 和 look into 不能随便互换。Sunny 会让学生看后面的动作是不是“查看、研究、关注某个主题”，还是“调查某件事”。look into 更偏调查、深入查明问题；如果文章只是说会议、项目或课程会讨论某个主题，look at 往往更自然。固定搭配要和语境动作一起判断。",
+    "source": "phase2-media local staging batches 90-91, reading FIBR practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-hard-distractors-not-priority",
+    "title": "FIB 遇到特别难的干扰词要不要背",
+    "keywords": [
+      "FIB",
+      "FIBR",
+      "难词",
+      "干扰项",
+      "错题复盘",
+      "阅读词汇"
+    ],
+    "answer": "FIB 复盘时，不是每个陌生干扰词都值得背。Sunny 会让学生优先记正确选项、空格附近搭配和会影响下次判断的高频词。很多特别冷门、从未见过的干扰项只是增加压力，不一定是考试真正想考的词。错题本要先记录为什么正确答案成立，再决定要不要补其他难词。",
+    "source": "phase2-media local staging batches 90-91, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-vivid-vs-picturesque",
+    "title": "FIB 里 vivid 和 picturesque 怎么区分",
+    "keywords": [
+      "FIB",
+      "FIBR",
+      "vivid",
+      "picturesque",
+      "近义词",
+      "语义范围"
+    ],
+    "answer": "FIB 近义词要看语义范围。vivid 更偏“生动、鲜明”，可以形容描述、记忆、画面或表达；picturesque 更偏“风景如画”，通常用来形容地方、景色或外观。Sunny 会提醒学生不要凭中文联想把 picturesque 扩大到所有“生动”的语境，选词要看它修饰的对象。",
+    "source": "phase2-media local staging batches 90-91, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-first-blank-look-later",
+    "title": "FIB 第一个空看不懂要不要硬选",
+    "keywords": [
+      "FIB",
+      "FIBRW",
+      "第一个空",
+      "先跳过",
+      "上下文",
+      "阅读"
+    ],
+    "answer": "FIB 或 FIBRW 遇到第一个空就卡住时，Sunny 不建议硬猜。可以先把这个空圈住，继续看后面有空格的句子，因为后文常常会交代主题、方向或重复词，反过来帮你判断前面的答案。考试里不要一字一句精读到崩时间，也不要因为第一个空不会就停住；先拿能判断的空，再回头补前面。",
+    "source": "phase2-media local staging batches 92-93, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-and-semantic-neighbors",
+    "title": "FIB 看到 and 前后意思要不要接近",
+    "keywords": [
+      "FIB",
+      "FIBRW",
+      "and",
+      "并列",
+      "近义",
+      "语义方向",
+      "阅读"
+    ],
+    "answer": "FIB 里 and 不只提示词性一致，也常提示语义方向一致。Sunny 会让学生看 and 前后的词是不是能并列、递进或互相补充。比如 motivated and purposeful 这种组合，两个词都在说有动力、有目标；如果某个选项需要你脑补太多，比如把 anxious 直接联想到 careful，就要谨慎。先看并列关系，再看中文意思。",
+    "source": "phase2-media local staging batches 92-93, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-known-word-misread-log",
+    "title": "RA 以为会的词读错了怎么复盘",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "错词",
+      "复盘",
+      "看错词",
+      "发音",
+      "口语"
+    ],
+    "answer": "RA 里最可惜的不是难词不会，而是自己以为会的词看错或读错。Sunny 会让学生把这类词单独记进错题本：一类是看错字母或单复数，比如 this/those、worker/work；一类是重音不熟，比如 industry、machinery；一类是元音不到位，比如 environment。复盘时不要只记生词，也要记“眼熟但读歪”的词。",
+    "source": "phase2-media local staging batches 92-93, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-speed-ladder",
+    "title": "RA 语速太慢怎么一点点提上来",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "语速",
+      "提速",
+      "慢速跟读",
+      "0.5倍速",
+      "口语"
+    ],
+    "answer": "RA 语速慢的学生不要一下子硬冲考试速度。Sunny 会建议用阶梯提速：先用很慢速度把词看准、尾音和重音读稳，再从 0.5、0.7、0.8、1.0 逐步提到接近考试速度。每提一次速度都要检查有没有漏词、吞尾音和乱停顿。能紧凑但不慌，才是合适速度；一快就错，就先退回上一档。",
+    "source": "phase2-media local staging batches 92-93, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-mouth-shape-clarity",
+    "title": "RA 为什么要把嘴型张开",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "嘴型",
+      "清晰度",
+      "重音",
+      "发音",
+      "口语"
+    ],
+    "answer": "RA 不是声音小小地糊过去就行。Sunny 会提醒学生，正式朗读时嘴型要比日常说话更到位一点，尤其是内容词、重读音节和容易混的元音。练习平台里如果很多词识别很差，往往不是你完全不会词，而是清晰度、嘴型和重音力度不够。先把会的词说饱满，再追求速度。",
+    "source": "phase2-media local staging batches 92-93, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-unused-info-fill-time",
+    "title": "DI 信息少时怎么说够 30 秒",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "30秒",
+      "颜色",
+      "数字",
+      "文字",
+      "口语"
+    ],
+    "answer": "DI 如果标题、最大最小值都说完了但时间还不够，Sunny 会让学生补没说过的可见信息：图上文字多就继续补文字，数字多就补其他数字和单位，信息很少时可以补颜色、位置或重复核心标签。不要机械地用同一句模板填词，也不要空着停。目标是 30 秒左右稳定、连续、信息相关。",
+    "source": "phase2-media local staging batches 92-93, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-this-means-summary",
+    "title": "SWT 看到 this means that 要不要重点看",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "this means that",
+      "总结句",
+      "结尾段",
+      "关键句"
+    ],
+    "answer": "SWT 里 this means that 往往是在把前文总结成结论。Sunny 会让学生重点看 that 后面的主句内容，尤其当它出现在结尾段或段落末尾时，通常比前面的原因状语、非限制性 which 从句和实验细节更值得保留。如果怕断句断错，就从 this means that 开始保留完整句，再删不必要修饰。",
+    "source": "phase2-media local staging batches 92-93, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-under-75-add-key-sentence",
+    "title": "SWT 字数没到 75 要不要多写",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "75词",
+      "字数",
+      "关键句",
+      "内容分"
+    ],
+    "answer": "SWT 不是越短越稳。Sunny 会提醒学生：答案在 5-75 词内，如果你只写了 50-60 词，而且还有明确关键句没放进去，可以继续补一个同主题的核心句。SWT 怕的是少写导致内容覆盖不够，不是合理范围内多一点。前提是仍然只写一句话，连接正确，不要为了凑字数加入无关细节。",
+    "source": "phase2-media local staging batches 92-93, writing SWT practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-negation-must-stay",
+    "title": "SWT 截关键句时否定词能不能丢",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "否定词",
+      "not",
+      "however",
+      "关键句",
+      "语义"
+    ],
+    "answer": "SWT 截关键句时，Sunny 会特别提醒不要丢否定词或态度词。比如 I do not think they are related，如果只截 they are related，意思就完全反了。遇到 however、but 后面的转折句，要把能表达完整立场的主干带上；如果不确定哪里能断，就保留整句，再在修饰语和例子上删减。",
+    "source": "phase2-media local staging batches 92-93, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-technical-topic-before-blanks",
+    "title": "FIB 专业文章生词很多怎么先抓主题",
+    "keywords": [
+      "FIB",
+      "FIBRW",
+      "专业文章",
+      "生词",
+      "主题",
+      "背景词",
+      "阅读"
+    ],
+    "answer": "FIB 遇到化石、解剖、版权、科技这类专业文章，不要试图把每个术语都查懂。Sunny 会让学生先抓反复出现的背景词，比如 human ancestor、skeleton、IP law、copyright 这类能说明主题的词。主题抓住后，再回到空格看词性、搭配和语义方向。很多冷门词可以先跳过，它们不一定是答案关键。",
+    "source": "phase2-media local staging batches 92-93, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-many-plural-noun",
+    "title": "FIB 看到 many 后面优先找什么形式",
+    "keywords": [
+      "FIB",
+      "FIBR",
+      "many",
+      "复数名词",
+      "species",
+      "词性",
+      "阅读"
+    ],
+    "answer": "FIB 里看到 many，Sunny 会让学生先检查后面是不是需要复数名词。比如 many related wild ___，这个位置不是随便放一个意思像的词，而是要找能被 many 修饰的复数名词。先用 many、a、the、of 这类小结构判断词性和单复数，再看语义，会比直接翻译整句更稳。",
+    "source": "phase2-media local staging batches 94-95, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-coordination-vs-interaction",
+    "title": "FIB 里 coordination 和 interaction 怎么区分",
+    "keywords": [
+      "FIB",
+      "FIBR",
+      "coordination",
+      "interaction",
+      "近义词",
+      "部门",
+      "阅读"
+    ],
+    "answer": "FIB 遇到 coordination 和 interaction，Sunny 会让学生看语境是在说“协调”还是“互动/相互作用”。两个部门、机构或系统之间如果缺少配合、安排和一致行动，coordination 往往更自然；interaction 更偏相互影响、互动或共同活动。不要只看中文都像“合作”，要看句子强调的是制度协调，还是彼此互动。",
+    "source": "phase2-media local staging batches 94-95, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-at-the-same-time-contrast",
+    "title": "FIB 什么时候选 at the same time",
+    "keywords": [
+      "FIB",
+      "FIBR",
+      "at the same time",
+      "对比",
+      "逻辑",
+      "阅读"
+    ],
+    "answer": "FIB 里如果前后在描述同一个对象同时具备两种看似矛盾的特点，Sunny 会让学生优先考虑 at the same time 这类逻辑表达。比如一个人既 clever、responsible，又 reckless，重点不是时间顺序，而是“同时如此”。遇到多组形容词并列时，不要只翻译单词，要看它们之间是并列、转折还是同时存在。",
+    "source": "phase2-media local staging batches 94-95, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-content-words-downward",
+    "title": "RA 实词重音为什么要往下走",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "实词",
+      "重音",
+      "降调",
+      "声音力度",
+      "口语"
+    ],
+    "answer": "RA 里内容词不能轻飘飘往上扬。Sunny 会让学生把名词、动词、形容词和关键数字读得更有力，声音方向整体往下走，像有把握地陈述信息。功能词可以轻一点，但实词要清楚、饱满。很多学生不是不会读，而是说得太虚、太心虚，机器听到的重音和清晰度就不够稳定。",
+    "source": "phase2-media local staging batches 94-95, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-few-labels-per-sentence",
+    "title": "DI 图里标签很多时一句话能塞多少",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "标签",
+      "文字",
+      "专有名词",
+      "一句话",
+      "流利度"
+    ],
+    "answer": "DI 图里如果文字标签很多，Sunny 不建议一口气把一堆名词塞进同一句。准备时间里先分配：这一句说标题和两三个标签，下一句说最大最小或其他类别。每句话信息太多，会变成一个词一个词蹦，流利度很容易掉。信息要多覆盖，但要分句放进去，保证第一遍开口不卡。",
+    "source": "phase2-media local staging batches 94-95, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-guess-short-labels",
+    "title": "DI 遇到短的陌生标签要不要猜读",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "陌生词",
+      "专有名词",
+      "猜读音",
+      "标签",
+      "流利度"
+    ],
+    "answer": "DI 遇到图上短的陌生地名、树名或标签时，Sunny 会让学生大胆按拼读猜一个读法，然后继续往下说。短词、单音节或双音节标签不一定要完全跳过，因为猜对就能补内容；但不要为了一个词反复停顿。读不准也要保持节奏，再用数字、颜色、位置和其他看得清的词补稳答案。",
+    "source": "phase2-media local staging batches 94-95, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-feature-level-not-tools",
+    "title": "SWT 怎么区分人物特点和工具细节",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "细节",
+      "工具",
+      "特点",
+      "关键句"
+    ],
+    "answer": "SWT 里文章如果在介绍一类人或一个群体，Sunny 会让学生优先保留“他们有什么核心特点”，而不是把工具、材料、例子都写进去。比如文章讲旧石器时代的人，随机狩猎、居住环境这类是方面；具体用长矛、帐篷、骨头建屋，多半只是细节。答案要抓层级更高的信息，不要被具体物品带跑。",
+    "source": "phase2-media local staging batches 94-95, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-especially-detail-signal",
+    "title": "SWT 看到 especially 后面的内容要不要保留",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "especially",
+      "细节",
+      "时间状语",
+      "关键句"
+    ],
+    "answer": "SWT 里 especially 后面常常是在补一个更具体的场景、条件或例子。Sunny 会让学生先看 especially 前面的主干是不是已经表达了核心意思；如果后面只是“尤其在什么时候/什么情况下”的细节，可以删掉或压缩。不要一看到强调词就全抄，关键是判断它强调的是主旨，还是只是细节范围。",
+    "source": "phase2-media local staging batches 94-95, writing SWT practice",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
