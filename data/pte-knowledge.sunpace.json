@@ -5171,5 +5171,107 @@
       "FIB上下文"
     ],
     "answer": "阅读 FIB 不能只做到词性对。Sunny 会先判空格需要名词、动词还是形容词，再比较词义和搭配。比如空格需要形容词时，top、essential 词性都可能对，但如果语境是“掌握化学的核心/基础成分”，essential 就比 top 更贴切。词性是第一道门，真正拿分还要看这个词和后面的名词、整句话逻辑是否自然。"
+  },
+  {
+    "id": "sunpace-speaking-di-structure-roof-diagram",
+    "title": "DI 遇到结构图或屋顶图怎么说",
+    "keywords": [
+      "DI结构图",
+      "DI屋顶图",
+      "DI roof structure",
+      "DI simple structure",
+      "DI ground level",
+      "DI central part",
+      "DI方位描述",
+      "Describe Image结构图",
+      "DI手写字母看不清",
+      "DI特殊图"
+    ],
+    "answer": "DI 遇到屋顶结构图、剖面图这类特殊图，不要硬套柱状图的 largest/smallest。Sunny 建议先说图是什么：The picture shows a simple structure of a roof。然后按方位说可见信息，比如 at ground level, there is... / in the central part of the structure, I can see...。如果图里有手写字母或不清楚的标注，优先读大字、明显部位和方位，不要为一个看不清的词卡住。特殊结构图的核心是“图名 + 方位 + 可见部件”。"
+  },
+  {
+    "id": "sunpace-speaking-ra-one-breath-chunk",
+    "title": "RA 怎么读出一气呵成的感觉",
+    "keywords": [
+      "RA一气呵成",
+      "RA连贯",
+      "RA不要一个词一个词读",
+      "Read Aloud节奏",
+      "RA意群",
+      "RA保满读",
+      "RA看错词",
+      "RA单词看清楚",
+      "development of",
+      "RA流利度"
+    ],
+    "answer": "RA 的流利度不是单纯读快，而是把一个意群顺下来。Sunny 会让学生先看清每个词，再把短语当成整体读，比如 development of marketing core 这种结构，中间不要每个词都断开。读错常常不是不会发音，而是把字母看错或把词拆碎了。练习时先慢速确认词，再按意群一口气读；如果只有一个词看错，但整体节奏很好，就优先保留节奏，再修那个词。"
+  },
+  {
+    "id": "sunpace-reading-fib-semantic-parallel",
+    "title": "阅读 FIB 怎么判断并列词是不是同一类",
+    "keywords": [
+      "阅读FIB并列语义",
+      "FIB national origins",
+      "FIB cultural backgrounds",
+      "FIB all levels of society",
+      "FIB并列关系",
+      "FIB语义同类",
+      "FIB presentation",
+      "FIB events",
+      "阅读填空语境",
+      "FIB同类词"
+    ],
+    "answer": "阅读 FIB 里 and 前后并列时，不只要词性一致，还要语义同类。Sunny 会让学生看后面已经给出的词组，比如 cultural backgrounds、all levels of society，它们都在讲一个群体的来源、背景、阶层这类维度，那么前面的空也要能放进同一组逻辑里。遇到 event 这类词，中文可能像“事情”，但它常偏活动、赛事、大事件，不一定能和人的经历或背景并列。做题时先问：这个词能不能和后面的并列项一起描述同一个对象？"
+  },
+  {
+    "id": "sunpace-speaking-di-layout-top-left-order",
+    "title": "DI 布局图信息很多怎么排序",
+    "keywords": [
+      "DI布局图",
+      "DI从上到下",
+      "DI从左到右",
+      "DI地图布局",
+      "DI方位顺序",
+      "DI城市名字",
+      "DI州名",
+      "DI地图文字很多",
+      "Describe Image layout",
+      "DI读不完"
+    ],
+    "answer": "DI 遇到布局图、地图或信息块很多的图片，不要东一块西一块乱跳。Sunny 建议用固定扫描顺序：从上到下、从左到右；如果右边更明显，也可以先说右边，但要保持一个方向走完。文字太多时，不需要全部读完，优先说清楚最明显的名称、区域和位置关系，再补一两个数字或颜色。这样听起来更像在读图，而不是临场找词。"
+  },
+  {
+    "id": "sunpace-speaking-di-number-stress-teen-ty",
+    "title": "DI 30、40、50 这种数字怎么练清楚",
+    "keywords": [
+      "DI数字重音",
+      "DI thirty forty fifty",
+      "DI 30 40 50",
+      "DI fifteen fifty",
+      "DI thirteen thirty",
+      "DI数字发音",
+      "DI数字口条",
+      "Describe Image数字",
+      "DI百分比读法",
+      "DI每天练数字"
+    ],
+    "answer": "DI 里的数字一定绕不开，尤其是 13/30、14/40、15/50 这类容易混的数字。Sunny 建议每天拿 1-2 分钟顺一下口条：teen 结尾的数字重音更靠后，-ty 结尾的数字前面更重、后面弱下来，比如 THIRty、FORty、FIFty。考试里数字不必每个都精确到极致，但发音要让机器听得出来，不然最大最小值说对了也可能被识别错。"
+  },
+  {
+    "id": "sunpace-writing-we-template-spelling-check",
+    "title": "WE 模板背熟后还要检查什么",
+    "keywords": [
+      "WE模板拼写",
+      "WE大作文检查",
+      "WE模板背熟",
+      "WE 200 300词",
+      "WE语法检查",
+      "WE拼写检查",
+      "WE字数不够",
+      "WE简单语法",
+      "PTE大作文模板",
+      "WE考场检查"
+    ],
+    "answer": "WE 模板不是背完就万事大吉。Sunny 会要求考前把模板背到能稳定打出来，避免上考场想不起来导致字数不到 200。写完后至少留 2-3 分钟检查：模板部分有没有拼错，自己填进去的主题词有没有拼错，单复数、时态、冠词有没有明显问题。基础阶段不要强行写很复杂的语法，模板里已经有高级结构，自己补内容时用简单准确的句子更稳。"
   }
 ]
