@@ -4559,5 +4559,617 @@
       "口语课怎么听"
     ],
     "answer": "口语带练课不是只等老师点到自己才有用。Sunny 建议你听别人读的时候也做三件事：第一，判断他有没有卡顿、回读、漏词或音量太小；第二，对照自己有没有同样问题；第三，把老师反复纠正的词、意群和节奏记到自己的错题本里。被点到时，先说清楚自己准备用哪一段或哪一句，不要把准备时间都花在纠结范围上。课后把被纠正的发音和句子再录一遍，带练课的效果才会真正留下来。"
+  },
+  {
+    "id": "sunpace-listening-wfd-last-words-note",
+    "title": "WFD 最后几个词只记首字母够吗",
+    "keywords": [
+      "WFD最后几个词",
+      "WFD最后一个词",
+      "WFD首字母",
+      "WFD只记首字母",
+      "WFD尾巴",
+      "WFD结尾词",
+      "WFD听写最后漏",
+      "WFD记笔记",
+      "WFDfriendly",
+      "WFD末尾单词"
+    ],
+    "answer": "WFD 记笔记时，前面为了跟住音频，可以先记首字母或词根；但最后一两个词如果已经没有后续内容要追，Sunny 建议尽量多写一点，甚至直接写完整。只写一个首字母，后面很容易想不起来到底是 friendly、final 还是 familiar。尤其最后一个词是形容词或名词时，音频结束后还有时间回忆和补全，不要让它白白丢掉。"
+  },
+  {
+    "id": "sunpace-listening-wfd-meaning-backfill",
+    "title": "WFD 听不清时怎么用意思补词",
+    "keywords": [
+      "WFD用意思补词",
+      "WFD中文意思",
+      "WFD听不清怎么猜",
+      "WFD试词",
+      "WFD单复数试词",
+      "WFD主谓宾",
+      "WFD句子意思",
+      "WFDacceptable phenomenon",
+      "WFDscientists复数",
+      "WFD词形判断"
+    ],
+    "answer": "WFD 听不清时，不要只盯声音硬猜，可以用句子意思和语法一起补。Sunny 会先让你抓主谓宾：谁是什么、谁做了什么；再看空缺位置需要名词、动词、形容词还是介词。比如听到 climate change is now an acceptable phenomenon among ...，后面大概率是某类人或群体，scientists 这种复数名词就要特别注意。拿不准单复数、冠词或相近形式时，训练阶段可以把合理试词写出来，再复盘哪类词形最常丢。"
+  },
+  {
+    "id": "sunpace-listening-hiw-what-counts-as-wrong",
+    "title": "HIW 什么情况要点错词",
+    "keywords": [
+      "HIW怎么做",
+      "HIW错词",
+      "Highlight Incorrect Words",
+      "HIW近义词",
+      "HIW同义词",
+      "HIW反义词",
+      "HIW发音相似",
+      "HIW加词减词",
+      "HIW倒扣",
+      "HIW点错扣分"
+    ],
+    "answer": "HIW 的核心是听到的词和屏幕上的词不一样就点。它可能换成近义词、同义词、反义词，或者发音相似但实际不是同一个词；但一般不是让你因为多一个 s、少一个 s 就机械判断，也不是整句加词减词。Sunny 会提醒你：确定不一样再点，因为 HIW 点错会倒扣。目标分还不高的同学，先追求少点错，再慢慢提高反应速度。"
+  },
+  {
+    "id": "sunpace-listening-wfd-middle-tail-notes",
+    "title": "WFD 中后段总是漏怎么办",
+    "keywords": [
+      "WFD中间漏",
+      "WFD后半句漏",
+      "WFD后半截",
+      "WFD第三个意群",
+      "WFD第四个意群",
+      "WFD中后段笔记",
+      "WFD长句笔记",
+      "WFD动词形式",
+      "WFD covers covered covering",
+      "WFD句子后面跟不上"
+    ],
+    "answer": "WFD 长句不是只记开头就够了。Sunny 建议你复盘时特别看第三、第四个意群是不是总漏：如果总是后半句跟不上，第二遍练习时就把注意力刻意放到中后段。动词先写原形，再根据听到和语法试第三人称、过去式、ing 或被动结构；介词短语和名词串也要按块记，比如 architecture planning / construction / international scale。前半句听懂只是开始，后半句能补回来，分才会稳。"
+  },
+  {
+    "id": "sunpace-listening-section-small-question-time",
+    "title": "听力小题怎么给 WFD 留时间",
+    "keywords": [
+      "听力小题控时",
+      "WFD留时间",
+      "HIW要检查吗",
+      "听力选择题30秒",
+      "FIBL每题多久",
+      "听力FIB一分半",
+      "听力时间安排",
+      "听力后半段时间",
+      "选择题别纠结",
+      "WFD做不完"
+    ],
+    "answer": "听力后半段最怕前面小题拖太久，最后 WFD 做不完。Sunny 建议选择题听完后最多 20-30 秒内判断，HIW 基本听完就走，不要反复检查；听力 FIB 一题尽量控制在 1 分半左右，最多不要超过 2 分钟。多选和 HIW 都有倒扣风险，不确定时别贪。真正要保护的是 WFD 的时间，因为它按词给分，而且同时影响听力和写作。"
+  },
+  {
+    "id": "sunpace-listening-wfd-one-word-compounds",
+    "title": "WFD 单词连写还是分开写拿不准怎么办",
+    "keywords": [
+      "WFD连写分开",
+      "WFD cannot",
+      "WFD can not",
+      "WFD单词拆开",
+      "WFD合成词",
+      "WFD拼写格式",
+      "WFD写法拿不准",
+      "WFD词形",
+      "WFD单词形式",
+      "WFD考试拼写"
+    ],
+    "answer": "WFD 里有些词不能随便拆开，比如 cannot 通常要写成一个词，拆成 can not 就可能被判成不同写法。Sunny 建议把常见连写词、复合词、容易拆错的词单独整理，不要每次靠临场感觉。训练时如果某个词确实有合理变体，可以先写自己最确定的版本，再在复盘里查清楚；但像 cannot 这种基础写法，平时就要固定下来，别到考试里犹豫。"
+  },
+  {
+    "id": "sunpace-listening-wfd-modal-verbs",
+    "title": "WFD 情态动词总漏怎么办",
+    "keywords": [
+      "WFD情态动词",
+      "WFD will be",
+      "WFD can be",
+      "WFD could be",
+      "WFD动词听丢",
+      "WFD谓语",
+      "WFD be issued",
+      "RS情态动词",
+      "WFD动词形式",
+      "WFD谓语动词"
+    ],
+    "answer": "WFD 和 RS 里，动词不能只听大概意思。Sunny 会特别盯 will be、can be、could be、is/are、was/were 这类小而关键的动词结构，因为它们会影响整句语法和得分。听到句子时先抓主语和谓语，哪怕后面名词没全听清，也要尽量把动词框架保住。复盘时把漏掉的情态动词、be 动词和过去式单独标出来，下一轮专门听这些小词。"
+  },
+  {
+    "id": "sunpace-listening-wfd-not-repeat-sentence",
+    "title": "WFD 要不要把同一句写两遍",
+    "keywords": [
+      "WFD写两遍",
+      "WFD重复写",
+      "WFD一个词一分",
+      "WFD和RS区别",
+      "WFD按词给分",
+      "WFD答案重复",
+      "WFD听写格式",
+      "WFD不用写两遍",
+      "Write From Dictation重复",
+      "WFD考试答案"
+    ],
+    "answer": "WFD 不是 RS，不需要把同一句写两遍。WFD 是按有效词给分，重点是把听到的句子写完整、拼写正确、词形合理，而不是重复一遍增加安全感。Sunny 建议写完后用时间检查首字母大写、句号、单复数、时态和容易漏的小词；如果有不确定的候选词，可以在合理位置试词，但不要把整句话重复粘一遍，反而容易让答案变乱。"
+  },
+  {
+    "id": "sunpace-listening-fibl-full-sentence-audio",
+    "title": "听力 FIB 原句音频怎么练",
+    "keywords": [
+      "听力FIB原句音频",
+      "FIBL原句",
+      "FIB-L音频",
+      "听力FIB长句",
+      "FIBL学术句",
+      "听力FIB段落音频",
+      "FIBL怎么复习",
+      "听力FIB不只是背空",
+      "FIBL上下文",
+      "听力FIB学术词"
+    ],
+    "answer": "听力 FIB 的原句音频不要只盯空格词。Sunny 建议把它当成小段学术听力来练：第一遍听主题和句子主干，第二遍补空格附近的搭配和词形，第三遍跟读整句，把学术词、弱读和连读放回上下文。很多空不是孤立词，而是被前后语法和语义限制住的，比如名词单复数、动词形式、形容词搭配。这样练，FIB 的拼写、SST 的关键词反应和 WFD 的句子感都会一起变稳。"
+  },
+  {
+    "id": "sunpace-writing-swt-experiment-detail-selection",
+    "title": "SWT 文章里的实验要不要写进答案",
+    "keywords": [
+      "SWT实验",
+      "SWT研究结果",
+      "SWT实验细节",
+      "SWT要不要写数据",
+      "SWT实验贯穿全文",
+      "SWT研究结论",
+      "SWT细节取舍",
+      "SWT原文实验",
+      "SWT怎么总结实验",
+      "SWT写作特训"
+    ],
+    "answer": "SWT 里看到 experiment、study、research 不要条件反射把所有步骤和数据都写进去。Sunny 会先判断这个实验在文章里是什么角色：如果它只是某一段里的支撑例子，通常抓结论就够了；如果实验贯穿全文、推动作者观点变化，那就要写“实验做了什么 + 结果说明什么”。具体步骤、样本数字和数据分析通常可以删，除非它们就是主结论。最稳的做法是先找后文有没有作者直接总结实验结果，有就优先用原文总结；没有，再用自己的话压缩实验结论。"
+  },
+  {
+    "id": "sunpace-speaking-di-speed-clarity-first",
+    "title": "DI 是不是说得越快越好",
+    "keywords": [
+      "DI语速",
+      "Describe Image语速",
+      "DI流利度",
+      "DI发音清晰",
+      "DI声音太小",
+      "DI自然语速",
+      "DI不要太快",
+      "DI口语分",
+      "Describe Image发音",
+      "DI节奏"
+    ],
+    "answer": "DI 不是越快越好。Sunny 更看重的是自然、连贯、可识别：声音要够亮，关键词发音要清楚，节奏可以稍快，但不能为了快把词尾、重音和数字吞掉。50-58 或 58-65 的同学尤其不要硬冲语速，先保证模板句、最大最小值、颜色/数字这些核心信息说稳；在内容和发音都不散的基础上，再一点点提速。"
+  },
+  {
+    "id": "sunpace-speaking-di-chart-bank-priority",
+    "title": "DI 只练高频图够不够",
+    "keywords": [
+      "DI高频图",
+      "DI基础图",
+      "Describe Image机经",
+      "DI表格",
+      "DI柱状图",
+      "DI饼图",
+      "DI线图",
+      "DI流程图",
+      "DI地图",
+      "DI怎么复习"
+    ],
+    "answer": "DI 不能只押几张高频图。Sunny 会把 DI 分成两层练：第一层是基础图，比如表格、柱状图、饼图、线图，这些在考试里占比很高，甚至一场 3-4 道 DI 都可能是基础图；第二层才是流程图、地图、图片题等特殊图。复习时先把基础图的模板、数字反应和比较表达练熟，再扩展到机经里的不同图型。这样遇到新图也不会慌，能稳定说出图名、最大最小、趋势或关键对比。"
+  },
+  {
+    "id": "sunpace-speaking-di-simple-words-over-fancy-words",
+    "title": "DI 词不会读要不要换简单表达",
+    "keywords": [
+      "DI词不会读",
+      "DI发音错误",
+      "Describe Image简单词",
+      "largest highest biggest",
+      "smallest lowest",
+      "versus怎么读",
+      "DI数字表达",
+      "DI模板词",
+      "DI卡词",
+      "DI替换表达"
+    ],
+    "answer": "DI 里高级词不如稳词。遇到自己容易读错的词，Sunny 建议换成更熟的表达，比如 largest 不稳，可以用 highest、biggest；smallest 不稳，可以用 lowest；看到 VS 要读成 versus。DI 不考你词汇炫技，机器更在意能不能识别到稳定、清楚的内容。模板词、数字、颜色、最大最小值这些高频表达，要练到每个词都顺嘴，比临场硬说一个会卡住的词更划算。"
+  },
+  {
+    "id": "sunpace-writing-swt-format-and-note-method",
+    "title": "SWT 字数和格式怎么避免丢分",
+    "keywords": [
+      "SWT字数",
+      "SWT格式",
+      "SWT一句话",
+      "SWT 50 75",
+      "SWT超字数",
+      "SWT怎么做笔记",
+      "SWT不能画线",
+      "SWT高亮",
+      "Summarize Written Text格式",
+      "SWT和SST区别"
+    ],
+    "answer": "SWT 的格式分很容易白丢：答案只写一句话，控制在 50-75 词内，千万不要写成多句话，也不要超字数。它和 SST 不一样，SWT 是读文章后压缩成一句总结，SST 是听力总结，可以多句话。考试界面里如果原文不好直接画线标注，就用一个笨但稳的方法：读到重要信息时先把关键词或关键句临时敲到答题框，最后再合并、删细节、改成一句完整总结。先保格式，再追求内容漂亮。"
+  },
+  {
+    "id": "sunpace-speaking-di-axis-and-units",
+    "title": "DI 坐标轴和单位怎么说",
+    "keywords": [
+      "DI坐标轴",
+      "DI X轴",
+      "DI Y轴",
+      "DI单位",
+      "DI百分比",
+      "DI年份",
+      "DI数字反应",
+      "Describe Image axis",
+      "DI读图",
+      "DI柱状图"
+    ],
+    "answer": "DI 里的坐标轴不是装饰，尤其是柱状图、线图和表格。Sunny 建议先看清 X 轴讲什么、Y 轴单位是什么，再去说最大最小或趋势。比如是 percentage 就要带百分号，是 thousand 就不要只读数字本身；年份和单位也要读完整。很多同学不是不会模板，而是数字和单位一紧张就漏，导致内容听起来像空的。练习时可以专门做 30 秒数字反应：年份、百分比、thousand/million、颜色和类别轮流读，先读准，再读快。"
+  },
+  {
+    "id": "sunpace-speaking-di-map-location-template",
+    "title": "DI 地图题怎么描述方位",
+    "keywords": [
+      "DI地图题",
+      "DI方位",
+      "Describe Image map",
+      "DI颜色图",
+      "DI地图颜色",
+      "DI at the bottom",
+      "DI north side",
+      "DI south side",
+      "DI国家地区",
+      "DI地图怎么说"
+    ],
+    "answer": "DI 地图题不要硬套普通柱状图模板。Sunny 会让学生用更直观的顺序：先说这是一张关于什么地区/主题的地图，再说颜色或图例代表什么，最后讲位置。可以用很稳的句型：A is located in the north/south/east/west of the map，或者 A is colored dark green, which means B。地图题不一定要说很多复杂信息，能把图例、方位和一两个关键地区说清楚，就比堆一串看不懂的地名更稳。"
+  },
+  {
+    "id": "sunpace-speaking-di-few-words-hard-words",
+    "title": "DI 图上字少又难怎么办",
+    "keywords": [
+      "DI字少",
+      "DI难词",
+      "DI图片题",
+      "DI看不清",
+      "DI颜色",
+      "DI图例",
+      "DI卡顿",
+      "DI单词少",
+      "DI内容不够",
+      "DI怎么凑内容"
+    ],
+    "answer": "DI 遇到图上字少、词又难的图片题，不要盯着难词硬读到卡住。Sunny 建议先抓大字、黑体、颜色、图例和明显物体；小字、模糊字、读不准的地名可以少说或换简单表达。内容不够时，可以补颜色、位置、数量关系和可见细节，比如 We can see green and brown，或者 It is at the bottom of the picture。核心不是把每个字都读完，而是在不卡顿的前提下，把图里最明显的信息说满 30-35 秒。"
+  },
+  {
+    "id": "sunpace-speaking-di-no-invented-summary",
+    "title": "DI 结尾要不要自己编总结",
+    "keywords": [
+      "DI总结",
+      "DI结尾",
+      "DI不要编句子",
+      "DI单词词组",
+      "Describe Image总结",
+      "DI流利度",
+      "DI照图说话",
+      "DI国家名字",
+      "DI文字数字",
+      "DI内容完整"
+    ],
+    "answer": "DI 结尾不需要自己编很复杂的总结概括，尤其不要为了显得高级去说一堆和图关系不大的话。Sunny 更建议照图说话：先读标题或主题，再说图上明显的文字、国家/类别、数字、颜色、最大最小值。结尾可以用简单稳定句，比如 In conclusion, this picture is about...，但不要临场编逻辑分析。DI 的目标不是写作文，而是在 30-40 秒里流畅、清楚、持续地输出图中信息。"
+  },
+  {
+    "id": "sunpace-speaking-di-template-memory-before-exam",
+    "title": "DI 模板什么时候要背熟",
+    "keywords": [
+      "DI模板",
+      "DI模板背不熟",
+      "DI考前",
+      "DI简化模板",
+      "Describe Image模板",
+      "DI准备时间",
+      "DI流利度",
+      "DI卡顿",
+      "DI口语带练",
+      "DI临考"
+    ],
+    "answer": "DI 模板不能一直停留在“看着会说”。如果已经接近考试，Sunny 会要求模板基本脱口而出，准备时间只用来抓标题、图型、最大最小、颜色和数字，而不是现场想句型。模板不熟的同学可以先用简化版：The following picture shows... / According to the picture, we can see... / In conclusion...，先保证不卡，再慢慢加细节。临考前模板越自动化，大脑才有余力处理图里的信息。"
+  },
+  {
+    "id": "sunpace-speaking-di-non-data-chart-scope",
+    "title": "DI 非数据图要练到什么程度",
+    "keywords": [
+      "DI非数据图",
+      "DI流程图",
+      "DI地图题",
+      "DI图片题",
+      "DI机经命中率",
+      "DI高频非数据图",
+      "DI特殊图",
+      "DI备考范围",
+      "DI数据图",
+      "Describe Image复习范围"
+    ],
+    "answer": "DI 备考不要把非数据图放到和数据图一样的权重。Sunny 会先让学生把表格、柱状图、线图、饼图这类数据图练稳，因为它们出现频率更高；流程图、地图、图片题属于小比例题型，但如果遇到，常常更依赖平时见过的高频图和关键词积累。所以策略是：数据图练方法和反应，非数据图优先练高频与常见表达，不必把所有冷门图都死磕完。"
+  },
+  {
+    "id": "sunpace-speaking-di-comparison-sentence",
+    "title": "DI 怎么说两个数字的对比",
+    "keywords": [
+      "DI对比",
+      "DI比较数字",
+      "DI percentage",
+      "Describe Image比较",
+      "DI which is",
+      "DI higher than",
+      "DI年份对比",
+      "DI数据关系",
+      "DI快餐图",
+      "DI数字表达"
+    ],
+    "answer": "DI 里如果图上有两个明显可比的数字，不要只把数字念出来，可以加一句简单对比。Sunny 推荐先用稳句型：The percentage of A in 2003 is higher than that in 2006, which is about 30%。如果定语从句说不稳，就用简化版：The highest number is 33%, which belongs to A in 2006。重点是把“谁和谁比、谁更高/更低、数字是多少”说清楚，不需要把句子做得很复杂。"
+  },
+  {
+    "id": "sunpace-speaking-di-fluency-pronunciation-target",
+    "title": "50-60 分目标的 DI 要练到什么状态",
+    "keywords": [
+      "DI目标分",
+      "DI 50分",
+      "DI 58分",
+      "DI流利度",
+      "DI发音",
+      "Describe Image目标分",
+      "DI口语小分",
+      "DI声音有力",
+      "DI每天练",
+      "DI不卡顿"
+    ],
+    "answer": "50-60 分目标的同学，DI 不需要追求每句话都高级，但流利度和发音不能太弱。Sunny 会先抓两个底线：第一，模板和常见数字/颜色/图型词能连续说 30 秒左右，不长时间卡住；第二，声音打开，关键词发音清楚，不能只靠语速硬冲。DI 给口语供分不少，每天都要短练，尤其练准备时间内把标题、最大最小、单位和颜色读顺。对这个分数段来说，稳、清楚、不断，比复杂表达更重要。"
+  },
+  {
+    "id": "sunpace-speaking-di-word-number-before-color",
+    "title": "DI 信息顺序怎么排更稳",
+    "keywords": [
+      "DI信息顺序",
+      "DI先说文字数字",
+      "DI颜色什么时候说",
+      "DI相同数据",
+      "DI图例",
+      "DI文字优先",
+      "DI数字优先",
+      "Describe Image内容顺序",
+      "DI颜色补充",
+      "DI流利度"
+    ],
+    "answer": "DI 不是看到什么就乱说什么。Sunny 建议优先顺序是：标题/图型、主要文字或类别、关键数字和对比、再补颜色和位置。颜色、形状、背景细节可以救场，但不要放得太靠前，把真正有分的信息挤掉。如果两个类别共用同一个数字，不要只说数字，也要顺手带上对应类别，比如 A and B are both 66%。这样内容更像在读图，而不是只背模板。"
+  },
+  {
+    "id": "sunpace-speaking-di-own-words-with-safe-frames",
+    "title": "DI 可以用自己的话说吗",
+    "keywords": [
+      "DI自己的话",
+      "DI自己DIY",
+      "DI语法错误",
+      "DI地道表达",
+      "Describe Image句型",
+      "DI模板替换",
+      "DI不要怕犯错",
+      "DI开口练习",
+      "DI安全句型",
+      "DI表达不地道"
+    ],
+    "answer": "DI 可以用自己的话说，只要和图相关、机器听得懂，就不需要因为小语法错误停下来重说。但完全自己 DIY 也容易出现不地道或卡顿，所以 Sunny 建议准备几个安全框架：The largest percentage can be seen in A, which is about B；The picture shows information about...；According to the picture, we can see...。先用安全框架托住流利度，再把自己会说的细节放进去。练习时不要怕翻车，DI 就是越开口越稳。"
+  },
+  {
+    "id": "sunpace-speaking-di-must-have-keywords",
+    "title": "DI 模板里哪些词一定要有",
+    "keywords": [
+      "DI关键词",
+      "DI largest smallest",
+      "DI conclusion",
+      "DI模板关键句",
+      "Describe Image关键词",
+      "DI最大最小",
+      "DI about不要乱用",
+      "DI模板调整",
+      "DI流利度",
+      "DI信息完整"
+    ],
+    "answer": "DI 模板可以按自己的习惯微调，但有几类关键词最好别丢：图的主题、largest/highest、smallest/lowest、关键数字，以及一个简单结尾。Sunny 会提醒学生，不是每句话都必须一模一样，但这些信息要出现；比如 largest 和 smallest 放在哪一句都可以，关键是要说出来。不要为了套模板硬塞不合适的 about 或复杂词，模板服务的是流利度和信息完整，不是背得越长越好。"
+  },
+  {
+    "id": "sunpace-speaking-di-avoid-long-item-dump",
+    "title": "DI 图上项目很多要不要全部念完",
+    "keywords": [
+      "DI项目很多",
+      "DI罗列信息",
+      "DI堆信息",
+      "DI活动名称很多",
+      "DI横坐标很多",
+      "DI内容含金量",
+      "DI流利度扣分",
+      "Describe Image列表",
+      "DI不要全部念",
+      "DI怎么取舍"
+    ],
+    "answer": "DI 图上项目很多时，不建议一口气把所有横坐标或活动名称全念完。Sunny 更建议挑代表性信息：先说主题，再选 2-3 个关键类别，加最大最小或明显对比。如果只是长串罗列，听起来像拖时间，信息之间没有关系，流利度也容易因为停顿变差。可以举例一些项目，但要让它们服务于数据关系，比如“最高的是 A，最低的是 B，另外 C/D 也出现在图里”。"
+  },
+  {
+    "id": "sunpace-speaking-di-map-arrow-logic",
+    "title": "DI 地图箭头和迁徙图怎么说",
+    "keywords": [
+      "DI地图箭头",
+      "DI迁徙图",
+      "DI migration route",
+      "DI spring fall",
+      "DI箭头方向",
+      "Describe Image map arrow",
+      "DI breeding wintering",
+      "DI逻辑表达",
+      "DI地图区域",
+      "DI方位表达"
+    ],
+    "answer": "地图里有箭头、迁徙路线或不同颜色区域时，Sunny 会让学生先把图例说清楚，再说方向关系。比如：The blue area represents breeding, the orange area represents wintering, and the arrow shows the migration route from A to B in spring/fall。不要只说颜色，也不要把 from/to 方向说反。地图题最稳的是“图例含义 + 区域位置 + 箭头方向”，句子不用复杂，但逻辑必须顺。"
+  },
+  {
+    "id": "sunpace-reading-fibr-ro-no-over-inference",
+    "title": "阅读 FIB/RO 可以靠常识推吗",
+    "keywords": [
+      "阅读FIB推断",
+      "RO推断",
+      "FIBR上下文",
+      "RO不能过度推断",
+      "阅读填空常识",
+      "between用法",
+      "life expectancy",
+      "阅读题证据",
+      "PTE阅读逻辑",
+      "FIBR选项"
+    ],
+    "answer": "阅读 FIB 和 RO 可以用常识辅助，但不能让常识盖过原文证据。Sunny 会让学生先看句子结构和上下文有没有直接支持，不要因为现实里听起来合理，就强行选一个原文没说的意思。比如涉及比较、变化、质量提升这类判断时，要确认文章真的表达了这个方向；看到 between 这类结构，也要检查是不是 between A and B，不能只凭语感硬填。阅读题的稳分点是“结构先行，证据落地，常识只做最后验证”。"
+  },
+  {
+    "id": "sunpace-reading-fib-parallel-test-clue",
+    "title": "阅读 FIB 看到 and 怎么判断空格词性",
+    "keywords": [
+      "阅读FIB并列",
+      "FIB and",
+      "FIB词性判断",
+      "FIB形容词并列",
+      "FIB名词修饰名词",
+      "visual test",
+      "attention test",
+      "FIB上下文",
+      "FIB语法排除",
+      "阅读填空"
+    ],
+    "answer": "阅读 FIB 看到 and 时，先别急着按中文意思选词。Sunny 会先看 and 前后到底在并列什么：是两个形容词并列，还是两个名词短语并列。比如空格后面接 test，就要判断它是不是和 attention test 一样组成“某种测试”；如果后文出现 pictures、screen、objects 这类线索，就说明 visual test 这样的搭配更合理。做题顺序是：先判并列结构和词性，再用后文证据确认意思。"
+  },
+  {
+    "id": "sunpace-reading-fib-passive-and-to-complement",
+    "title": "阅读 FIB 怎么看主动被动和 to 的用法",
+    "keywords": [
+      "阅读FIB被动",
+      "FIB主动被动",
+      "FIB to用法",
+      "to不定式",
+      "project to",
+      "FIB主语",
+      "FIB谓语",
+      "FIB语法判断",
+      "阅读填空结构",
+      "FIB动词选择"
+    ],
+    "answer": "阅读 FIB 里遇到动词空，Sunny 会先找真正主语，再判断主动还是被动。不要只看中文顺不顺，要看句子结构能不能成立。遇到 to 也别默认就是“为了”，它可能是动词搭配或补足结构的一部分；如果主语是被预测、被推进到某个水平，就要考虑 passive + to 的结构。简单说，先问三件事：主语是谁，动词和主语是主动还是被动，to 后面是在表目的还是补足前面的动词。"
+  },
+  {
+    "id": "sunpace-writing-synonyms-use-with-context",
+    "title": "大作文同义词要不要背很多",
+    "keywords": [
+      "大作文同义词",
+      "WE近义词",
+      "PTE写作词汇",
+      "同义替换",
+      "作文词汇量",
+      "词性",
+      "语境",
+      "褒贬义",
+      "important替换",
+      "essay synonyms"
+    ],
+    "answer": "大作文同义词不是背越多越好。Sunny 建议只整理自己常用、能确认用法的替换词，比如常用动词、形容词和表达优缺点的名词。查到近义词后，一定要看词性、语境和褒贬义，不能看到中文意思相近就直接塞进作文。对基础不稳的同学，宁可用熟悉词写准确，也不要用一个不确定的高级词把语法和搭配一起带崩。"
+  },
+  {
+    "id": "sunpace-speaking-di-daily-number-drill",
+    "title": "DI 数字和年份反应慢怎么练",
+    "keywords": [
+      "DI数字反应慢",
+      "DI年份",
+      "DI每天练数字",
+      "DI 10分钟",
+      "DI近似数字",
+      "DI准备时间",
+      "Describe Image数字训练",
+      "DI百分比",
+      "DI年份读法",
+      "DI流利度"
+    ],
+    "answer": "DI 数字和年份反应慢，不能只靠临场硬想。Sunny 会让学生每天单独拿 5-10 分钟练数字：年份、百分比、几千几百万、最高最低值、around/about 的近似表达。准备时间里先把最难读的数字在心里过一遍，考试时复杂数字可以近似说，但节奏不能断。数字训练的目标不是每个数字都完美，而是看到 1990、2010、35%、2,000 这类信息能马上顺嘴说出来。"
+  },
+  {
+    "id": "sunpace-speaking-di-floor-plan-position",
+    "title": "DI 平面图和房间图怎么说",
+    "keywords": [
+      "DI平面图",
+      "DI房间图",
+      "floor plan",
+      "DI方位句型",
+      "DI office storage",
+      "DI computer station",
+      "Describe Image平面图",
+      "DI upper part",
+      "DI房间大小对比",
+      "DI地图题"
+    ],
+    "answer": "DI 遇到平面图、房间图时，不要把每个房间名后面都硬加 room。Sunny 建议用方位和数量托住表达：in the upper part, there are four offices and a storage area；there is a computer station along with four small rooms。房间大小不一样时，可以加一句对比：The storage area is about the same size as the office。平面图的核心是“方位 + 名称 + 数量/大小关系”，先说清楚，不要急着套普通柱状图模板。"
+  },
+  {
+    "id": "sunpace-speaking-di-line-chart-left-to-right",
+    "title": "DI 线图趋势要按什么顺序说",
+    "keywords": [
+      "DI线图",
+      "DI趋势",
+      "DI从左到右",
+      "DI increase decrease",
+      "DI年份趋势",
+      "DI折线图",
+      "Describe Image line chart",
+      "DI A to B",
+      "DI最高最低值",
+      "DI人口图"
+    ],
+    "answer": "DI 线图说趋势时，Sunny 建议按从左到右的顺序说，不要跳来跳去。准备时间先定图名、X/Y 轴、最高最低值和对应年份；正式说时可以用简单句：The number increased from A to B between 1970 and 1990，或者 decreased from A to B。数字不需要特别精确，可以用 about/around，但方向、年份和对象不能乱。线图最怕看到了趋势，却把时间顺序说反。"
+  },
+  {
+    "id": "sunpace-writing-swt-first-read-keywords",
+    "title": "SWT 第一遍读文章看什么",
+    "keywords": [
+      "SWT泛读",
+      "SWT关键词",
+      "SWT第一遍",
+      "SWT反复出现的词",
+      "SWT信号词",
+      "SWT主题词",
+      "Summarize Written Text读文章",
+      "SWT police crime",
+      "SWT怎么找主旨",
+      "SWT关键句"
+    ],
+    "answer": "SWT 第一遍不要一上来精读每个句子。Sunny 会先泛读抓反复出现的主题词和信号词，比如某个名词、群体、政策、原因结果词反复出现，就说明它很可能是主线。第一遍的目标是知道文章在围绕什么讨论，第二遍再找关键句和可压缩的信息。看到反复出现的词，不要只抄词本身，要判断它和作者观点、原因、结果之间的关系。"
+  },
+  {
+    "id": "sunpace-reading-fib-word-meaning-after-pos",
+    "title": "阅读 FIB 选项词性对了还要看什么",
+    "keywords": [
+      "阅读FIB词性",
+      "FIB essential",
+      "FIB top order model",
+      "FIB词义辨析",
+      "FIB选项排除",
+      "阅读填空语境",
+      "FIB形容词",
+      "FIB名词动词",
+      "FIB核心成分",
+      "FIB上下文"
+    ],
+    "answer": "阅读 FIB 不能只做到词性对。Sunny 会先判空格需要名词、动词还是形容词，再比较词义和搭配。比如空格需要形容词时，top、essential 词性都可能对，但如果语境是“掌握化学的核心/基础成分”，essential 就比 top 更贴切。词性是第一道门，真正拿分还要看这个词和后面的名词、整句话逻辑是否自然。"
   }
 ]
