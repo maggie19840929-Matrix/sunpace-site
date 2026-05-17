@@ -5307,5 +5307,124 @@
       "PTE基础词汇"
     ],
     "answer": "词汇音频里一个单词可能会给很多中文意思，不需要一次全背下来。Sunny 会让学生先抓 PTE 最常用的核心义和词性，再把特别偏的意思放后面。比如一个词既有名词又有动词用法，先确认考试里最容易出现的搭配；如果是 WFD 或听力 FIB，拼写和听音优先；如果是阅读 FIB，再重点看词性和上下文搭配。别被一串中文释义吓住，先做到“听得出、拼得对、知道大概语境”。"
+  },
+  {
+    "id": "sunpace-speaking-di-human-review-avoid-filler",
+    "title": "DI 改革后人工审核不喜欢什么",
+    "keywords": [
+      "DI人工审核",
+      "DI改革后",
+      "DI不要说无关内容",
+      "DI very informative",
+      "DI useful",
+      "DI罗列数字",
+      "DI信息堆砌",
+      "Describe Image人工审核",
+      "DI内容质量",
+      "DI模板"
+    ],
+    "answer": "改革后 DI 不能只靠无关套话或机械罗列硬撑时间。Sunny 会提醒学生，人工审核不喜欢两类东西：一类是和图片无关的空话，比如一直说 this picture is very informative/useful；另一类是没有关系的信息堆砌，比如只把 1920、1925、1930 一串数字念出来。更稳的是用模板框架说图中信息：标题、图型、关键元素、最大最小、趋势或对比。内容要和图有关，流利但不能空。"
+  },
+  {
+    "id": "sunpace-speaking-di-three-frameworks",
+    "title": "DI 数据图、流程图、地图分别怎么搭框架",
+    "keywords": [
+      "DI框架",
+      "DI数据图框架",
+      "DI流程图框架",
+      "DI地图框架",
+      "Describe Image三大框架",
+      "DI最大最小",
+      "DI流程步骤",
+      "DI上下左右",
+      "DI颜色代表",
+      "DI图型分类"
+    ],
+    "answer": "DI 不同图型不要全用同一个框架。Sunny 会分三类：数据图先说标题和图型，再说横纵坐标或元素、最大值、最小值，最后补趋势、对比或第二大第三大；流程图先说标题，再说一共几个步骤，然后按 first/second/third 顺序讲；地图或非常规图先说标题，再按上下左右、颜色或区域代表什么来描述。框架不是为了背得漂亮，而是让你在 25 秒准备时间里知道先抓什么。"
+  },
+  {
+    "id": "sunpace-writing-swt-format-zero-risk",
+    "title": "SWT 为什么不要自己乱总结",
+    "keywords": [
+      "SWT自己总结",
+      "SWT格式分",
+      "SWT一句话",
+      "SWT抄原文",
+      "SWT主谓一致",
+      "SWT两个句子",
+      "SWT格式零分",
+      "SWT语法词汇",
+      "SWT comma and",
+      "Summarize Written Text风险"
+    ],
+    "answer": "SWT 基础阶段最怕自己乱总结。Sunny 会让学生优先从原文找关键句，再用逗号、and、分号等方式连成一句话。因为一旦自己写，很容易出现主谓不一致、两个句子没连接好、或者写成多句话；格式分丢了，语法和词汇也会一起受影响。宁可内容少一点，也要先保证一句话、5-75 词、句子连接正确、最后有句号。SWT 不是展示文采，先保格式和准确。"
+  },
+  {
+    "id": "sunpace-writing-we-spelling-zero-risk",
+    "title": "WE 拼写为什么要提前练模板",
+    "keywords": [
+      "WE拼写",
+      "WE拼写零分",
+      "WE模板拼写",
+      "WE错两个拼写",
+      "WE大作文拼写",
+      "WE内容分可以丢",
+      "WE格式零分",
+      "PTE大作文检查",
+      "WE模板打字",
+      "WE考前练习"
+    ],
+    "answer": "WE 大作文里内容分可以少丢一点，但格式、字数和拼写这种基础分不要踩雷。Sunny 会让学生提前把模板打熟，因为模板拼错非常可惜；自己填进去的主题词也要确认拼写。拼写分要求比较严，错一个还有可能保住部分分，错两个或更多就很危险。考前练习时不要只背模板，要真正用键盘打出来，检查 200-300 词、模板拼写、主题词拼写和简单语法。"
+  },
+  {
+    "id": "sunpace-speaking-di-unknown-words-keep-flow",
+    "title": "DI 图上难词不认识怎么办",
+    "keywords": [
+      "DI难词不认识",
+      "DI大胆猜",
+      "DI文字看不懂",
+      "DI树名",
+      "DI数字颜色",
+      "DI流利度优先",
+      "Describe Image难词",
+      "DI单词少",
+      "DI图片内容",
+      "DI发音不确定"
+    ],
+    "answer": "DI 图上遇到陌生词或专有名词，不要因为一个词停住。Sunny 建议先大胆按拼读猜一个大概读法，保证流利度；如果实在不确定，就转去说数字、颜色、位置和可见内容。比如树名、地名、图例词很难时，可以先说一两个自己有把握的词，再补 130 feet、green、brown、trees、forest 这些明显信息。DI 最怕为了一个难词卡住，宁可内容简单，也要声音不断、节奏稳定。"
+  },
+  {
+    "id": "sunpace-writing-swt-signal-and-repeated-words",
+    "title": "SWT 怎么用信号词和重复词找关键句",
+    "keywords": [
+      "SWT信号词",
+      "SWT重复词",
+      "SWT关键句",
+      "SWT but however therefore",
+      "SWT repeated words",
+      "SWT开头结尾",
+      "SWT段首段尾",
+      "Summarize Written Text关键句",
+      "SWT主旨句",
+      "SWT找句子"
+    ],
+    "answer": "SWT 找关键句时，Sunny 会让学生盯三类位置：开头结尾、每段第一句/最后一句、信号词或反复出现词附近。but、however、therefore、thus 这类信号词后面，经常是作者真正想强调的信息；反复出现的词也说明文章在围绕它展开。不要只看到一个词就抄，要看它所在的整句话是否表达观点、原因、结果或对比。先找关键句，再决定怎么连成一句总结。"
+  },
+  {
+    "id": "sunpace-writing-swt-copy-complete-clause",
+    "title": "SWT 抄关键句时为什么要抄完整",
+    "keywords": [
+      "SWT抄完整句子",
+      "SWT主语不能丢",
+      "SWT关键句完整",
+      "SWT从中间抄",
+      "SWT句子成分",
+      "SWT主谓宾",
+      "SWT格式",
+      "SWT原文关键句",
+      "SWT不要断句",
+      "Summarize Written Text"
+    ],
+    "answer": "SWT 就算用原文，也不能从句子中间随便截。Sunny 会提醒学生，关键句要尽量保留完整主干，尤其是主语和谓语不能丢。比如看到 prevent people 这种信息时，要回头确认“什么 prevent people”，把主语一起带上；否则答案可能变成残句，格式和语法都会受影响。最稳的方法是先画出完整句，再删掉不必要的修饰，保留能独立成立的主干。"
   }
 ]
