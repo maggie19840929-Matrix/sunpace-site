@@ -5426,5 +5426,80 @@
       "Summarize Written Text"
     ],
     "answer": "SWT 就算用原文，也不能从句子中间随便截。Sunny 会提醒学生，关键句要尽量保留完整主干，尤其是主语和谓语不能丢。比如看到 prevent people 这种信息时，要回头确认“什么 prevent people”，把主语一起带上；否则答案可能变成残句，格式和语法都会受影响。最稳的方法是先画出完整句，再删掉不必要的修饰，保留能独立成立的主干。"
+  },
+  {
+    "id": "sunpace-speaking-ra-select-readable-range",
+    "title": "RA/RS 遇到很难的词要不要读进去",
+    "keywords": [
+      "RA选择范围",
+      "RA难词跳过",
+      "RA读十个词",
+      "RA读的范围",
+      "Read Aloud难词",
+      "RA流利度",
+      "RA发音扣分",
+      "RA目标分不高",
+      "RA选区速度",
+      "RA不要犹豫"
+    ],
+    "answer": "RA 或带读练习里遇到一个明显不会读的难词，不一定非要硬读进去。Sunny 会先看目标分和稳定性：如果目标分不高，难词读错会扣发音，犹豫还会扣流利度，那就把范围选到更顺的意群上；但也不要选得太短，尽量保证 8-10 个词以上，句子听起来完整。准备时间里要快点决定读到哪里，不要拖到最后几秒才选好，否则一开口就容易乱。"
+  },
+  {
+    "id": "sunpace-writing-swt-three-sentence-not-enough",
+    "title": "SWT 只找三句话够不够",
+    "keywords": [
+      "SWT三句话",
+      "SWT字数不够",
+      "SWT关键句数量",
+      "SWT 5到75词",
+      "SWT找关键句",
+      "SWT答案太短",
+      "Summarize Written Text字数",
+      "SWT内容不够",
+      "SWT补信息",
+      "SWT关键句连接"
+    ],
+    "answer": "SWT 找到三句关键句不代表一定够用，还要看连起来后的字数和信息密度。Sunny 会让学生先找 2-4 个关键句或关键片段，再检查是否在 5-75 词范围内、是否覆盖主旨和主要原因/结果。如果三句话太短，可以补一个同主题的关键细节；如果太长，就删修饰和例子。不要只数句子数量，要看答案是否是一句完整总结、字数合规、信息够用。"
+  },
+  {
+    "id": "sunpace-writing-swt-copy-error-check",
+    "title": "SWT 抄原文也会扣分吗",
+    "keywords": [
+      "SWT抄错",
+      "SWT抄原文扣分",
+      "SWT语法扣分",
+      "SWT it is its",
+      "SWT复制错误",
+      "SWT检查",
+      "SWT拼写",
+      "SWT格式",
+      "SWT原文原词",
+      "SWT语法满分"
+    ],
+    "answer": "SWT 可以用原文，但抄错一样会扣分。Sunny 会提醒学生，抄原文不是机械复制，最后一定要检查：有没有把 its/it's 这类词抄错，有没有漏主语、漏谓语，有没有多打一个词导致语法不通。原文句子本身语法没问题，但你拼接或抄写时出错，就可能影响语法和词汇分。基础同学尤其要把检查重点放在连接词、标点、主谓一致和容易看错的小词上。"
+  },
+  {
+    "id": "sunpace-writing-swt-research-shows-signal",
+    "title": "SWT 看到 research shows 要怎么处理",
+    "answer": "SWT 里出现 research shows、studies suggest、evidence indicates 这类表达时，Sunny 会把它当成信号句重点检查。它后面往往不是普通背景，而是作者想给出的发现、结论或影响。如果这一句同时带着主语、谓语和明确结果，就很适合进入答案；如果后面还有 because、therefore、however，再顺手看一下原因或转折。不要只抄 research shows 本身，要抄出它到底证明了什么。",
+    "source": "phase2-media batch 76, writing practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-we-prompt-paraphrase-points",
+    "title": "WE 写作怎么围绕题干找替换词",
+    "answer": "WE 写作文时，Sunny 不建议一上来背模板硬套，要先把题干里的核心词拆出来，再找能稳妥替换的表达。常见抓手有时间、地点、人物、事件、工具、近义词和上位词。比如题干问某个现象对社会的影响，正文里就要持续围绕这个现象的对象、场景和结果展开。替换词不是为了显得高级，而是为了让文章一直扣题，同时避免同一个词反复出现。",
+    "source": "phase2-media batch 76, writing practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibr-word-family-meaning",
+    "title": "FIBR 遇到生词怎么用词族判断",
+    "answer": "FIBR 不是每个词都要死背中文意思。Sunny 会让学生看词族和上下文一起判断：比如 cultivate、cultivation、culture 这一组都和培养、栽培、文化发展有关，但放在 tomato、garden、easy 这类语境里，更可能是在说植物容易栽培。做题时先看空格前后名词和形容词，再判断词性和语义范围；不要只因为一个词眼熟就选，要确认它放进句子后意思顺不顺。",
+    "source": "phase2-media batch 76, reading practice",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
