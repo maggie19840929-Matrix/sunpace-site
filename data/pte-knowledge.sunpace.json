@@ -7693,5 +7693,175 @@
     "source": "phase2-media local staging batches 106-107, speaking DI practice",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-choose-10-to-12-words",
+    "title": "RA 一句话方法选多少词最稳",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "一句话方法",
+      "10到12词",
+      "选句",
+      "预读",
+      "流利度"
+    ],
+    "answer": "RA 一句话方法不要贪长。Sunny 会建议基础阶段先找 10-12 个词左右、以完整意群结尾的范围，优先选词组简单、自己能读顺的位置。准备时间里把这个范围多读几遍，先确认准确度，再适当加快语速。能稳定读顺的 10-12 词，比硬读一大段但反复卡顿更容易拿分。",
+    "source": "phase2-media local staging batches 108-109, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-do-not-repeat-wrong-pronunciation",
+    "title": "RA 预读时读错了要继续重复吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "预读",
+      "错误发音",
+      "准确度",
+      "语速",
+      "练习"
+    ],
+    "answer": "RA 预读不是机械重复。Sunny 会让学生第一遍读完后先检查有没有读错、卡住或看错单词，不要把错误发音一直重复到正式录音里。修正准确度之后，再逐步加快一点语速。练习顺序是先读对，再读顺，最后才追求更自然的速度。",
+    "source": "phase2-media local staging batches 108-109, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-linking-subjective-drop-interrupting-sound",
+    "title": "RA 连读吞音不知道规则时怎么处理",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "连读",
+      "吞音",
+      "失爆",
+      "中断感",
+      "流利度"
+    ],
+    "answer": "RA 连读和吞音不一定要先背完整规则。Sunny 会让学生用一个主观标准判断：读到某个辅音时，如果明显让表达中断、卡住或变得很重，就可以把这个音弱化或吞掉，让前后词更顺地连起来。目标不是故意含糊，而是在清晰度足够的前提下减少中断感，提升流利度。",
+    "source": "phase2-media local staging batches 108-109, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-weak-form-function-words",
+    "title": "RA 虚词为什么不要读得太重",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "弱读",
+      "虚词",
+      "爆破音",
+      "重音",
+      "节奏"
+    ],
+    "answer": "RA 里 said will、first public、from a、without a 这类连接处，如果每个虚词和爆破音都读得很重，句子会变成一个词一个词蹦出来。Sunny 会让学生把功能词读轻一点，爆破音遇到辅音时可以适当弱化，把主要重音留给内容词。这样句子听起来更像英语朗读，而不是逐字拼读。",
+    "source": "phase2-media local staging batches 108-109, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-comparison-subject-clear",
+    "title": "DI 做数据对比时主语要怎么说清楚",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "数据对比",
+      "the amount of",
+      "the percentage of",
+      "the share of",
+      "主语"
+    ],
+    "answer": "DI 里做比较时，不要只说 A 比 B 多，要说清楚到底是什么更多。Sunny 会让学生补出数据主语，例如 the amount of、the value of、the percentage of 或 the share of。这样考官能听出你比较的是数量、比例、数值还是份额，表达也会比直接堆项目名更准确。",
+    "source": "phase2-media local staging batches 108-109, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-avoid-largest-template-trace",
+    "title": "DI 每张图都先说最大值会怎样",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "最大值",
+      "模板痕迹",
+      "数据图",
+      "freestyle",
+      "表达多样化"
+    ],
+    "answer": "DI 数据图可以说最大值，但不要每张图都第一句就套最大值。Sunny 会提醒学生，如果每题前几句都按同一个顺序描述 largest/smallest，模板痕迹会很重。可以换成比例、颜色、第二大值、某一组数据或整体分布来开头；只要信息来自图上、句子说得清楚，就能让表达更自然。",
+    "source": "phase2-media local staging batches 108-109, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-chart-type-must-match",
+    "title": "DI 图型名称说错会影响表达吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "图型分类",
+      "picture",
+      "bar chart",
+      "pie chart",
+      "准确表达"
+    ],
+    "answer": "DI 开头说图型时要和实际图片匹配。Sunny 会纠正学生不要看到颜色或项目就习惯性说 bar chart；如果它更像 picture、map、table 或 pie chart，就按实际图型说。图型名称不是装饰，它会影响后面框架是否合理。拿不准时可以用 the picture shows information about... 这种更稳的开头。",
+    "source": "phase2-media local staging batches 108-109, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibrw-four-step-method",
+    "title": "FIBRW 一道题应该按什么流程做",
+    "keywords": [
+      "FIBRW",
+      "Reading and Writing Fill in the Blanks",
+      "首句",
+      "挖空句",
+      "主干",
+      "上下文",
+      "正确选项"
+    ],
+    "answer": "FIBRW 不要从头到尾平均用力。Sunny 会让学生按四步走：先稍微读首句，知道文章大方向；再精读挖空句，抓主干成分和空格词性；如果两个选项都像对的，再结合前后语境和作者观点；做完看解析时重点关注正确选项，干扰项只在它和正确项很像、需要辨析近义词时再研究。",
+    "source": "phase2-media local staging batches 108-109, reading FIBRW practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-long-sentence-remove-relative-clause",
+    "title": "FIB 长难句太长时怎么保留主干",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "长难句",
+      "定语从句",
+      "主干",
+      "highest",
+      "proportion"
+    ],
+    "answer": "FIB 长难句不用每个修饰都看完。Sunny 会让学生先把定语从句、however 插入语、of A of B 这类修饰暂时拿掉，保留主干。例如看到 was the highest，就问自己空格名词是否能被 highest 修饰；这样就能锁定 proportion 这类合适名词。先简化结构，再回到句意，比硬翻整句更快。",
+    "source": "phase2-media local staging batches 108-109, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-trim-overlap-when-over-word-limit",
+    "title": "SWT 写完超过 75 词怎么删",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "75词",
+      "字数超了",
+      "删句子",
+      "重合信息",
+      "内容分"
+    ],
+    "answer": "SWT 如果抄完关键句超过 75 词，Sunny 会让学生先找信息重合的句子删掉，而不是到处改词。重复主题词、相似解释或局部结论已经在前面采过分时，可以牺牲一部分内容分，删掉一整句保住格式和字数。看不懂时也不用硬改，保留更多明确采分词，删掉最重复或最局限的句子。",
+    "source": "phase2-media local staging batches 108-109, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
