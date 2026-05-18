@@ -7013,5 +7013,174 @@
     "source": "phase2-media local staging batches 98-99, reading RO practice",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-practice-read-chunk-aloud",
+    "title": "RA 练一句话时准备阶段要怎么用",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "准备时间",
+      "预读",
+      "一句话",
+      "练习"
+    ],
+    "answer": "RA 做一句话练习时，Sunny 会让学生在准备阶段先把选中的整句话大声或半声读几遍，确认自己能连起来说。不要只在脑子里看一遍就开口；先把节奏、重词和容易错的音摸出来，正式读的时候会更稳。练习时尤其要把短句读成一个完整声音单位。",
+    "source": "phase2-media local staging batches 100-101, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-small-errors-rhythm-first",
+    "title": "RA 有一两个小错就一定拿不到高分吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "小错误",
+      "流利度",
+      "节奏",
+      "79分",
+      "口语"
+    ],
+    "answer": "RA 里一两个小发音错不一定毁掉高分。Sunny 会更关注学生整体速度、节奏和声音是否稳定。如果小错没有造成长停顿、重复修正或大面积漏词，影响通常有限。备考时不要因为一个词错了就慌，先保住整句连贯，再回头专项修这个词。",
+    "source": "phase2-media local staging batches 100-101, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-no-extra-pause-inside-chunk",
+    "title": "RA 选一句话后逗号句号都要停吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "一句话",
+      "停顿",
+      "逗号",
+      "句号",
+      "流利度"
+    ],
+    "answer": "RA 如果已经选定一个较短的句子或短段来读，Sunny 不会要求逢逗号、句号都明显停顿。特别是 8 到 12 个词左右的小范围，目标是把它读成顺畅的一口气；不必要的停顿会让节奏散掉。真正需要停的是语义断点和换气点，不是每个标点都机械停。",
+    "source": "phase2-media local staging batches 100-101, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-stable-speed-no-dragging",
+    "title": "DI 模板为什么不能前快后拖",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "模板",
+      "语速",
+      "拖音",
+      "稳定",
+      "流利度"
+    ],
+    "answer": "DI 里最怕前面模板飞快，后面图中词突然拖长。Sunny 会让学生把全程语速先降到可控范围，再保持一致。不会读的图名或标签可以删掉，只说 total population、items include 这类稳的内容；比起硬塞生词，稳定速度和不拖音更能保护流利度。",
+    "source": "phase2-media local staging batches 100-101, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-drop-extra-that",
+    "title": "DI 句子里 that 太多怎么办",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "that",
+      "模板",
+      "句子简化",
+      "数字",
+      "流利度"
+    ],
+    "answer": "DI 描述数字时，如果学生总在 it can be seen that、we can see that 里被 that 卡住，Sunny 会让学生直接删掉 that，把句子变短。比如改成 it can be seen 200 and 100，或 we can see 2010 and 1950。模板越短越容易稳，尤其在数字反应不过来时，先说两个看得清的数字，保持流畅。",
+    "source": "phase2-media local staging batches 100-101, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-coin-first-use",
+    "title": "FIB 里 coin 不只是硬币吗",
+    "keywords": [
+      "FIB",
+      "Fill in the Blanks",
+      "coin",
+      "词义",
+      "首次提出",
+      "创造词",
+      "上下文"
+    ],
+    "answer": "阅读 FIB 里 coin 作为动词时，不是“硬币”，而是“首次提出、创造一个词或说法”。Sunny 会让学生结合上下文看：如果文章在讲某个术语由谁提出，design、duplicate、fabricate 这类词就不如 coin 准。遇到熟词生义，不要只套最常见中文意思。",
+    "source": "phase2-media local staging batches 100-101, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-develop-fogged-plate-context",
+    "title": "FIB 遇到 develop 和 plate 怎么理解",
+    "keywords": [
+      "FIB",
+      "Fill in the Blanks",
+      "develop",
+      "plate",
+      "fogged",
+      "底片",
+      "上下文"
+    ],
+    "answer": "FIB 里 develop 不一定是“发展”，在照片或底片语境里可以是“冲洗、显影”；plate 也可能指底片。Sunny 会让学生把词放回场景：底片被阳光或放射性影响后变得不清楚，就更接近 fogged，而不是 striped、transparent 之类。专业题常靠场景逻辑救命。",
+    "source": "phase2-media local staging batches 100-101, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-sow-seeds-modern-age",
+    "title": "FIB 看到 sow the seeds 后面怎么选",
+    "keywords": [
+      "FIB",
+      "Fill in the Blanks",
+      "sow the seeds",
+      "modern age",
+      "搭配",
+      "隐喻",
+      "语义"
+    ],
+    "answer": "FIB 里 sow the seeds 是“播下种子、奠定基础”的隐喻，不一定真的在说农业动作。Sunny 会让学生看后面搭配：sow the seeds for the modern age 比 modern method 更自然，因为它是在说为一个时代或局面奠基。遇到隐喻搭配时，先找固定搭配和语义层级，不要只看单词表面。",
+    "source": "phase2-media local staging batches 100-101, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-we-keyword-fields-when-logic-stuck",
+    "title": "WE 想不到逻辑时怎么找内容词",
+    "keywords": [
+      "WE",
+      "Write Essay",
+      "语义场词",
+      "时间",
+      "地点",
+      "人物",
+      "工具"
+    ],
+    "answer": "WE 如果题目逻辑一时想不到，Sunny 会让学生先抓语义场词来保内容分。可以从时间、地点、人物、事件、方法、工具这些角度找词，再放进模板里组织句子。看懂题当然可以按逻辑展开；看不透时，先用相关词撑住内容，不要空在那里硬想。",
+    "source": "phase2-media local staging batches 100-101, writing WE practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-we-template-must-be-typed",
+    "title": "WE 模板背熟就够了吗",
+    "keywords": [
+      "WE",
+      "Write Essay",
+      "模板",
+      "打字",
+      "练习",
+      "考试",
+      "速度"
+    ],
+    "answer": "WE 模板不能只会背，必须练到能打出来。Sunny 会提醒学生：考试是键盘输入，不是手写，也不是口头背诵。平时要把模板按考试方式反复打字，练熟拼写、标点和段落连接；否则真正考试时知道写什么，却卡在输入速度和细节错误上。",
+    "source": "phase2-media local staging batches 100-101, writing WE practice",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
