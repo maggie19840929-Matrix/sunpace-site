@@ -6680,5 +6680,170 @@
     "source": "phase2-media local staging batches 94-95, writing SWT practice",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-adverb-before-adjective",
+    "title": "FIB 形容词前面优先看什么词性",
+    "keywords": [
+      "FIB",
+      "Fill in the Blanks",
+      "词性",
+      "副词",
+      "形容词",
+      "different",
+      "语法排除"
+    ],
+    "answer": "FIB 里空格后面如果已经是形容词，Sunny 会先让学生判断空格是不是在修饰这个形容词。比如后面是 different 这类形容词，前面更可能需要副词，而不是再放一个形容词或名词。做题顺序是先用词性把选项缩小，再用上下文意思确认；不要一上来只凭中文感觉选。",
+    "source": "phase2-media local staging batches 96-97, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-noun-of-noun-phrase",
+    "title": "FIB 什么时候要想到名词 of 名词",
+    "keywords": [
+      "FIB",
+      "Fill in the Blanks",
+      "of",
+      "名词短语",
+      "搭配",
+      "语义"
+    ],
+    "answer": "FIB 遇到“some bits ___ your own”这类结构时，Sunny 会提醒学生不要只看介词中文意思，而要看是不是名词加 of 加名词短语。of 常用来表示“某物的一部分/某人的一部分内容”。如果上下文在说加入你自己的内容、观点或部分，of your own 这种结构就比 by、in、at 更自然。",
+    "source": "phase2-media local staging batches 96-97, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-present-perfect-process",
+    "title": "FIB 现在完成时怎么和过去时区分",
+    "keywords": [
+      "FIB",
+      "Fill in the Blanks",
+      "现在完成时",
+      "过去时",
+      "时态",
+      "过程",
+      "语境"
+    ],
+    "answer": "阅读 FIB 里现在完成时不是随便选的。Sunny 会让学生看动作是不是从过去开始，持续到现在，或过去发生但影响还在现在；这类语境更适合 have/has done。普通过去时只是在讲过去发生过的事。整篇文章如果主要在描述现在的状态或变化过程，突然选简单过去时通常要更谨慎。",
+    "source": "phase2-media local staging batches 96-97, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fibrw-time-cap",
+    "title": "FIBRW 一组题最多花多久",
+    "keywords": [
+      "FIBRW",
+      "Reading and Writing Fill in the Blanks",
+      "时间分配",
+      "阅读",
+      "考试策略"
+    ],
+    "answer": "FIBRW 难度高，Sunny 会提前给学生设时间上限。考试里这一类通常有 5 到 6 题，单题大约控制在 2 分半左右，整组最多约 15 分钟。它是阅读里很容易吞时间的大题，做不顺也不要无限纠缠；语法先排除、语义再确认，保住后面题目的时间。",
+    "source": "phase2-media local staging batches 96-97, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-topic-scope-not-too-broad",
+    "title": "SWT 看起来很总括但范围太大要不要选",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "主题范围",
+      "关键句",
+      "American English",
+      "主旨"
+    ],
+    "answer": "SWT 里有些句子看起来像总结，例如在谈“语言整体如何如何”，但如果文章真正主题是 American English，这种范围过大的句子未必是关键句。Sunny 会让学生先问：这句话是不是紧扣本文核心对象？如果它只是在讲更大的背景，和本文主轴连接不紧，就不要因为它看起来宏观而选进去。",
+    "source": "phase2-media local staging batches 96-97, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-signal-words-need-context",
+    "title": "SWT 看到 this means 就一定是关键句吗",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "this means",
+      "although",
+      "信号词",
+      "细节",
+      "关键句"
+    ],
+    "answer": "SWT 里 this means、in short、although 这类信号词只能提示你多看一眼，不能自动决定取舍。Sunny 会让学生把信号词放回段落理解：如果 this means 后面解释的是微软、默认语言这类细节，就不该多拿；although 引出的让步从句也常是补充限制，不一定承载主旨。技巧要和文章理解一起用。",
+    "source": "phase2-media local staging batches 96-97, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-short-chunk-choice",
+    "title": "RA 一句话练习怎么选短句",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "一句话",
+      "短句",
+      "练习",
+      "稳定度"
+    ],
+    "answer": "RA 做一句话练习时，Sunny 不会要求学生每次都硬读全篇。可以先选一段开头清楚、结构完整、自己能稳定读下来的短句来练，尤其适合还在纠音和找节奏的阶段。短句不是偷懒，而是用更小单位把重音、连读、停顿和单词读准；稳定后再逐步拉长。",
+    "source": "phase2-media local staging batches 96-97, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-breath-on-long-phrases",
+    "title": "RA 长短语中间该不该换气",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "换气",
+      "长短语",
+      "语速",
+      "停顿",
+      "流利度"
+    ],
+    "answer": "RA 遇到很长的名词短语或介词短语时，Sunny 会让学生先把速度降下来，在语义边界前后轻轻停一下，而不是中间到处换气。比如一串 records、establishment、network 这种信息，要先保证每个重词清楚，再决定在哪里短停。太急会导致吞词，太频繁换气又会把句子切碎。",
+    "source": "phase2-media local staging batches 96-97, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-template-image-pace-match",
+    "title": "DI 模板和图中信息速度要一致吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "模板",
+      "语速",
+      "图表信息",
+      "流利度",
+      "准备时间"
+    ],
+    "answer": "DI 里很多学生模板背得很快，一到图中标签和数字就突然变慢。Sunny 会让学生把模板本身稍微放慢，让模板和图片内容的速度接近。25 秒准备时先选好要说的两三个标签、最大最小值和结尾，不要边说模板边临时想内容；节奏一致，40 秒内反而更容易说完。",
+    "source": "phase2-media local staging batches 96-97, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-skip-hard-labels-keep-flow",
+    "title": "DI 标签读不顺时可以换说法吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "标签",
+      "陌生词",
+      "替换表达",
+      "流利度",
+      "图表"
+    ],
+    "answer": "DI 图里如果某个标签或派生词读起来会卡，Sunny 会让学生快速换成自己能稳定说出的表达。比如专有词不好读，可以改说颜色、类别、proper names、the trend of 等可见信息；不要为了一个词把整句卡断。DI 的目标是覆盖主要信息并保持流利度，读不顺的词要么猜读一次，要么立刻绕开。",
+    "source": "phase2-media local staging batches 96-97, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
