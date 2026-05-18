@@ -6845,5 +6845,173 @@
     "source": "phase2-media local staging batches 96-97, speaking DI practice",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-signal-word-categories",
+    "title": "SWT 哪几类信号词最值得看",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "信号词",
+      "转折",
+      "因果",
+      "结论",
+      "关键句"
+    ],
+    "answer": "SWT 找关键句时，Sunny 会把信号词分成几类去看：结论词、因果词、转折词。therefore、as a result 这类后面常接结论；but、yet、however 后面常有作者真正要强调的信息。看到信号词不要只圈单词，而要看它所在句和后半句是不是在推进主旨。",
+    "source": "phase2-media local staging batches 98-99, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-repeated-topic-words",
+    "title": "SWT 反复出现的词怎么帮你找主旨",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "反复出现",
+      "话题词",
+      "首句",
+      "尾句",
+      "主旨"
+    ],
+    "answer": "SWT 小文章不需要每个词都读透。Sunny 会让学生先抓反复出现的词和话题围绕词，因为主题信息通常会围着这些词展开。再结合每段首句、尾句和信号词，就能在半懂不懂的文章里找到主要信息。目标不是翻译全文，而是把能给内容分的关键句抓出来。",
+    "source": "phase2-media local staging batches 98-99, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-use-prep-time-sentence-choice",
+    "title": "RA 开始前 10 秒可以沉默吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "预读",
+      "准备时间",
+      "选句",
+      "一句话"
+    ],
+    "answer": "RA 拿到题后不用一上来就急着读。Sunny 会让学生用前面大约 10 秒沉默预读，先找到更简单、更稳的一句或一段，再正式开口。尤其做一句话策略时，先选范围比盲目开读更重要；如果第一句长词多、容易错，就换成后面更短、更顺的部分。",
+    "source": "phase2-media local staging batches 98-99, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-ten-to-twelve-word-range",
+    "title": "RA 一句话范围选多长更稳",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "一句话",
+      "10到12个词",
+      "范围",
+      "风险规避"
+    ],
+    "answer": "RA 一句话策略不是越长越好。Sunny 更推荐选 10 到 12 个词左右，至少保证 8 个词以上；太短可能还没充分展示流利度，太长又会增加发音和漏词风险。遇到特别难的词，可以把范围往前或往后缩，只读能稳定完成的部分，整体分数往往更高。",
+    "source": "phase2-media local staging batches 98-99, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-weak-forms-not-swallowed",
+    "title": "RA 弱读词是不是可以完全吞掉",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "弱读",
+      "功能词",
+      "漏词",
+      "连读",
+      "流利度"
+    ],
+    "answer": "RA 里功能词可以轻、快、弱，但不能完全消失。Sunny 会提醒学生：the、of、and 这类词虽然不需要重读，但要有存在感，否则机器可能听成漏词。弱读的目标是让句子更自然，不是把词吞掉；读的时候可以轻带过去，但音位要留出来。",
+    "source": "phase2-media local staging batches 98-99, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-link-phrases-with-content-words",
+    "title": "RA 练 in order to achieve 这类短语要停在哪里",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "连读",
+      "弱读",
+      "in order to",
+      "内容词",
+      "自然度"
+    ],
+    "answer": "RA 练 in order to achieve 这类短语时，Sunny 不建议把练习停在 to 这样的功能词上。要把功能词和后面的内容词连起来练，比如 in order to achieve 一起带过去，才能轻快自然。功能词不用太刻意，重心放在 achieve、goods、services 这类内容词上，重弱稳定后再加速度。",
+    "source": "phase2-media local staging batches 98-99, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-units-must-be-said",
+    "title": "DI 说最大最小时单位要不要带",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "单位",
+      "最大值",
+      "最小值",
+      "billion dollars",
+      "feet"
+    ],
+    "answer": "DI 描述最大值、最小值时，Sunny 会要求学生把单位一起说出来。只说数字不够稳，像 billion dollars、feet、percent 这类单位要跟着数字走。准备时先把最大最小和单位配好，开口时不要临时猜；如果区间或图形很乱，至少选一个能说准的数字加单位。",
+    "source": "phase2-media local staging batches 98-99, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-simple-closing-over-risky-word",
+    "title": "DI 结尾词读不准可以换简单的吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "结尾",
+      "in conclusion",
+      "in short",
+      "稳定表达",
+      "发音风险"
+    ],
+    "answer": "DI 里如果 in conclusion 这类结尾词总读不稳，Sunny 会让学生换成更简单的 in short 或 in general。模板不是越高级越好，读错会破坏流利度和发音稳定。还要注意不要随便改词形，比如 dollars 后面的 s、early childhood 这类固定表达要读准。",
+    "source": "phase2-media local staging batches 98-99, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-parallel-attitude-and-topic",
+    "title": "FIB 并列结构怎么判断词义方向",
+    "keywords": [
+      "FIB",
+      "Fill in the Blanks",
+      "and",
+      "并列",
+      "态度一致",
+      "主题一致",
+      "credibility"
+    ],
+    "answer": "FIB 里 and 前后经常有情感或态度上的一致性。Sunny 会让学生看并列词旁边已有的词，如果后面是 pride 这种正向词，空格也要倾向正向语义。再看全文主题是否一致：文章反复讲 chemistry，就不要突然选 physics、psychology 这种跑题词。并列态度和主题一致可以一起排除干扰项。",
+    "source": "phase2-media local staging batches 98-99, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-ro-reference-before-keyword",
+    "title": "RO 两句有同一个词就一定挨着吗",
+    "keywords": [
+      "RO",
+      "Re-order Paragraphs",
+      "指代",
+      "the two",
+      "关键词",
+      "配对",
+      "细节"
+    ],
+    "answer": "RO 配对时，Sunny 不会让学生只因为两句有同一个人名或关键词就放在一起。更稳的是看指代和逻辑：如果后一句出现 the two，就要回前面找明确提到两个人的句子；如果后面继续讲具体交换了多少封信、多少采访，那通常是在补细节。关键词只是线索，指代关系和总分层级更可靠。",
+    "source": "phase2-media local staging batches 98-99, reading RO practice",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
