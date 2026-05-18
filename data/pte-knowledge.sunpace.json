@@ -8731,5 +8731,175 @@
     "source": "phase2-media local staging batches 118-119, speaking DI practice",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-we-single-vs-double-framework",
+    "title": "WE 单边和双边框架怎么区分",
+    "keywords": [
+      "WE",
+      "Writing Essay",
+      "单边论证",
+      "双边论证",
+      "优缺点",
+      "利弊分析",
+      "框架"
+    ],
+    "answer": "WE 题目如果是同不同意、单一观点论证，Sunny 会按单边框架写：两个主体段都支持自己的观点，分别给原因和例子。遇到 advantages/disadvantages、积极或消极影响、好处坏处这类题，就更适合双边框架：一段写优点，一段写缺点，结尾回应要最大化好处、最小化坏处。两个框架主体逻辑很像，重点记住开头观点、第三段转折和结尾的不同。",
+    "source": "phase2-media local staging batches 120-121, writing WE practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-we-reserve-two-minutes-check",
+    "title": "WE 为什么要预留两分钟检查",
+    "keywords": [
+      "WE",
+      "Writing Essay",
+      "检查",
+      "拼写",
+      "语法",
+      "200-300词",
+      "时间分配"
+    ],
+    "answer": "WE 现在 20 分钟写完，Sunny 建议一定预留大约两分钟检查。重点看拼写、语法、漏字母、标点和字数是否在 200-300 词内。拼写全对才更稳，错一个会掉分，错两个或更多风险更大。平时练习就要把这两分钟打通，不要到考试才发现键盘不熟、打字漏字来不及改。",
+    "source": "phase2-media local staging batches 120-121, writing WE practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-eyes-fast-mouth-steady",
+    "title": "RA 为什么要眼睛快一点嘴巴稳一点",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "眼睛快",
+      "嘴巴慢",
+      "一口气",
+      "流利度",
+      "练习网站"
+    ],
+    "answer": "RA 读短句时，Sunny 会让学生练“眼睛快一点、嘴巴稳一点”：眼睛提前看后面一两个词，嘴巴用稳定节奏一口气说完。这样能减少突然停顿、漏词和看到标点就断开的情况。练习网站不是只刷分，而是练第一遍就能顺出来的能力；先把一句话流畅度练出来，再细修发音。",
+    "source": "phase2-media local staging batches 120-121, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-short-simple-range",
+    "title": "RA 选得多分数就更高吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "选句",
+      "10词",
+      "15词",
+      "生词",
+      "少而稳"
+    ],
+    "answer": "RA 不是选得越多分数越高。Sunny 会提醒学生，无论选 10 个词还是 15 个词，关键是选中的部分发挥好。与其读两三行、遇到生词、又累又读错，不如少选一点、简单一点，让自己轻松稳定。短而清楚的范围，比长但卡顿和错词的范围更适合提分。",
+    "source": "phase2-media local staging batches 120-121, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-text-before-color",
+    "title": "DI 图中文字多时颜色要先说吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "文字",
+      "数字",
+      "颜色",
+      "e-waste",
+      "最高最低"
+    ],
+    "answer": "DI 如果图中文字和数字很多，Sunny 会让学生先说文字数字，不要先讲颜色。颜色只有在文字数字很少、或还有时间时才补。像 e-waste 这类图，可以先说它包括 electronic waste 和 electric waste，再讲最高值、最低值和一组比较。难读或不确定的项目可以跳过，优先讲自己能流畅覆盖的简单词。",
+    "source": "phase2-media local staging batches 120-121, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-template-remove-hard-words",
+    "title": "DI 模板里有难读词怎么办",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "模板",
+      "obvious",
+      "发音",
+      "删词",
+      "人工审核"
+    ],
+    "answer": "DI 模板不是越复杂越好。如果模板里有 obvious、obviously 这类自己总读不顺的词，Sunny 会建议直接删掉或换成更稳的说法。模板本身不给多少额外分，但难读词会拖累发音和流利度。尤其人工审核后，模板要服务图片内容，而不是为了显得高级增加扣分点。",
+    "source": "phase2-media local staging batches 120-121, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-prep-numbers-no-reread",
+    "title": "DI 数字反应时间要放在哪里",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "准备时间",
+      "预读",
+      "数字",
+      "回读",
+      "流利度"
+    ],
+    "answer": "DI 的数字反应要尽量放在准备时间里，而不是正式答题时才现场想。Sunny 会提醒学生：如果知道要说最大最小值，就先在预读时间把 283、22、93 这类数字过一遍。考试中读错后回读不划算，错的地方已经扣发音，再改又扣流利度。准备时看清数字，正式说时不要回头修修补补。",
+    "source": "phase2-media local staging batches 120-121, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-is-to-be-achieved",
+    "title": "FIB 里 is to be achieved 怎么理解",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "is to be",
+      "achieved",
+      "tend to be",
+      "句式",
+      "被动"
+    ],
+    "answer": "FIB 里看到 is to be achieved，不要误看成 tend to be。Sunny 会解释：is to be 有“将要/需要被……”的意思，what is to be achieved 就是在问“要实现什么”。做题时先看句式和被动结构，再看选项。tend to be 更偏“往往是/结果是”，两者意思和用法都不一样。",
+    "source": "phase2-media local staging batches 120-121, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-comma-which-nonrestrictive",
+    "title": "FIB 逗号后 which 通常是什么结构",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "which",
+      "非限制性定语从句",
+      "逗号",
+      "补充说明",
+      "语法"
+    ],
+    "answer": "FIB 里如果空格前有逗号，后面是在补充说明前面的名词或整件事，就要考虑 which 引导非限制性定语从句。Sunny 会让学生看：which 后面的内容不是重新开启一个新主句，而是在解释前面的 framework、outcome 等信息。遇到这种题，即使整篇文章没完全懂，抓住逗号和补充说明关系也能判断。",
+    "source": "phase2-media local staging batches 120-121, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-spread-through-reach-success",
+    "title": "FIB spread through 和 reach success 怎么选",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "spread through",
+      "reach success",
+      "got",
+      "近义词",
+      "搭配"
+    ],
+    "answer": "FIB 选项常按近义或搭配分组。Sunny 会提醒学生：spread through 表示传播到、遍布某地，是常见搭配；got 和 reached 都像“得到/达到”，但 reach success 更强调达到某种成功状态，比 got success 更自然。做题时先把明显一组的词配对，再看哪个和后面的名词搭配更顺。",
+    "source": "phase2-media local staging batches 120-121, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
