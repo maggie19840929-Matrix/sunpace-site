@@ -7522,5 +7522,176 @@
     "source": "phase2-media local staging batches 104-105, speaking DI practice",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-key-sentence-repeat-signal-structure",
+    "title": "SWT 看不太懂文章时怎么找关键句",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "关键句",
+      "重复词",
+      "信号词",
+      "首尾句",
+      "文章结构"
+    ],
+    "answer": "SWT 文章看不完整也不要慌。Sunny 会让学生从三个入口找关键句：第一，看反复出现的核心词，重复词所在句通常承载主题；第二，看信号词，but、however、so、therefore 这类转折或结论后面常有重点；第三，看文章结构，开头、结尾和中间段落的分论点位置优先。先用这些线索圈关键句，再按格式连成一句话，比凭感觉重写更稳。",
+    "source": "phase2-media local staging batches 106-107, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-content-can-lose-format-cannot",
+    "title": "SWT 为什么内容分可以少一点但格式不能错",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "内容分",
+      "格式分",
+      "一句话",
+      "语法",
+      "词汇"
+    ],
+    "answer": "SWT 的底线是不要让格式或内容任一项变成 0。Sunny 会提醒学生：内容采到 1-2 分可以接受，但格式分必须拿住；如果按要求写成一句话、词数合规、连接正确，再尽量抄原文关键句，语法和词汇通常也更稳。练习时宁可少冒险，也要先把一句话格式、连接和句号检查完。",
+    "source": "phase2-media local staging batches 106-107, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-plural-noun-after-diverse",
+    "title": "FIB 看到 many diverse 后面怎么判断词性",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "many diverse",
+      "名词复数",
+      "species",
+      "词性",
+      "排除法"
+    ],
+    "answer": "FIB 里看到 many diverse 后面，一般先找名词复数。Sunny 会让学生先用词性缩小范围，不必每个词都完全认识；如果选项里只有 species 这类可作复数名词的词，就先锁定。长得像的一组名词可以打包比较，通常不会两个都选。先用语法位置排除，再回到句意验证。",
+    "source": "phase2-media local staging batches 106-107, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-comma-nonfinite-verb",
+    "title": "FIB 逗号后面为什么常选非谓语",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "非谓语",
+      "动名词",
+      "traveling",
+      "句子结构",
+      "谓语动词"
+    ],
+    "answer": "FIB 遇到逗号后又接一个动作时，不要马上选普通谓语动词。Sunny 会让学生先看前面是否已经有完整主谓，如果前面句子已经完整、后面只是补充动作或状态，空格更可能是非谓语，比如动名词或分词形式。判断顺序是：先看句子有没有第二个连接词，再看空格是否承担谓语功能，最后用意思确认。",
+    "source": "phase2-media local staging batches 106-107, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-and-parallel-ed",
+    "title": "FIB 看到 and listed 该怎么找平行结构",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "and",
+      "平行结构",
+      "listed",
+      "过去式",
+      "过去分词"
+    ],
+    "answer": "FIB 里 and 是非常强的结构提示。Sunny 会让学生看到 and listed 这类结构时，先回头找和 listed 平行的成分：形式要接近，意思也要能并列。如果前后是在讲同一个主语完成的动作，空格往往要从动词过去式或过去分词里选；先用形式排除大半选项，再用语义挑最顺的一个。",
+    "source": "phase2-media local staging batches 106-107, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-decision-making-collocation",
+    "title": "FIB decision making 为什么可以先锁定",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "decision making",
+      "固定搭配",
+      "collocation",
+      "名词短语",
+      "搭配"
+    ],
+    "answer": "FIB 里如果空格前后能组成高频固定搭配，可以先把它锁定。Sunny 在 decision making 这类题会让学生识别它是一个整体名词短语，表示决策或决策过程，有时甚至会写成带连字符的形式。固定搭配题不要过度翻译全段，先把确定搭配拿下，再处理更难的逻辑空。",
+    "source": "phase2-media local staging batches 106-107, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-prepare-by-reading-aloud",
+    "title": "RA 准备时间为什么要大声读出来",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "准备时间",
+      "大声朗读",
+      "流利度",
+      "停顿",
+      "考场噪音"
+    ],
+    "answer": "RA 准备时间不要只用眼睛看。Sunny 会让学生大声把目标句读出来，因为考场环境会吵，只看文字很容易觉得会，一开口才发现卡顿、吞音或节奏不稳。准备时至少把要读的那一句连起来读顺，确认哪里换气、哪里不能停，再进正式录音，流利度会稳很多。",
+    "source": "phase2-media local staging batches 106-107, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-one-sentence-vs-full-passage-goal",
+    "title": "RA 什么时候用一句话方法而不是全文",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "一句话方法",
+      "全文方法",
+      "目标分",
+      "流利度",
+      "连读"
+    ],
+    "answer": "RA 不一定每题都硬读全文。Sunny 会按目标分和文本难度做选择：基础分段学生可以优先读得流畅、完整、不卡的一句话；目标更高、发音和节奏已经比较稳的学生，再挑战全文和更多连读细节。核心不是读得越多越好，而是你选择的范围要能做到声音稳定、停顿少、尾音和重音清楚。",
+    "source": "phase2-media local staging batches 106-107, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-avoid-comma-hard-stop",
+    "title": "RA 逗号处可以明显停顿吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "逗号",
+      "停顿",
+      "流利度",
+      "尾音",
+      "节奏"
+    ],
+    "answer": "RA 逗号处不等于必须明显停顿。Sunny 会让学生把目标句整体读顺，逗号附近可以轻微换气，但不要硬停到像断句一样。特别是一句话方法里，最好一口气把范围读完；如果必须停，也要保持节奏连续，尾音和标准发音清楚，避免因为每个标点都停而拉低流利度。",
+    "source": "phase2-media local staging batches 106-107, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-process-passive-voice",
+    "title": "DI 流程图为什么常用被动语态",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "流程图",
+      "被动语态",
+      "first step",
+      "second step",
+      "sorted",
+      "shredded"
+    ],
+    "answer": "DI 流程图经常讲材料、产品或步骤被怎样处理，所以被动语态很好用。Sunny 会让学生先想清楚每一步的主语是谁，再用 the materials are collected、in the second step, they are sorted and shredded 这类结构表达。不会说完整复杂句时，可以只挑几个关键步骤，用 first step、second step 串起来，保证顺序清楚、表达能读出来。",
+    "source": "phase2-media local staging batches 106-107, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
