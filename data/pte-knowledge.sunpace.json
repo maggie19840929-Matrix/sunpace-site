@@ -8033,5 +8033,175 @@
     "source": "phase2-media local staging batches 110-111, writing SWT practice",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-past-context-tense",
+    "title": "FIB 怎么用整篇时态排除选项",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "时态",
+      "过去语境",
+      "became known",
+      "现在时",
+      "排除法"
+    ],
+    "answer": "FIB 不只看空格附近一个词，也要看整篇时间背景。Sunny 会让学生发现文章整体在讲过去发生的事情时，优先排除明显不匹配的现在时形式。比如 became known as 这类表达，became 后面可以接过去分词或形容词化结构；如果选项里有现在时动词，就要先警惕它和过去叙事不一致。",
+    "source": "phase2-media local staging batches 112-113, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-no-full-translation",
+    "title": "FIB 做题需要从头翻译到尾吗",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "全文翻译",
+      "时间管理",
+      "主干",
+      "选项",
+      "阅读速度"
+    ],
+    "answer": "FIB 考试里通常没有时间从第一个词翻译到最后一个词。Sunny 会让学生先看空格所在句和必要上下文，抓主干、词性、搭配和逻辑；遇到无空的长句或细节，可以跳过或只读大意。做题目标不是证明自己读懂全文，而是在有限时间里把能确定的空快速拿下。",
+    "source": "phase2-media local staging batches 112-113, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-relative-clause-pronoun-it",
+    "title": "FIB 定语从句里的 it 指代谁怎么判断",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "定语从句",
+      "it",
+      "that it wants",
+      "government",
+      "指代"
+    ],
+    "answer": "FIB 长句里出现 that it wants 这类结构时，要先判断从句修饰谁、it 指代谁。Sunny 会让学生把句子还原：the efficiency-related changes that it wants，其实是 the changes that the government wants。it 指代前面的 government，不是随便指最近的名词。指代理清后，再判断空格词性和语义，错误选项会少很多。",
+    "source": "phase2-media local staging batches 112-113, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-stare-at-collocation",
+    "title": "FIB stare at 和 watch 怎么区分",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "stare at",
+      "watch",
+      "固定搭配",
+      "screen",
+      "介词"
+    ],
+    "answer": "FIB 里看到空格后面有 at，要先想固定搭配。Sunny 会提醒学生 stare at 表示盯着看，后面常接对象；watch 通常直接接宾语，例如 watch TV、watch films，不需要 at。句子讲每天盯着小屏幕看几个小时时，stare at the little screen 比 watch at 更符合搭配。",
+    "source": "phase2-media local staging batches 112-113, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-hijack-meaning",
+    "title": "FIB hijack 在抽象语境里怎么理解",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "hijack",
+      "操控",
+      "劫持",
+      "smartphone",
+      "desire"
+    ],
+    "answer": "hijack 不只表示劫持交通工具，在抽象语境里也可以表示操控、占用或劫持注意力。Sunny 会让学生结合 smartphone、desire、attention 这类词理解：手机应用会 hijack 人们建立联系、分散注意力和寻求认同的原始欲望。遇到抽象宾语时，不要只停留在最字面的“劫机”。",
+    "source": "phase2-media local staging batches 112-113, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-root-family-repetition",
+    "title": "SWT 反复词只看完全一样的词吗",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "反复词",
+      "同根词",
+      "profession",
+      "professional",
+      "scientific"
+    ],
+    "answer": "SWT 找反复词时，不要只看拼写完全一样的词。Sunny 会把 profession、professional，science、scientific、scientists 这类同根词也当作主题反复来看。它们集中出现的句子通常和文章核心有关，可以优先考虑为关键句；但如果同一个采分词前面已经覆盖，后面只是例子或细节，也可以不抄。",
+    "source": "phase2-media local staging batches 112-113, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-function-word-light",
+    "title": "RA 虚词为什么要轻轻带过",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "虚词",
+      "take advantage of",
+      "of",
+      "this",
+      "重音"
+    ],
+    "answer": "RA 里虚词不要突然加重。Sunny 会用 take advantage of this 这类短语提醒学生：重心在 take advantage，of 和 this 可以轻轻带过；如果把 of 读得很重，句子节奏会断开，也不符合自然英语。内容词要饱满，功能词要服务连贯度。",
+    "source": "phase2-media local staging batches 112-113, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-speed-after-accuracy",
+    "title": "RA 什么时候可以加快语速",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "语速",
+      "准确度",
+      "清晰度",
+      "79分",
+      "流利度"
+    ],
+    "answer": "RA 不是越快越好，也不是永远越慢越稳。Sunny 会让学生先看发音是否清晰准确：如果单词基本都能读对，想冲更高分时可以稍微加快一点，减少拖沓和停顿；如果一加速就嘴飘、漏音或重音错，先降回正常说话速度。顺序是准确清晰优先，在这个基础上再提流利度。",
+    "source": "phase2-media local staging batches 112-113, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-floor-plan-position-labels",
+    "title": "DI floor plan 小地图怎么描述",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "floor plan",
+      "地图",
+      "label",
+      "upper part",
+      "bottom left"
+    ],
+    "answer": "DI 遇到 floor plan 或小地图，不要按数据图说最大最小。Sunny 会让学生先定标题，比如 this is a floor plan of the lab；再说 there are different sections within the lab；然后用方位和 label 描述：on the left side、in the upper part、at the bottom right、areas labeled Animal Sciences and Plant Sciences。地图类图像重点是位置、区域和标签。",
+    "source": "phase2-media local staging batches 112-113, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-content-zero-if-unintelligible",
+    "title": "DI 发音不清会不会影响内容分",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "内容分",
+      "发音",
+      "听不清",
+      "关键词",
+      "清零风险"
+    ],
+    "answer": "DI 不是只要开口就有内容分。如果关键词发音太不清楚，机器或人工审核听不到完整意思，内容分可能很低甚至为 0。Sunny 会让学生先把图上反复出现、必须用的词读准，例如 office、science、graduate、laboratory；再去追求句式和流利度。内容词听得懂，是 DI 表达的地基。",
+    "source": "phase2-media local staging batches 112-113, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
