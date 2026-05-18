@@ -7182,5 +7182,174 @@
     "source": "phase2-media local staging batches 100-101, writing WE practice",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-final-s-plural-clusters",
+    "title": "RA 复数结尾 s 要不要发清楚",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "复数",
+      "final s",
+      "texts",
+      "辅音群",
+      "发音"
+    ],
+    "answer": "RA 里 text 和 texts 这种词不能读成一样。Sunny 会让学生把复数结尾的 s 留出来，尤其是 dense texts、voting rights 这类辅音挤在一起的短语。结尾 s 不需要拖长，但要有存在感；如果吞掉，机器和人工都可能听成单复数或词尾不完整。",
+    "source": "phase2-media local staging batches 102-103, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-line-breaks-linking",
+    "title": "RA 换行处要特别预读吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "换行",
+      "预读",
+      "连读",
+      "短语",
+      "流利度"
+    ],
+    "answer": "RA 文章换行的地方很容易让学生突然断掉。Sunny 会让学生在准备时间里把换行前后多顺几遍，确认它其实还是同一个短语或句子的一部分。不要被版式带着停顿；像 working through a lot of dense texts 这种跨行内容，要提前连成一个声音单位。",
+    "source": "phase2-media local staging batches 102-103, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-stop-before-preposition",
+    "title": "RA 要停顿时放在介词前还是后",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "停顿",
+      "介词",
+      "by",
+      "短语",
+      "流利度"
+    ],
+    "answer": "RA 如果必须停一下，Sunny 会让学生尽量停在连词或介词前，而不是停在后面。比如 influenced by Buddhism，不要读成 by 后面卡住；如果要休息，应在 by 前停一下。介词后停顿会把短语拆坏，听起来像读到不会的词才停，影响流利度。",
+    "source": "phase2-media local staging batches 102-103, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-unstressed-vowels-schwa",
+    "title": "RA 多音节词非重读音节怎么处理",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "弱读",
+      "非重读音节",
+      "schwa",
+      "candidates",
+      "university"
+    ],
+    "answer": "RA 多音节词里，非重读音节的元音经常会弱化成 /ə/ 或 /ɪ/ 这一类轻音。Sunny 会用 candidates、university、industry 这类词提醒学生：不要每个字母都按强读音去读。先找重音落在哪里，非重读部分轻轻带过，整词会更自然，也不容易把 candidates 读成带 dates 的错误音。",
+    "source": "phase2-media local staging batches 102-103, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-six-sentence-data-framework",
+    "title": "DI 数据图 6 句框架怎么分配",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "数据图",
+      "6句框架",
+      "最高最低值",
+      "趋势",
+      "总结"
+    ],
+    "answer": "DI 数据图可以用一个 6 句左右的总分总框架：第一句说图片类型和主题，第二句说横纵轴或 items，第三四句说最高值、最低值和对象，第五句说趋势、比例或对比，最后一句总结。Sunny 会强调框架可以换词，不必逐字背，但信息顺序要清楚。",
+    "source": "phase2-media local staging batches 102-103, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-data-must-match-chart",
+    "title": "DI 现在还能胡乱套模板吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "人工考核",
+      "图表信息",
+      "最高最低值",
+      "对比",
+      "趋势"
+    ],
+    "answer": "DI 不能再只靠固定模板胡说。Sunny 会提醒学生，加入人工考核后，表达必须真的来自图上信息：最高最低值要尽量精确，文字和数值要对应，还要能说出点对点信息、对比或趋势。模板只是骨架，内容必须和图表一致。",
+    "source": "phase2-media local staging batches 102-103, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-write-sentence-before-speaking",
+    "title": "DI 不知道怎么说时先做什么",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "造句",
+      "句型积累",
+      "最大最小值",
+      "维度",
+      "口语表达"
+    ],
+    "answer": "DI 不知道怎么描述时，Sunny 会让学生先能写出句子，再尝试口头表达。比如先写 the largest percentage is... which belongs to...，或先列出要说的维度：最大最小值、点对点信息、对比、趋势。句型积累够了，开口时才不会只剩模板。",
+    "source": "phase2-media local staging batches 102-103, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-question-answer-sentence",
+    "title": "SWT 文章里问号后面要不要看",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "问号",
+      "答案句",
+      "关键句",
+      "开头段",
+      "结尾段"
+    ],
+    "answer": "SWT 找关键句时，Sunny 会让学生特别看问号后面的答案句。文章如果提出问题，后面回答这个问题的句子常常承载主旨或论点。同时，开头段、结尾段、反复词所在句也要优先看。看不懂全文时，先抓这些高概率位置，内容分更容易踩到。",
+    "source": "phase2-media local staging batches 102-103, writing SWT practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-reconstruct-vs-recover",
+    "title": "FIB reconstruct 和 recover 怎么区分",
+    "keywords": [
+      "FIB",
+      "Fill in the Blanks",
+      "reconstruct",
+      "recover",
+      "语义",
+      "阅读理解"
+    ],
+    "answer": "FIB 里 reconstruct 不是简单的 recover。Sunny 会用“读者把作者一个个符号重新整合成完整思想”来解释 reconstruct，它更像重新构建、重建；recover 是恢复、找回。遇到这类近义干扰项，不能只看中文都像“回到原状”，要看动作对象到底是思想结构、信息整体，还是丢失的东西。",
+    "source": "phase2-media local staging batches 102-103, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-little-difficulty-context-cues",
+    "title": "FIB little difficulty 怎么靠上下文判断",
+    "keywords": [
+      "FIB",
+      "Fill in the Blanks",
+      "little",
+      "difficulty",
+      "上下文",
+      "线索",
+      "逻辑"
+    ],
+    "answer": "FIB 里判断 there is little difficulty 这类表达时，Sunny 会让学生先用常识和后文逻辑验证。日常对话通常不会特别困难；后文如果说 listener 能从说话人的表情、语气、对话中得到很多线索，也是在支持“困难很少”。这种题不是只考词义，而是看前后因果是否一致。",
+    "source": "phase2-media local staging batches 102-103, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
