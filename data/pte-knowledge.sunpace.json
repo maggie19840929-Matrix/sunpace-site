@@ -8203,5 +8203,176 @@
     "source": "phase2-media local staging batches 112-113, speaking DI practice",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-two-minute-per-question",
+    "title": "FIB 每题做到五分钟正常吗",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "时间管理",
+      "两分钟",
+      "猜答案",
+      "阅读速度",
+      "考试策略"
+    ],
+    "answer": "FIB 平时练习可以精讲，但考试和限时训练不要每题拖到五分钟。Sunny 会提醒学生，一道 FIB 大约按两分钟节奏推进；不会的空先用词性、搭配和上下文猜一个，做完再查单词和复盘。考试里没有查词时间，关键是把能拿的空快速拿下，不要被一个难空拖垮整组阅读节奏。",
+    "source": "phase2-media local staging batches 114-115, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-skip-no-blank-lines",
+    "title": "FIB 没有挖空的长句要细读吗",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "无空句",
+      "跳读",
+      "时间管理",
+      "上下文",
+      "主干"
+    ],
+    "answer": "FIB 里整行都没有挖空的内容，不一定要逐词细读。Sunny 会让学生先看它是否提供必要上下文；如果只是背景信息，可以跳过或快速扫大意，直接进入有空格的句子。尤其文章很长时，先处理挖空句和相邻关键句，才是更高效的做题方式。",
+    "source": "phase2-media local staging batches 114-115, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-define-as-cities-villages",
+    "title": "FIB define as 和 cities/villages 怎么判断",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "define as",
+      "as opposed to",
+      "cities",
+      "villages",
+      "并列"
+    ],
+    "answer": "FIB 里 define as 是常见搭配，表示把某物定义为某种概念。遇到 as opposed to villages 这类对比结构时，Sunny 会让学生看并列语义：village 是乡村，与它相对的更可能是 cities，而不是 countries。固定搭配先锁定，再用并列关系排除语义层级不对的词。",
+    "source": "phase2-media local staging batches 114-115, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-ty-ending-stress",
+    "title": "RA -ty 结尾单词重音常在哪里",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "重音",
+      "-ty",
+      "security",
+      "credentials",
+      "transparent",
+      "access"
+    ],
+    "answer": "RA 里很多 -ty 结尾或多音节词要特别看重音。Sunny 会提醒学生，像 security 这类词重音常在倒数第三个音节；credentials、transparent、access 也要先确认重音位置，再读完整。多音节词不是越快越好，重音错了会让整句听起来不稳。",
+    "source": "phase2-media local staging batches 114-115, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-read-like-communication",
+    "title": "RA 为什么不要像完成任务一样读",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "交流感",
+      "听懂",
+      "语速",
+      "自然",
+      "流利度"
+    ],
+    "answer": "RA 不是把文字赶完就结束。Sunny 会让学生想着自己在和别人交流，要让别人听懂；语速可以自然或略快，但不要为了完成任务而赶、吞音、乱加停顿。读的时候保持平稳的语调和清楚的词形，比刻意表演或突然加速更有利于评分。",
+    "source": "phase2-media local staging batches 114-115, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-do-not-change-word-form",
+    "title": "RA 可以自己改单复数或词形吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "词形",
+      "单复数",
+      "原文",
+      "program",
+      "designed"
+    ],
+    "answer": "RA 必须按屏幕原文读，不要自己改词形。Sunny 会纠正学生：program 是单数就不要读成复数，designed 也不能读成别的形式。机器比对的是文本和语音，自己加 s、漏 ed、改词都会制造扣分点。选一个短而稳的范围，原样读准，比多读但乱改更好。",
+    "source": "phase2-media local staging batches 114-115, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-three-second-rule-cancelled",
+    "title": "RA 取消三秒开口规则后还要马上说吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "三秒开口",
+      "录音",
+      "考场噪音",
+      "尽快开口",
+      "PTE规则"
+    ],
+    "answer": "即使 PTE 取消了三秒不开口自动跳题的规则，Sunny 仍建议学生听到提示后尽快开始。原因不是怕立刻跳题，而是考场嘈杂时，长时间不开口可能录进别人的声音，影响自己的录音质量。偶尔紧张可以稍微缓一下，但正常策略仍是准备好后照常开口。",
+    "source": "phase2-media local staging batches 114-115, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-map-migration-from-to",
+    "title": "DI 地图迁徙箭头怎么说",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "地图",
+      "migration",
+      "migrate from",
+      "South America",
+      "North America"
+    ],
+    "answer": "DI 地图里看到箭头，可以直接用 migrate from A to B 或 fly from A to B。Sunny 会让学生先用中文想清楚：箭头代表鸟从南美飞到北美，或从繁殖地回到越冬地；再说成 the birds migrate from South America to North America。区域功能可以用 which is for breeding/wintering 补充，别硬背复杂句。",
+    "source": "phase2-media local staging batches 114-115, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-trend-include-time-range",
+    "title": "DI 描述同步增长要先说什么",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "趋势",
+      "同步增长",
+      "时间段",
+      "November",
+      "highest"
+    ],
+    "answer": "DI 描述趋势时，不要只说两个指标都上升，要先给时间段。Sunny 会引导学生先说 from November 2000 to November 2008，再说 oil price and food price increased together 或 showed a similar upward trend。最高点也要带时间，例如 in November 2008。趋势句先有时间范围，信息才完整。",
+    "source": "phase2-media local staging batches 114-115, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-bind-with-soil",
+    "title": "FIB bind with soil 为什么不是 liquid",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "bind with",
+      "soil",
+      "liquid",
+      "toxic",
+      "degrade"
+    ],
+    "answer": "FIB 里 bind with 表示结合、绑定。Sunny 会让学生结合后文 less toxic、degrade more quickly 判断：农药或化学物质如果和土壤结合，就更不容易进入水体，并能更快分解；所以应选 soil，而不是 liquid 或 fluid。选项都认识时，要看哪一个能解释后面的结果。",
+    "source": "phase2-media local staging batches 114-115, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
