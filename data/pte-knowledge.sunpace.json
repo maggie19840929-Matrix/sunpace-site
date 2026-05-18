@@ -8374,5 +8374,192 @@
     "source": "phase2-media local staging batches 114-115, reading FIB practice",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-stop-prereading-before-beep",
+    "title": "RA 听到 beep 前还在试读会怎样",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "beep",
+      "准备时间",
+      "录音",
+      "预读",
+      "考场"
+    ],
+    "answer": "RA 准备时间快结束时要停下试读，调整呼吸，听到 beep 后再正式朗读。Sunny 会提醒学生：如果系统已经开始录音，你还在预读或适应声音，这些杂音会被录进去，影响开头质量。准备时间最后几秒不要再出声，把第一口气和第一句话留给正式录音。",
+    "source": "phase2-media local staging batches 116-117, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-keep-speed-even",
+    "title": "RA 前快后慢为什么会扣流利度",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "流利度",
+      "语速",
+      "前快后慢",
+      "紧张",
+      "节奏"
+    ],
+    "answer": "RA 不是越快越好，关键是语速稳定。Sunny 会指出，学生开头因为紧张冲得太快，后面回到正常语速，机器会听成语速不均匀，从而影响流利度。练习时宁可从第一秒就用可控的中速，也不要开头猛冲；后半段的正常状态往往才是更适合考试的速度。",
+    "source": "phase2-media local staging batches 116-117, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-avoid-uncomfortable-words",
+    "title": "RA 选句时嘴巴不舒服要不要避开",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "选句",
+      "发音",
+      "purpose",
+      "useful",
+      "避错"
+    ],
+    "answer": "RA 选一句话时，要优先选嘴巴舒服、读得稳的范围。Sunny 会用 purpose、useful 这类词提醒学生：如果某个词卷舌、重音或口型让你明显不舒服，它很可能就是录音里的扣分点。不要为了多读一点，把容易错的词硬选进去；短一点但清楚、稳定，通常更划算。",
+    "source": "phase2-media local staging batches 116-117, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-function-words-light",
+    "title": "RA 虚词和尾音要不要读很重",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "虚词",
+      "尾音",
+      "and",
+      "the way",
+      "develop"
+    ],
+    "answer": "RA 要把词读清楚，但不要把虚词和尾音都读得很重。Sunny 会纠正学生把 and、the、词尾音读得过于明显的问题：这样会显得谨慎、断裂，主重音反而不突出。更好的做法是让虚词轻轻带过，把重心放在关键词上，例如 the way we do 里重心在 way，develop 也不要把尾音死死拖住。",
+    "source": "phase2-media local staging batches 116-117, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-avoid-risky-numbers-in-trends",
+    "title": "DI 趋势句数字容易读错怎么办",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "趋势",
+      "数字",
+      "ninety",
+      "nineteen",
+      "最大最小"
+    ],
+    "answer": "DI 不是完全不说数字，最大值、最小值等关键点仍要给数字；但如果学生在趋势句里容易把 ninety 读成 nineteen，Sunny 建议不要硬塞很多数字。趋势可以改成谁高于谁、谁增长、谁下降，例如 A is higher than B。数字发音还不稳时，先把必要数字说清楚，趋势部分用简单对比降低风险。",
+    "source": "phase2-media local staging batches 116-117, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-final-sounds-not-overstressed",
+    "title": "DI 收音要完整但能不能很重",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "收音",
+      "重音",
+      "smartphone",
+      "发音",
+      "自然"
+    ],
+    "answer": "DI 发音要有收音，但不是每个尾音都重读。Sunny 会提醒学生：考试里如果为了让机器听见，把 smartphone 这类词的结尾读得特别突兀，反而会让重音位置不自然。策略是把音交代完整，但尾音轻收，关键词重音清楚；不要把不该重的地方读成重音。",
+    "source": "phase2-media local staging batches 116-117, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-found-passive-not-founded",
+    "title": "FIB 看到 found 怎么判断不是建立",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "found",
+      "founded",
+      "被动语态",
+      "语法",
+      "lakes"
+    ],
+    "answer": "FIB 里看到 found 要先判断结构，不要只凭中文选。Sunny 会提醒学生：如果前面是复数名词加 are found，这通常是 find 的过去分词，表示“被发现/存在于”，不是 found 作为“建立”的动词原形。做这类题先看主谓和被动语态，再看整篇时态是否一致，避免把形近词义混在一起。",
+    "source": "phase2-media local staging batches 116-117, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-accessible-vs-available",
+    "title": "FIB accessible 和 available 怎么区分",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "accessible",
+      "available",
+      "preservation",
+      "collection",
+      "conservation"
+    ],
+    "answer": "accessible 和 available 都像“可用”，但语境不同。Sunny 会用博物馆藏品 preservation 的题提醒学生：让藏品 now and in future 能被人接触、查看、使用，accessible 更自然；available 更像饭准备好了、资源可供享用。遇到相近形容词时，要看名词对象是什么，以及后文想表达“可接触”还是“可提供”。",
+    "source": "phase2-media local staging batches 116-117, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-hold-early-blank",
+    "title": "FIB 第一个空不确定要立刻选吗",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "第一个空",
+      "先控",
+      "后文线索",
+      "词性",
+      "形容词"
+    ],
+    "answer": "FIB 第一个空不确定时，可以先控住，不要急着把选项放上去。Sunny 会说，文章开头信息还少，硬选容易被后文推翻；继续往后读，后面常会出现词性、同义词或主题线索。尤其多个选项词性都像形容词时，先标记可能性，等 preservation、now and in future 这类语义线索出来后再定。",
+    "source": "phase2-media local staging batches 116-117, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-ro-signal-words-order",
+    "title": "RO 排序题哪些词是顺序信号",
+    "keywords": [
+      "RO",
+      "Re-order Paragraphs",
+      "信号词",
+      "but",
+      "in other words",
+      "infer",
+      "转折"
+    ],
+    "answer": "RO 不能只靠逐句翻译，要抓句间信号。Sunny 会提醒学生关注 but、in other words、infer 这类词：but 往往接转折，in other words 常是在换句话解释前文，infer 可能提示要从前文推出结论。能读懂文章最好，但信号词能帮助快速判断哪一句承接哪一句，尤其在内容相近时很有用。",
+    "source": "phase2-media local staging batches 116-117, reading RO practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-we-no-title-and-brainstorm",
+    "title": "WE 作文需要标题吗，怎么拓词",
+    "keywords": [
+      "WE",
+      "Writing Essay",
+      "标题",
+      "拓词",
+      "young people",
+      "unemployment",
+      "shorter working week"
+    ],
+    "answer": "PTE WE 作文不需要单独写标题，直接写正文即可。Sunny 带学生拓词时，会围绕题目核心词从时间、地点、人物、事件、工具等角度扩展，例如 young people 可以想到 young adults、youth、students、citizens；unemployment 可以想到 joblessness、lay off、downsize。拓词要贴题，像年轻人失业题里硬联想到老年人，就属于关联度偏弱，先放后面。",
+    "source": "phase2-media local staging batches 116-117, writing WE practice",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
