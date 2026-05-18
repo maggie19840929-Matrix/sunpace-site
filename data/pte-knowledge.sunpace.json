@@ -7863,5 +7863,175 @@
     "source": "phase2-media local staging batches 108-109, writing SWT practice",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-map-avoid-unreadable-words",
+    "title": "DI 地图题遇到不会读的地名怎么办",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "地图题",
+      "地名",
+      "方位",
+      "不会读",
+      "发音风险"
+    ],
+    "answer": "DI 地图题不需要把每个地名都硬读出来。Sunny 会让学生优先描述自己会读、能说清楚的信息，例如国家或地区大概位置、左右上下方位、海洋位置、颜色区域和地理分布。不会读的地名可以合理避开，换成 the region on the left、the blue area 这类表达。地图题的目标是信息相关且发音稳，不是挑战陌生地名。",
+    "source": "phase2-media local staging batches 110-111, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-vary-we-can-see",
+    "title": "DI 总是说 we can see 怎么换",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "we can see",
+      "it can be seen that",
+      "it is clear that",
+      "句式多样化",
+      "模板痕迹"
+    ],
+    "answer": "DI 里 we can see 可以用，但不要每一句都重复。Sunny 会建议学生适当替换成 it can be seen that、it is clear that、the picture shows、in addition 或 the data indicates。句式变化不需要复杂，重点是避免连续几句都用同一个开头，让表达更像自然描述，而不是机械套模板。",
+    "source": "phase2-media local staging batches 110-111, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-comparison-use-that",
+    "title": "DI 比较两组相同指标时 that 怎么用",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "比较句",
+      "that",
+      "the percentage of",
+      "North America",
+      "South America"
+    ],
+    "answer": "DI 比较同一个指标的两组数据时，可以用 that 代替重复的名词短语。Sunny 会示范：the percentage of coal in North America is higher than that in South America。这里 that 指代前面的 the percentage of coal，避免把完整主语重复两遍。先把主语说清楚，再用 that 做替代，句子会短很多，也更适合 40 秒表达。",
+    "source": "phase2-media local staging batches 110-111, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-weak-not-swallow-word",
+    "title": "RA 弱读和吞词有什么区别",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "弱读",
+      "吞词",
+      "连读",
+      "失爆",
+      "流利度"
+    ],
+    "answer": "RA 可以弱读和失爆，但不能把单词吞没。Sunny 会提醒学生，像 number of events 这种连接处，of 可以轻、可以连，但必须有存在感；如果完全听不到，就不是弱读，而是漏词。弱读的目标是让语流不断，前提是每个该读的词仍然被机器和人听见。",
+    "source": "phase2-media local staging batches 110-111, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-avoid-difficult-word-range",
+    "title": "RA 选句时可以避开难词吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "选句",
+      "难词",
+      "television",
+      "扣分点",
+      "一句话方法"
+    ],
+    "answer": "RA 一句话方法允许主动避开难词。Sunny 会让学生在 10-15 秒准备时间里数词数、看难点，如果某个词放进句子里明显会读错，例如 television、should 或不熟的专有名词，就换一个同样够词数、更容易读顺的范围。不是逃避练习，而是考试策略：把确定能读准的范围交出去，减少明显扣分点。",
+    "source": "phase2-media local staging batches 110-111, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-cross-line-read-continuously",
+    "title": "RA 句子跨行时为什么容易卡",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "跨行",
+      "换行",
+      "停顿",
+      "连续感",
+      "选句"
+    ],
+    "answer": "RA 句子跨行时，很多学生会因为眼睛换行而停顿。Sunny 会让学生选句时考虑视觉路线：如果跨行造成卡顿，可以换到同一行或更顺眼的范围；如果必须跨行，预读时眼睛要提前扫到下一行，把单词当成连续句子读完。换行不是停顿信号，正式录音里要保持连续感。",
+    "source": "phase2-media local staging batches 110-111, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibrw-feature-vocabulary",
+    "title": "FIBRW feature 在媒体语境里怎么理解",
+    "keywords": [
+      "FIBRW",
+      "Reading and Writing Fill in the Blanks",
+      "feature",
+      "media coverage",
+      "新闻专题",
+      "词义",
+      "排除法"
+    ],
+    "answer": "FIBRW 里 feature 不只表示特点，在报纸、电视或媒体语境中，也可以指专题、专栏或特别报道。Sunny 会让学生结合语境排除 spot、point、sequence 这类意思不沾边的选项；如果句子讲 media coverage 或新闻报道，feature 往往比普通的“特点”更贴近“专题内容”。词义题要看场景，不要只背最常见中文释义。",
+    "source": "phase2-media local staging batches 110-111, reading FIBRW practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-past-participle-postmodifier",
+    "title": "FIB 什么时候用过去分词做后置定语",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "过去分词",
+      "后置定语",
+      "非谓语",
+      "covered",
+      "谓语"
+    ],
+    "answer": "FIB 如果主句已经有谓语，就不要再给名词后面硬塞一个普通动词。Sunny 会让学生先找主干：如果 most offenses 是主语，后面 already has will be familiar terms 作为谓语，那么空格里的动词就更可能是非谓语。像 covered on the syllabus 这种过去分词短语，可以放在名词后面做后置定语，表示“被包含在大纲里的犯罪类型”。",
+    "source": "phase2-media local staging batches 110-111, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-concern-health-issue",
+    "title": "FIB concern 可以表示问题吗",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "concern",
+      "health issue",
+      "public health",
+      "problem",
+      "词义"
+    ],
+    "answer": "FIB 里 concern 不只表示担心，也可以表示令人担忧的问题或议题。Sunny 会让学生把 public health concern 理解成 public health issue 或 public health problem。遇到 outbreaks、public health 这类语境时，concern 往往比 production、success 这类词更合适。做词义题时要看搭配场景，而不是只看单词最浅层意思。",
+    "source": "phase2-media local staging batches 110-111, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-question-mark-as-signal",
+    "title": "SWT 问号后面的句子为什么常是关键句",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "问号",
+      "关键句",
+      "信号句",
+      "反复词",
+      "答句"
+    ],
+    "answer": "SWT 除了看反复词、首尾句和转折结论词，也可以留意问号。Sunny 会提醒学生，文章中出现问题句时，后面给出的回答常常承担解释或结论功能，因此可能是关键句。问号不是绝对答案，但它是一个强信号：先看问题后面的答句，再判断是否包含主题词和采分信息。",
+    "source": "phase2-media local staging batches 110-111, writing SWT practice",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
