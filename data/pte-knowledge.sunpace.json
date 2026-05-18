@@ -8561,5 +8561,175 @@
     "source": "phase2-media local staging batches 116-117, writing WE practice",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibrw-reform-skim-keywords",
+    "title": "改革后 FIBRW 为什么更要先扫关键词",
+    "keywords": [
+      "FIBRW",
+      "Reading",
+      "改革",
+      "泛读",
+      "关键词",
+      "标题",
+      "速度"
+    ],
+    "answer": "改革后阅读时间更紧，FIBRW 不能只靠逐句精读。Sunny 会提醒学生：考试没有标题，所以开头要快速扫关键词，先判断文章大概在讲语言、历史、科学还是某个现象。知道主题后，再回到空格前后精读。泛读不是跳读乱猜，而是先抓方向，避免在不重要的长句里耗完时间。",
+    "source": "phase2-media local staging batches 118-119, reading FIBRW practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-through-period-vs-at-point",
+    "title": "FIB late twenties 前为什么用 through 不用 at",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "through",
+      "at",
+      "late twenties",
+      "时间段",
+      "时间点"
+    ],
+    "answer": "看到 late twenties 这类表达，要判断它是时间点还是时间段。Sunny 会讲：late twenties 不是单个年龄点，而是二十多岁后段的一段时间，所以 through 更合适；at 更像接 at 25 这种具体时间点。FIB 遇到介词空时，不要只按中文“在”选，要看后面的时间表达是点还是段。",
+    "source": "phase2-media local staging batches 118-119, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-dropdown-fixed-phrases",
+    "title": "FIB dropdown 固定搭配能直接锁答案吗",
+    "keywords": [
+      "FIB",
+      "dropdown",
+      "固定搭配",
+      "without much success",
+      "be believed to",
+      "of becoming",
+      "前后文"
+    ],
+    "answer": "FIB dropdown 里有些空可以靠高频搭配先锁住。Sunny 会让学生记空格前后，而不是只背答案：without much success 是常见表达，be believed to 后面接动词原形也很典型，of becoming 这种搭配要看前面名词或结构。固定搭配能帮你提速，但仍要放回上下文确认意思没有冲突。",
+    "source": "phase2-media local staging batches 118-119, reading FIB dropdown practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-however-not-connector",
+    "title": "SWT 里 however 能不能直接连接两个句子",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "however",
+      "连接词",
+      "副词",
+      "one sentence",
+      "格式"
+    ],
+    "answer": "SWT 要写成一句话，但不是随便放 however 就能连接两个完整句。Sunny 会提醒学生：however 从词性上是副词，不具备像 and、but、because 那样直接连接两个句子的功能。写 SWT 时要用真正能连接句子的结构，或者配合分号、逗号和合适连接词；否则看似一句话，语法连接其实断了。",
+    "source": "phase2-media local staging batches 118-119, writing SWT practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-key-sentences-rewrite-connectors",
+    "title": "SWT 找到关键句后下一步做什么",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "关键句",
+      "同义替换",
+      "连接词",
+      "逻辑关系",
+      "改写"
+    ],
+    "answer": "SWT 练习可以先找关键句，但最终答案不能只是把原文几句生硬堆起来。Sunny 的流程是：先找重要句子或关键片段，再做必要同义替换，最后用不同连接词体现因果、转折、递进等逻辑关系。课堂上可以先抄原文练找点，课后和考试要把句子连成一条语法完整、逻辑清楚的总结。",
+    "source": "phase2-media local staging batches 118-119, writing SWT practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-elision-mouth-shape-not-needed",
+    "title": "RA 失爆时还要做口型吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "失爆",
+      "爆破音",
+      "辅音",
+      "口型",
+      "about the past"
+    ],
+    "answer": "RA 做失爆时，不需要把被弱化的爆破音口型完整做出来。Sunny 会解释：如果做了口型却不发声，和不做口型在录音效果上没有区别。像 about the past 这类爆破音后接辅音的地方，把前一个爆破轻轻收住即可；读起来突然卡住、硬断，往往说明这个音发得太多了。",
+    "source": "phase2-media local staging batches 118-119, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-fragment-can-end-at-word",
+    "title": "RA 选一句话必须读完整句吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "选句",
+      "片段",
+      "完整句",
+      "流利度",
+      "8到12词"
+    ],
+    "answer": "RA 做一句话练习时，不一定非要把完整句读完。Sunny 会让学生选一个自己能稳定读顺的片段，只要长度够、结尾落在正常单词上即可。为了完整句硬读到后面，出现中断、卡顿或难词读错，反而得不偿失。目标是发音和流利度稳定，不是证明自己读得多。",
+    "source": "phase2-media local staging batches 118-119, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-practice-aloud-with-stress",
+    "title": "RA 准备时间只默看够吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "准备时间",
+      "大声练",
+      "重弱读",
+      "低沉声音",
+      "稳定"
+    ],
+    "answer": "RA 准备时间不要只在脑子里默看。Sunny 建议学生用大声或半声练一两遍，把重读、弱读和容易漏的词提前走一遍。尤其声音本来低沉的人，如果不把声音放开，录出来会糊、没有强弱。速度不需要飞快，79 或 89 目标也要稳定、紧凑、清晰，而不是越读越赶。",
+    "source": "phase2-media local staging batches 118-119, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-text-heavy-high-low-compare",
+    "title": "DI 文字和数字很多时先说什么",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "文字多",
+      "最高值",
+      "最低值",
+      "比较",
+      "框架句"
+    ],
+    "answer": "DI 图中文字和数字很多时，不要一上来全部念。Sunny 会让学生先找最高值和最低值，再补一个比较关系；如果小字能看清、读得顺，再加入说明文字。可以用框架句如 the largest number is... which belongs to...。文字多时的顺序是：主题、最高最低、比较，最后再看有没有余力加细节。",
+    "source": "phase2-media local staging batches 118-119, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-layout-left-right-vocabulary",
+    "title": "DI 图片题怎么按布局说",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "图片题",
+      "左边右边",
+      "上下",
+      "goggles",
+      "equipment"
+    ],
+    "answer": "DI 图片题可以把它当成布局描述来做。Sunny 会建议先说主题，再按左边右边、上面下面的顺序把内容讲完，例如先说女孩拿着 beaker，再说男孩和 equipment。实验室类图片可以准备 goggles、equipment、beaker 这类词。遇到空间关系，还可以用 next to、close to、on the right part of the picture 来连接。",
+    "source": "phase2-media local staging batches 118-119, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
