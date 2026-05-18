@@ -7351,5 +7351,176 @@
     "source": "phase2-media local staging batches 102-103, reading FIB practice",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-count-words-by-glance",
+    "title": "RA 一句话范围怎么快速数够词",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "一句话",
+      "选词范围",
+      "10个词",
+      "预读",
+      "风险规避"
+    ],
+    "answer": "RA 选一句话时，不必一个词一个词慢慢数。Sunny 会让学生练习一眼看 4 到 5 个词，两眼或三眼就能判断是否够 8 到 12 个词。选到够词数、能稳定读的范围就行；如果前半句有自己不擅长的 years、death 这类词，可以从后面开始，少读一点反而更稳。",
+    "source": "phase2-media local staging batches 104-105, speaking RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-in-the-form-of-subsidies",
+    "title": "FIB 看到补贴来源为什么选 in the form of",
+    "keywords": [
+      "FIB",
+      "Fill in the Blanks",
+      "in the form of",
+      "subsidies",
+      "tax",
+      "direct payments",
+      "搭配"
+    ],
+    "answer": "FIB 里如果讲 subsidies 来自 tax、direct payments 或 investment，Sunny 会让学生想到 in the form of，意思是“以某种形式出现”。regardless、instead 这类词要看后面是否真的有“无论什么”或“替代什么”的逻辑；如果只是说明补贴表现形式，in the form of 更自然。",
+    "source": "phase2-media local staging batches 104-105, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-even-vs-rather",
+    "title": "FIB even 和 rather 怎么用上下文区分",
+    "keywords": [
+      "FIB",
+      "Fill in the Blanks",
+      "even",
+      "rather",
+      "程度副词",
+      "上下文",
+      "逻辑"
+    ],
+    "answer": "FIB 里 even 常用来加强“甚至在这种情况下也成立”的意思。Sunny 会让学生看前后：如果前面说补贴让产品更便宜，后面说即使从海外运输也更便宜，even 就是在递进强调。rather 通常是“相当”或偏转语气，不能随便替代 even；要看它修饰的是词、短语还是整句话。",
+    "source": "phase2-media local staging batches 104-105, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-banned-not-until",
+    "title": "FIB banned 和 not until 怎么一起理解",
+    "keywords": [
+      "FIB",
+      "Fill in the Blanks",
+      "banned",
+      "not until",
+      "否定",
+      "globalization",
+      "上下文"
+    ],
+    "answer": "FIB 里 banned 自带否定含义，接近 not allowed 或 not permitted。Sunny 会让学生把它和 not until 放在一起理解：not until ten years ago banned 这类语境，是说直到十年前才被允许，也就是之前一直被禁止。再结合 avoiding globalization、staying isolated 这些上下文，就能排除 popular、welcome 这类反向选项。",
+    "source": "phase2-media local staging batches 104-105, reading FIB practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-we-reserve-check-time",
+    "title": "WE 20 分钟怎么留检查时间",
+    "keywords": [
+      "WE",
+      "Write Essay",
+      "时间分配",
+      "检查",
+      "字数",
+      "细节",
+      "模板"
+    ],
+    "answer": "WE 总时间 20 分钟，Sunny 会建议 17 到 18 分钟写完，至少留 2 到 3 分钟检查。检查重点不是重新想逻辑，而是看字数是否在 200 到 300 词、模板拼写和细节有没有错、替换进去的采分词是否和题目直接相关。模板打熟以后，最后这几分钟很值钱。",
+    "source": "phase2-media local staging batches 104-105, writing WE practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-second-sentence-optional",
+    "title": "DI 第二句 items 句一定要说吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "第二句",
+      "items",
+      "模板",
+      "信息量",
+      "内容分"
+    ],
+    "answer": "DI 的第二句 items include 不是必说句。Sunny 会让学生根据图的信息量决定：如果图上信息很多，第二句只是凑时间，而且后面主体句还会重复，就可以跳过，直接说图中数据；如果图上信息少，第二句可以用来拖一点时间并带入关键词。不要为了模板牺牲有效内容。",
+    "source": "phase2-media local staging batches 104-105, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-second-largest-flexible",
+    "title": "DI 只能说最大最小值吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "最大值",
+      "最小值",
+      "第二大",
+      "第二小",
+      "多样化"
+    ],
+    "answer": "DI 主体句不必每张图都只说最大值和最小值。Sunny 会让学生灵活替换成第二大、第二小、点对点数据、对比或趋势。每题都机械说 largest/smallest 容易显得模板痕迹重；只要信息来自图上、表达合理，就可以多样化。",
+    "source": "phase2-media local staging batches 104-105, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-much-vs-a-little",
+    "title": "DI 比较数值时 much 能随便用吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "比较",
+      "much higher",
+      "a little",
+      "数值差距",
+      "图表"
+    ],
+    "answer": "DI 里比较两个数值时，Sunny 会让学生看差距再选词。差很多可以说 much higher 或 almost three times larger；只高一点点就不要用 much，可以改成 a little higher 或直接说具体数字。比较词必须贴合图表，不然就变成和图不相关的夸大表达。",
+    "source": "phase2-media local staging batches 104-105, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-number-reading-by-commas",
+    "title": "DI 复杂数字按什么单位读",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "数字",
+      "逗号",
+      "thousand",
+      "million",
+      "billion",
+      "年份"
+    ],
+    "answer": "DI 读数字时，年份可以两位两位读；复杂大数字则看逗号。Sunny 会让学生按逗号数量判断单位：一个逗号通常是 thousand，两个逗号是 million，三个逗号是 billion。准备时先把单位看准，不确定的单位或词不要硬读，读错反而扣分。",
+    "source": "phase2-media local staging batches 104-105, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-process-steps-can-skip",
+    "title": "DI 流程图每一步都要说吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "流程图",
+      "步骤",
+      "概括",
+      "不会读",
+      "40秒"
+    ],
+    "answer": "DI 流程图不需要每一步都逐个描述，40 秒通常也做不到。Sunny 会让学生优先说能读、能概括的步骤；重复步骤可以合并，不会读的步骤可以跳过，直接说第三步、第七步这类看得懂的部分。流程图的重点是呈现顺序和主要变化，不是把所有小字念完。",
+    "source": "phase2-media local staging batches 104-105, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
