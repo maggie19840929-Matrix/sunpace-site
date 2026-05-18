@@ -8901,5 +8901,142 @@
     "source": "phase2-media local staging batches 120-121, reading FIB practice",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-physicist-vs-physician",
+    "title": "FIB physicist 和 physician 怎么区分",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "physicist",
+      "physician",
+      "pharmacist",
+      "psychologist",
+      "实验"
+    ],
+    "answer": "FIB 里遇到身份类选项，不要只看词长得像。Sunny 会让学生先看上下文：如果文章在讲透明塑料管、盐、沙子、旋转和材料实验，就更像 physicist 物理学家，而不是 physician 医生、pharmacist 药剂师或 psychologist 心理学家。选职业词时，要看这个人正在做什么研究或实验。",
+    "source": "phase2-media local staging batch 122, reading FIB dropdown practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-unsuspecting-bystanders",
+    "title": "FIB unsuspecting bystanders 怎么理解",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "unsuspecting",
+      "bystanders",
+      "suspect",
+      "排除法",
+      "语境"
+    ],
+    "answer": "unsuspecting 来自 suspect，表示没有怀疑、没有预料到。Sunny 会用实验让路人吃惊的语境讲：白盐和黑沙在管子里旋转，结果会让 unsuspecting bystanders 感到惊讶，也就是毫无预期的旁观者。遇到不认识的形容词，可以先拆词根，再用后文的惊讶结果排除 uncomfortable、unprecedented 这类不贴语境的词。",
+    "source": "phase2-media local staging batch 122, reading FIB dropdown practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-trial-read-out-loud",
+    "title": "RA 准备时间试读为什么必须出声",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "准备时间",
+      "试读",
+      "出声",
+      "嘴部肌肉",
+      "ground water"
+    ],
+    "answer": "RA 准备时间的试读不是心里默读，而是要用自己能听到的声音读出来。Sunny 会提醒学生：不出声就不知道 ground water、coastal wetlands 这类词自己是否真的会读；嘴部肌肉没有提前适应，正式录音时就容易紧、慢、错。准备时顺两三遍，发现一直读不顺，就换更稳的句子。",
+    "source": "phase2-media local staging batch 122, speaking RA practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-flowchart-final-rise",
+    "title": "DI 流程图词尾总上扬会怎样",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "流程图",
+      "booking process",
+      "词尾上扬",
+      "重音",
+      "回读"
+    ],
+    "answer": "DI 流程图里，词尾不要总往上飘。Sunny 会纠正学生把 graph、website、email、administrator、items 等词读成尾音上扬，导致重音位置不稳、听感不自然。说错一个词后也不要频繁回读，回读会伤流利度。流程图要先保顺序和逻辑，再把关键词重音放对、尾音收住。",
+    "source": "phase2-media local staging batch 122, speaking DI practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-say-what-you-can-say",
+    "title": "DI 图片题想不到高级表达怎么办",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "图片题",
+      "ergonomics",
+      "straight",
+      "keyboard",
+      "词汇"
+    ],
+    "answer": "DI 图片题不要一直卡在自己不会说的高级表达上。Sunny 会引导学生先用会说的内容：eyes are looking at the screen、hands on the keyboard、the chair and the back are close to each other。不会说“挺直背板”就不要死想，课后再补 straight、parallel、bent 这类词。考试中先说能说的，词汇不足用课后积累补。",
+    "source": "phase2-media local staging batch 122, speaking DI practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-key-sentence-two-step",
+    "title": "SWT 练习为什么分找句和改句两步",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "关键句",
+      "删减",
+      "同义替换",
+      "两步法",
+      "格式"
+    ],
+    "answer": "SWT 训练不要一上来就同时找句、改写、连接。Sunny 会把练习拆成两步：第一步先把关键句找准；第二步再做删减、同义替换和连接。关键句没找准，后面改写再漂亮也难拿高分。课堂练习可以只练找点，等核心信息稳定后，再处理逗号空格、连词和一句话格式。",
+    "source": "phase2-media local staging batch 122, writing SWT practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-rely-on-degrade-service",
+    "title": "FIB rely on 和 degrade service 怎么判断",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "rely on",
+      "degrade",
+      "risk",
+      "service",
+      "固定搭配"
+    ],
+    "answer": "FIB 里 rely on 是很高频的固定搭配，表示依靠、依赖。Sunny 会提醒学生：看到 wealth and well-being rely on natural capital 这种结构，确定后就不要再把其他选项逐个带入浪费时间。另一个空如果前面是 risk，后面说 services，就要选负面结果，degrade the services 表示服务降级，比 improve、reduce 或 lowering 更贴切。",
+    "source": "phase2-media local staging batch 122, reading FIB dropdown practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-halted-developed-adapted-arrived",
+    "title": "FIB 日本中国知识题几个动词怎么选",
+    "keywords": [
+      "FIB",
+      "Reading Fill in the Blanks",
+      "halted",
+      "developed",
+      "adapted",
+      "arrived from",
+      "Japan",
+      "China"
+    ],
+    "answer": "FIB 讲中国知识流向日本时，要看句子之间的逻辑。有时 transfer halted，表示转移暂时停滞，于是 Japan developed on its own；但从中国到日本的东西，则是 arrived from China，并且 was adapted to Japanese tastes and needs。Sunny 会让学生用逻辑串起来：转移停了，自己发展；传来的东西，要被改造来适应本地需求。",
+    "source": "phase2-media local staging batch 122, reading FIB practice",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
