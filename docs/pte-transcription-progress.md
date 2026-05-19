@@ -281,3 +281,30 @@
 - 尚未成功：1485
 
 备注：`resume-5` 继续验证预筛策略有效，40 条全成功；SST 高频微课已形成较大可用转写池。
+
+## 2026-05-20 Sync 10
+
+- 队列：`20260520-resume-6`
+- 本地结果目录：`knowledge_exports/overnight-transcription/next-priority-20260520-resume-6`
+- 覆盖批次：第 1-2 批，覆盖 `seq 7001-7016`
+- 本次处理：16 条
+- 成功转写：16 条
+- 低文本：0 条
+- 跳过：0 条
+
+成功转写条目：
+
+- `7001-7016` SST 高频真题训练微课 16 条，全部成功
+- 代表主题包括：The market economy、Gene development、Food crisis、language in danger、mathematicians、Studying law、London ugly architecture、smile of mother and baby、organization study、dancing bees、global warming、modern poetry、chimpanzee、history of software、recycling water、Student loan
+
+全盘累计状态：
+
+- 可转写音视频总数：2019
+- 已处理去重源文件：577
+- 成功可用转写：550
+- 低文本：4
+- 时长过短跳过：23
+- 尚未尝试：1442
+- 尚未成功：1469
+
+备注：`resume-6` 前两批继续保持 100% 成功率；SST 高频微课的可用转写池已超过 550 条，可继续按“两批一同步”节奏推进。
