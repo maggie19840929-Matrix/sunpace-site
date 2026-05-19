@@ -226,3 +226,30 @@
 - 尚未成功：1509
 
 备注：SST 高频真题训练微课连续两轮保持高成功率，可继续优先转写；后续再把内容蒸馏成 SunPace 自有表达的 SST 备考知识点。
+
+## 2026-05-20 Sync 8
+
+- 队列：`20260519-resume-5`
+- 本地结果目录：`knowledge_exports/overnight-transcription/next-priority-20260519-resume-5`
+- 覆盖批次：第 3-4 批，覆盖 `seq 6017-6032`
+- 本次处理：16 条
+- 成功转写：16 条
+- 低文本：0 条
+- 跳过：0 条
+
+成功转写条目：
+
+- `6017-6032` SST 高频真题训练微课 16 条，全部成功
+- 代表主题包括：Internet and journalism、canned foods、Face recognition、renewable energy、sign language、hospital design、email system、decline of bees、Origin of Species、automation、Sugar、history of English
+
+全盘累计状态：
+
+- 可转写音视频总数：2019
+- 已处理去重源文件：553
+- 成功可用转写：526
+- 低文本：4
+- 时长过短跳过：23
+- 尚未尝试：1466
+- 尚未成功：1493
+
+备注：SST 高频微课继续保持 100% 成功率。当前可优先把这批内容蒸馏成 SST 高频主题库，再进入更长的综合刷题课。
