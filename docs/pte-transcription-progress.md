@@ -199,3 +199,30 @@
 - 尚未成功：1525
 
 备注：`resume-4` 预筛队列验证通过，后续队列应继续保留 `ffprobe` 时长检查，并优先完整课程、SST 高频微课、改革后技巧课和可复用题型训练。
+
+## 2026-05-19 Sync 7
+
+- 队列：`20260519-resume-5`
+- 本地结果目录：`knowledge_exports/overnight-transcription/next-priority-20260519-resume-5`
+- 覆盖批次：第 1-2 批，覆盖 `seq 6001-6016`
+- 本次处理：16 条
+- 成功转写：16 条
+- 低文本：0 条
+- 跳过：0 条
+
+成功转写条目：
+
+- `6001-6016` SST 高频真题训练微课 16 条，全部成功
+- 代表主题包括：Sound of words、sleep、Money、stock market、stability of mood、smart city、bees' genes、paper rejection、MPA marine campaign、Air pollution、Adam Smith、Global market
+
+全盘累计状态：
+
+- 可转写音视频总数：2019
+- 已处理去重源文件：537
+- 成功可用转写：510
+- 低文本：4
+- 时长过短跳过：23
+- 尚未尝试：1482
+- 尚未成功：1509
+
+备注：SST 高频真题训练微课连续两轮保持高成功率，可继续优先转写；后续再把内容蒸馏成 SunPace 自有表达的 SST 备考知识点。
