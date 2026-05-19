@@ -253,3 +253,31 @@
 - 尚未成功：1493
 
 备注：SST 高频微课继续保持 100% 成功率。当前可优先把这批内容蒸馏成 SST 高频主题库，再进入更长的综合刷题课。
+
+## 2026-05-20 Sync 9
+
+- 队列：`20260519-resume-5`
+- 本地结果目录：`knowledge_exports/overnight-transcription/next-priority-20260519-resume-5`
+- 覆盖批次：第 5 批，覆盖 `seq 6033-6040`
+- 本次处理：8 条
+- 成功转写：8 条
+- 低文本：0 条
+- 跳过：0 条
+- 队列结论：`resume-5` 全部 40 条均成功
+
+成功转写条目：
+
+- `6033-6040` SST 高频真题训练微课 8 条，全部成功
+- 代表主题包括：humans and animals、absolutism、negative emotions、HTML、Fight or flight response、global economy、artificial intelligence、Tree rings
+
+全盘累计状态：
+
+- 可转写音视频总数：2019
+- 已处理去重源文件：561
+- 成功可用转写：534
+- 低文本：4
+- 时长过短跳过：23
+- 尚未尝试：1458
+- 尚未成功：1485
+
+备注：`resume-5` 继续验证预筛策略有效，40 条全成功；SST 高频微课已形成较大可用转写池。
