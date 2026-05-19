@@ -89,6 +89,247 @@ function isInSunnyScope(question) {
   });
 }
 
+const BROAD_SCORE_SOURCE_IDS = [
+  'sunpace-official-question-weighting-priorities',
+  'sunpace-plan-diagnostic',
+  'sunpace-study-five-step'
+];
+
+const FIRST_EXAM_SOURCE_IDS = [
+  'sunpace-exam-registration',
+  'sunpace-exam-booking-checklist',
+  'sunpace-pte-test-types'
+];
+
+const WFD_SCORE_SOURCE_IDS = [
+  'sunpace-listening-wfd-high-value',
+  'sunpace-listening-wfd',
+  'sunpace-listening-wfd-one-question-three-drills'
+];
+
+const SECTION_SCORE_SOURCE_IDS = {
+  listening: [
+    'sunpace-listening-wfd-high-value',
+    'sunpace-listening-wfd',
+    'sunpace-listening-sst',
+    'sunpace-listening-fib-hiw-priority',
+    'sunpace-extensive-listening'
+  ],
+  speaking: [
+    'sunpace-speaking-overview-priority',
+    'sunpace-speaking-ra',
+    'sunpace-speaking-rs',
+    'sunpace-speaking-di',
+    'sunpace-speaking-rl'
+  ],
+  reading: [
+    'sunpace-reading-time-priority',
+    'sunpace-reading-fib',
+    'sunpace-reading-ro'
+  ],
+  writing: [
+    'sunpace-writing-score-priority-wfd',
+    'sunpace-writing-swt',
+    'sunpace-writing-we'
+  ]
+};
+
+const TASK_SCORE_SOURCE_IDS = {
+  listening_fib: [
+    'sunpace-listening-fibl-vocab',
+    'sunpace-listening-fib-hiw-priority'
+  ],
+  hiw: [
+    'sunpace-listening-fib-hiw-priority',
+    'sunpace-listening-priority-ladder'
+  ],
+  sst: [
+    'sunpace-listening-sst',
+    'sunpace-listening-sst-practice-order',
+    'sunpace-listening-sst-content-words'
+  ],
+  swt: [
+    'sunpace-writing-swt',
+    'sunpace-writing-swt-skill',
+    'sunpace-writing-swt-main-structure'
+  ],
+  we: [
+    'sunpace-writing-we',
+    'sunpace-writing-we-time-allocation',
+    'sunpace-writing-we-template-needs-logic'
+  ],
+  fib: [
+    'sunpace-reading-fib',
+    'sunpace-reading-fib-word-form',
+    'sunpace-reading-fib-collocations'
+  ],
+  ro: [
+    'sunpace-reading-ro',
+    'sunpace-reading-ro-step-by-step',
+    'sunpace-reading-ro-target-accuracy'
+  ],
+  speaking_priority: [
+    'sunpace-speaking-priority-ra-rs-di-rl',
+    'sunpace-speaking-overview-priority',
+    'sunpace-speaking-ra',
+    'sunpace-speaking-rs',
+    'sunpace-speaking-di',
+    'sunpace-speaking-rl'
+  ],
+  di: [
+    'sunpace-speaking-di',
+    'sunpace-speaking-di-25-second-plan',
+    'sunpace-speaking-di-finish-thirty-seconds'
+  ],
+  rl: [
+    'sunpace-speaking-rl',
+    'sunpace-speaking-rl-content-logic-reform',
+    'sunpace-speaking-rl-answer-length'
+  ],
+  ra: [
+    'sunpace-speaking-ra',
+    'sunpace-speaking-ra-breakdown',
+    'sunpace-speaking-ra-scoring-dimensions'
+  ],
+  rs: [
+    'sunpace-speaking-rs',
+    'sunpace-speaking-rs-chunking-method',
+    'sunpace-speaking-rs-chunking-fluency'
+  ]
+};
+
+const TASK_ROUTE_DEFINITIONS = [
+  ['listening_fib', ['FIB', 'LFIB', 'FIBL'], ['听力 FIB', '听力填空', 'listening fib', 'fib listening']],
+  ['hiw', ['HIW'], ['高亮错词', '错词高亮', 'highlight incorrect words']],
+  ['sst', ['SST'], ['听力总结', 'summarize spoken text']],
+  ['swt', ['SWT'], ['小作文', 'summarize written text']],
+  ['we', ['WE'], ['大作文', 'write essay']],
+  ['fib', ['FIB', 'FIBR', 'FIBRW'], ['阅读 FIB', '阅读填空', '完形填空', 'fill in the blanks']],
+  ['ro', ['RO'], ['排序', 'reorder paragraphs']],
+  ['di', ['DI'], ['describe image', '描述图片', '描述图', '图表题']],
+  ['rl', ['RL'], ['retell lecture', '复述讲座', '重述讲座', '讲座复述']],
+  ['ra', ['RA'], ['read aloud', '朗读']],
+  ['rs', ['RS'], ['repeat sentence', '复述句子', '复述']]
+];
+
+const SPECIFIC_ROUTE_MARKERS = [
+  'fib', 'fibr', 'swt', 'we', 'ra', 'rs', 'wfd', 'sst', 'ro', 'hiw', 'di', 'rl',
+  '小作文', '大作文', '阅读', '听力', '口语', '写作', '词性', '填空', '复述', '朗读', '听写', '作文',
+  '50', '58', '65', '79'
+];
+
+function hasScoreOrTrainingIntent(question) {
+  return [
+    '怎么提分', '如何提分', '如何提', '怎么提', '提分', '提升', '提高',
+    '怎么练', '如何练', '训练', '练习', '备考', '怎么安排', '如何安排', '安排',
+    '优先级', '顺序', '怎么拿分', '如何拿分', '拿分', '怎么得分', '如何得分',
+    '得分', '怎么计分', '如何计分', '计分', '怎么记分', '如何记分', '记分',
+    '怎么给分', '如何给分', '给分'
+  ].some(term => question.includes(term));
+}
+
+function hasScoreImprovementIntent(question) {
+  return [
+    '怎么提分', '如何提分', '如何提', '怎么提', '提分', '提升分数', '提高分数'
+  ].some(term => question.includes(term));
+}
+
+function hasAcronym(question, acronym) {
+  const letters = acronym.split('').map(char => char.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('\\s*');
+  return new RegExp(`(^|[^A-Za-z])${letters}($|[^A-Za-z])`, 'i').test(question);
+}
+
+function preferredEntries(knowledge, ids) {
+  const byId = new Map(knowledge.map(entry => [String(entry.id || ''), entry]));
+  return ids.map(id => byId.get(id)).filter(Boolean);
+}
+
+function isSpecificTaskQuestion(question) {
+  const q = normalize(question);
+  return SPECIFIC_ROUTE_MARKERS.some(marker => q.includes(marker));
+}
+
+function isFirstExamQuestion(question) {
+  const q = normalize(question);
+  if (!['第一次', '首次', '第一回', '刚开始', '剛開始'].some(term => q.includes(term))) {
+    return false;
+  }
+  return ['pte', '考', '考试', '注意', '应该', '應該', '准备', '流程', '报名', '报考'].some(term => q.includes(term));
+}
+
+function isGeneralExamAttentionQuestion(question) {
+  const q = normalize(question);
+  if (isSpecificTaskQuestion(question)) return false;
+  return [
+    '注意什么', '注意点什么', '注意事項', '注意事项', '应该注意', '應該注意',
+    '有什么要注意', '有什麼要注意'
+  ].some(term => q.includes(term)) || (q.includes('考试') && q.includes('注意'));
+}
+
+function detectTaskScoreRoute(question) {
+  const q = normalize(question);
+  if (!hasScoreOrTrainingIntent(q)) return null;
+
+  const speakingTaskCount = ['RA', 'RS', 'DI', 'RL'].filter(acronym => hasAcronym(question, acronym)).length;
+  if (speakingTaskCount >= 2) return 'speaking_priority';
+
+  for (const [taskKey, acronyms, aliases] of TASK_ROUTE_DEFINITIONS) {
+    if (taskKey === 'listening_fib' && !['听力', 'listening', 'lfib', 'fibl'].some(term => q.includes(term))) {
+      continue;
+    }
+    if (acronyms.some(acronym => hasAcronym(question, acronym))) return taskKey;
+    if (aliases.some(alias => q.includes(normalize(alias)))) return taskKey;
+  }
+  return null;
+}
+
+function detectSectionScoreRoute(question) {
+  const q = normalize(question);
+  if (!hasScoreOrTrainingIntent(q)) return null;
+  if (q.includes('听力') || q.includes('listening')) return 'listening';
+  if (q.includes('口语') || q.includes('speaking')) return 'speaking';
+  if (q.includes('阅读') || q.includes('reading')) return 'reading';
+  if (q.includes('写作') || q.includes('writing')) return 'writing';
+  return null;
+}
+
+function isBroadScoreImprovementQuestion(question) {
+  const q = normalize(question);
+  if (!q.includes('pte')) return false;
+  if (!hasScoreImprovementIntent(q)) return false;
+  return !SPECIFIC_ROUTE_MARKERS.some(marker => q.includes(marker));
+}
+
+function findRoutedMatches(question, knowledge) {
+  if (isFirstExamQuestion(question) || isGeneralExamAttentionQuestion(question)) {
+    return preferredEntries(knowledge, FIRST_EXAM_SOURCE_IDS);
+  }
+
+  const q = normalize(question);
+  if ((q.includes('wfd') || q.includes('听写')) && hasScoreOrTrainingIntent(q)) {
+    return preferredEntries(knowledge, WFD_SCORE_SOURCE_IDS);
+  }
+
+  const taskKey = detectTaskScoreRoute(question);
+  if (taskKey) {
+    const sourceIds = taskKey === 'fib' && q.includes('词性')
+      ? ['sunpace-reading-fib-word-form', 'sunpace-reading-fib', 'sunpace-reading-fib-collocations']
+      : TASK_SCORE_SOURCE_IDS[taskKey];
+    return preferredEntries(knowledge, sourceIds || []);
+  }
+
+  const sectionKey = detectSectionScoreRoute(question);
+  if (sectionKey) {
+    return preferredEntries(knowledge, SECTION_SCORE_SOURCE_IDS[sectionKey] || []);
+  }
+
+  if (isBroadScoreImprovementQuestion(question)) {
+    return preferredEntries(knowledge, BROAD_SCORE_SOURCE_IDS);
+  }
+
+  return [];
+}
+
 function scoreEntry(question, entry) {
   const q = normalize(question);
   const title = normalize(entry.title);
@@ -118,6 +359,9 @@ function scoreEntry(question, entry) {
 }
 
 function findMatches(question, knowledge) {
+  const routed = findRoutedMatches(question, knowledge);
+  if (routed.length) return routed.slice(0, 3);
+
   const scored = knowledge
     .map(entry => ({ entry, score: scoreEntry(question, entry) }))
     .filter(item => item.score > 0)
