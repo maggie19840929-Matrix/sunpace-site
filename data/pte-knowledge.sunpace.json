@@ -10159,5 +10159,277 @@
     "source": "phase2-media local staging batch 130, DI timing and fluency",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-core-write-email-time-budget",
+    "title": "PTE Core Write Email 时间怎么分",
+    "keywords": [
+      "PTE Core",
+      "Write Email",
+      "写邮件",
+      "时间分配",
+      "写作",
+      "计划",
+      "检查"
+    ],
+    "answer": "Write Email 的时间不长，Sunny 会让学生先把它拆成三段：快速读题并确认收件人和目的，写出结构完整的邮件，最后留一点时间检查称呼、语气、字数和明显语法错误。不要一上来就堆高级表达，邮件题更看重你是否按场景完成任务、组织清楚、语气合适。",
+    "source": "phase2-media local staging batch 131, PTE Core write email timing",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-core-write-email-six-criteria",
+    "title": "PTE Core 写邮件主要看哪些方面",
+    "keywords": [
+      "PTE Core",
+      "Write Email",
+      "写作评分",
+      "内容",
+      "格式",
+      "语气",
+      "语法"
+    ],
+    "answer": "Write Email 不只是拼字数。Sunny 会提醒学生同时照顾六件事：有没有完成题目要求，邮件格式是否像邮件，语气是否符合对象，段落组织是否清楚，词汇是否贴合场景，语法是否稳定。尤其是正式和非正式语气要分清，给朋友、老师、学校部门写邮件，开头和收尾不能都用同一套。",
+    "source": "phase2-media local staging batch 131, PTE Core write email scoring",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-rts-three-step-flow",
+    "title": "RTS 可以按哪三步作答",
+    "keywords": [
+      "RTS",
+      "Response to Situation",
+      "PTE Core",
+      "口语",
+      "听场景",
+      "准备",
+      "作答"
+    ],
+    "answer": "RTS 可以按“听场景、准备回应、开口作答”三步走。Sunny 会让学生听的时候先抓人物关系和问题，准备时决定自己要道歉、请求、解释还是建议，开口后用一两句交代处境，再给出解决办法。这样即使词汇不复杂，答案也会像真实沟通，而不是背模板。",
+    "source": "phase2-media local staging batch 131, RTS response flow",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-practice-science-materials",
+    "title": "PTE 阅读平时泛读材料怎么选",
+    "keywords": [
+      "阅读",
+      "泛读",
+      "科学类文章",
+      "阅读速度",
+      "词汇",
+      "背景知识",
+      "备考材料"
+    ],
+    "answer": "PTE 阅读材料常偏科学、社会科学和学术说明文。Sunny 会建议泛读时优先选难度接近雅思以上、话题偏理科或学术的短文，而不是只看自己熟悉的娱乐、时尚内容。泛读的目的不是背每个专业词，而是训练速度、句子结构识别和遇到陌生主题时不慌。",
+    "source": "phase2-media local staging batch 131, reading material selection",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-background-knowledge-bonus",
+    "title": "阅读没有背景知识会不会做不了",
+    "keywords": [
+      "阅读",
+      "背景知识",
+      "专业术语",
+      "科学文章",
+      "定位",
+      "题型策略",
+      "PTE"
+    ],
+    "answer": "背景知识有帮助，但不是 PTE 阅读的必要条件。Sunny 会让学生把背景知识当加分项，而不是依赖项。遇到科学类、地理类或专业术语多的文章，先用题干定位、看句子关系和转折，再判断答案。专业词看不懂时，往往也能通过它周围的动词、数字、对比关系和上下文功能做题。",
+    "source": "phase2-media local staging batch 131, reading background knowledge",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-time-pressure-not-ielts",
+    "title": "PTE 阅读为什么不能按雅思节奏慢慢做",
+    "keywords": [
+      "阅读",
+      "时间管理",
+      "雅思",
+      "PTE",
+      "单选",
+      "多选",
+      "RO"
+    ],
+    "answer": "PTE 阅读的总时间紧，而且题型碎，很多文章只服务一两道题。Sunny 会提醒学生不要用雅思那种慢慢通读三篇文章的节奏。PTE 更需要快速识别题型、定位相关句、跳过无关细节。单选和多选尤其要控制时间，不能为了一题把后面的 FIB 或 RO 时间吃掉。",
+    "source": "phase2-media local staging batch 131, reading time pressure",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-grammar-pte-not-only-writing",
+    "title": "语法是不是只影响 PTE 写作",
+    "keywords": [
+      "语法",
+      "PTE",
+      "SWT",
+      "SST",
+      "FIB",
+      "WFD",
+      "阅读"
+    ],
+    "answer": "语法不只影响写作。Sunny 会让学生看到它在多个题型里的作用：SWT 需要读懂长句结构，Reading FIB 要判断词性和搭配，SST 要组织清楚句子，WFD 和 Listening FIB 要靠语法检查单复数、时态和冠词。口语现场不建议为了小语法停顿，但平时语法基础越稳，四项都会更稳。",
+    "source": "phase2-media local staging batch 131, grammar across PTE skills",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-grammar-learn-through-meaning",
+    "title": "PTE 语法要死背规则吗",
+    "keywords": [
+      "语法",
+      "规则",
+      "语境",
+      "语言逻辑",
+      "长难句",
+      "写作",
+      "阅读"
+    ],
+    "answer": "Sunny 不建议把语法当成一堆孤立公式死背。语法本质上是语言表达规律的总结，要放回意思和语境里理解。比如同一个结构在不同句子里功能不同，不能只背中文术语。更有效的练法是：读句子时找主干，写句子时检查成分，复盘错题时问自己为什么这个形式更合适。",
+    "source": "phase2-media local staging batch 131, grammar learning mindset",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-simple-present-academic-truth",
+    "title": "SST/SWT 里为什么常用一般现在时",
+    "keywords": [
+      "语法",
+      "一般现在时",
+      "SST",
+      "SWT",
+      "客观事实",
+      "学术表达",
+      "时态"
+    ],
+    "answer": "SST 和 SWT 经常总结学术事实、研究发现或普遍规律，所以一般现在时很常见。Sunny 会让学生记住：如果表达的是客观事实、定义、自然规律、长期成立的观点，通常用一般现在时更稳。不要因为原文里出现过去例子，就把整篇总结都写成过去时；先判断你是在讲事实，还是讲某个过去事件。",
+    "source": "phase2-media local staging batch 132, tense in academic summary",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-hiw-speed-training",
+    "title": "HIW 练习要不要调倍速",
+    "keywords": [
+      "HIW",
+      "Highlight Incorrect Words",
+      "倍速",
+      "听力",
+      "眼速",
+      "跟读",
+      "练习"
+    ],
+    "answer": "HIW 平时可以适度用快一点的速度训练，但不要快到完全跟不上。Sunny 常用的思路是：平时略高于考试舒适区练眼睛和耳朵同步，考试遇到正常或偏慢音频时就更从容。关键不是追求倍速本身，而是训练边听边扫文本、及时发现不一致的能力。",
+    "source": "phase2-media local staging batch 132, HIW speed practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-fib-grammar-after-hearing",
+    "title": "Listening FIB 听到词以后还要检查什么",
+    "keywords": [
+      "Listening FIB",
+      "听力填空",
+      "语法",
+      "拼写",
+      "单复数",
+      "时态",
+      "冠词"
+    ],
+    "answer": "Listening FIB 不是听到一个音就结束。Sunny 会让学生写下答案后立刻做小检查：拼写是否完整，名词要不要复数，动词时态是否符合句子，前后有没有冠词或介词搭配。很多学生不是完全没听到，而是听到了大概词形却写错形式。最后几秒的语法检查能救回不少分。",
+    "source": "phase2-media local staging batch 132, LFIB grammar check",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-grammar-linking-verb-predicate",
+    "title": "主系表结构怎么判断",
+    "keywords": [
+      "语法",
+      "主系表",
+      "系动词",
+      "表语",
+      "句子结构",
+      "阅读",
+      "写作"
+    ],
+    "answer": "主系表结构的核心是：中间的动词不表示具体动作，而是连接主语和说明主语状态的成分。Sunny 会让学生先看动词是不是 be、become、seem、go 这类连接作用，再看后面的词是不是在描述主语的性质或状态。比如 food went bad 里的 went 不是“走”，而是“变得”。",
+    "source": "phase2-media local staging batch 132, linking verb grammar",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-pronunciation-stress-two-levels",
+    "title": "口语发音为什么要练单词重音和句子重音",
+    "keywords": [
+      "口语",
+      "发音",
+      "word stress",
+      "sentence stress",
+      "重音",
+      "RA",
+      "流利度"
+    ],
+    "answer": "PTE 口语不是只看单个音准。Sunny 会把重音分成两层练：单词内部的重音要放对，句子里重要信息词也要突出。单词重音错会让词听起来不像那个词；句子重音平掉，会让整句话像机械朗读。RA 训练时可以先标出关键词，再读出轻重差别。",
+    "source": "phase2-media local staging batch 132, pronunciation stress",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-assimilation-deletion",
+    "title": "连读失爆是不是发音不清楚",
+    "keywords": [
+      "口语",
+      "连读",
+      "失爆",
+      "assimilation",
+      "deletion",
+      "continuous speech",
+      "RA"
+    ],
+    "answer": "连读和失爆不是故意含糊，而是自然英文里为了连续表达产生的声音变化。Sunny 会让学生先理解边界：该保留的信息不能糊掉，但相邻爆破音、重复辅音之间可以自然弱化。目标是听起来自然、连续、清楚，而不是每个字母都用同样力度读出来。",
+    "source": "phase2-media local staging batch 132, connected speech pronunciation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-common-small-errors",
+    "title": "WE 写作最常见的低级语法错有哪些",
+    "keywords": [
+      "WE",
+      "写作",
+      "语法错误",
+      "主谓一致",
+      "谓语",
+      "句子成分",
+      "复杂句"
+    ],
+    "answer": "Sunny 批改里最常见的低级错，往往不是高级语法不会，而是主谓不一致和句子缺成分。学生想写长句、复杂句时，容易把真正的主语看错，或者写着写着丢掉谓语。考场上先保证每句话有清楚主干，再加修饰成分。复杂但错，不如简单但准。",
+    "source": "phase2-media local staging batch 132, WE common grammar errors",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-practice-high-frequency-topics",
+    "title": "WE 练习要不要一直刷老题",
+    "keywords": [
+      "WE",
+      "Essay",
+      "高频题",
+      "老题",
+      "写作练习",
+      "观点题",
+      "讨论题"
+    ],
+    "answer": "WE 练习不需要无限刷老题。Sunny 会优先用近期高频题练观点题和讨论题，因为这两类最常见，也最能检验模板是否会用。老题可以拿来练结构和素材迁移，但不要把备考变成背旧答案。更重要的是形成一套能套进新题的审题、立场和展开方法。",
+    "source": "phase2-media local staging batch 132, WE practice topic selection",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]

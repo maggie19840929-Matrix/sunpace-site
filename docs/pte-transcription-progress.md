@@ -469,3 +469,13 @@
 - 覆盖主题：PTE Core RS/WFD 优先级、Core 考试流程、RTS 场景边界、Core RA 准备时间、口语不回读、continuous speech、ASQ 高频刷题与低权重边界、WFD 三轮刷题、HIW 训练眼速、精听闭环、WE 三类题、写作语法准确度、主谓一致自救、定语从句先行词、DI 40 秒使用
 
 备注：本次同步继续只包含公开进度摘要与 SunPace 自有表达的知识库内容；原始课程逐字稿、队列、结果 CSV/JSONL 和日志仍留在本地 `knowledge_exports/`。
+
+## 2026-05-21 Knowledge Distillation 5
+
+- 模式：白天模式，继续“每 2 轮处理同步一次 GitHub”
+- 输入来源：本地已完成转写池，重点参考 `resume-28` 的 PTE Core 写邮件/RTS/阅读素材，以及 `resume-29` 的语法、听力、发音、写作素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：16 条
+- 覆盖主题：PTE Core Write Email 时间与评分、RTS 三步作答、阅读泛读材料选择、阅读背景知识和时间压力、语法跨题型作用、一般现在时、HIW 倍速、Listening FIB 语法检查、主系表、口语重音、连读失爆、WE 常见低级错与高频题练习
+
+备注：继续只提交公开知识库和进度摘要；`knowledge_exports/` 内原始逐字稿、队列、日志与结果文件不进入 GitHub。
