@@ -9612,5 +9612,280 @@
     "source": "phase2-media local staging batch 126, speaking RA foundation",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rts-use-written-prompt",
+    "title": "RTS 题听不清提示音频怎么办",
+    "keywords": [
+      "RTS",
+      "Response to Situation",
+      "口语新题型",
+      "听读提示",
+      "prompt",
+      "学术场景",
+      "PTE Core"
+    ],
+    "answer": "RTS 的提示通常会同时给音频和屏幕文字，核心信息以屏幕文字为准。Sunny 会提醒听力弱的学生：不要因为第一遍听不清就慌，听的时候可以直接跟着读屏幕上的场景、对象和任务要求。准备时间很短，目标不是逐字复述提示，而是快速判断“我是谁、对谁说、要解决什么问题”，再组织一段自然回应。",
+    "source": "phase2-media local staging batch 127, RTS new question type",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-rts-answer-length",
+    "title": "RTS 口语新题型要说满 40 秒吗",
+    "keywords": [
+      "RTS",
+      "Response to Situation",
+      "40秒",
+      "口语",
+      "内容分",
+      "流利度",
+      "新题型"
+    ],
+    "answer": "RTS 的作答上限接近 40 秒，但 Sunny 不会要求学生为了凑时长乱说。更稳的目标是说到 30 秒以上，结构完整、内容对题、语气像真实沟通即可。太短容易显得内容不足；太长又容易重复、卡壳或跑题。练习时可以用“三步”：先回应场景，再给出建议或请求，最后补一句礼貌收尾。",
+    "source": "phase2-media local staging batch 127, RTS timing strategy",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-rts-score-dimensions",
+    "title": "RTS 会不会因为语法小错被扣很多分",
+    "keywords": [
+      "RTS",
+      "口语评分",
+      "内容",
+      "发音",
+      "流利度",
+      "语法",
+      "人工审核"
+    ],
+    "answer": "RTS 仍然要优先照顾内容、发音和流利度。Sunny 会让学生避免在录音中途为了一个三单、时态或冠词立刻回头修改，因为这种自我纠错往往更伤流利度。语法当然不能完全乱，但考试现场更重要的是把场景回应说完整、声音清楚、节奏不断。平时练习再复盘语言准确度，正式答题时先保连续输出。",
+    "source": "phase2-media local staging batch 127, RTS scoring overview",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-rts-not-sgd",
+    "title": "RTS 和 SGD 最大区别是什么",
+    "keywords": [
+      "RTS",
+      "SGD",
+      "Respond to Situation",
+      "Summarize Group Discussion",
+      "口语新题型",
+      "提示文字",
+      "答题结构"
+    ],
+    "answer": "RTS 更像对一个具体学术或校园场景做口头回应，屏幕上会给出明确情境；SGD 则更依赖听懂多人讨论后做总结。Sunny 会把 RTS 训练成“场景沟通题”：先确认角色关系，再说该说的话。不要把 SGD 的长篇总结习惯直接搬过来，RTS 更需要简洁、礼貌、对情境有行动感的回答。",
+    "source": "phase2-media local staging batch 127, RTS versus SGD",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-dont-chase-ai-score",
+    "title": "RA 练习时 AI 分数很好就代表考试稳了吗",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "AI评分",
+      "发音",
+      "流利度",
+      "作业批改",
+      "口语"
+    ],
+    "answer": "RA 练习分数可以参考，但不能把它当成唯一标准。Sunny 会让学生同时听录音、看老师反馈和看稳定性：有没有读得像自然英文，重弱读是否合理，长句有没有断错。某些练习模式会让分数看起来更漂亮，但考试现场没有那么多辅助操作。真正要追的是可复制的发音和节奏，不是一两次漂亮分数。",
+    "source": "phase2-media local staging batch 127, RA practice scoring",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-one-sentence-mode-limit",
+    "title": "RA 一句话模式适合怎么用",
+    "keywords": [
+      "RA",
+      "一句话模式",
+      "Read Aloud",
+      "练习模式",
+      "考试现场",
+      "标记",
+      "发音"
+    ],
+    "answer": "一句话模式适合用来精修某个句子的发音、连读和重弱读，但不能替代整段 RA 训练。Sunny 会提醒学生：考试现场不能在屏幕上划词、选中或标记，只能靠眼睛扫读和脑子分组。因此平时可以用一句话模式做局部修复，但每天仍要练完整文本，训练从准备到开口的真实节奏。",
+    "source": "phase2-media local staging batch 127, RA one-sentence practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-hidden-mispronunciation",
+    "title": "RA 里为什么会有自己察觉不到的错音",
+    "keywords": [
+      "RA",
+      "发音",
+      "错音",
+      "自查",
+      "词汇读音",
+      "录音回放",
+      "口语"
+    ],
+    "answer": "很多 RA 失分不是完全不会读，而是长期把熟词读错却没有意识到。Sunny 会让学生建立“熟词也查音”的习惯：遇到总被老师圈出的词、自己读起来含糊的词、拼写看着熟但发音不确定的词，都要回到词典和录音确认。比起盲目加速，先清掉高频错音，口语稳定性会更快上来。",
+    "source": "phase2-media local staging batch 127, RA pronunciation blind spots",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-main-idea-detail-options",
+    "title": "阅读主旨题为什么要小心带数字的选项",
+    "keywords": [
+      "阅读",
+      "主旨题",
+      "单选",
+      "多选",
+      "数字",
+      "细节干扰",
+      "MCQ"
+    ],
+    "answer": "阅读主旨题考的是整篇或整段的大方向，不是某个例子的细节。Sunny 会让学生看到带具体数字、年份、比例、人名地点的选项时先打个问号：它可能只是文章中某一处细节。不是说带数字一定错，而是要确认全文是否真的围绕这个数字展开。主旨题更常见的正确答案，通常能概括多个段落，而不是只复述一个例子。",
+    "source": "phase2-media local staging batch 127, reading MCQ main idea",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-mcq-locate-before-understand-all",
+    "title": "阅读选择题一定要全文看懂吗",
+    "keywords": [
+      "阅读",
+      "MCQ",
+      "单选",
+      "多选",
+      "定位",
+      "跳读",
+      "细节题"
+    ],
+    "answer": "阅读选择题不要求每个句子都完全看懂。Sunny 会先让学生分清题目类型：如果是细节题，先用题干和选项里的名词、数字、转折词定位，再在附近判断对应关系；如果是主旨题，再跳过过细例子看段落方向。全文硬读通常耗时高，还容易忘记题目问什么。先定位，再判断，是更适合 PTE 阅读的做法。",
+    "source": "phase2-media local staging batch 128, reading MCQ strategy",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-mcq-specific-detail-trap",
+    "title": "阅读选项越具体越可靠吗",
+    "keywords": [
+      "阅读",
+      "MCQ",
+      "细节",
+      "干扰项",
+      "主旨",
+      "定位",
+      "选项判断"
+    ],
+    "answer": "选项具体不等于可靠。Sunny 会让学生把特别具体的选项当成需要验证的对象：它可能来自原文，但只覆盖局部；也可能偷换了时间、范围或方法。做题时先问自己：这个选项是在回答题目，还是只是在复述文章里出现过的一个点？PTE 阅读常见陷阱就是“原文有出现，但不是本题答案”。",
+    "source": "phase2-media local staging batch 128, reading MCQ option traps",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-noun-clause-that",
+    "title": "名词性从句里的 that 为什么重要",
+    "keywords": [
+      "语法",
+      "名词性从句",
+      "that",
+      "句子结构",
+      "写作",
+      "阅读",
+      "SWT"
+    ],
+    "answer": "that 的作用不是装饰，而是告诉读者后面一整个句子要当名词成分使用。Sunny 会把它讲成“给句子套一个名词身份”。在写作和 SWT 里，如果直接把两个完整句子硬拼在一起，就容易出现一个句子里多个谓语的问题；加上合适的引导词后，结构会清楚很多。阅读里看到 that，也要意识到后面可能是一整块信息。",
+    "source": "phase2-media local staging batch 128, noun clause grammar",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-noun-clause-four-roles",
+    "title": "名词性从句主要做哪几种句子成分",
+    "keywords": [
+      "语法",
+      "名词性从句",
+      "主语从句",
+      "宾语从句",
+      "表语从句",
+      "同位语从句",
+      "句法"
+    ],
+    "answer": "名词性从句可以当主语、宾语、表语和同位语来用。Sunny 不会让学生死背术语，而是先判断这块句子在原句里承担什么功能：是在说“什么事情”作为主语，还是跟在动词后面做宾语，还是解释前面的名词。这个能力对阅读长难句、SWT 改写和 WE 写复杂句都有帮助。",
+    "source": "phase2-media local staging batch 128, noun clause roles",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-multiple-verbs-warning",
+    "title": "写作里一个句子出现两个谓语怎么办",
+    "keywords": [
+      "语法",
+      "谓语",
+      "run-on sentence",
+      "写作",
+      "SWT",
+      "句子结构",
+      "that"
+    ],
+    "answer": "如果一句话里突然出现两个主谓结构，Sunny 会先让学生检查是不是少了连接方式。常见修法有三种：加引导词变成从句，用连词连接两个并列句，或者拆成两句。PTE 写作不需要每句都复杂，但复杂句必须有清楚的骨架。比起堆长句，先保证一个句子只有一个主干，再逐步加从句更稳。",
+    "source": "phase2-media local staging batch 128, sentence structure repair",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-vocab-old-course-context-filter",
+    "title": "老词汇课还值得看吗",
+    "keywords": [
+      "词汇",
+      "旧课",
+      "历史网课",
+      "阅读",
+      "听力",
+      "SWT",
+      "复用",
+      "备考资料"
+    ],
+    "answer": "旧词汇课不是完全没用，但 Sunny 会建议带筛选地看。能保留的是词义辨析、搭配、派生词和常见学术表达；需要谨慎的是旧题预测、旧考试节奏和过时题型判断。词汇学习要回到 PTE 的使用场景：阅读能不能识别同义替换，听力能不能听出核心名词，写作能不能用对搭配。只背列表，转化率会比较低。",
+    "source": "phase2-media local staging batch 128, vocabulary course reuse",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-template-practice-no-screen-marking",
+    "title": "口语模板练习能依赖屏幕标记吗",
+    "keywords": [
+      "口语",
+      "模板",
+      "RA",
+      "DI",
+      "RL",
+      "考试现场",
+      "屏幕标记",
+      "练习"
+    ],
+    "answer": "平时软件里的划词、选段和标记功能可以帮助拆解句子，但考试现场不能依赖这些动作。Sunny 会把模板训练分成两层：线下练习时可以做标记，弄清楚哪里停顿、哪里重读；模拟考试时要关掉辅助，只用眼睛扫读和口头结构完成输出。能脱离标记稳定输出，才是真正能带进考场的能力。",
+    "source": "phase2-media local staging batch 128, speaking template practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-old-course-selective-reuse",
+    "title": "旧听力课还能用来练什么",
+    "keywords": [
+      "听力",
+      "旧课",
+      "SST",
+      "WFD",
+      "精听",
+      "泛听",
+      "复盘",
+      "历史网课"
+    ],
+    "answer": "旧听力课可以复用训练方法，但不要照搬所有题目判断。Sunny 会让学生保留三类价值：怎么做精听复盘、怎么抓讲座主线、怎么把错题归因到词汇、语音或注意力。至于旧题预测和旧版本题型权重，要让位给当前考试规则。换句话说，旧课适合训练能力，不适合作为最新机经来背。",
+    "source": "phase2-media local staging batch 128, listening course reuse",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
