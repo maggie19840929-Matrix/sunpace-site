@@ -9887,5 +9887,277 @@
     "source": "phase2-media local staging batch 128, listening course reuse",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-core-priority-rs-wfd",
+    "title": "PTE Core 备考最先抓哪两道题",
+    "keywords": [
+      "PTE Core",
+      "RS",
+      "WFD",
+      "Repeat Sentence",
+      "Write From Dictation",
+      "题型权重",
+      "备考优先级"
+    ],
+    "answer": "PTE Core 备考里，Sunny 会优先盯住 RS 和 WFD。原因不是它们看起来最难，而是它们同时影响多个分项，回报率很高。RS 会拉动口语和听力，WFD 会拉动听力和写作。时间紧时，不要平均分配给所有题型；先把这两类做到稳定，再去补低权重或容错更高的题。",
+    "source": "phase2-media local staging batch 129, PTE Core score weighting",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-speaking-writing-order",
+    "title": "PTE Core 考试题型顺序大概怎么走",
+    "keywords": [
+      "PTE Core",
+      "考试顺序",
+      "口语",
+      "写作",
+      "阅读",
+      "听力",
+      "流程"
+    ],
+    "answer": "PTE Core 的节奏可以先理解成三大段：口语和写作、阅读、听力。前半段会先做口语题，再进入写作题；之后系统会切到阅读倒计时，再进入听力倒计时。Sunny 会让学生提前熟悉这个顺序，尤其是从口语连续输出切换到写作时，不要因为题型变了还沿用前一题的节奏。",
+    "source": "phase2-media local staging batch 129, PTE Core exam flow",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-core-rts-daily-scenario",
+    "title": "PTE Core 的 RTS 通常会考很专业的话题吗",
+    "keywords": [
+      "PTE Core",
+      "RTS",
+      "Response to Situation",
+      "生活场景",
+      "学习场景",
+      "口语",
+      "新题型"
+    ],
+    "answer": "RTS 更常见的是学习、校园或生活沟通场景，而不是特别专业的学科知识。Sunny 会让学生把它当成“情境回应”来练：先看清你要对谁说话，再判断是道歉、解释、请求、建议还是确认安排。比起背大段模板，更重要的是语气自然、行动明确、内容贴合场景。",
+    "source": "phase2-media local staging batch 129, PTE Core RTS scenario",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-ra-shorter-prep-time",
+    "title": "PTE Core 的 RA 准备时间会固定吗",
+    "keywords": [
+      "PTE Core",
+      "RA",
+      "Read Aloud",
+      "准备时间",
+      "口语",
+      "阅读",
+      "节奏"
+    ],
+    "answer": "RA 的准备时间会跟文本长度相关，不要默认每一题都能慢慢看完。Sunny 会训练学生在准备阶段先抓句子边界、标点和明显生词，再决定开口节奏。文本较短时准备时间也可能更短，所以平时练习不要只练长准备版；要把快速扫读和自然开口也练起来。",
+    "source": "phase2-media local staging batch 129, PTE Core RA timing",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-no-backtracking",
+    "title": "PTE 口语读错一个词要不要回头重说",
+    "keywords": [
+      "口语",
+      "RA",
+      "DI",
+      "RL",
+      "流利度",
+      "回读",
+      "纠错"
+    ],
+    "answer": "正式口语里读错一个词，Sunny 通常会让学生直接往前走。回头重说看似是在纠错，实际上容易制造停顿、重复和节奏断裂，流利度受损更明显。平时复盘时当然要改错音，但录音正在进行时，先保完整输出。能做到“不回头、不叹气、不自我评价”，口语稳定性会好很多。",
+    "source": "phase2-media local staging batch 129, speaking fluency scoring",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-continuous-speech",
+    "title": "PTE 口语为什么不能一字一顿",
+    "keywords": [
+      "口语",
+      "发音",
+      "continuous speech",
+      "连读",
+      "失爆",
+      "重音",
+      "流利度"
+    ],
+    "answer": "PTE 口语要清楚，但不是一字一顿。Sunny 会把目标定成 continuous speech：词和词之间有自然连接，重要词有重音，弱读和失爆不过度夸张也不完全消失。一字一顿会让英文听起来不像自然表达，还会拖慢语速。练习时可以先保证句子不断，再慢慢修重音和连读细节。",
+    "source": "phase2-media local staging batch 129, pronunciation continuous speech",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-asq-high-frequency-scan",
+    "title": "ASQ 高频题应该怎么刷",
+    "keywords": [
+      "ASQ",
+      "Answer Short Question",
+      "口语",
+      "高频题",
+      "碎片时间",
+      "送分题",
+      "题库"
+    ],
+    "answer": "ASQ 不适合用大块时间死磕冷门难题。Sunny 会建议先扫高频题：看到答案时反推自己能不能想到问题，遇到数字、常识、生活物品这类送分题要确保秒答。通勤或碎片时间反复过一遍，比坐下来背很久更适合。目标不是每个冷门词都记住，而是把能拿的分稳稳拿到。",
+    "source": "phase2-media local staging batch 129, ASQ practice strategy",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-asq-low-weight-boundary",
+    "title": "ASQ 分值低是不是可以完全不看",
+    "keywords": [
+      "ASQ",
+      "口语",
+      "低权重",
+      "高频",
+      "备考时间",
+      "放弃策略",
+      "目标分"
+    ],
+    "answer": "ASQ 分值不高，但不代表完全不看。Sunny 的边界是：低目标分学生可以放弃过难、冷门、拼写复杂的题，但高频常识题必须过一遍。因为 ASQ 的准备成本低，拿到熟题就是直接得分；完全不看会让考试时处在很懵的状态。它不是主战场，但适合做低成本补分。",
+    "source": "phase2-media local staging batch 129, ASQ priority boundary",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-wfd-three-rounds",
+    "title": "WFD 高频句为什么建议刷三遍",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "听力",
+      "写作",
+      "高频",
+      "刷题",
+      "优先级"
+    ],
+    "answer": "WFD 对听力和写作都很值钱，Sunny 会把它放在听力备考的最高优先级。刷三遍不是为了机械背诵，而是让学生熟悉高频句的语音、拼写、复数、时态和冠词。第一遍解决见过，第二遍解决听出，第三遍解决写准。时间有限时，WFD 的投入产出通常高于低权重选择题。",
+    "source": "phase2-media local staging batch 130, listening WFD priority",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-hiw-helps-ra-eye-speed",
+    "title": "HIW 为什么也能帮 RA",
+    "keywords": [
+      "HIW",
+      "Highlight Incorrect Words",
+      "RA",
+      "Read Aloud",
+      "眼速",
+      "跟读",
+      "听力"
+    ],
+    "answer": "HIW 不只是听力小题，它还能训练眼睛跟上音频的速度。Sunny 会用它帮助 RA 容易卡顿的学生：嘴巴读当前词时，眼睛要提前看到后面两三个词，这样才不容易遇到生词突然降速。HIW 的跟读式观察能训练这种“眼睛先走”的能力，所以低分段也值得每天少量练。",
+    "source": "phase2-media local staging batch 130, HIW and RA eye tracking",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-intensive-dictation-loop",
+    "title": "精听练习是不是只要多听就行",
+    "keywords": [
+      "精听",
+      "听力",
+      "默写",
+      "dictation",
+      "SST",
+      "WFD",
+      "泛听"
+    ],
+    "answer": "精听不是把音频放很多遍当背景音。Sunny 会让学生按闭环做：先听一句，尽量默写；再反复听，补出缺失词；实在听不出再看答案；最后回听那些没听出的词。这个过程慢，但能真正暴露问题：是没听出连读、词不认识，还是拼写不稳。泛听可以辅助，提分核心还是这种认真听懂的训练。",
+    "source": "phase2-media local staging batch 130, intensive listening practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-we-three-question-types",
+    "title": "WE 大作文常见题型先练哪几类",
+    "keywords": [
+      "WE",
+      "Essay",
+      "大作文",
+      "观点题",
+      "讨论题",
+      "报告题",
+      "写作"
+    ],
+    "answer": "WE 可以先按三类理解：观点题、讨论题和报告题。Sunny 会把主要时间放在观点题和讨论题，因为它们出现更频繁，也更适合用稳定结构训练。报告题也要会，但不需要占掉大部分备考时间。对多数学生来说，先把两大主流题型写顺，再补报告题模板和一两篇练习，效率更高。",
+    "source": "phase2-media local staging batch 130, WE question type planning",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-grammar-accuracy-first",
+    "title": "WE 写作语法是越复杂越好吗",
+    "keywords": [
+      "WE",
+      "写作",
+      "语法",
+      "准确度",
+      "复杂句",
+      "主谓一致",
+      "句子成分"
+    ],
+    "answer": "PTE 写作不是越复杂越好，Sunny 更看重语法准确度。长难句如果带来主谓不一致、缺谓语、句子成分不全，反而会拖分。更稳的做法是：先写清楚主干，再加有限的从句或连接结构。复杂度可以慢慢提高，但每一句都要先问自己有没有主语、谓语、宾语或表语是否完整。",
+    "source": "phase2-media local staging batch 130, WE grammar accuracy",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-modal-rescue-subject-verb",
+    "title": "写作里主谓单复数拿不准怎么自救",
+    "keywords": [
+      "写作",
+      "主谓一致",
+      "单复数",
+      "情态动词",
+      "语法",
+      "WE",
+      "SWT"
+    ],
+    "answer": "如果考试时突然拿不准谓语该用单数还是复数，Sunny 会建议优先改写成更稳的结构。一个常用自救法是用情态动词加动词原形，例如 can、may、should 后面接原形动词，这样可以避开 is/are、has/have 这类容易出错的位置。自救不是偷懒，而是在限时写作里减少低级错误。",
+    "source": "phase2-media local staging batch 130, grammar rescue strategy",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-relative-clause-antecedent",
+    "title": "定语从句里的先行词到底是什么",
+    "keywords": [
+      "语法",
+      "定语从句",
+      "先行词",
+      "关系词",
+      "阅读",
+      "写作",
+      "长难句"
+    ],
+    "answer": "先行词就是被定语从句修饰的对象，可能是一个词，也可能是一整个短语。Sunny 会让学生先找“这个从句在补充说明谁”，再看 who、which、that 等关系词指回哪里。关系词有两个作用：连接主句和从句，同时在从句里代替先行词承担成分。看懂这一点，阅读长句会清楚很多。",
+    "source": "phase2-media local staging batch 130, relative clause grammar",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-use-full-time",
+    "title": "DI 描图提前说完要不要等系统自动结束",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "40秒",
+      "流利度",
+      "Next",
+      "口语",
+      "模板"
+    ],
+    "answer": "DI 如果提前说完，不建议沉默等系统自动结束，因为沉默也可能影响整体流利度。Sunny 更希望学生把 40 秒利用好：核心内容说完后，用自然的总结句或趋势句补足流利输出。实在需要提前结束，也要按考试界面的确认流程操作，而不是停在那里空等。DI 的内容和流利度分开看，别浪费可输出时间。",
+    "source": "phase2-media local staging batch 130, DI timing and fluency",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
