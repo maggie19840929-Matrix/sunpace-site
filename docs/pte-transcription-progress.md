@@ -429,3 +429,13 @@
 - 尚未成功：486
 
 备注：PTE_Resources 当前音视频转写队列已完成一轮全量处理；后续工作重点应转向把成功转写内容蒸馏为 SunPace 自有表达的知识库条目，而不是上传或发布原始课程逐字稿。
+
+## 2026-05-21 Knowledge Distillation 1
+
+- 模式：白天模式，GitHub 可同步
+- 输入来源：本地已完成转写池，重点参考 `resume-35`、`resume-36` 末段成功转写
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：16 条
+- 覆盖主题：考场噪音与草稿纸、成绩单诊断、WE 例子与模板风险、阶段训练、听力泛听与优先级、Personal Introduction、DI 流程图、阅读 FIBR 语法与搭配判断
+
+备注：本次仍不提交 `knowledge_exports/` 下任何第三方课程逐字稿；新增内容为改写后的公开答疑知识条目。
