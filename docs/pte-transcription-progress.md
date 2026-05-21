@@ -479,3 +479,143 @@
 - 覆盖主题：PTE Core Write Email 时间与评分、RTS 三步作答、阅读泛读材料选择、阅读背景知识和时间压力、语法跨题型作用、一般现在时、HIW 倍速、Listening FIB 语法检查、主系表、口语重音、连读失爆、WE 常见低级错与高频题练习
 
 备注：继续只提交公开知识库和进度摘要；`knowledge_exports/` 内原始逐字稿、队列、日志与结果文件不进入 GitHub。
+
+## 2026-05-21 Knowledge Distillation 6
+
+- 模式：本地继续处理；GitHub 403 未恢复前暂不新增提交
+- 输入来源：本地已完成转写池，重点参考 `resume-29` 的句子结构、简单句、动名词、强调句、写作和精听素材，以及 `resume-28` 的 PTE Core 写邮件/RTS 素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：16 条
+- 覆盖主题：阅读长句从句拆分、引导词与谓语归属、简单句结构、宾语补足语、动名词作主语/介词宾语/固定搭配、强调句与形式主语、阅读先去修饰语、WE 长句控制、报告题练习优先级、PTE Core 邮件语气与任务点、RTS 自然表达、精听与泛听边界
+
+备注：本轮先保留为本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`，没有进入 Git。
+
+## 2026-05-21 Knowledge Distillation 7
+
+- 模式：本地继续处理；GitHub 403 未恢复前暂不新增提交
+- 输入来源：本地已完成转写池，重点参考 `resume-29` 的阅读入门、长句分析、发音纠错、连读规则、强调句和 RO/FIB 素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：16 条
+- 覆盖主题：阅读 MCQ 控时与多选扣分、RO/FIB 优先级、阅读先读题再通读、英文长句树状结构、英文逗号拼接错误、th 音、词尾辅音、双元音、辅音接元音连读、相同辅音连读、强调句主格与宾语/状语强调、嵌套从句拆分、RO 段落衔接、FIB 短语搭配积累
+
+备注：本轮继续只修改公开知识库和进度摘要；不提交、不推送，也不把 `knowledge_exports/` 下原始转写产物加入 Git。
+
+## 2026-05-21 Knowledge Distillation 8
+
+- 模式：本地继续处理；GitHub 403 未恢复前暂不新增提交
+- 输入来源：本地已完成转写池，重点参考 `resume-29` 的听力选择题、SST 复盘、阅读入门、词法和标点定位素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：16 条
+- 覆盖主题：听力 MCQ 预读题干、同义替换、音频后快速决策、否定题干、整体印象、HCS 主问题、SST 重点筛选与检查、不可数名词类型、furniture 用法、不可数可数转换、形容词顺序、后置形容词短语、阅读专有名词定位、细节题找到答案后控时、冒号/分号列表线索
+
+备注：本轮继续只保留为本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`，等待 GitHub 权限恢复后统一提交同步。
+
+## 2026-05-21 Knowledge Distillation 9
+
+- 模式：本地继续处理；GitHub 403 未恢复前暂不新增提交
+- 输入来源：本地已完成转写池，重点参考 `resume-31`、`resume-32` 和 `round3-night-20260518` 中的听力讲座、RA/RS 带练和 DI 纠音素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：保险历史类 SST 结构、risk/interest/trade 因果链、讲座开头提示、列表预告笔记法、RA 复合名词重音、RA 动词重音、DI 结尾避免重复开头、DI 图表词 capacity 发音
+
+备注：本轮继续只保留为本地公开文件修改；没有提交或推送，也没有把 `knowledge_exports/` 下原始转写产物加入 Git。
+
+## 2026-05-21 Knowledge Distillation 10
+
+- 模式：本地继续处理；GitHub 403 未恢复前暂不新增提交
+- 输入来源：本地已完成转写池，重点参考 `resume-32` 中的 PTE 考试结构与考试流程旧课素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：旧课 Optional Break 规则核对、考场 check-in 提前量、独立/整体计时意识、口语到写作状态切换、成绩单官方发送、考后等成绩复盘、重考间隔以官方为准、End Test 与监考确认
+
+备注：本轮把可能过时的流程信息改写成“以官方和考场当日说明为准”的公开提醒；继续不提交、不推送，也不把 `knowledge_exports/` 下原始转写产物加入 Git。
+
+## 2026-05-21 Knowledge Distillation 11
+
+- 模式：本地继续处理；GitHub 403 未恢复前暂不新增提交
+- 输入来源：本地已完成转写池，重点参考 `resume-32` 的讲座型 SST 素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：thatched roof 传统工艺优点、旧工艺正向态度识别、科学实验 method/result/application、火星与月球重力对比、硬币收藏历史与价值、生物生命周期与进化逻辑、演讲声音三要素、pause 的过渡功能
+
+备注：本轮继续只保留为本地公开文件修改；原始逐字稿、队列和日志仍留在 `knowledge_exports/`，没有提交或推送。
+
+## 2026-05-21 Knowledge Distillation 12
+
+- 模式：本地继续处理；GitHub 403 未恢复前暂不新增提交
+- 输入来源：本地已完成转写池，重点参考 `resume-32` 的艺术史、志愿者项目、户外安全和学生报告类讲座素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：摄影是否为艺术、人物传记题主题归纳、电脑艺术中技术与表达关系、志愿者项目开头识别、猛禽迁徙记录、户外安全 advice list、学生报告口吻识别、低质量音频/转写保分 triage
+
+备注：本轮继续只保留为本地公开文件修改；不提交、不推送，也不把 `knowledge_exports/` 下原始逐字稿、队列或日志加入 Git。
+
+## 2026-05-21 Knowledge Distillation 13
+
+- 模式：本地继续处理；GitHub 403 未恢复前暂不新增提交
+- 输入来源：本地已完成转写池，重点参考 `resume-33` 的备考心态、阶段检测、PTE 扫盲、PTE vs IELTS 和发音基础素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：备考睡眠与状态、负面干扰控制、阶段检测查漏补缺、检测后分层复习、官方材料与界面熟悉、Academic English 正式表达、机器评分与交叉供分、元音和音节发音基础
+
+备注：本轮继续只保留为本地公开文件修改；没有提交或推送，也没有把 `knowledge_exports/` 下原始转写产物加入 Git。
+
+## 2026-05-21 Knowledge Distillation 14
+
+- 模式：本地继续处理；GitHub 403 未恢复前暂不新增提交
+- 输入来源：本地已完成转写池，重点参考 `resume-33`、`resume-34`、`resume-35` 和 `resume-36` 的 DI 图表描述、口语试音、RO 排序与听力选择题技巧素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：DI 纵轴横轴与单位表达、图表近似数值、项目对比句、麦克风喷麦试音词、RO 长句主干阅读、RO 最后逻辑检查、听力选择题 7 秒预读、however 转折逻辑判断
+
+备注：本轮继续只保留为本地公开文件修改；原始逐字稿、队列和日志仍留在 `knowledge_exports/`，没有提交或推送。
+
+## 2026-05-21 Knowledge Distillation 15
+
+- 模式：本地继续处理；GitHub 403 未恢复前暂不新增提交
+- 输入来源：本地已完成转写池，重点参考 `resume-33` 的听力选择题、RO 排序、阅读 FIB 和 DI 数字单位素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：听力选择题 most important 题干、听力多选选项差异扫描、背景信息后的答案定位、RO 冠词新旧信息、RO 时间参照词、FIB regarded as 搭配、DI 温度单位读法、DI 年龄组读法
+
+备注：本轮继续只保留为本地公开文件修改；没有提交或推送，也没有把 `knowledge_exports/` 下原始逐字稿、队列或日志加入 Git。
+
+## 2026-05-21 Knowledge Distillation 16
+
+- 模式：本地继续处理；GitHub 403 未恢复前暂不新增提交
+- 输入来源：本地已完成转写池，重点参考 `resume-33` 和 `resume-34` 的 DI 表格、RO 指代、听力 SST/FIB 与共享计时素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：DI 表格分类 and so on、表格第一行兜底、年份 earliest/latest、RO 指示代词加名词、单独 this 的指代风险、SST 10 分钟包含音频、听力 FIB 草稿纸与词形、听力音频不能提前跳过
+
+备注：本轮继续只保留为本地公开文件修改；原始逐字稿、队列和日志仍只保存在 `knowledge_exports/`，没有提交或推送。
+
+## 2026-05-21 Knowledge Distillation 17
+
+- 模式：本地继续处理；GitHub 403 未恢复前暂不新增提交
+- 输入来源：本地已完成转写池，重点参考 `resume-34` 的 SST 复盘、阅读 RO、DI 图片题、RL 笔记和 WFD 复习素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：SST 零散笔记成句、because/because of、because 前逗号、RO similar event 回指、DI 图片题无背景处理、RL 开头与例子/数据、WFD 试词数量、WFD 高频句意思预过
+
+备注：本轮继续只保留为本地公开文件修改；没有提交或推送，也没有把 `knowledge_exports/` 下原始逐字稿、队列或日志加入 Git。
+
+## 2026-05-21 Knowledge Distillation 18
+
+- 模式：本地继续处理；当前白天模式允许每两轮同步 GitHub
+- 输入来源：本地已完成转写池，重点参考 `resume-34` 的 SWT 写作、听力流程、阅读长句/词汇和 WFD 训练素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：SWT by/with 连接、听力耳机与马克笔检查、SMW beep 与全文大意、阅读段落功能题、长句插入语跳读、英英词典与搭配、阅读按题型顺序练习、WFD 有音频机经听写
+
+备注：本轮继续只保留公开知识库和进度文档修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。当前为两轮同步周期的第 1 轮，下一轮完成后再提交并尝试推送 GitHub。
+
+## 2026-05-21 Knowledge Distillation 19
+
+- 模式：本地继续处理；当前白天模式允许每两轮同步 GitHub
+- 输入来源：本地已完成转写池，重点参考 `resume-34` 的 DI 技巧、阅读 RO 和 RA/RS 口语训练素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：DI 25 秒准备清单、文字型 DI、DI 40 秒前完整收尾、RO he or she 泛指、RO apply to another field 线索、RA 生词不断流、RS 不能试词乱序、RS 50% 复述目标
+
+备注：本轮继续只保留公开知识库和进度文档修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。本轮为两轮同步周期的第 2 轮，校验通过后提交并尝试推送 GitHub。
