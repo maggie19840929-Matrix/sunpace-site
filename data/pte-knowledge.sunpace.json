@@ -9326,5 +9326,291 @@
     "source": "phase2-media local staging batch 124, reading FIBR collocation practice",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rts-mic-icon-start",
+    "title": "RTS 听到提示音就能马上说吗",
+    "keywords": [
+      "RTS",
+      "Response to a Situation",
+      "麦克风",
+      "提示音",
+      "开口",
+      "录音",
+      "口语新题型"
+    ],
+    "answer": "RTS 或其他口语题不要只凭 beep 声抢开口。Sunny 会提醒学生看录音状态：提示音后，等麦克风标志或录音进度真正开始，再在短时间内开口。太早说可能前几个词没有被完整录进去；太晚说又会影响沉默判断和流利度。最稳的做法是：准备时间结束后停住，看到麦克风进入录音状态，马上用第一句进入任务。",
+    "source": "phase2-media local staging batch 125, speaking new question type",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-new-tasks-after-asq",
+    "title": "口语新题型会和 RL 混在一起吗",
+    "keywords": [
+      "口语新题型",
+      "RTS",
+      "SGD",
+      "ASQ",
+      "RL",
+      "Retell Lecture",
+      "位置",
+      "考试顺序"
+    ],
+    "answer": "Sunny 会让学生按考试位置区分新题型和旧题型：RL 通常在口语中段，ASQ 后面才更容易出现口语新题型，所以不要一听到多人对话就误以为是 RL。RL 更像正式讲座或说明文，新题型里的多人讨论更像日常场景沟通。准备时把它们分开练：RL 练讲座主题和关键词复述，RTS/SGD 练场景、人物观点和沟通目的。",
+    "source": "phase2-media local staging batch 125, speaking new question type",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-helps-ra-reading-listening",
+    "title": "语法为什么会影响 RA、阅读和听力",
+    "keywords": [
+      "语法",
+      "RA",
+      "Read Aloud",
+      "意群",
+      "FIB",
+      "RO",
+      "听力",
+      "主句"
+    ],
+    "answer": "PTE 语法不是只服务写作。Sunny 会把语法当成跨题型工具：RA 里，语法帮助你按主句、从句和修饰成分切意群，读起来更顺，也更像在理解文章；阅读 FIB 和 RO 里，语法能帮你判断词性、谓语数量、指代和句间关系；听力里，语法能帮你分辨主句信息和插入解释。学语法的目标不是背术语，而是让听说读写的判断更稳定。",
+    "source": "phase2-media local staging batch 125, grammar foundation",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-grammar-common-error-bank",
+    "title": "PTE 语法要不要从头系统学",
+    "keywords": [
+      "语法",
+      "语法错误",
+      "写作",
+      "WE",
+      "SWT",
+      "主谓一致",
+      "时态",
+      "高频错误"
+    ],
+    "answer": "如果备考时间有限，Sunny 不建议从厚语法书第一页开始学。更高效的是先整理 PTE 写作和阅读里最常见的错误：主谓一致、时态、冠词、单复数、句子残缺、从句连接、非谓语和标点。用真实错句做练习，理解为什么错，再回到 WE、SWT、FIB 和 RO 里应用。语法课的目标是减少考试里的可控错误，不是把所有语法体系讲完。",
+    "source": "phase2-media local staging batch 125, grammar foundation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-mcq-preview-title",
+    "title": "听力选择题 7 秒预读看什么",
+    "keywords": [
+      "听力选择题",
+      "MCQ",
+      "多选",
+      "单选",
+      "7秒",
+      "预读",
+      "题目",
+      "标题"
+    ],
+    "answer": "听力选择题的预读时间很短，不要试图把题干和所有选项都看完。Sunny 建议 7 秒左右先看题目主干和标题，确认它问的是人物成就、原因、观点、时间还是结果；播放时带着这个目标听。音频结束后尽量在一分钟左右完成判断，多选不确定时宁愿保守，不要为了多拿分把不确定选项全点上，反而被倒扣拖累。",
+    "source": "phase2-media local staging batch 125, listening MCQ practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-mcq-sense-elimination",
+    "title": "听力选择题能用常识排除吗",
+    "keywords": [
+      "听力选择题",
+      "MCQ",
+      "常识排除",
+      "多选",
+      "achievement",
+      "选项",
+      "听力"
+    ],
+    "answer": "听力选择题当然以音频为准，但 Sunny 会让学生在选项明显不合理时用常识辅助排除。比如题目问 major achievement，某个选项只是“受教育不多也做了很多事”，它更像背景评价，不像具体成就；而改善船员健康、绘制海岸、完成航行这类才更像成就。常识只能做辅助，不能替代听力证据；最稳的是先听关键词，再用选项语义筛掉不成答案的项。",
+    "source": "phase2-media local staging batch 125, listening MCQ practice",
+    "visibility": "public",
+    "priority": "low"
+  },
+  {
+    "id": "sunpace-vocab-prefix-suffix-in-context",
+    "title": "词根词缀怎么放回 PTE 题里用",
+    "keywords": [
+      "词汇",
+      "词根",
+      "词缀",
+      "prefix",
+      "suffix",
+      "absence",
+      "abstain",
+      "acceptable"
+    ],
+    "answer": "词根词缀不要孤立背成列表。Sunny 会让学生把它和真实题目里的词放在一起：比如 ab- 常有 away 的方向感，absence 是不在场，abstain 是放弃或弃权；-able 表示可行或可接受，acceptable 就是可接受的。这样做的意义不是猜中所有生词，而是看到长词时先判断大概方向、词性和词族，再放回句子里验证。",
+    "source": "phase2-media local staging batch 125, vocabulary foundation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-pronunciation-four-issues",
+    "title": "PTE 口语发音常见四类问题",
+    "keywords": [
+      "发音",
+      "pronunciation",
+      "元音",
+      "辅音",
+      "重弱读",
+      "连读",
+      "吞音",
+      "口语"
+    ],
+    "answer": "Sunny 会把 PTE 口语发音问题先分成四类：第一，元音不饱满，比如长短元音、单元音和双元音混在一起；第二，辅音边界不清，比如 n/l、w/v 或词尾没交代；第三，单词和句子重弱读混乱；第四，连读、失爆和吞音处理不稳定。不要一次想改所有音，先录音找自己最影响识别的一类，再用 RA 和 RS 的真实句子反复修。",
+    "source": "phase2-media local staging batch 125, pronunciation foundation",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-overall-not-average",
+    "title": "PTE 总分是四项平均分吗",
+    "keywords": [
+      "总分",
+      "平均分",
+      "成绩单",
+      "overall",
+      "四项分数",
+      "最低分",
+      "目标分",
+      "score report"
+    ],
+    "answer": "PTE 总分不要简单按听说读写四项平均数理解。Sunny 会提醒学生：总分通常和四项分数有关，但它不是把四项直接相加再除以四，所以会出现四项平均看起来够了、总分却没到目标的情况。申请或移民如果同时要求总分和单项，备考目标最好按“总分目标 + 每个单项目标”一起设，不要只盯一个平均数。",
+    "source": "phase2-media local staging batch 126, score report overview",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-flow-no-break",
+    "title": "PTE 正式考试中间有休息吗",
+    "keywords": [
+      "考试流程",
+      "考试顺序",
+      "休息",
+      "上厕所",
+      "口语",
+      "写作",
+      "阅读",
+      "听力"
+    ],
+    "answer": "常规 PTE 考试要按完整流程一口气做完，顺序大致是口语与写作、阅读、听力，中间没有专门休息段。Sunny 会让学生考前就按完整顺序做一次流程演练，尤其适应口语后马上进入写作、阅读后再进入听力的体力和注意力切换。考试中如果真有设备或身体状况问题，要按考场规则举手找监考，不要擅自离开座位。",
+    "source": "phase2-media local staging batch 126, exam procedure",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-water-pen-cap",
+    "title": "PTE 考场水性笔为什么要盖笔帽",
+    "keywords": [
+      "考场",
+      "水性笔",
+      "笔帽",
+      "草稿纸",
+      "笔干了",
+      "听力笔记",
+      "WFD",
+      "SST"
+    ],
+    "answer": "有些 PTE 考场会发水性笔或类似白板笔，这类笔如果开着不盖，笔尖很容易变干。Sunny 会提醒学生：写完笔记就顺手盖回笔帽，尤其是口语、写作和阅读之间会有一段时间不用笔，别等听力 SST/WFD 要记笔记时才发现写不出来。两支笔都要提前试一下；如果笔真的出问题，按规则举手找监考更换。",
+    "source": "phase2-media local staging batch 126, exam procedure",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-note-paper-request-before-empty",
+    "title": "PTE 草稿纸快用完再要来得及吗",
+    "keywords": [
+      "草稿纸",
+      "写字板",
+      "考场",
+      "笔记",
+      "换纸",
+      "听力",
+      "举手",
+      "监考"
+    ],
+    "answer": "草稿纸不要等完全写满才举手要新的。Sunny 会建议学生如果遇到只发一张或可写空间少的情况，用到三分之二左右就开始留意，按考场规则向监考申请补纸。不同考场可能会收回旧纸，也可能保留在桌上，所以笔记要写得可读、可迁移。听力前纸面太乱，会影响 SST、FIB 和 WFD 的反应速度。",
+    "source": "phase2-media local staging batch 126, exam procedure",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-headset-volume-check",
+    "title": "PTE 耳机音量要调到最大才听见怎么办",
+    "keywords": [
+      "耳机",
+      "Headset Check",
+      "音量",
+      "Volume",
+      "设备检查",
+      "听力",
+      "考场",
+      "监考"
+    ],
+    "answer": "设备检查时，如果耳机音量必须拉到最左或最右才勉强合适，Sunny 会把它当成异常，而不是让学生硬忍。正常情况下，默认音量附近小幅调整就应该能听清；如果需要调到极端位置，可能是耳机、电脑或音量设置有问题。正式考试前要马上举手反馈，要求监考检查或更换设备。听力题中还能调音量，但设备本身有问题要尽早处理。",
+    "source": "phase2-media local staging batch 126, exam equipment check",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-microphone-playback-last-check",
+    "title": "PTE 麦克风回放要听什么",
+    "keywords": [
+      "麦克风",
+      "Microphone Check",
+      "回放",
+      "playback",
+      "爆麦",
+      "喷麦",
+      "音量",
+      "口语"
+    ],
+    "answer": "麦克风测试是少数能录完再听回放的机会，Sunny 会让学生认真用它校准位置。回放时听三件事：声音是不是太小、有没有爆麦或喷麦、尾音和爆破音是不是被气流盖住。太大或爆麦，麦克风稍微拉远或避开正对嘴巴；太小，就把麦克风拉近一点。正式题目开始后基本没有机会再听自己的回放，所以这个检查不要草草点过。",
+    "source": "phase2-media local staging batch 126, exam equipment check",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-study-foundation-three-blocks",
+    "title": "PTE 小白课先补哪三块基础",
+    "keywords": [
+      "小白",
+      "基础提升",
+      "发音",
+      "语法",
+      "词汇",
+      "拼写",
+      "DI模板",
+      "学习计划"
+    ],
+    "answer": "刚接触 PTE 时，Sunny 不建议一上来就刷完整题库。更稳的基础顺序是：先了解题型、得分点和考试流程；再补发音、语法、词汇、拼写这些会影响小分和题型表现的底层能力；最后提前熟悉 DI、RA、RS、WFD 这类高频高权重题的模板和操作。基础课的目标是让你进入正式训练时能跟上节奏，而不是把所有题一次学完。",
+    "source": "phase2-media local staging batch 126, foundation course overview",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-baseline-recording",
+    "title": "RA 训练前为什么要先录一遍",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "录音",
+      "baseline",
+      "发音",
+      "流利度",
+      "复盘",
+      "进步"
+    ],
+    "answer": "RA 训练前先录一遍，不是为了马上打击自己，而是建立基线。Sunny 会让学生把一段 3-4 行文本在规定时间内读完，听回放看三件事：有没有明显卡顿，发音是否能听清，40 秒内能不能完成。后面练发音、意群和重弱读时，再用同一段或同难度文本对比，就能知道自己到底是声音更清楚了，还是只是感觉练了很多。",
+    "source": "phase2-media local staging batch 126, speaking RA foundation",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
