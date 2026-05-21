@@ -610,6 +610,16 @@
 
 备注：本轮继续只保留公开知识库和进度文档修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。当前为两轮同步周期的第 1 轮，下一轮完成后再提交并尝试推送 GitHub。
 
+## 2026-05-21 Knowledge Distillation 21
+
+- 模式：本地继续处理；当前白天模式允许每两轮同步 GitHub
+- 输入来源：本地已完成转写池，继续参考 `resume-35` 的 WFD、阅读 FIB、HCS、WE 写作和学习节奏素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：WFD 错词与小分关系、FIB 并列被动线索、FIB 人群名词并列、reports/editorials 语域区分、project 动词义、冠词与可数/不可数判断、HCS 听结构、WE 单边与 own experience
+
+备注：本轮继续只保留公开知识库和进度文档修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。本轮为两轮同步周期的第 2 轮，校验通过后提交并尝试推送 GitHub。
+
 ## 2026-05-21 Knowledge Distillation 19
 
 - 模式：本地继续处理；当前白天模式允许每两轮同步 GitHub
@@ -619,3 +629,13 @@
 - 覆盖主题：DI 25 秒准备清单、文字型 DI、DI 40 秒前完整收尾、RO he or she 泛指、RO apply to another field 线索、RA 生词不断流、RS 不能试词乱序、RS 50% 复述目标
 
 备注：本轮继续只保留公开知识库和进度文档修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。本轮为两轮同步周期的第 2 轮，校验通过后提交并尝试推送 GitHub。
+
+## 2026-05-21 Knowledge Distillation 20
+
+- 模式：本地继续处理；当前白天模式允许每两轮同步 GitHub
+- 输入来源：本地已完成转写池，重点参考 `resume-35` 的 WFD 精细规则、阅读统一计时/低权重题控时、RA 发音复盘和预测复盘素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：WFD 缩写按原音频、首词漏听处理、WFD 原始词分与加权、WFD 英美拼写一致、阅读统一计时与混合顺序、阅读单选多选目标分控时、RA 权威发音复盘、阅读预测不要只背答案
+
+备注：本轮继续只保留公开知识库和进度文档修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。当前为两轮同步周期的第 1 轮，下一轮完成后再提交并尝试推送 GitHub。

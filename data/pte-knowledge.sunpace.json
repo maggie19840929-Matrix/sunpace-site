@@ -12718,5 +12718,264 @@
     "source": "phase2-media local staging batch 149, RS fifty percent target",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-wfd-exact-heard-form",
+    "title": "WFD 要不要把缩写改成完整形式",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "缩写",
+      "exactly as heard",
+      "do not",
+      "格式"
+    ],
+    "answer": "WFD 的核心是按音频原样还原句子，不要用写作习惯擅自改格式。Sunny 会提醒学生：如果听到的是缩写形式，就不要强行展开成完整形式；如果听到的是完整形式，也不要为了省事写成缩写。WFD 不是在考你能不能把句子润色得更正式，而是在考你能不能把听到的词和形式准确写下来。训练时每句都要对照音频查：漏词、词形、大小写和缩写形式是否一致。",
+    "source": "phase2-media local staging batch 150, WFD exact heard form",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-wfd-missing-first-word",
+    "title": "WFD 第一个词没听到怎么办",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "首词",
+      "漏词",
+      "首字母大写",
+      "格式"
+    ],
+    "answer": "WFD 第一个词没听到时，不要因为开头卡住就丢掉后面整句。Sunny 会让学生先把后面确定的词顺着写完，再回头处理开头；如果能根据语法和语义判断出常见开头，可以谨慎补一个最合理的词，但不要为了猜开头乱加一串。无论最终怎么补，句子开头的大写、后面词序和句号都要保持清楚。开头丢一个词已经亏分，后面再乱序或格式错会更可惜。",
+    "source": "phase2-media local staging batch 150, WFD missed first word handling",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-wfd-weighted-word-score",
+    "title": "WFD 是不是一个词就等于成绩单一分",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "逐词得分",
+      "加权",
+      "听力",
+      "写作"
+    ],
+    "answer": "WFD 可以先按有效词理解：一句有多少个目标词，你写对多少个，就拿到相应的原始内容分。但 Sunny 会提醒学生，这个原始分不会直接等于成绩单上的听力或写作分数，它会被系统按题型权重分配到相关项目。备考时不用纠结换算公式，更重要的是把每个有效词写准：拼写、词形、顺序和大小写。能稳定多对 2-3 个词，长期比猜分值更有用。",
+    "source": "phase2-media local staging batch 150, WFD weighted scoring note",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-wfd-same-sentence-spelling-style",
+    "title": "WFD 英式和美式拼写能混用吗",
+    "keywords": [
+      "WFD",
+      "英式拼写",
+      "美式拼写",
+      "spelling",
+      "consistency",
+      "听写"
+    ],
+    "answer": "WFD 里英式和美式拼写一般都可以接受，但 Sunny 会要求同一句里尽量保持一种拼写系统。不要前半句写英式，后半句突然换成美式；这样即使每个词看起来都像对，也可能和系统里的某一套标准答案匹配不完整。平时把自己常混的词固定成一种写法，考试时就少一次犹豫。WFD 的目标不是展示两种拼写都会，而是让答案稳定匹配。",
+    "source": "phase2-media local staging batch 150, WFD spelling style consistency",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-shared-timer-mixed-order",
+    "title": "阅读题会不会固定按题型顺序出现",
+    "keywords": [
+      "阅读",
+      "Reading",
+      "统一计时",
+      "题型顺序",
+      "控时",
+      "FIB",
+      "RO"
+    ],
+    "answer": "阅读部分要按统一计时来准备，题型顺序也可能和练习时不完全一样。Sunny 会提醒学生不要只背一个固定流程，比如以为一定先做某种 FIB、再做单选、多选。真正考试里要看当前题型和剩余时间快速切换策略：低权重题快定，高权重 FIB/RO 留时间，遇到顺序变化也不慌。平时混合练习比只按单一题型刷更接近考场。",
+    "source": "phase2-media local staging batch 150, reading shared timer mixed order",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-single-multiple-choice-target-time",
+    "title": "阅读单选多选要按目标分调整投入吗",
+    "keywords": [
+      "阅读单选",
+      "阅读多选",
+      "目标分",
+      "65",
+      "79",
+      "低权重",
+      "时间管理"
+    ],
+    "answer": "要。Sunny 会按目标分区分阅读单选和多选的投入：目标 65 左右时，这类题不要拖太久，能定位就拿，拿不稳也要保护后面的 FIB 和 RO；目标 79 时，每一分都更重要，可以更认真做，但仍然要有时间上限。单选多选的文章有时很长，但单题回报有限。正确策略不是放弃，而是知道自己为了这道题最多花多久。",
+    "source": "phase2-media local staging batch 150, reading choice target timing",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-authoritative-pronunciation-check",
+    "title": "RA 不确定单词发音查哪里更稳",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "发音",
+      "音标",
+      "词典",
+      "生词",
+      "复盘"
+    ],
+    "answer": "RA 复盘时，只要一个词的音有一点不确定，就不要凭记忆硬练。Sunny 会让学生查权威词典里的音标和真人发音，再把这个词放回原句里读顺。很多常见词的问题不是不知道意思，而是多年读错后形成惯性；只在课上跟读一次不够，课后要把错音单独列出来复读。考试时遇到生词先保证不断流，复盘时再用词典把准确度修回来。",
+    "source": "phase2-media local staging batch 150, RA pronunciation dictionary check",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-study-prediction-review-ask-why",
+    "title": "看阅读预测只背答案有用吗",
+    "keywords": [
+      "阅读预测",
+      "FIB",
+      "RO",
+      "错题复盘",
+      "为什么",
+      "背答案"
+    ],
+    "answer": "只背预测答案很容易变成假熟悉。Sunny 会让学生看阅读预测时一定问为什么：RO 为什么这个顺序能接上，FIB 为什么这个词的词性、搭配和语义都合适。知道答案是 A、B、C 只解决了一次题，知道理由才会迁移到新题。预测更适合用来混眼熟、练判断和复盘错因，而不是把选项字母当成记忆任务。",
+    "source": "phase2-media local staging batch 150, reading prediction review rationale",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-wfd-errors-and-skill-subscores",
+    "title": "WFD 拼写或语法错会直接扣小分吗",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "拼写",
+      "语法",
+      "小分",
+      "词形"
+    ],
+    "answer": "WFD 里的拼写、大小写或词形错误，Sunny 不会让学生理解成“另扣一笔语法小分”那么简单。更实用的理解是：这个词本身可能拿不到 WFD 的有效词分，然后再通过题型权重影响听力和写作。也就是说，不要因为它不按作文方式扣 grammar/spelling 就放松格式检查。写完后仍要看首字母、专有名词、单复数、时态和句号，因为这些都会影响这个词能不能稳定匹配答案。",
+    "source": "phase2-media local staging batch 151, WFD errors and skill subscores",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-parallel-passive-clue",
+    "title": "FIB 里 and 后面是 was found 前面该怎么选",
+    "keywords": [
+      "Reading FIB",
+      "FIBR",
+      "并列结构",
+      "被动语态",
+      "过去分词",
+      "and"
+    ],
+    "answer": "Reading FIB 里看到 and 后面接 was found 这类被动结构时，Sunny 会让学生回头看前面的空是否也在同一个并列结构里。如果前后并列，前面通常也需要能和被动语态配平的过去分词，比如 established 这类词。不要只看中文意思像不像，要看语法骨架是否一致。并列结构经常是 FIB 的隐形提示，能帮你从多个意思相近的词里排掉形式不对的选项。",
+    "source": "phase2-media local staging batch 151, reading FIB parallel passive clue",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-parallel-person-noun",
+    "title": "FIB 里前面是人后面也要选人吗",
+    "keywords": [
+      "Reading FIB",
+      "FIBR",
+      "并列",
+      "名词",
+      "人群",
+      "collectors"
+    ],
+    "answer": "如果句子里是 urban explorers and street ___ 这类并列，Sunny 会先看前后是不是同一类对象。前面是人，后面大概率也要填表示人的名词；如果前面是复数人群，后面也常常要用复数人群名词。这样判断比单纯翻译每个选项快得多。FIB 里 and/or 前后的词性、单复数和语义类别经常要对齐，先配结构，再确认意思。",
+    "source": "phase2-media local staging batch 151, reading FIB parallel person noun",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-objective-register",
+    "title": "FIB 里 reports 和 editorials 怎么区分",
+    "keywords": [
+      "Reading FIB",
+      "reports",
+      "editorials",
+      "语境",
+      "客观",
+      "搭配"
+    ],
+    "answer": "遇到 reports、editorials 这类都和文章或记录有关的词，Sunny 会让学生看上下文语气。records、financial information、data 这类语境通常更客观，reports 往往更贴；editorials 带有评论、观点和社论色彩，不适合所有“记录/报告”场景。FIB 不只是词义题，也是语域和搭配题。选项意思都认识时，要问这个词放进原句后语气是否自然。",
+    "source": "phase2-media local staging batch 151, reading FIB objective register",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-project-as-verb",
+    "title": "FIB 里 project 只能当项目吗",
+    "keywords": [
+      "Reading FIB",
+      "project",
+      "词性",
+      "动词",
+      "预测",
+      "搭配"
+    ],
+    "answer": "project 不只可以当名词“项目”，在阅读里也常作动词，表示预测、规划或推算。Sunny 会让学生看到 to ___ future growth、and to analyze 这类结构时，先判断空格需要动词原形；再看语义是不是“用这些信息去预测/规划未来增长”。如果只记 project 的名词意思，就容易错过正确选项。FIB 复盘时要把高频词的多词性一起记，不要只背一个中文释义。",
+    "source": "phase2-media local staging batch 151, reading FIB project verb meaning",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-determiner-countability",
+    "title": "FIB 里 a、the、空冠词能帮忙判断吗",
+    "keywords": [
+      "Reading FIB",
+      "冠词",
+      "可数名词",
+      "不可数名词",
+      "复数",
+      "knowledge"
+    ],
+    "answer": "能，而且很常用。Sunny 会让学生先看空格前有没有 a、the 或完全没有限定词：a 后面通常要可数名词单数；没有冠词时，更可能是不可数名词或复数名词；the 后面可以接更宽的名词形式，但仍要看上下文。比如 knowledge 常作不可数名词，就不能机械加 s。FIB 里冠词不是小细节，它能直接帮你排掉词形不合的选项。",
+    "source": "phase2-media local staging batch 151, reading FIB determiner countability",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-hcs-structure-not-every-detail",
+    "title": "HCS 听不懂细节还能做吗",
+    "keywords": [
+      "HCS",
+      "Highlight Correct Summary",
+      "主旨",
+      "逻辑结构",
+      "听力",
+      "预读"
+    ],
+    "answer": "HCS 不要求你把每个细节都听懂。Sunny 会让学生先用预读时间看选项，知道文章可能在讲什么，再听音频里的主旨走向和逻辑结构。比如讲者是在说资源发现下降、原因解释，还是给出建议和结论。听不懂一两个专业词不要立刻崩掉，先抓 repeated words、转折、因果和最后总结。HCS 考的是整体摘要匹配，结构听对了，细节不满也能判断。",
+    "source": "phase2-media local staging batch 151, HCS structure listening",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-we-own-experience-single-side",
+    "title": "WE 题目没要求 both sides 要写双边吗",
+    "keywords": [
+      "WE",
+      "Essay",
+      "own experience",
+      "单边",
+      "both sides",
+      "例子"
+    ],
+    "answer": "如果 WE 题目没有明确要求 discuss both sides，Sunny 通常会让学生用更稳的单边论证：选一个立场，两个主体段都服务这个立场，再用个人经历、身边观察或 survey 类例子支撑观点。PTE 大作文篇幅只有 200-300 词，硬写双方很容易每边都浅。写 own experience 时不用讲很长故事，重点是让例子贴合论点、逻辑自然、句子稳定。",
+    "source": "phase2-media local staging batch 151, WE own experience single side",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
