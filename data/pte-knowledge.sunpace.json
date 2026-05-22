@@ -15469,5 +15469,261 @@
     "source": "phase2-media local staging batch 170, FIB timed practice",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-plan-content-before-speaking",
+    "title": "DI 准备时间到底准备什么",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "准备时间",
+      "内容顺序",
+      "卡顿",
+      "口语"
+    ],
+    "answer": "DI 的准备时间不是用来临场发明新观点，而是先决定开口后要说哪几块内容。Sunny 会让学生在几秒内定好顺序：标题或主题、最清楚的标签、关键数字或方位、最后一句收尾。开口后如果又一边说一边找新信息，很容易出现长停顿。内容少时宁可把已看清的信息说顺，也不要临时乱加自己没准备好的解释。",
+    "source": "phase2-media local staging batch 171, DI preparation content order",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-labels-before-numbers",
+    "title": "DI 标签图先说标签还是数字",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "标签",
+      "数字",
+      "地图",
+      "顺序"
+    ],
+    "answer": "遇到地图、流程图或标签很多的图，Sunny 更建议先说清楚标签或文字，再补数字和位置。比如从上到下、从左到右读几个主要名称，再说哪一块更高、更大或对应什么数字。这样听的人先知道对象是谁，后面的数字才有落点。不要一上来只报数字，结果类别没交代清楚，听感会像在念碎片。",
+    "source": "phase2-media local staging batch 171, DI labels before numbers",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-include-scale-range-label",
+    "title": "DI 量尺范围要不要读",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "坐标轴",
+      "范围",
+      "刻度",
+      "图表信息"
+    ],
+    "answer": "要看图里这个范围是不是核心信息。Sunny 会提醒学生，除了年份、人口、比例这些明显数字，坐标轴或图例上的范围也可能很重要，比如金额区间、人数区间、百分比范围。只说趋势而漏掉量尺，答案会少一层读图信息。准备时可以快速扫一眼横轴、纵轴和图例，挑一个最容易读的范围放进答案里。",
+    "source": "phase2-media local staging batch 171, DI scale and range labels",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-energetic-not-high-pitched",
+    "title": "DI 声音要有力还是要尖",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "声音",
+      "音高",
+      "力度",
+      "流利度"
+    ],
+    "answer": "DI 需要的是声音有精神、有支撑，不是把音调抬得很尖。Sunny 会让学生把关键词、数字和结论句说得更有力量，但保持自然音高。声音太平会显得没抓住重点；音调过高又容易紧张、尾音飘、发音变形。练习时可以想成“清楚地说明图片”，而不是用很高的声音抢速度。",
+    "source": "phase2-media local staging batch 171, DI energetic voice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-small-stumble-mindset",
+    "title": "RA 小卡一下是不是整题完了",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "卡顿",
+      "自我修正",
+      "心态",
+      "流利度"
+    ],
+    "answer": "RA 偶尔一个小卡顿或轻微自我修正，不等于整题已经毁掉。Sunny 更担心学生因为这一处失误立刻慌掉，后面开始回读、停顿或声音变小。考试里发现自己刚才卡了一下，就把注意力拉回下一个意群，继续清楚读完。平时复盘当然要记录错因，但正式录音里最重要的是别让一个小错拖垮后半句。",
+    "source": "phase2-media local staging batch 171, RA small stumble recovery",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-reduce-retroflex-r-coloring",
+    "title": "RA 卷舌太重怎么改",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "卷舌",
+      "舌位",
+      "口音",
+      "发音"
+    ],
+    "answer": "中文口音里如果卷舌或儿化感太重，RA 里很多词会听起来发紧。Sunny 会让学生先慢下来、嘴巴打开一点，舌头不要一直往后卷，尤其是 project、process、purpose 这类开头和元音要放清楚。单词单独读可能还行，但放进整段后如果一快就卷舌，就要用慢读、录音、回听来把舌位放松。",
+    "source": "phase2-media local staging batch 171, RA over-retroflex correction",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-ending-tone-control",
+    "title": "RA 词尾为什么总往上飘",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "语调",
+      "词尾",
+      "重音",
+      "发音"
+    ],
+    "answer": "有些学生读 -ing、-tion、-al 这类结尾时，声音会不自觉上扬，听起来像每个词都在提问。Sunny 会让学生把这些高频结尾单独成组练：先慢读到词尾收稳，再放回整句里保持自然下降或平稳语调。RA 不是越夸张越好，重点是内容词有重音，句尾和词尾不要一直飘上去。",
+    "source": "phase2-media local staging batch 171, RA ending tone control",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-wfd-long-sentence-note-selectively",
+    "title": "WFD 长句要不要每个词都记",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "长句",
+      "笔记",
+      "形容词名词",
+      "听力"
+    ],
+    "answer": "WFD 长句不是每个词都要写笔记。Sunny 会让学生优先记自己最容易忘的块，比如形容词加名词、并列名词、数字或句尾短语；the、of、and 这类虚词可以靠语感和语法补。写字慢的学生不要因为记笔记错过后半句，宁可少记几个高价值词，听完后用句子结构把空缺补回来。",
+    "source": "phase2-media local staging batch 171, WFD selective notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-we-related-words-for-content",
+    "title": "WE 怎么用相关词避免跑题",
+    "keywords": [
+      "WE",
+      "Write Essay",
+      "相关词",
+      "扣题",
+      "观点",
+      "写作"
+    ],
+    "answer": "WE 看到题目后，不要只盯一个关键词反复抄。Sunny 会让学生围绕题干名词先扩一圈相关词：如果题目讲地区，可以想到城市、农村、基础设施和资源；如果讲成功人士，可以想到能力、性格、机会和教育。正文里持续使用这些相关词，文章会更像在回答题目，而不是把万能句硬套进去。",
+    "source": "phase2-media local staging batch 172, WE related word brainstorming",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-we-one-sided-with-counterpoints",
+    "title": "WE 一边倒能不能写反方内容",
+    "keywords": [
+      "WE",
+      "Write Essay",
+      "立场",
+      "反方",
+      "让步",
+      "写作"
+    ],
+    "answer": "可以写，但要服务自己的立场。Sunny 会允许一边倒作文里出现少量反方内容，用来承认另一面或引出反驳，但最后必须转回主观点。不能写着写着两边都像在支持，结论也含糊。更稳的方式是：先明确自己的立场，再用一个短让步说明反方为什么看似有道理，随后解释为什么自己的观点仍然更强。",
+    "source": "phase2-media local staging batch 172, WE one-sided counterpoints",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-we-discussion-paragraph-function",
+    "title": "WE 讨论题每段要完成什么",
+    "keywords": [
+      "WE",
+      "Write Essay",
+      "讨论题",
+      "段落功能",
+      "让步反驳",
+      "写作"
+    ],
+    "answer": "讨论类 WE 不要把每段都写成散乱观点堆叠。Sunny 会让学生给段落分工：开头交代背景并给立场；第一主体段解释自己主要支持的一面，加原因和例子；第二主体段可以承认反方面向，再用解释或结果把文章转回主立场；结尾重申观点并概括两段。段落功能清楚，模板才不会变成空架子。",
+    "source": "phase2-media local staging batch 172, WE discussion paragraph function",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-interface-word-count",
+    "title": "SWT 有字数显示还要自己检查吗",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "字数",
+      "界面",
+      "标点",
+      "写作"
+    ],
+    "answer": "要。SWT 界面通常会显示词数，但 Sunny 不建议完全依赖它给你兜底。词数统计和标点、连字符、重复空格有关，系统也不一定会在你超限或低于要求时替你拦住。写完后仍要按固定顺序看一遍：是不是一句话、词数是否在范围内、句尾是不是一个句号、连接处语法是否通顺。",
+    "source": "phase2-media local staging batch 172, SWT word count interface",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-timer-independent-versus-aggregate",
+    "title": "PTE 哪些题是独立计时",
+    "keywords": [
+      "阅读",
+      "计时",
+      "独立计时",
+      "总计时",
+      "考试节奏",
+      "PTE"
+    ],
+    "answer": "PTE 计时方式不能混着理解。Sunny 会提醒学生，口语、写作和 SST 这类任务通常按题目或小段独立计时；阅读部分更多是一个总时间池，听力除 SST 外也更依赖整体时间管理。独立计时的题要在本题内完成，整体计时的部分则要保护后面的高价值题。搞清计时方式，才知道哪里该果断走，哪里该留检查时间。",
+    "source": "phase2-media local staging batch 172, PTE timer types",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-aggregate-timer-no-return",
+    "title": "阅读时间到还能回去改吗",
+    "keywords": [
+      "阅读",
+      "总计时",
+      "不能返回",
+      "跳题",
+      "时间管理",
+      "考试节奏"
+    ],
+    "answer": "阅读总计时结束后，系统会往后推进，前面没做完或没检查的题通常不能再回头补。Sunny 会让学生把这个当成真实考试风险来训练：选择题不要拖到挤掉 FIB 和 RO，FIB 卡住也要先拿最确定的空。阅读不是做完一题就安全，整个 block 的节奏才决定你有没有机会把高价值题做完整。",
+    "source": "phase2-media local staging batch 172, reading aggregate timer no return",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-ro-time-by-paragraph-count",
+    "title": "RO 四段和六段用时一样吗",
+    "keywords": [
+      "RO",
+      "阅读排序",
+      "段落数",
+      "时间管理",
+      "三分钟",
+      "阅读"
+    ],
+    "answer": "RO 用时要看段落数，不是每题都机械同一个时间。Sunny 通常会让四段题更快完成，五段题留一点配对时间，六段题可以接近三分钟，但也不能无限拖。段落越多，越要先找首句、指代词、转折和因果关系，再做相邻配对。平时练习就按段落数计时，考试里才不会一遇到六段就慌。",
+    "source": "phase2-media local staging batch 172, RO timing by paragraph count",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-ro-pronoun-pair-strategy",
+    "title": "RO 为什么要先找两两配对",
+    "keywords": [
+      "RO",
+      "阅读排序",
+      "两两配对",
+      "代词",
+      "指代",
+      "阅读逻辑"
+    ],
+    "answer": "RO 不是把所有段落一次性排出来。Sunny 会让学生先找能锁住的两两关系，比如 this、these、they、such 这些代词指向前文什么内容，或者 however、therefore 后面在接哪一句。先配出稳定小组，再决定整篇顺序，会比凭感觉拖动所有段落更稳。配对时要同时看语法数量和内容范围，不能只找重复词。",
+    "source": "phase2-media local staging batch 172, RO pronoun pair strategy",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
