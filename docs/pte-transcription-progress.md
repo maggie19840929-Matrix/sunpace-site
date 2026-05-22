@@ -830,6 +830,26 @@
 
 备注：两轮新增后执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，并只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
 
+## 2026-05-22 Knowledge Distillation 43
+
+- 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交
+- 输入来源：本地已完成转写池，重点参考 `resume-24` 的 RA/RS/SST/WFD/DI 核心技巧与带练素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：RA 用 RS 跟读找节奏、RA 元音嘴型舌位、RS 长短句分层目标、RS 少量记词时用连接块保持连续、SST 内容和格式门槛、SST 优先使用原文词、WFD 五类检查、DI 混合图两边覆盖
+
+备注：本轮只写入 SunPace 自有公开知识条目；原始逐字稿、队列和日志继续留在 `knowledge_exports/`，不会提交。
+
+## 2026-05-22 Knowledge Distillation 44
+
+- 模式：白天同步模式；第 43、44 两轮完成后同步 GitHub
+- 输入来源：本地已完成转写池，重点参考 `resume-24` 的 DI 流程图/图片题、SWT 写作技巧和阅读选择题策略素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：DI 不读 source、DI 分支流程图先排路线、DI 颜色不确定时简单处理、SWT 四步工作流、SWT 隐形信号词、SWT 分段抽核心句、SWT 不能依赖原文复制粘贴、阅读单选和多选不同策略
+
+备注：两轮新增后执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，并只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
+
 ## 2026-05-22 Knowledge Distillation 41
 
 - 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交

@@ -15725,5 +15725,261 @@
     "source": "phase2-media local staging batch 172, RO pronoun pair strategy",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-use-rs-shadowing-for-rhythm",
+    "title": "RA 太难时能不能先练 RS 跟读",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "RS",
+      "跟读",
+      "节奏",
+      "发音"
+    ],
+    "answer": "可以。RA 本质上是多个句子的连续朗读，如果一上来整段读不稳，Sunny 会让学生先用 RS 或短句跟读找声音节奏。先模仿音频里的意群、重音和连贯感，再回到 RA 段落，会比硬读长文本更容易建立顺滑音流。这个训练不是背句子，而是让嘴巴习惯英文从一个词组连到下一个词组。",
+    "source": "phase2-media local staging batch 173, RA rhythm from RS shadowing",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-vowels-need-mouth-position",
+    "title": "RA 元音只听音频够不够",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "元音",
+      "嘴型",
+      "舌位",
+      "发音"
+    ],
+    "answer": "不够时要看嘴型和舌位。Sunny 会提醒学生，长音、双元音和一些开口音不是靠中文近似音硬套出来的，嘴巴开合、舌头位置和声音饱满度都会影响机器识别。遇到反复读糊的音，可以先看真人示范，确认嘴型到位，再放回 RA 句子里练。目标不是英音美音多漂亮，而是每个关键词清楚可识别。",
+    "source": "phase2-media local staging batch 173, RA vowel mouth position",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rs-duration-based-target",
+    "title": "RS 长短句目标一样吗",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "长句",
+      "短句",
+      "目标分",
+      "复述"
+    ],
+    "answer": "不一样。Sunny 会把 RS 目标按句子长度和目标分拆开：两三秒的短句尽量完整复述；三四秒的句子至少保住大部分有效词；五秒以上长句则先追求连续说出一半以上和关键意群。目标 79+ 要尽量满还原，目标 50-65 更重要的是别沉默、别乱序、别因为一个漏词停住。长句有底线，短句要尽量拿满。",
+    "source": "phase2-media local staging batch 173, RS duration-based target",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rs-connect-few-remembered-words",
+    "title": "RS 只记住几个词怎么保持流利",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "关键词",
+      "流利度",
+      "连接词",
+      "复述"
+    ],
+    "answer": "如果 RS 只记住三四个内容词，Sunny 会让学生优先把它们连成一个连续声音，而不是一个词一个词蹦出来。可以用非常熟的连接块把名词或短语接起来，比如 which is、there is、such as 这类自己不会卡的表达；更适合放在中间或结尾，不要挤在最前面把真正记住的原句内容挤掉。补连接的目的只是保连续感，不能替代听到的有效词。",
+    "source": "phase2-media local staging batch 173, RS connecting remembered words",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-sst-content-form-gates",
+    "title": "SST 为什么先保内容和格式",
+    "keywords": [
+      "SST",
+      "Summarize Spoken Text",
+      "内容分",
+      "格式",
+      "50-70词",
+      "听力"
+    ],
+    "answer": "SST 要先过内容和格式两道门。Sunny 会让学生把主旨和至少几个关键点放在第一优先级，因为内容完全没抓住时，后面的语法、词汇和拼写很难救回来；格式也要稳定在 50-70 词的完整 summary，不要写成 bullet points 或全大写。基础弱时，先确保答案像一段真正的总结，再追求句子漂亮。",
+    "source": "phase2-media local staging batch 173, SST content and form gates",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-sst-use-original-lecture-words",
+    "title": "SST 要不要把听到的词换高级",
+    "keywords": [
+      "SST",
+      "Summarize Spoken Text",
+      "原文词",
+      "改写",
+      "词汇",
+      "听力写作"
+    ],
+    "answer": "SST 不需要为了显得高级而乱改词。Sunny 更建议优先使用音频里听到的主题词、名词短语和关键搭配，因为这些词和材料最贴合，也更可能承载内容分。基础不稳时，把 good 硬换成 excellent、把一个原文短语改成不自然表达，反而可能丢词汇或语法分。先写准听到的内容，再少量做安全改写。",
+    "source": "phase2-media local staging batch 173, SST original lecture words",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-wfd-five-point-final-check",
+    "title": "WFD 最后一遍检查哪五类",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "检查",
+      "冠词",
+      "介词",
+      "单复数"
+    ],
+    "answer": "WFD 写完后，Sunny 会让学生按五类快速扫一遍：单词拼写、动词时态、名词单复数、名词前冠词、常见介词。最后再确认首字母大写和句号。很多学生不是主干听不到，而是 a/the、in/at/for、复数 s、过去式这些小点反复掉分。检查顺序固定下来，音频结束后的几十秒才不会乱。",
+    "source": "phase2-media local staging batch 173, WFD five-point final check",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-mixed-chart-cover-both-parts",
+    "title": "DI 混合图只说一个图够吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "混合图",
+      "饼图",
+      "线图",
+      "覆盖"
+    ],
+    "answer": "不够。遇到两个图拼在一起的 DI，比如饼图加线图、表格加柱状图，Sunny 会让学生两边都说一点。哪怕一个图信息更简单，也要给它至少一个标签、数字或趋势，不能把其中一边完整说完后另一边完全空掉。混合图的目标是均衡覆盖可见信息，句子可以短，但两部分都要被机器听到。",
+    "source": "phase2-media local staging batch 173, DI mixed chart coverage",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-skip-source-credit",
+    "title": "DI 图片来源要读吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "source",
+      "图片来源",
+      "文字信息",
+      "口语"
+    ],
+    "answer": "一般不用读。DI 图上有时会出现 source、picture by、网页来源或版权说明，这类文字不是题目想让你描述的核心信息。Sunny 会让学生把时间留给标题、坐标、图例、类别、数字和可见对象。准备时间很短，不要为了读来源信息挤掉真正有用的图表内容。",
+    "source": "phase2-media local staging batch 174, DI skip source credit",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-branched-flowchart-route",
+    "title": "DI 分支流程图怎么排顺序",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "流程图",
+      "分支",
+      "顺序",
+      "口语"
+    ],
+    "answer": "流程图不是每次都一条线走到底。遇到分支流程图，Sunny 会让学生在 25 秒准备里先选一条最顺的主路线，把大步骤串起来；重复或含义相近的小分支可以少说，复杂分支可以放到第二句补一句。最后收尾时再补还没提到的两个核心词。先排路线，再开口，比分支都想讲导致卡住更稳。",
+    "source": "phase2-media local staging batch 174, DI branched flowchart route",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-uncertain-color-simple-choice",
+    "title": "DI 颜色看不准要纠结吗",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "颜色",
+      "不确定",
+      "卡顿",
+      "图片题"
+    ],
+    "answer": "不要纠结。颜色在 DI 里通常只是辅助信息，每个人对灰、棕、蓝绿这类颜色的判断也可能不同。Sunny 会让学生看不准时选一个简单颜色带过，或者干脆不说颜色，把时间给标题、对象、数字和步骤。如果真的想说复杂颜色，最好准备时写下来照着念，不要开口后临时想 mixer of gray and brown 这类容易卡住的表达。",
+    "source": "phase2-media local staging batch 174, DI uncertain color",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-four-step-workflow",
+    "title": "SWT 十分钟可以按哪四步做",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "选择",
+      "拼接",
+      "检查",
+      "写作"
+    ],
+    "answer": "SWT 可以按四步走：选择、拼接、完成、检查。Sunny 会让学生先选出 summary 该保留的观点、总结、转折或因果信息；再把这些信息拼成一句完整英文；然后控制在规定词数内完成；最后检查一句话格式、连接处语法、关键词拼写和句尾标点。SWT 的难点不只是找句子，而是把选出来的信息稳稳拼成一个句子。",
+    "source": "phase2-media local staging batch 174, SWT four-step workflow",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-hidden-signal-words",
+    "title": "SWT 没有明显信号词怎么办",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "隐形信号词",
+      "观点",
+      "总结",
+      "转折"
+    ],
+    "answer": "SWT 不一定把 I think、to sum up、however 这些信号词明晃晃放出来。Sunny 会让学生训练“隐形信号”：句子虽然没有明显词，但功能上可能在表达作者观点、总结前文、转折重点或给出原因结果。读段落时要问这句话在文章里起什么作用，而不是只找固定关键词。能识别隐形信号，才不会漏掉真正该写进 summary 的内容。",
+    "source": "phase2-media local staging batch 174, SWT hidden signals",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-paragraph-by-paragraph-build",
+    "title": "SWT 要不要看完全文再写",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "段落",
+      "核心句",
+      "草稿",
+      "时间管理"
+    ],
+    "answer": "不一定要全文看完才开始组织。Sunny 会让学生每读完一段，就立刻判断这一段有没有一两个核心句或实质内容点，并把可用信息放进草稿结构里。这样做能避免读到最后又回头找，浪费时间还漏信息。尤其多段文章，每段通常承担一个新内容点，边读边抽取会比最后凭记忆拼接更稳。",
+    "source": "phase2-media local staging batch 174, SWT paragraph-by-paragraph build",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-no-source-copy-paste",
+    "title": "SWT 能直接复制原文吗",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "复制粘贴",
+      "原文",
+      "打字",
+      "考试界面"
+    ],
+    "answer": "考试界面里通常不能指望直接从原文复制粘贴到答案框。Sunny 会让学生平时就练手动输入核心句和连接词，不要把做题速度建立在复制原文上。SWT 可以使用原文关键词和关键句，但要自己打出来，并把它们连成一句话。不会 paraphrase 没关系，真正要稳的是选对、打对、连对、格式对。",
+    "source": "phase2-media local staging batch 174, SWT no source copy paste",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-mcq-single-versus-multiple-strategy",
+    "title": "阅读单选和多选做法一样吗",
+    "keywords": [
+      "阅读",
+      "单选",
+      "多选",
+      "定位",
+      "主旨",
+      "细节"
+    ],
+    "answer": "不完全一样。Sunny 会让学生把单选和多选分开处理：单选常考主旨或细节，选项较短时可以先快速看题和选项，再回文章定位；多选通常更偏细节，选项长、干扰多，先直接定位原文证据更稳。主旨题重点看开头、结尾和全文方向；细节题不要凭印象选，要回到句子证据。两类题都要控时，别挤掉 FIB 和 RO。",
+    "source": "phase2-media local staging batch 174, reading MCQ single versus multiple",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
