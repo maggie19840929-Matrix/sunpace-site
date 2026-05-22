@@ -16493,5 +16493,261 @@
     "source": "phase2-media local staging batch 178, DI legend labels avoid color burden",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-we-safe-complexity-first",
+    "title": "WE 复杂句是不是越多越好",
+    "keywords": [
+      "WE",
+      "大作文",
+      "复杂句",
+      "语法",
+      "写作",
+      "PTE"
+    ],
+    "answer": "不是。Sunny 会让学生把标准定成“复杂但不出错”，而不是为了显得高级硬写长句。能稳定控制从句、插入语和并列结构，就可以适当用；如果一写复杂句就主谓不一致、连接乱或意思不清，宁可用清楚的简单句和并列句。PTE 写作里，语法错误会牵连内容和表达清晰度，少错比堆复杂更安全。",
+    "source": "phase2-media local staging batch 179, WE safe complexity",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-we-prompt-examples-scope-check",
+    "title": "WE 题目里的例子一定要写吗",
+    "keywords": [
+      "WE",
+      "大作文",
+      "审题",
+      "题干例子",
+      "范围",
+      "写作"
+    ],
+    "answer": "不一定。Sunny 会提醒学生，题干里的例子有时只是帮助理解主题，有时却是在限定讨论范围。看到 antibiotics、airplanes、computers 这类列举时，不要马上把三个词全塞进正文；先判断题目是在问“这些发明中哪一个”还是只是在举例说明 inventions。审题先分清例子和限定，正文才不会写偏。",
+    "source": "phase2-media local staging batch 179, WE prompt example scope",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-we-four-paragraph-default",
+    "title": "PTE 大作文为什么默认四段式",
+    "keywords": [
+      "WE",
+      "大作文",
+      "四段式",
+      "结构",
+      "写作",
+      "时间管理"
+    ],
+    "answer": "Sunny 更偏向让 PTE 大作文默认四段式：开头、两个主体段、结尾。它比临场决定四段还是五段更省时间，也更容易让机器和读者看到结构。主体段可以各承担一个角度，例如正反、优缺点或两个理由。四段式不是为了模板化，而是减少考试中组织结构的负担，把时间留给观点、例子和检查。",
+    "source": "phase2-media local staging batch 179, WE four paragraph default",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-we-two-body-angles",
+    "title": "WE 主体段没思路时怎么拆",
+    "keywords": [
+      "WE",
+      "主体段",
+      "正反观点",
+      "优缺点",
+      "论点",
+      "写作"
+    ],
+    "answer": "很多 PTE 大作文题可以先用两个主体角度拆开。Sunny 会让学生快速想：这一面有什么好处或支持理由，另一面有什么风险、限制或反方角度。即使最后立场是一边倒，也可以让第二段处理反方材料再转回自己的观点。这样比在一个主体段里堆三四个零散想法更清楚。",
+    "source": "phase2-media local staging batch 179, WE two body angles",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-simple-clauses-before-combining",
+    "title": "SWT 不会合句时先做什么",
+    "keywords": [
+      "SWT",
+      "简单句",
+      "合句",
+      "and",
+      "which",
+      "写作"
+    ],
+    "answer": "Sunny 会让学生先把原文里的核心意思拆成两三个简单句，再考虑怎么合成一句 SWT。先找谁做什么、谁和谁有关系、哪一个词是核心关键词；之后再用 and、which、in which 这类自己能控制的连接方式组合。先拆后合，能减少一上来硬写长句导致语法断裂的问题。",
+    "source": "phase2-media local staging batch 179, SWT simple clauses before combining",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-keep-content-keywords",
+    "title": "SWT 关键词能不能全都改写",
+    "keywords": [
+      "SWT",
+      "关键词",
+      "改写",
+      "内容分",
+      "写作",
+      "paraphrase"
+    ],
+    "answer": "不要为了改写把核心关键词改没。Sunny 会让学生保留原文里真正承载内容的名词和专有名词，再对形容词、动词或句式做安全调整。比如主题对象、公司名、核心概念这类词，是内容分的锚点；如果硬换成自己不确定的近义词，可能比简单保留原词更危险。SWT 的第一目标是覆盖主旨，不是展示同义词数量。",
+    "source": "phase2-media local staging batch 179, SWT keep content keywords",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-final-check-typed-mistakes",
+    "title": "写作最后检查为什么专看新填句",
+    "keywords": [
+      "写作",
+      "检查",
+      "拼写",
+      "语法",
+      "打字错误",
+      "PTE"
+    ],
+    "answer": "模板句通常已经很熟，真正容易出错的是临场新填进去的内容。Sunny 会让学生最后优先扫这些位置：名词有没有复数，动词有没有时态，形容词后面的名词搭配是否正确，核心词有没有打漏字母。机考里小 typo 很常见，尤其是 various 后面忘记复数这类错误。最后两三分钟不要重写结构，先救这些可控错误。",
+    "source": "phase2-media local staging batch 179, writing typed mistake check",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-vocabulary-precise-word-over-very",
+    "title": "写作里 very 可以怎么少用",
+    "keywords": [
+      "写作词汇",
+      "very",
+      "词汇多样性",
+      "学术表达",
+      "WE",
+      "PTE"
+    ],
+    "answer": "Sunny 会让学生减少机械的 very 加形容词，但不是把每个词都换成生僻词。更稳的做法是准备一组自己会拼、会用的精确词，比如 important 可以换成 crucial，hungry 在生活语境里可以用 starving。写作里替换的前提是意思准确、语域合适、拼写稳定；如果高级词会用错，不如先用简单词把句子写对。",
+    "source": "phase2-media local staging batch 179, precise vocabulary over very",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-link-final-consonant-clearly",
+    "title": "连读是不是把词尾吞掉",
+    "keywords": [
+      "发音",
+      "连读",
+      "尾音",
+      "RA",
+      "RS",
+      "口语"
+    ],
+    "answer": "连读不是把词尾吞掉。Sunny 会提醒学生，前一个词以辅音结尾、后一个词以元音开头时，可以把尾音自然带过去，但这个辅音仍要清楚。比如一个词尾的 n、t、d 如果完全消失，机器可能识别不到关键词边界；如果读得太分裂，又会破坏流利度。练习时目标是连接顺、尾音在、声音不断。",
+    "source": "phase2-media local staging batch 180, linking final consonant",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-stress-speed-not-pitch-only",
+    "title": "重弱读只是音调高低吗",
+    "keywords": [
+      "发音",
+      "重弱读",
+      "语速",
+      "节奏",
+      "RA",
+      "口语"
+    ],
+    "answer": "不只是音调。Sunny 会把重弱读解释成节奏差：重要词通常更慢、更清楚，功能词和弱读词更快、更轻。很多学生以为自己没有语调，其实问题是每个词都用同样速度读，听起来像一条平线。练 RA 时先把内容词撑住，再让小词自然带过，节奏会比单纯抬高音调更稳定。",
+    "source": "phase2-media local staging batch 180, stress through speed",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-i-vowels-mouth-shape",
+    "title": "长 i 和短 i 只差长短吗",
+    "keywords": [
+      "发音",
+      "元音",
+      "长i",
+      "短i",
+      "口型",
+      "RA"
+    ],
+    "answer": "Sunny 不会让学生只用“长一点、短一点”来区分这组音。长 i 更像嘴角向两边展开、带一点微笑感；短 i 更放松，上下打开一点，声音更轻。两者都不应该拖得很长，区别主要来自口型、嘴唇和舌位。练 cheap/chip、seat/sit 这类对比时，先把口型换对，再追求速度。",
+    "source": "phase2-media local staging batch 180, i vowel mouth shape",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-consonants-airflow-tongue",
+    "title": "辅音练习主要看嘴型吗",
+    "keywords": [
+      "发音",
+      "辅音",
+      "气流",
+      "舌位",
+      "爆破音",
+      "摩擦音"
+    ],
+    "answer": "元音更常看口腔开合、嘴唇和舌位，辅音则更要盯气流和舌头控制。Sunny 会让学生分清爆破音、摩擦音、鼻音、舌边音和破擦音，因为每一类的发力方式不同。练辅音时不要只看嘴巴张多大，而要问：气流是突然冲出、持续摩擦，还是从鼻腔出来？舌尖或舌面有没有到位？",
+    "source": "phase2-media local staging batch 180, consonant airflow tongue control",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-plosives-relaxed-lips",
+    "title": "p 和 b 要不要很用力爆出来",
+    "keywords": [
+      "发音",
+      "爆破音",
+      "p",
+      "b",
+      "喷麦",
+      "口语"
+    ],
+    "answer": "不要过度用力。Sunny 会纠正学生把 p、b 这类爆破音读得太猛，嘴唇绷紧、气流喷出，录音里可能变成喷麦或听感很硬。更稳的做法是嘴唇轻轻闭合，再自然打开；清辅音有气流，浊辅音还要有声带参与。口语考试里，爆破音清楚就好，不需要像中文拼音那样使劲弹出去。",
+    "source": "phase2-media local staging batch 180, relaxed plosives",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-letter-confirmation-papa-bravo",
+    "title": "听力里 Pappa or Bravo 是什么意思",
+    "keywords": [
+      "听力",
+      "字母确认",
+      "地址",
+      "拼写",
+      "Pappa",
+      "Bravo"
+    ],
+    "answer": "在地址、邮编或姓名拼写里，听到 Pappa or Bravo 这类表达，不要把它当普通单词翻译。Sunny 会提醒学生，这是在确认字母：对方想知道是 P 还是 B。电话、申请表、邮寄地址这类场景里，字母很容易听混，所以说话人会用代表词确认。做听力题时，重点写对字母本身，而不是纠结代表词的意思。",
+    "source": "phase2-media local staging batch 180, listening letter confirmation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-pre-read-selected-information",
+    "title": "DI 准备时为什么要把选中的信息试读一遍",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "准备时间",
+      "试读",
+      "难词",
+      "流利度"
+    ],
+    "answer": "DI 的 25 秒准备里，Sunny 会让学生不只选信息，还要把准备说的信息在心里或轻声试读一遍。因为这些词马上要进入录音，若里面有生词、长数字或不好发的标签，开口后才发现就容易卡住。试读的目的不是背答案，而是提前判断哪些信息安全、哪些信息需要换成更稳的表达。",
+    "source": "phase2-media local staging batch 180, DI pre-read selected information",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-flowchart-pack-two-items",
+    "title": "DI 流程图步骤太多怎么塞进模板",
+    "keywords": [
+      "DI",
+      "流程图",
+      "步骤",
+      "and",
+      "which is",
+      "Describe Image"
+    ],
+    "answer": "流程图步骤太多时，Sunny 会让学生把每个模板槽位装进一到两个最安全的可见信息，而不是逐步全读。一个步骤里可以用 and 连接两个短标签，也可以用 which is 补一个解释或结果。关键是让 first、second、next、final 这条顺序线不断，同时每个步骤都有图上信息支撑。说不顺的小字可以跳过，保住顺序和连续性。",
+    "source": "phase2-media local staging batch 180, DI flowchart pack two items",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]

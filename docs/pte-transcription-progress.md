@@ -909,3 +909,23 @@
 - 覆盖主题：RA 名动词重音差异、RA 重音标记到内化、RA 长主语意群停顿、口语内容分门槛、短期优先修流利度、DI 坐标轴单位范围、which is around 后接数值、DI 图例标签替代复杂颜色
 
 备注：两轮新增后执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，并只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
+
+## 2026-05-23 Knowledge Distillation 49
+
+- 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交
+- 输入来源：本地已完成转写池，重点参考 `resume-23` 的 WE/SWT 写作评分、审题、句子拼接和词汇替换素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：WE 复杂句安全优先、题干例子范围判断、PTE 大作文四段式、主体段双角度拆分、SWT 先拆简单句再合句、SWT 保留内容关键词、写作最后检查打字错误、very 替换为精确词
+
+备注：本轮只写入 SunPace 自有公开知识条目；原始逐字稿、队列和日志继续留在 `knowledge_exports/`，不会提交。
+
+## 2026-05-23 Knowledge Distillation 50
+
+- 模式：白天同步模式；第 49、50 两轮完成后同步 GitHub
+- 输入来源：本地已完成转写池，重点参考 `resume-23` 的发音课、听力场景词和 DI 流程图/准备步骤素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：连读保留尾音、重弱读靠速度差、长短 i 口型区别、辅音气流与舌位、爆破音放松不喷麦、听力字母确认、DI 信息试读、流程图多步骤压缩表达
+
+备注：两轮新增后执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，并只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
