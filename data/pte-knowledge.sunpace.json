@@ -12977,5 +12977,2225 @@
     "source": "phase2-media local staging batch 151, WE own experience single side",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-score-review-expectation",
+    "title": "PTE 成绩复核能不能指望大幅提分",
+    "keywords": [
+      "成绩复核",
+      "score review",
+      "rescore",
+      "成绩单",
+      "考后",
+      "官方规则"
+    ],
+    "answer": "Sunny 不建议学生把提分希望押在成绩复核上。旧课里反复提醒过：PTE 的评分高度依赖系统流程，复核更适合处理明显异常或官方允许范围内的核查，而不是把一次发挥问题变成高分。是否能复核、费用和规则都要以当前官方账户说明为准；但备考决策上，更稳的是先用成绩单和当天复盘找题型问题，再决定是否重考或补弱项。",
+    "source": "phase2-media local staging batch 152, score review expectation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-score-delay-not-score-signal",
+    "title": "PTE 出成绩晚是不是说明考坏了",
+    "keywords": [
+      "出分",
+      "成绩延迟",
+      "考后",
+      "成绩单",
+      "等待成绩",
+      "PTE"
+    ],
+    "answer": "出成绩晚一点不等于这次一定出问题。Sunny 会提醒学生，成绩发布时间可能受场次、系统处理量和官方流程影响，不要因为晚到第六天、第七天就自动判断自己考坏了。等待期间更值得做的是记录考场表现：口语设备是否正常、WFD 是否做完、写作是否检查、阅读是否超时。等成绩出来后再对照复盘，判断下一步是发送成绩、补弱项还是安排重考。",
+    "source": "phase2-media local staging batch 152, delayed score release reassurance",
+    "visibility": "public",
+    "priority": "low"
+  },
+  {
+    "id": "sunpace-score-communicative-vs-skills-profile",
+    "title": "成绩单深蓝和浅蓝区域分别看什么",
+    "keywords": [
+      "成绩单",
+      "communicative skills",
+      "skills profile",
+      "深蓝",
+      "浅蓝",
+      "诊断"
+    ],
+    "answer": "看 PTE 成绩单时，Sunny 会先把目标分相关的沟通分和辅助诊断分开。听说读写这些主要分数决定你是否达到学校、移民或签证要求；下面的语法、词汇、拼写、篇章等技能画像更适合用来辅助定位问题。不要看到某个浅蓝小项高就以为对应单项一定安全，也不要看到小项低就直接绝望。真正的复盘要回到题型：哪些题供分、哪里漏词、哪里卡顿、哪里格式不稳。",
+    "source": "phase2-media local staging batch 152, score report communicative versus skills profile",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-ninety-has-tolerance",
+    "title": "PTE 90 分是不是代表全对",
+    "keywords": [
+      "成绩单",
+      "90分",
+      "满分",
+      "容错",
+      "score report",
+      "PTE"
+    ],
+    "answer": "90 分可以理解为达到了该项目的满分显示，但不等于整场每个细节都完全正确。Sunny 会用这个点提醒学生：PTE 评分有题型权重和容错，不是小学式的一题错了就不能满分。复盘高分成绩时，不要因为 90 就完全不看过程；复盘低分成绩时，也不要以为必须零错误才有希望。目标是把高权重题型稳定到足够高的识别和内容水平。",
+    "source": "phase2-media local staging batch 152, score report ninety tolerance",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-ten-not-zero",
+    "title": "PTE 10 分是不是等于完全没分",
+    "keywords": [
+      "成绩单",
+      "10分",
+      "最低分",
+      "发音分",
+      "score report",
+      "诊断"
+    ],
+    "answer": "PTE 成绩单上看到 10 分，不要简单理解成“这一项完全没做对”。Sunny 会把它解释成：系统显示的最低段通常意味着你离可识别、可得分的稳定状态还很远，但不一定代表每个词都错。比如发音低到 10 或 20，常见问题可能是声音太虚、元音不清、尾音缺失、重弱读混乱。复盘时要找可修的发音和流利度问题，而不是只被数字吓住。",
+    "source": "phase2-media local staging batch 152, score report ten is not zero",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-weak-forms-help-listening",
+    "title": "RA 里的弱读为什么会帮到 RS 和 WFD",
+    "keywords": [
+      "RA",
+      "弱读",
+      "RS",
+      "WFD",
+      "to",
+      "that",
+      "听力"
+    ],
+    "answer": "RA 练弱读不是为了读得花哨，而是帮你真正听懂考试音频里的小词。Sunny 会用 to hold、that abandoned 这类短语提醒学生：to、that、in、of 这些功能词常常很轻，但不是消失。你自己朗读时如果只会把每个词都重读，听 RS 和 WFD 时就容易觉得小词“没听到”。先在 RA 里练内容词重、功能词轻，再回到听写，冠词、介词和连接词会更容易被耳朵抓住。",
+    "source": "phase2-media local staging batch 152, RA weak forms support RS WFD",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-phrase-tail-falling-tone",
+    "title": "RA 词组结尾总上扬会怎样",
+    "keywords": [
+      "RA",
+      "语调",
+      "词组",
+      "上扬",
+      "重弱读",
+      "流利度"
+    ],
+    "answer": "RA 里很多学生会把 farms、ponds 这类词组结尾读得往上飘，听起来像每个小块都没落地。Sunny 会让学生把内容词读清楚，同时让词组结尾自然往下收，形成陈述感。不是所有地方都要重重下压，但如果每个尾巴都上扬，句子会显得不稳、节奏散，也容易影响机器对重音和意群的判断。练习时可以先读短词组，再拉成长句。",
+    "source": "phase2-media local staging batch 152, RA phrase tail falling tone",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-study-first-stage-test-checkpoint",
+    "title": "第一阶段学完后要不要先去考一次",
+    "keywords": [
+      "学习计划",
+      "第一阶段",
+      "模考",
+      "实考",
+      "50分",
+      "复盘"
+    ],
+    "answer": "Sunny 的阶段思路不是等所有内容都学完才第一次检验。第一阶段把考试流程、核心模板和高权重题型跑通后，可以安排一次模考或合适的正式考试作为检查点，看看真实短板在哪里。这个阶段通常更像保底盘，可能只能托住基础分；考后再进入第二阶段，把 DI、RL、RS、WFD、SST、FIB/RO 等问题逐项加固。关键不是盲目报名，而是问自己：第一阶段任务是否已经完成，能否稳定做完整套流程。",
+    "source": "phase2-media local staging batch 152, first stage test checkpoint",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-study-prep-cycle-by-baseline",
+    "title": "PTE 备考周期应该定多久",
+    "keywords": [
+      "学习计划",
+      "备考周期",
+      "每天学习时间",
+      "查缺补漏",
+      "基础",
+      "目标分"
+    ],
+    "answer": "PTE 备考周期不要只按别人经验套。Sunny 会先看基础和目标分：基础还可以、目标不是特别极限的学生，一到两个月集中训练可能够用；基础弱或目标高，就要留出更长时间补发音、听写、阅读词性和写作语法。每天学习时间也要看可持续性，三四小时的高质量训练通常比一天十几个小时硬熬更稳。先查缺补漏，再决定周期，别把时间花在已经很稳的题型上。",
+    "source": "phase2-media local staging batch 153, prep cycle by baseline",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-study-overlong-prep-question-bank-risk",
+    "title": "PTE 备考拖太久有什么风险",
+    "keywords": [
+      "学习计划",
+      "备考周期",
+      "题库",
+      "换题",
+      "机经",
+      "复习效率"
+    ],
+    "answer": "备考太久不一定更安全。Sunny 会提醒学生，题库、预测和机经会更新，备得越久，前期背过的材料越容易遗忘，也越容易撞上换题导致命中率下降。长期备考更应该建立能力型训练：RA/RS 的声音稳定、WFD 的听写反应、FIB 的语法搭配、WE/SWT 的结构，而不是无限囤题。时间拉长时，要定期清理旧材料，只保留还能转化成方法和错因复盘的部分。",
+    "source": "phase2-media local staging batch 153, overlong prep question bank risk",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-study-ielts-transfer-needs-pte-diagnosis",
+    "title": "雅思基础好转 PTE 可以裸考吗",
+    "keywords": [
+      "雅思转PTE",
+      "转考",
+      "裸考",
+      "诊断",
+      "题型",
+      "PTE"
+    ],
+    "answer": "雅思基础好会有帮助，但不代表 PTE 可以完全裸考。Sunny 会提醒转考学生：PTE 的机器评分、交叉供分、题型节奏和模板使用方式都不同。雅思写作和口语强，不等于 SWT、DI、WFD、RA 都稳；有些学生正是因为不了解 PTE 格式和评分，第一次成绩单出现明显短板。转考第一步不是盲目自信，而是做一次完整诊断，找出 PTE 题型里的真实风险。",
+    "source": "phase2-media local staging batch 153, IELTS transfer PTE diagnosis",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-not-ielts-task-one",
+    "title": "DI 能不能按雅思小作文思路说",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "雅思小作文",
+      "转考",
+      "趋势",
+      "口语"
+    ],
+    "answer": "不建议照搬雅思小作文的完整分析方式。DI 是口头限时输出，不是让你慢慢写一篇图表作文。Sunny 会让雅思转考学生先放下复杂分析：25 秒准备里抓标题、图型、单位、最大最小或明显趋势；正式说时用稳定句型表达，而不是临场想很多高级趋势词。DI 的目标是连续、清楚、信息相关，能把图的主干说出来，比像作文一样分析得很细更重要。",
+    "source": "phase2-media local staging batch 153, DI not IELTS task one",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-stable-trend-words",
+    "title": "DI 趋势词要不要每题换高级说法",
+    "keywords": [
+      "DI",
+      "趋势词",
+      "increase",
+      "decrease",
+      "同义词",
+      "流利度"
+    ],
+    "answer": "DI 里不需要每题都强行换一堆高级趋势词。Sunny 会让学生先把最稳的 increase、decrease、rise、fall、higher than、lower than 说顺，再根据图表难度少量扩展。口语不像写作，有时间慢慢挑词；为了说 soar、plummet 这类词卡住，通常不如用简单词连续说完。趋势表达的第一目标是方向、对象、时间和单位别错，词汇花样排在后面。",
+    "source": "phase2-media local staging batch 153, DI stable trend wording",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-pte-vs-ielts-intonation",
+    "title": "RA 要不要像雅思口语一样有很多语调起伏",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "雅思口语",
+      "语调",
+      "机器评分",
+      "稳定"
+    ],
+    "answer": "RA 不需要像和真人考官聊天一样刻意做很多情绪化起伏。Sunny 会提醒雅思转考学生：PTE 更需要清楚、平稳、严谨的朗读，关键词有重音，词组结尾自然收住，整体不要忽高忽低。适度语调是自然的，但如果每个词尾都上扬、每个短语都像在聊天，会让节奏不稳定。机器更容易奖励连续、清楚、可识别的声音。",
+    "source": "phase2-media local staging batch 153, RA PTE versus IELTS intonation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-ed-ending-not-heavy",
+    "title": "RA 里 ed 结尾要不要读得很重",
+    "keywords": [
+      "RA",
+      "ed结尾",
+      "过去式",
+      "尾音",
+      "重音",
+      "流利度"
+    ],
+    "answer": "ed 结尾要交代，但不要每次都读得很重。Sunny 会纠正学生把 contributed 这类词尾拖得过重的问题：尾音太重会让单词重心跑偏，也会让句子听起来一顿一顿。练习时先确认这个 ed 发 /t/、/d/ 还是 /ɪd/，再放回句子里轻收。目标是让机器听见词形，同时保持主要重音在该重的位置。",
+    "source": "phase2-media local staging batch 153, RA ed ending light closure",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-we-template-is-foundation-not-house",
+    "title": "WE 有模板为什么还会低分",
+    "keywords": [
+      "WE",
+      "Essay",
+      "模板",
+      "语法",
+      "内容",
+      "大作文"
+    ],
+    "answer": "WE 模板只是地基，不是整栋房子。Sunny 会提醒学生，模板能帮你省时间、减少固定句错误，但真正决定分数的还有你填进去的观点、例子、句子语法和是否回答题目。如果自填内容每句都有语法错误，或者只把题目关键词塞进模板里，分数仍然上不去。练作文时要把模板和自填句一起打出来检查，而不是只背框架。",
+    "source": "phase2-media local staging batch 153, WE template foundation not whole essay",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-occupation-parallel-an",
+    "title": "FIB 里 an 后面一定要看首音吗",
+    "keywords": [
+      "Reading FIB",
+      "an",
+      "职业名词",
+      "并列",
+      "engineer",
+      "executive"
+    ],
+    "answer": "要看，而且还要和并列结构一起看。Sunny 会让学生先判断空格所在的一串词是不是同类并列：designer、teacher 后面大概率还在列职业。再看空格前是 an，候选词要以元音音素开头，比如 engineer 或 executive。最后才用语义筛选：如果后面说 working on a new structure，更像 engineer；如果说 in charge of a business concept，更像 executive。FIB 不是只靠翻译，冠词、并列类别和后置信息要一起用。",
+    "source": "phase2-media local staging batch 154, reading FIB occupation and an clue",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-noun-compound-assembly",
+    "title": "FIB 里 assembly 这种 ly 结尾一定是副词吗",
+    "keywords": [
+      "Reading FIB",
+      "assembly",
+      "词性",
+      "名词词组",
+      "school assembly",
+      "ly结尾"
+    ],
+    "answer": "不一定。assembly 虽然以 ly 结尾，但它是名词。Sunny 会提醒学生不要只看词尾猜词性，要看句子结构。比如 school ___ program 这种位置，很可能需要一个名词和 school、program 组成名词词组；如果硬填形容词，前后名词关系反而不顺。遇到看起来像副词的词，先查它在选项里的真实词性，再放回原句看能不能形成自然搭配。",
+    "source": "phase2-media local staging batch 154, reading FIB noun compound assembly",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-ability-to-base-verb",
+    "title": "FIB 里 ability to 后面选什么形式",
+    "keywords": [
+      "Reading FIB",
+      "ability to",
+      "动词原形",
+      "generate",
+      "词性",
+      "搭配"
+    ],
+    "answer": "ability to 后面通常要接动词原形。Sunny 会让学生先用这个结构排除掉非动词或变形不合的选项，再看语义搭配。比如 ability to ___ good ideas，generate good ideas 比 rise good ideas 自然得多。做 FIB 时不要一上来逐词翻译，先把 to do、be + done、and to do 这类结构抓出来，很多选项会自动被排掉。",
+    "source": "phase2-media local staging batch 154, reading FIB ability to verb form",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-lonely-lone-alone",
+    "title": "FIB 里 lonely、lone、alone 怎么区分",
+    "keywords": [
+      "Reading FIB",
+      "lonely",
+      "lone",
+      "alone",
+      "语域",
+      "形容词"
+    ],
+    "answer": "Sunny 会让学生把这三个词按语义和位置分开：lonely 偏主观感受，表示孤独；lone 更客观，常放在名词前，比如 lone parent；alone 也表示独自，但通常不直接放在名词前修饰。遇到单亲家庭、独自生活这类客观描述，不要因为中文都像“孤单”就选 lonely。FIB 里相近词要看感情色彩、能不能放在名词前，以及上下文是不是客观统计。",
+    "source": "phase2-media local staging batch 154, reading FIB lonely lone alone distinction",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-broad-word-over-narrow",
+    "title": "FIB 里意思都通时为什么选范围更大的词",
+    "keywords": [
+      "Reading FIB",
+      "选大不选小",
+      "behavior",
+      "habit",
+      "activity",
+      "语义范围"
+    ],
+    "answer": "当两个选项意思都能勉强放进去时，Sunny 会让学生比较语义范围。比如 habits 是行为的一部分，而 behavior 覆盖习惯和非习惯行为；如果后文还出现 activities 这类更宽的提示，behavior 往往比 habit 更贴。所谓“选大不选小”不是盲目选抽象词，而是在上下文讨论一个总概念时，用范围更能包住后文细节的词。",
+    "source": "phase2-media local staging batch 154, reading FIB broad word semantic range",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-example-reporting-verb",
+    "title": "FIB 里 for example 后面能帮忙选动词吗",
+    "keywords": [
+      "Reading FIB",
+      "for example",
+      "argue",
+      "reporting verb",
+      "上下文",
+      "语气"
+    ],
+    "answer": "能。Sunny 会让学生看到 for example 后，回到前一句看它在举什么例子。如果例子是某类人声称古典音乐比工人阶级音乐更 refined，空格里的动词就要能表达“提出观点/争辩”，argue 会比 doubt、pretend、deny 更合适。FIB 里例子不是闲笔，它常常说明前面的抽象判断该用什么语气和动作词。",
+    "source": "phase2-media local staging batch 154, reading FIB example reporting verb",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-predicate-reveals-missing-verb",
+    "title": "FIB 里怎么判断句子缺谓语",
+    "keywords": [
+      "Reading FIB",
+      "谓语",
+      "主语",
+      "宾语",
+      "词性判断",
+      "句子结构"
+    ],
+    "answer": "Sunny 会让学生先找一句话的主干：有没有主语、有没有谓语、有没有宾语或表语。比如 nearly 52% of all selfies ___ the appearance category，前面是主语，后面是宾语，中间明显缺谓语，就要去选动词或动词短语。这个判断比直接翻译快，也能避免把名词、形容词误塞进谓语位置。FIB 先补句子骨架，再用意思确认答案。",
+    "source": "phase2-media local staging batch 154, reading FIB predicate gap",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-we-memorized-material-content-risk",
+    "title": "WE 无脑模板会不会被判内容低",
+    "keywords": [
+      "WE",
+      "Essay",
+      "无脑模板",
+      "memorized material",
+      "content",
+      "预背材料"
+    ],
+    "answer": "有风险。Sunny 会提醒学生，WE 模板可以用来组织结构，但如果整篇几乎都是预背材料，只填 5-6 个题目关键词，内容就可能很空，甚至被识别成大量 memorized material。更稳的写法是：模板负责框架，自填句负责真正回答题目；观点、原因和例子要和 prompt 有明确关系。不要让所有同学同一道题写出几乎一模一样的段落，内容分不是靠背出来的空壳拿的。",
+    "source": "phase2-media local staging batch 154, WE memorized material content risk",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-multiple-choice-one-safe-answer-below-80",
+    "title": "80分以下阅读多选要不要硬选两个",
+    "keywords": [
+      "阅读多选",
+      "Multiple Choice Multiple Answers",
+      "80分以下",
+      "倒扣分",
+      "保守策略",
+      "时间分配"
+    ],
+    "answer": "不建议硬凑两个。Sunny 会提醒 80 分以下目标的学生，阅读多选选错会倒扣，没把握时可以按单选思路先保一个最确定的答案。单选和多选本身总分占比有限，考试里不要为了它们长时间纠结；能在一分钟左右做出判断就做，判断不出就选最合理的一个，把时间留给下拉、FIB 和 RO 这类更值得投入的题。",
+    "source": "phase2-media local staging batch 155, reading multiple choice conservative strategy",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-two-bank-vocab-grammar-rotation",
+    "title": "阅读 FIB 题库要不要越多越好",
+    "keywords": [
+      "Reading FIB",
+      "题库",
+      "词汇",
+      "语法",
+      "交错复习",
+      "下拉题"
+    ],
+    "answer": "不需要同时铺太多题库。Sunny 会按题库侧重点安排复习：有的题更偏词汇难度，有的题更偏语法和结构。更稳的做法是选 1-2 个核心来源交错练，比如今天练偏词汇的题，明天练偏语法的题；不要同时加入很多平台，把题目、选项和错因混在一起。FIB 的复盘重点不是刷过多少题，而是看自己错在词义、词性、搭配还是句子结构。",
+    "source": "phase2-media local staging batch 155, reading FIB bank rotation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-own-notes-not-pbt",
+    "title": "阅读课有 PBT 文件还要自己记笔记吗",
+    "keywords": [
+      "Reading FIB",
+      "PBT",
+      "课堂笔记",
+      "复盘",
+      "知识点",
+      "阅读课"
+    ],
+    "answer": "要自己记。Sunny 会提醒学生，PBT 或课件通常只是文章和题目，不会自动变成你的解题知识。上课时要把老师反复强调的词性判断、固定搭配、冠词线索、并列结构和错因写成自己的笔记。20 小时阅读课真正留下来的，应该是一份能复盘的个人方法清单，而不是一堆看过但课后很快忘掉的材料。",
+    "source": "phase2-media local staging batch 155, reading FIB own notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-learn-method-through-questions",
+    "title": "阅读 FIB 技巧能不能先背方法再做题",
+    "keywords": [
+      "Reading FIB",
+      "解题方法",
+      "题目载体",
+      "复盘",
+      "下拉题",
+      "技巧课"
+    ],
+    "answer": "单独背方法效果有限。Sunny 更倾向于把题目当成技巧载体：先在具体文章里判断空格词性、搭配、指代和上下文，再回头总结这一类题的做法。比如连续讲几篇文章后，再归纳哪些题靠冠词，哪些靠非谓语，哪些靠固定搭配。这样学生以后遇到同类题能迁移，而不是只记住一条抽象口号。",
+    "source": "phase2-media local staging batch 155, reading FIB methods through examples",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-colon-this-way-reference",
+    "title": "FIB 里冒号后面为什么可能选 this way",
+    "keywords": [
+      "Reading FIB",
+      "this way",
+      "冒号",
+      "指代",
+      "上下文",
+      "写作主题"
+    ],
+    "answer": "冒号常常提示后面是在解释前面的“方式”或具体做法。Sunny 会让学生看到 Think of your writing in ___ way 这类结构时，不只比较 this 和 other 的中文意思，还要看后面是否用冒号给出了方法说明。如果冒号后面就是这个方式的展开，this way 会比 other way 更贴，因为 this 指向上下文正在解释的那一种方式。",
+    "source": "phase2-media local staging batch 155, reading FIB colon this way",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-being-presented-topic",
+    "title": "FIB 里 being 后面的成分怎么判断",
+    "keywords": [
+      "Reading FIB",
+      "being",
+      "非谓语",
+      "presented topic",
+      "修饰名词",
+      "搭配"
+    ],
+    "answer": "being 开头的部分经常不是主句谓语，而是在修饰前面的名词或主题。Sunny 会让学生先问：它修饰谁？如果后面是 topic，就要找能自然修饰 topic 的词，比如 presented topic 表示“被呈现的主题”。像 surpass 或 refund 这类词即使认识，也不一定能和 topic 搭配。FIB 里判断非谓语时，要同时看语法位置和名词搭配。",
+    "source": "phase2-media local staging batch 155, reading FIB being presented topic",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-refer-to-as-fixed-phrase",
+    "title": "FIB 里 refer to as 是什么意思",
+    "keywords": [
+      "Reading FIB",
+      "refer to as",
+      "固定搭配",
+      "被称为",
+      "higher order thinking skills",
+      "词组"
+    ],
+    "answer": "refer to as 是高频固定搭配，意思是“把……称为”或“被称为”。Sunny 会让学生看到 often ___ to as higher order thinking skills 这类结构时，先找固定词组，而不是只逐词翻译。as 后面通常给出名称或标签，前面则是被命名的概念。这个结构一旦认出来，答案会比靠中文猜动词稳定很多。",
+    "source": "phase2-media local staging batch 155, reading FIB refer to as",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-diverge-from-similar-things",
+    "title": "FIB 里 diverge from 什么时候不合适",
+    "keywords": [
+      "Reading FIB",
+      "diverge from",
+      "相似事物",
+      "语义搭配",
+      "shock waves",
+      "wing"
+    ],
+    "answer": "diverge from 通常表示相似事物之间出现差异、偏离或分叉。Sunny 会提醒学生，不要只因为它中文像“不同”就硬套所有对象。比如 shock waves 和 airplane wing 本来就不是同类，说“冲击波和机翼不同”信息价值很低，搭配也别扭。遇到短语动词时，要看它要求的对象关系：是同类比较、方向移动、数量变化，还是因果影响。",
+    "source": "phase2-media local staging batch 155, reading FIB diverge from usage",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-parallel-past-verbs",
+    "title": "FIB 里 and listed 前面为什么也要用过去式动词",
+    "keywords": [
+      "Reading FIB",
+      "并列结构",
+      "过去式",
+      "required",
+      "listed",
+      "词性判断"
+    ],
+    "answer": "Sunny 会让学生先看 and 前后是不是在并列同一层动作。如果句子里已经出现 took 和 listed 这类过去式谓语，空格也可能要填同层的过去式动词，而不是分词或名词。比如一本词典花了很多年编写、___ six helpers、and listed many words，这里 required six helpers 在语义和时态上都能和前后动作并列。FIB 里看到 and，不要只翻译，要先问它在并列什么结构。",
+    "source": "phase2-media local staging batch 156, reading FIB parallel past verbs",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-in-detail-quotation-clue",
+    "title": "FIB 里为什么会选 in detail",
+    "keywords": [
+      "Reading FIB",
+      "in detail",
+      "介词短语",
+      "quotation",
+      "definition",
+      "上下文线索"
+    ],
+    "answer": "in 后面需要名词或名词性成分，所以先把选项词性筛一遍。Sunny 会让学生再看上下文：如果前面说 each word was defined，后面又说 definitions were illustrated with quotations，说明定义不只是简单给出，而是非常详细。这个时候 in detail 比只看中文硬猜更稳。FIB 里每一个、引用、解释说明这类线索，经常会共同指向“详细程度”。",
+    "source": "phase2-media local staging batch 156, reading FIB in detail clue",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-participle-covering-after-comma",
+    "title": "FIB 里逗号后 covering 怎么判断",
+    "keywords": [
+      "Reading FIB",
+      "covering",
+      "分词",
+      "逗号",
+      "quotations",
+      "后置修饰"
+    ],
+    "answer": "如果逗号前的句子已经有完整谓语，比如 was defined，逗号后又没有新的连接词，Sunny 会让学生优先考虑分词结构。definitions illustrated with quotations, ___ every branch of learning 这类句子里，covering 可以补充说明 quotations 覆盖了哪些范围。leading 表示导致或引导，不适合 every branch of learning；covering 才有“范围覆盖”的语义。先判定非谓语，再看搭配范围，速度会快很多。",
+    "source": "phase2-media local staging batch 156, reading FIB participle covering",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-sovereignty-own-responsibility",
+    "title": "FIB 里 own 反复出现为什么指向 sovereignty",
+    "keywords": [
+      "Reading FIB",
+      "sovereignty",
+      "own",
+      "responsibility",
+      "上下文",
+      "语义判断"
+    ],
+    "answer": "当 democracy、society、dependency、sovereignty 这类抽象名词都看起来能放进句子时，Sunny 会让学生回到上下文找反复词。前后如果一直说 countries must take full responsibility for their own development、each country has primary responsibility，就在强调国家对自身发展的自主权和主权。dependency 是反方向，society 太泛，democracy 可能相关但不如 sovereignty 贴住 own responsibility 这条线。",
+    "source": "phase2-media local staging batch 156, reading FIB sovereignty clue",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-cannot-be-overemphasized",
+    "title": "FIB 里 cannot be overemphasized 怎么理解",
+    "keywords": [
+      "Reading FIB",
+      "cannot be overemphasized",
+      "双重否定",
+      "emphasize",
+      "固定表达",
+      "选大不选小"
+    ],
+    "answer": "cannot be overemphasized 不是“不能强调”，而是“再怎么强调也不为过”，实际意思是非常重要。Sunny 会让学生先识别这个固定表达，再排除不能和 over 组成自然搭配的选项。如果候选里有 hear、think、emphasize 这类词，emphasize 通常比 hear 或 think 范围更大，也更符合政策、角色、重要性这类抽象语境。固定表达先抓住，中文直译就不会带偏。",
+    "source": "phase2-media local staging batch 156, reading FIB cannot be overemphasized",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-implement-vs-implementation",
+    "title": "FIB 里 implement 和 implementation 怎么区分",
+    "keywords": [
+      "Reading FIB",
+      "implement",
+      "implementation",
+      "词性",
+      "执行",
+      "工具"
+    ],
+    "answer": "implement 和 implementation 长得像，但词性和意思不能混。Sunny 会让学生记住：implement 作动词时是执行、实施，作名词时可以是工具；implementation 是名词，表示执行或实施过程。FIB 如果空格前后是 a plan of ___、the ___ of a policy 这类名词位置，通常要 implementation；如果是 to ___ a policy，才更可能是动词 implement。先分词性，再看搭配，别被相似拼写骗走。",
+    "source": "phase2-media local staging batch 156, reading FIB implement implementation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-although-not-sufficiently",
+    "title": "FIB 里 although 后面怎么判断 not sufficiently",
+    "keywords": [
+      "Reading FIB",
+      "although",
+      "not sufficiently",
+      "sufficiently",
+      "转折",
+      "逻辑方向"
+    ],
+    "answer": "although 的重点是前后让步对比，不能只看空格这一小块。Sunny 会让学生先看主句方向：如果前面说 they can perform a number of intellectual feats，是偏正向；although 后面如果带 not，就需要一个正向词让 not 之后变成负向，比如 not sufficiently 表示“不够充分”。vaguely、sparsely 本身已经偏负，再加 not 反而会把方向弄反。逻辑词题要看正负方向，不是只背词义。",
+    "source": "phase2-media local staging batch 156, reading FIB although not sufficiently",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-combined-postpositive",
+    "title": "FIB 里 categories combined 为什么表示加起来",
+    "keywords": [
+      "Reading FIB",
+      "combined",
+      "后置定语",
+      "categories",
+      "confined",
+      "比较"
+    ],
+    "answer": "combined 放在名词后面时，常表示“合起来、总共”。Sunny 会让学生看到 more popular than the other fourteen categories ___ 这类结构时，把 combined 理解成后置修饰：比其他 14 个类别加起来还受欢迎。confined 是受限的，语义不如 combined 能表达总和比较。FIB 里形容词或分词不一定都放在名词前，后置定语也要能识别。",
+    "source": "phase2-media local staging batch 156, reading FIB combined postpositive",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-writing-contribution-risk",
+    "title": "阅读 FIB 会不会影响写作分",
+    "keywords": [
+      "Reading FIB",
+      "写作分",
+      "交叉供分",
+      "FIB",
+      "成绩单",
+      "高权重"
+    ],
+    "answer": "会有影响，不能只把 FIB 当成阅读题看。Sunny 会提醒学生，阅读填空类题型不仅决定阅读表现，也可能通过词汇、语法和书写形式影响写作相关分数。成绩单里语法、词汇、拼写这些小项看起来不错，写作总分仍然低时，不要只盯 WE 模板，也要检查 FIB、SST、WFD 这些交叉供分题有没有漏词、词形或搭配问题。FIB 复盘要做到“为什么选这个词”，不是只背答案。",
+    "source": "phase2-media local staging batch 157, reading FIB writing contribution",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-ra-cross-score-reading",
+    "title": "RA 为什么也要从阅读角度重视",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "阅读分",
+      "交叉供分",
+      "口语",
+      "成绩诊断"
+    ],
+    "answer": "RA 不是只服务口语。Sunny 会让学生把 RA 当成阅读基础盘的一部分：你能不能准确看词、读完整词形、按意群读出句子，会影响机器对文本还原和语言识别的判断。阅读分低时，除了查 FIB、RO 和选择题，也要回听 RA：有没有漏词、读错词形、吞尾音或卡顿。RA 做稳后，阅读和口语诊断都会更清楚。",
+    "source": "phase2-media local staging batch 157, RA reading cross score",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fill-blanks-core-group",
+    "title": "阅读里两种填空为什么要当主力题练",
+    "keywords": [
+      "Reading FIB",
+      "FIBRW",
+      "FIBR",
+      "阅读大题",
+      "拖拽填空",
+      "下拉填空"
+    ],
+    "answer": "阅读里不要被选择题带跑主力训练。Sunny 会把两种填空题放在阅读核心组：下拉填空和拖拽填空数量多、考点集中，常常比单选多选更能拉开分差。选择题要会快速处理，但阅读想稳，必须把词性、词形、搭配、句子结构和上下文逻辑练出来。再加上 RA 的稳定朗读，阅读基础会比只刷选择题扎实得多。",
+    "source": "phase2-media local staging batch 157, reading fill blanks core group",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-high-frequency-not-per-exam",
+    "title": "阅读 FIB 高频命中率能不能按每场一半理解",
+    "keywords": [
+      "Reading FIB",
+      "高频题",
+      "命中率",
+      "预测",
+      "背答案",
+      "技巧训练"
+    ],
+    "answer": "不能这样理解。Sunny 会提醒学生，资料上写的命中率更多是整体样本感受，不代表你这一场一定遇到一半原题。有的人可能遇到好几篇，有的人一篇都没有；多数情况能遇到一两篇已经不错。备考时可以看高频降低陌生感，但不要把阅读提分押在压题上。真正要练的是遇到新空位时还能用词性、搭配和语义判断。",
+    "source": "phase2-media local staging batch 157, reading FIB high frequency caveat",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-drag-options-can-move",
+    "title": "拖拽 FIB 选项放上去后还能换吗",
+    "keywords": [
+      "Reading FIB",
+      "拖拽填空",
+      "选项移动",
+      "考试操作",
+      "FIBR",
+      "改答案"
+    ],
+    "answer": "可以换。Sunny 会提醒学生，拖拽 FIB 里选项被拖上去后，下面的选项池会少一个，但如果后面发现这个词更适合另一个空，可以把它从原来的空移走或重新调整。不要因为第一眼放错就慌，也不要最后不检查。更稳的流程是先做最确定的空，再处理有竞争关系的词，最后看有没有某个词放错位置导致后面更别扭。",
+    "source": "phase2-media local staging batch 157, reading drag FIB option movement",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-drag-many-options-narrow-range",
+    "title": "拖拽 FIB 选项很多时怎么不被吓住",
+    "keywords": [
+      "Reading FIB",
+      "拖拽填空",
+      "选项很多",
+      "词性",
+      "排除法",
+      "效率"
+    ],
+    "answer": "选项多时不要每个空都把 8-12 个词逐个硬带。Sunny 会让学生先把范围缩小：这个空需要名词、动词、形容词还是副词；需不需要复数、过去式、三单或非谓语；前后有没有固定搭配。先用形式和结构排掉明显不可能的词，再用句意选。拖拽题文章相对短，但选项池会制造压力，真正提速靠缩范围，不靠瞎扫。",
+    "source": "phase2-media local staging batch 157, reading drag FIB many options",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-preread-known-words",
+    "title": "RA 为什么会把认识的词读错",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "预读",
+      "看错词",
+      "barbershop",
+      "准确度"
+    ],
+    "answer": "很多 RA 错误不是不会这个词，而是准备时没看清。Sunny 会提醒学生，像 barbershop 这类本来认识的词，如果预读太粗，正式开口时可能看成另一个形状相近的词，读完才发现不对。准备时间里要先扫专有名词、复合词、长词和容易看错的尾巴；正式读时眼睛提前看后面一两个词。预读不是慢慢翻译，而是把会的词读对。",
+    "source": "phase2-media local staging batch 157, RA pre-read known words",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-back-nasal-tongue-position",
+    "title": "RA 里后鼻音太重会有什么问题",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "后鼻音",
+      "舌位",
+      "口音修正",
+      "清晰度"
+    ],
+    "answer": "如果中文口音里后鼻音或儿化感很重，Sunny 会让学生特别注意舌头不要往回缩。读 playing、industry 这类带鼻音或长词时，舌位过度后缩会让英文听起来像多了一层中文音色，影响清晰度。练习时可以先慢读，把舌头位置放在更靠前、更放松的位置，再放回 RA 句子里。口音不用完全消失，但关键词要让机器稳定识别。",
+    "source": "phase2-media local staging batch 157, RA nasal tongue position",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-score-breakdown-checklist",
+    "title": "SWT 评分小项怎么变成检查清单",
+    "keywords": [
+      "SWT",
+      "Summarize Written Text",
+      "评分小项",
+      "content",
+      "form",
+      "grammar",
+      "vocabulary"
+    ],
+    "answer": "SWT 不只是写完一句话就结束。Sunny 会把评分小项转成最后检查顺序：先看内容有没有抓到主旨，再看是否只有一句、词数合规；之后检查语法连接、主谓一致和关键词词形；最后看词汇是否准确。知道它按内容、格式、语法、词汇给分，就不会只盯字数，也不会把语法和关键词拼写当成小事。",
+    "source": "phase2-media local staging batch 158, SWT scoring breakdown",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-keyword-typo-content-risk",
+    "title": "SWT 关键词拼错为什么会伤内容分",
+    "keywords": [
+      "SWT",
+      "关键词",
+      "拼写",
+      "content",
+      "抄原文",
+      "检查"
+    ],
+    "answer": "SWT 里关键词拼错，不要只理解成普通 spelling 小错。Sunny 会提醒学生，SWT 没有单独把拼写当成一个孤立小项处理；如果核心关键词拼错或抄错，机器可能识别不到你覆盖了原文重点，内容分就会受影响。所以最后检查时要优先看主题词、人名地名、专有名词和反复出现的核心词，而不是只检查连接词好不好看。",
+    "source": "phase2-media local staging batch 158, SWT keyword spelling risk",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-simple-and-but-linking",
+    "title": "SWT 不确定逻辑时用什么连接最稳",
+    "keywords": [
+      "SWT",
+      "连接词",
+      "and",
+      "but",
+      "逻辑关系",
+      "安全写法"
+    ],
+    "answer": "SWT 连接关键句时，不确定前后到底是因果、解释还是并列，就不要硬套高级逻辑词。Sunny 会让学生先用简单稳定的 and 处理并列信息；如果能明确看出转折，再用 but。连接词的目标是让两段核心信息在一句话里语法成立，不是展示词汇量。越不确定，越要用自己能完全控制的结构。",
+    "source": "phase2-media local staging batch 158, SWT simple linking",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-avoid-unsafe-relative-appositive",
+    "title": "SWT 不会定语从句和同位语要不要硬用",
+    "keywords": [
+      "SWT",
+      "定语从句",
+      "同位语",
+      "语法风险",
+      "连接方法",
+      "基础学生"
+    ],
+    "answer": "不要硬用。Sunny 会提醒基础学生，SWT 可以用连词、状语、插入信息、同位语和定语从句来合并句子，但不是每种都必须用。如果定语从句和同位语还不熟，强行套进去很容易造成缺谓语、指代不清或句子断裂。考试里先用简单连词和自己会的结构把一句话写稳，复杂结构只在有把握时使用。",
+    "source": "phase2-media local staging batch 158, SWT unsafe complex linking",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-swt-leave-final-check-time",
+    "title": "SWT 为什么要专门留时间检查",
+    "keywords": [
+      "SWT",
+      "时间分配",
+      "检查",
+      "语法",
+      "关键词",
+      "格式"
+    ],
+    "answer": "SWT 十分钟不要全用来找句和拼接。Sunny 会让学生至少留出最后一小段时间检查，因为这道题的失分常发生在写完之后：多打一个句号、连接后语法不通、关键词抄错、词数超限或低于要求。检查顺序可以很固定：一句话、字数、句尾标点、连接处语法、关键词拼写。SWT 的安全感来自最后复核，不是写得越长越安全。",
+    "source": "phase2-media local staging batch 158, SWT final check time",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-swt-reading-cross-score-meaning",
+    "title": "SWT 为什么也要从阅读角度准备",
+    "keywords": [
+      "SWT",
+      "交叉评分",
+      "reading",
+      "writing",
+      "主旨",
+      "关键句"
+    ],
+    "answer": "SWT 表面是写作题，但 Sunny 会让学生把它当成阅读和写作共同训练。你要先读懂文章主旨、判断哪些句子是核心信息，再把它们压成一句英文；如果只是机械抄一句看起来长的原文，可能格式没错，但阅读理解没有体现出来。准备 SWT 时练抓主题句、重复词和逻辑信号，本质上也是在补阅读分。",
+    "source": "phase2-media local staging batch 158, SWT reading cross score",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rs-no-beep-progress-start",
+    "title": "RS 为什么不要等 beep 才开口",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "beep",
+      "进度条",
+      "录音状态",
+      "开口时机"
+    ],
+    "answer": "RS 的开口时机不要只靠等提示音。Sunny 会提醒学生，有些练习或考试界面里 RS 更关键的是看录音进度条或麦克风状态：一旦录音开始，就要把刚听到的句子顺着说出来。一直等一个不存在或不明显的 beep，可能让前面沉默变长，也会打断短时记忆。做 RS 时眼睛盯状态变化，耳朵和嘴巴接上句子节奏。",
+    "source": "phase2-media local staging batch 158, RS progress bar start",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-section-next-time-control",
+    "title": "口语整体计时为什么要做完就点 Next",
+    "keywords": [
+      "Speaking",
+      "口语整体计时",
+      "Next",
+      "时间管理",
+      "考试流程",
+      "节奏"
+    ],
+    "answer": "口语部分有整体计时，但 Sunny 不会让学生把注意力全放在总倒计时上。更实用的操作是每题完成后及时点 Next，不在空白等待里浪费时间。RA、RS、DI、RL、ASQ 等题型本身有自己的准备和作答节奏，只要按题完成并及时进入下一题，整体时间通常不会成为主要问题。真正要防的是做完后发呆、重复确认或忘记推进。",
+    "source": "phase2-media local staging batch 158, speaking section time control",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-dash-parentheses-explanation-skip",
+    "title": "阅读里破折号和括号一定要细看吗",
+    "keywords": [
+      "Reading",
+      "破折号",
+      "括号",
+      "解释说明",
+      "长句",
+      "略读"
+    ],
+    "answer": "不一定第一遍就细看。Sunny 会让学生把破折号和括号先当成解释说明区：如果前面的主干已经看懂，这一块可以先略过，避免被细节拖慢；如果前面完全不懂，再回来看里面是否给了定义或例子。阅读 FIB、RO 和细节题都一样，先抓主干和题目目标，再决定补充说明有没有必要精读。",
+    "source": "phase2-media local staging batch 159, reading punctuation explanation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-repeated-unknown-topic-label",
+    "title": "阅读里反复出现但不认识的专有名词怎么办",
+    "keywords": [
+      "Reading",
+      "专有名词",
+      "反复词",
+      "主题词",
+      "定位",
+      "不认识"
+    ],
+    "answer": "反复出现的陌生专有名词，不要卡在翻译上。Sunny 会让学生先把它当成主题标签，比如某个机构、人物、地点或作品名；知道它在文中反复出现，就能用它定位段落关系。做题时重点看它周围的动词、评价词、时间和因果，而不是强行查出中文名。能把陌生名词当标签追踪，阅读速度会稳很多。",
+    "source": "phase2-media local staging batch 159, reading repeated proper noun",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-colon-semicolon-aspect-count",
+    "title": "阅读里冒号后面怎么数 aspects",
+    "keywords": [
+      "Reading",
+      "冒号",
+      "分号",
+      "aspects",
+      "列表结构",
+      "细节题"
+    ],
+    "answer": "冒号后面如果是在列 aspects、types、reasons 这类内容，Sunny 会让学生看同一串列表到哪里结束。通常从冒号后开始，到最近的句号为止；中间的分号常常把并列项目分开。两个分号往往意味着三段并列信息。做细节题时不要只读冒号后的第一个短语，要把同一列表范围看完整，否则很容易漏掉后面的项目。",
+    "source": "phase2-media local staging batch 159, reading colon semicolon aspects",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-new-tasks-score-triage",
+    "title": "口语新题型什么时候要重点练",
+    "keywords": [
+      "Speaking",
+      "新题型",
+      "RTS",
+      "SGD",
+      "目标分",
+      "备考取舍"
+    ],
+    "answer": "新题型不要用同一个策略对待所有学生。Sunny 会按目标分和备考时间取舍：如果某个练习环境明确标注为试验题或不计分，且学生马上要出分、口语听力又很弱，就不要让它打乱主线；如果备考战线较长，或者学生本身能力强，可以把 RTS/SGD 当成额外模拟，练场景理解和自然回应。核心原则是先保高权重主线，再用新题补适应度。",
+    "source": "phase2-media local staging batch 159, new speaking task triage",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-long-short-vowels",
+    "title": "RA 里长音短音为什么不能混",
+    "keywords": [
+      "Pronunciation",
+      "RA",
+      "长音",
+      "短音",
+      "元音",
+      "清晰度"
+    ],
+    "answer": "长音和短音不是可有可无的小区别。Sunny 会提醒学生，easy 里的长元音、fix 里的短元音、service 和 banana 里的弱元音，听感都不一样。RA 里如果长音读短、短音拖长，单词边界和重音都会变模糊。练习时不要只追求速度，先把常错元音按长短和重音分清，再放回句子里读顺。",
+    "source": "phase2-media local staging batch 159, pronunciation long short vowels",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-open-vowels-answer",
+    "title": "answer 这类词为什么要注意开口大小",
+    "keywords": [
+      "Pronunciation",
+      "answer",
+      "apple",
+      "set",
+      "元音开口",
+      "RA"
+    ],
+    "answer": "很多元音错误不是声音太小，而是嘴型不对。Sunny 会用 set、apple、answer 这类词提醒学生，小开口和大开口的元音不能混成同一个音。比如 answer 如果读得太像小开口音，机器和听者都可能觉得词形不够清楚。练 RA 前可以把容易混的元音单独慢读几遍，看嘴型有没有真正打开，再回到完整句子。",
+    "source": "phase2-media local staging batch 159, pronunciation open vowel contrast",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-template-chunks-no-pause",
+    "title": "DI 模板短语中间能不能停顿",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "模板",
+      "固定短语",
+      "流利度",
+      "停顿"
+    ],
+    "answer": "DI 模板不是背下来就够，还要按块说顺。Sunny 会让学生把 which is around、according to this graph、the following graph shows 这类固定短语当成一个声音块，中间不要停。很多学生模板句本身会背，但每到连接词或数字前就断一下，流利度立刻掉。练习时先把固定块连续说 6-8 遍，再把图上的数字和标签放进去。",
+    "source": "phase2-media local staging batch 159, DI template chunks",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-study-wrong-method-repetition-risk",
+    "title": "为什么阶段练习前要先确认方法对不对",
+    "keywords": [
+      "Study",
+      "阶段检测",
+      "错因复盘",
+      "错误方法",
+      "口语训练",
+      "备考策略"
+    ],
+    "answer": "PTE 练习最怕用错方法刷很多遍。Sunny 会提醒学生，阶段检测的价值不是打分好看，而是确认自己有没有按正确方法做题：RA 有没有回读，DI 模板是不是一到数据就卡，WFD 有没有按错因复盘，FIB 是不是只背答案。如果方法错了，练得越多，错误习惯越牢。先检测、再修正、再加量，效率会更高。",
+    "source": "phase2-media local staging batch 159, stage check wrong method risk",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-passage-vs-sentence-input",
+    "title": "听力训练为什么要分文段型和句子型",
+    "keywords": [
+      "Listening",
+      "听力分类",
+      "文段型",
+      "句子型",
+      "输入单位",
+      "训练方法"
+    ],
+    "answer": "Sunny 会把听力训练先按输入单位拆开看：SST、选择题、HCS、SMW 这类更像文段型输入，重点是主题、态度、逻辑和关键信息；RS、WFD、FIB、HIW 这类更像句子或短语型输入，重点是精确听词和顺序。这样分不是为了背题型名称，而是让学生知道自己弱在宏观理解，还是弱在逐词捕捉。弱点不同，练习方法也不一样。",
+    "source": "phase2-media local staging batch 160, listening passage sentence grouping",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-sst-unused-time-not-carried",
+    "title": "SST 没用完的时间会留给后面听力题吗",
+    "keywords": [
+      "SST",
+      "Listening",
+      "时间管理",
+      "听力计时",
+      "考试流程",
+      "Summarize Spoken Text"
+    ],
+    "answer": "不会按这种方式变成后面题目的额外时间。Sunny 会提醒学生，SST 是独立计时题，给你的时间要用来听、记、组织和检查总结；提前写完可以检查拼写、语法和内容，不要误以为省下几分钟能带到后面的听力小题。后面的听力题更看共享倒计时和每题推进节奏，所以 SST 要在自己的时间内把质量做稳。",
+    "source": "phase2-media local staging batch 160, SST unused time not carried",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-mcq-options-prime-recognition",
+    "title": "听力选择题预读选项的真正作用是什么",
+    "keywords": [
+      "Listening",
+      "MCQ",
+      "选项预读",
+      "听词识别",
+      "题目预测",
+      "选择题"
+    ],
+    "answer": "预读选项不是让你提前猜出答案，而是给耳朵做识别准备。Sunny 会让学生先用题干或标题判断大方向，再快速看选项里的核心词，这样音频里一出现相同词、近义词或相反态度时，更容易抓住。不要把选项每个词都翻译完才开始听；预读的目标是降低听到关键词时的陌生感，而不是在音频前完成推理。",
+    "source": "phase2-media local staging batch 160, listening MCQ option priming",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-study-break-large-goal-small-targets",
+    "title": "备考目标太大时为什么要拆成小目标",
+    "keywords": [
+      "Study",
+      "备考心态",
+      "小目标",
+      "学习计划",
+      "执行力",
+      "PTE"
+    ],
+    "answer": "如果每天只盯着最终分数，备考很容易变成焦虑。Sunny 会让学生把大目标拆成当天能完成的小目标，比如 RA 纠正一类元音、WFD 复盘五个错因、FIB 整理一组词性判断。小目标不是降低要求，而是让进步有抓手。每天完成可检查的任务，信心会来自行动记录，而不是单靠情绪鼓劲。",
+    "source": "phase2-media local staging batch 160, study small targets",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-self-introduction-linked-chain",
+    "title": "Personal Introduction 怎么准备才不容易卡",
+    "keywords": [
+      "Personal Introduction",
+      "Speaking",
+      "自我介绍",
+      "口语热身",
+      "结构",
+      "考试流程"
+    ],
+    "answer": "Personal Introduction 可以准备成一条自然链条，而不是背一段很华丽的稿子。Sunny 会让学生按姓名、学习或工作身份、学校或职业、专业或方向、为什么考试或未来计划往下接。每一句都能引出下一句，内容就不容易断。它本身通常不是主要得分题，但能帮助你进入录音状态，所以要说清楚、说顺，不要临场乱编。",
+    "source": "phase2-media local staging batch 160, self introduction linked chain",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-self-introduction-mic-test-rehearsal",
+    "title": "为什么可以用自我介绍顺便检查麦克风",
+    "keywords": [
+      "Personal Introduction",
+      "麦克风",
+      "录音检查",
+      "Speaking",
+      "考试流程",
+      "热身"
+    ],
+    "answer": "考前或练习开始时，Sunny 会让学生把自我介绍当成一次轻量录音检查：声音有没有进麦、音量是否稳定、自己开口会不会太紧。不要只对着麦克风随便说一两个词就结束；用熟悉的自我介绍完整说一遍，更接近真实口语状态。这样既能检查设备，也能让第一道正式口语题前的嘴巴和节奏先打开。",
+    "source": "phase2-media local staging batch 160, self introduction mic rehearsal",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-decimal-percent-read-digits",
+    "title": "DI 里小数百分比应该怎么读",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "小数",
+      "百分比",
+      "数字读法",
+      "口语"
+    ],
+    "answer": "DI 读小数百分比时，Sunny 会让学生把 point 后面的数字一个一个读清楚。比如 36.25% 可以读成 thirty-six point two five percent，而不是把小数部分读成 twenty-five。这样读更稳，也更不容易在数字上卡住。练习时先把 percent、point、数字位拆开读顺，再放回完整模板句里，避免一看到小数就停顿。",
+    "source": "phase2-media local staging batch 160, DI decimal percent digits",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-picture-feature-bank",
+    "title": "DI 图片细节少时怎么撑起内容",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "图片题",
+      "细节库",
+      "口语流利度",
+      "内容组织"
+    ],
+    "answer": "遇到图片信息很少时，Sunny 会让学生用固定细节库补内容：前景和背景有什么、颜色和材质是什么、物体在左边还是右边、人物或建筑有什么明显动作和位置。不要因为没有数据就只说一句 this image shows。图片 DI 的重点是持续、清楚、有序地描述看得见的信息；先准备可复用的观察角度，临场就不容易空白。",
+    "source": "phase2-media local staging batch 160, DI picture feature bank",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-rl-no-single-standard-answer",
+    "title": "DI 和 RL 为什么没有唯一标准答案",
+    "keywords": [
+      "DI",
+      "RL",
+      "Describe Image",
+      "Retell Lecture",
+      "关键词",
+      "口语评分"
+    ],
+    "answer": "DI 和 RL 不像选择题那样有唯一标准答案。Sunny 会让学生理解：不同人看到同一张图或听同一段材料，抓到的重点和造句方式都可能不同，所以训练目标不是背一份固定答案，而是覆盖关键可见信息或讲座关键词，并保持声音连续清楚。答案可以有差异，但不能空、不能断、不能完全跑出题目。",
+    "source": "phase2-media local staging batch 161, DI RL no single answer",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-rl-mistake-keep-going",
+    "title": "DI/RL 说错语法要不要立刻改口",
+    "keywords": [
+      "DI",
+      "RL",
+      "自我纠正",
+      "语法错误",
+      "流利度",
+      "口语"
+    ],
+    "answer": "正式录音里不要因为一个单复数、时态或小语法错误立刻回头改。Sunny 会提醒学生，DI/RL 更怕的是卡顿、犹豫和音流断掉；一个小错误已经过去了，回头重说通常会制造更明显的停顿。平时练习当然要复盘语法，但考试开口后先把图中信息或讲座关键词继续说完，稳定输出比临场纠错更重要。",
+    "source": "phase2-media local staging batch 161, DI RL keep going after mistakes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-rl-frame-count",
+    "title": "DI 和 RL 界面怎么快速区分",
+    "keywords": [
+      "DI",
+      "RL",
+      "考试界面",
+      "播放框",
+      "图片",
+      "Retell Lecture"
+    ],
+    "answer": "不要只靠有没有图片来判断 DI 和 RL，因为 RL 也可能带图片或视频。Sunny 会让学生看界面结构：DI 通常是直接看图作答；RL 会多一个音频播放区域或提示框，让你先听材料再复述。切题型时要熟悉界面，不要因为看到图片就误以为一定是 DI，也不要等提示音才发现自己进入了 RL。",
+    "source": "phase2-media local staging batch 161, DI RL interface distinction",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-pen-test-no-prewritten-words",
+    "title": "考场试笔时能不能先写模板词",
+    "keywords": [
+      "考试流程",
+      "试笔",
+      "笔记板",
+      "模板",
+      "考场规则",
+      "PTE"
+    ],
+    "answer": "不要在试笔阶段写模板词、题型提示或任何像备考内容的单词。Sunny 会提醒学生，试笔只是确认笔能不能写，具体规则要听监考要求；有些考场会检查你在笔记板上写了什么。想试墨水，可以画线、打圈或随手涂几笔。不要为了提前写一点内容冒违规风险，考场流程里最不值得赌的就是规则边界。",
+    "source": "phase2-media local staging batch 161, exam pen test rules",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-replace-fading-marker-before-audio",
+    "title": "考场白板笔颜色变浅要不要换",
+    "keywords": [
+      "考试流程",
+      "白板笔",
+      "笔记",
+      "RL",
+      "听力",
+      "考场准备"
+    ],
+    "answer": "要尽早换。Sunny 会让学生试笔时稍微写得明显一点，观察墨水是不是发灰、断墨或颜色越来越浅。如果笔已经不稳，不要等到 RL、SST 或听力记笔记时才举手；监考过来更换也需要时间，音频不会等你。正式开始前把笔和板确认好，比中途抢救安全得多。",
+    "source": "phase2-media local staging batch 161, exam marker replacement",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-note-board-center-position",
+    "title": "口语考试时笔记板放哪里更稳",
+    "keywords": [
+      "考试流程",
+      "笔记板",
+      "麦克风",
+      "流利度",
+      "头部动作",
+      "口语"
+    ],
+    "answer": "Sunny 会建议把笔记板放在身体正前方、靠近键盘和胸前的位置，而不是偏到鼠标旁边。这样低头看笔记时头部移动更小，麦克风位置也更稳定。口语里夸张左右晃头可能让声音忽远忽近，影响录音连续性。考前调整座椅、键盘、笔记板和麦克风的位置，就是为了让正式开口时身体不用频繁找角度。",
+    "source": "phase2-media local staging batch 161, exam note board position",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rs-short-word-imitation-long-word-drop",
+    "title": "RS 没听清的词都要硬模仿吗",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "模仿",
+      "长单词",
+      "短单词",
+      "流利度"
+    ],
+    "answer": "不是所有没听清的词都值得硬模仿。Sunny 会让学生区分：一两个音节的短词，如果大概听到声音，可以顺着音模仿一下；三四个音节以上的长词，如果完全没抓住，硬模仿往往既不像，又会拖慢流利度。RS 的优先级是把听到的连续意群顺着说出来，长词没把握时宁可跳过，也不要为了它把整句说散。",
+    "source": "phase2-media local staging batch 161, RS imitation boundary",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rs-intonation-no-need-copy",
+    "title": "RS 要不要模仿原音频的语调起伏",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "语调",
+      "模仿",
+      "发音",
+      "流利度"
+    ],
+    "answer": "RS 不需要把原音频的语调起伏一模一样复制出来。Sunny 会提醒学生，重点是单词、重音、发音边界和连续复述；如果讲者用了疑问句上扬或很夸张的情绪起伏，你可以用更平稳的陈述节奏说出来。过度追语调容易让学生忘词或卡顿。先把听到的内容按顺序说清楚，再慢慢提高自然度。",
+    "source": "phase2-media local staging batch 161, RS intonation copy not required",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rs-content-words-clear-not-soft",
+    "title": "RS 里听到的实词为什么要说硬一点",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "实词",
+      "发音",
+      "犹豫",
+      "流利度"
+    ],
+    "answer": "RS 里凡是已经听清、能复述出来的实词，Sunny 会要求说得清楚、果断，不要软软地含过去。名词、动词、形容词和关键数字如果发得犹豫，机器听到的边界会很弱，发音和流利度都容易被压低。听不全可以少说一点，但说出来的核心词要像确认过的信息，不要像临时猜出来的声音。",
+    "source": "phase2-media local staging batch 162, RS clear content words",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-rs-function-words-lower-risk",
+    "title": "RS 漏一两个小语法词会不会很严重",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "虚词",
+      "语法词",
+      "小词",
+      "内容取舍"
+    ],
+    "answer": "RS 里漏掉一两个很轻的小语法词，通常没有漏掉核心意群那么严重。Sunny 会让学生优先保住听到的实词、主干和顺序；冠词、介词、助词这类小词能带上当然最好，但不要为了追回一个 off、to 或 the，把整句节奏打断。真正危险的是漏掉半句、乱序或停顿过长，而不是某个弱读小词没抓住。",
+    "source": "phase2-media local staging batch 162, RS function word priority",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rs-something-bridge-only-for-fluency",
+    "title": "RS 里能不能用 something 补没听到的词",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "something",
+      "补词",
+      "流利度",
+      "听不全"
+    ],
+    "answer": "something 不是万能补分词，只是一个流利度衔接工具。Sunny 会按学生情况判断：如果中间缺一块，直接跳过会卡住，可以用 something 把音流接过去；如果不加也能顺着说完，就不必硬加。它不能替代真正听到的内容，也不是发音分来源。使用原则是让句子不断，不是把没听清的地方全部塞满。",
+    "source": "phase2-media local staging batch 162, RS something bridge",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-rl-keywords-plus-continuity",
+    "title": "DI/RL 练习为什么要同时看关键词和连续性",
+    "keywords": [
+      "DI",
+      "RL",
+      "关键词",
+      "音波",
+      "流利度",
+      "口语评分"
+    ],
+    "answer": "DI/RL 不能只背模板，也不能只追求不停地说。Sunny 会把目标拆成两件事：答案里要有图中或音频里的关键词，同时声音要连贯、稳定、少卡顿。只说空模板，关键词不够；关键词很多但一个词停一下，音流又散。练习时先选 3-5 个安全关键词，再用熟模板把它们顺着说出来，这比临场乱堆信息更稳。",
+    "source": "phase2-media local staging batch 162, DI RL keywords and continuity",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-title-phrases-as-content",
+    "title": "DI 信息不够时能不能拆标题词组来用",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "标题",
+      "词组",
+      "内容分",
+      "模板填充"
+    ],
+    "answer": "可以把标题里的词组当作安全内容来源，但不要机械重复一句话。Sunny 会让学生把标题拆成几个可说的短语，分别放进模板的不同位置，比如主题、类别、对象或结论。标题通常是图中最明确的信息，比临场编背景更安全。信息少时，标题词组、颜色、位置和可见标签都能帮你撑住 30 秒左右的连续输出。",
+    "source": "phase2-media local staging batch 162, DI title phrases as content",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-wrong-color-direction-keep-flow",
+    "title": "DI 颜色或方位说错了要不要回头改",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "颜色",
+      "方位",
+      "自我纠正",
+      "流利度"
+    ],
+    "answer": "不要因为一个颜色或方位说错就立刻回头修。Sunny 会提醒学生，DI 里颜色、up/down/left/right 常用来补信息和维持时长；如果说错后停下来纠结，流利度损失更明显。发现说错了就继续说下一个可见信息，后面用标题、数字、标签或位置把答案接住。正式答题时先保连续输出，课后再纠正表达准确度。",
+    "source": "phase2-media local staging batch 162, DI color direction keep flow",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-waiting-card-mouth-warmup",
+    "title": "候考时拿到注意事项卡片可以做什么",
+    "keywords": [
+      "考试流程",
+      "候考",
+      "注意事项卡片",
+      "口语热身",
+      "RA",
+      "考前状态"
+    ],
+    "answer": "如果考场发了考试注意事项卡片，Sunny 会建议学生按规则安静读一读，让嘴巴先进入英文发声状态。它不是用来写模板或做笔记，而是一个低风险热身机会：看看英文说明、轻轻活动嘴部和呼吸，避免第一道正式口语时嘴巴还没打开。候考阶段能做的事情不多，把状态稳住就很有价值。",
+    "source": "phase2-media local staging batch 162, waiting card mouth warmup",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-static-noise-check-before-start",
+    "title": "试音时听到电流声或杂音怎么办",
+    "keywords": [
+      "考试流程",
+      "试音",
+      "电流声",
+      "杂音",
+      "耳机",
+      "麦克风"
+    ],
+    "answer": "试音回放不只是听自己声音大小，也要听有没有持续电流声、爆音或异常杂音。Sunny 会提醒学生，如果你没说话时耳机里仍有明显嗡嗡声，或一开口声音就炸掉，不要带着问题进入正式题。先按考场规则举手找监考处理，确认设备和麦克风位置后再继续。设备问题越早处理，越不容易影响后面的口语和听力。",
+    "source": "phase2-media local staging batch 162, exam static noise check",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-mic-normal-volume-not-shout",
+    "title": "口语考试需要对着麦克风大声喊吗",
+    "keywords": [
+      "Speaking",
+      "麦克风",
+      "音量",
+      "试音",
+      "口语",
+      "考场"
+    ],
+    "answer": "不需要喊。Sunny 会提醒学生，PTE 考场麦克风通常收音很敏感，正式口语用平时清楚说话的音量就够。声音太小会不稳，但刻意喊叫也可能让气流、爆破音和音波变形。试音回放时听自己的声音是否清楚、稳定、不炸麦；只要能被清楚接住，就保持这个自然音量进入正式题。",
+    "source": "phase2-media local staging batch 163, speaking normal microphone volume",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-playback-background-voice-perspective",
+    "title": "试音回放听到别人声音是不是麦克风坏了",
+    "keywords": [
+      "Speaking",
+      "试音",
+      "回放",
+      "考场噪音",
+      "麦克风",
+      "口语"
+    ],
+    "answer": "不一定。考场里回放时可能听到旁边人的声音，但 Sunny 会让学生比较音量层级：自己的声音应该最清楚、最靠前，背景声音通常更小。如果别人声音比自己还突出，或者自己的声音被盖住，就要按考场规则反馈设备或位置问题。不要因为听到一点背景音就慌，关键是自己的录音是否稳定清楚。",
+    "source": "phase2-media local staging batch 163, playback background voice check",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-mic-test-template-warmup",
+    "title": "试音时除了测喷麦还能说什么",
+    "keywords": [
+      "Speaking",
+      "试音",
+      "模板",
+      "DI",
+      "RL",
+      "口语热身",
+      "麦克风"
+    ],
+    "answer": "测完爆破音后，可以用自己熟悉的 DI 或 RL 模板做短热身。Sunny 会让学生在试音环节顺一下模板，不是为了背给系统听，而是检查这些句子在耳机里是否清楚，同时把嘴巴、喉咙和节奏打开。尤其早上考试时，刚开口容易僵，模板热身比随便说几句更接近正式口语状态。",
+    "source": "phase2-media local staging batch 163, mic test template warmup",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-smooth-speech-helps-rs-wfd",
+    "title": "为什么口语顺滑度也会影响 RS/WFD 听感",
+    "keywords": [
+      "Speaking",
+      "RS",
+      "WFD",
+      "连读",
+      "弱读",
+      "流利度",
+      "听力"
+    ],
+    "answer": "Sunny 会把口语和听力连起来训练：如果你自己读英文时总是一个词一个词断开，就很难听出录音里的弱读、连读和小词。RS 和 WFD 里很多漏词不是单纯记忆问题，而是耳朵不习惯连续音流。练 RA 或跟读时先模仿自然连贯的声音，把词组连成块；说得更像连续英文，听句子也会更容易抓住小词。",
+    "source": "phase2-media local staging batch 163, smooth speech supports RS WFD",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-smw-progress-bar-final-sentence",
+    "title": "SMW 为什么要盯音频进度条",
+    "keywords": [
+      "SMW",
+      "Select Missing Word",
+      "进度条",
+      "最后一句",
+      "听力",
+      "beep"
+    ],
+    "answer": "SMW 的关键不是开头拼命读选项，而是听到结尾逻辑。Sunny 会让学生播放时留意进度条，接近尾声时尤其集中，因为被 beep 盖住的通常是最后一句的结尾。最好把最后一句的大意和语法关系留住，再用选项去补自然收尾。前面听主题，后面守结尾，才不会被 beep 一响就乱猜。",
+    "source": "phase2-media local staging batch 163, SMW progress bar final sentence",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-hcs-do-not-pick-while-listening",
+    "title": "HCS 能不能边听边把选项选完",
+    "keywords": [
+      "HCS",
+      "Highlight Correct Summary",
+      "听力",
+      "选项顺序",
+      "整体印象",
+      "summary"
+    ],
+    "answer": "HCS 不适合边听边急着定答案。Sunny 会提醒学生，正确摘要的证据可能分布在音频不同位置，选项顺序也不一定跟音频顺序一致；有的选项还需要综合几句话判断。更稳的是播放时先专心听主题、对象、原因和结果，形成整体印象，音频结束后再看哪个选项最能覆盖主线。听的时候忙着对选项，很容易漏后面的反证。",
+    "source": "phase2-media local staging batch 163, HCS choose after listening",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-mcq-no-option-pattern-gaming",
+    "title": "听力选择题能靠选项规律猜答案吗",
+    "keywords": [
+      "Listening",
+      "MCQ",
+      "选项规律",
+      "多选",
+      "听力选择题",
+      "时间管理"
+    ],
+    "answer": "不要靠选项之间的表面规律猜答案。Sunny 会提醒学生，PTE 听力选择题不会稳定地给你“两个相似必有一对一错”这类捷径。每个选项都要回到音频证据判断，拿不准就保守处理，不要反复比较选项找暗号。选项互相猜来猜去最容易耗时间，最后影响 WFD 这类更值得保护的题。",
+    "source": "phase2-media local staging batch 163, listening MCQ no option pattern",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-mcq-five-second-topic-scan",
+    "title": "听力选择题只有几秒预读先看什么",
+    "keywords": [
+      "Listening",
+      "MCQ",
+      "预读",
+      "topic",
+      "about",
+      "听力选择题"
+    ],
+    "answer": "预读时间很短时，不要试图把题干和选项逐句读完。Sunny 会让学生先跳着看主题词和问题目标，比如 about 后面常常给出话题，选项里重复出现的名词也能提示音频范围。先知道它大概讲论文困难、研究主题、材料功能还是人物观点，音频开始后才有抓手。预读是定方向，不是提前完成阅读理解。",
+    "source": "phase2-media local staging batch 163, listening MCQ five second scan",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-rs-defensive-scoring-strategy",
+    "title": "RA 和 RS 为什么要按少丢分策略练",
+    "keywords": [
+      "Speaking",
+      "RA",
+      "RS",
+      "少丢分",
+      "标准答案",
+      "口语",
+      "复习策略"
+    ],
+    "answer": "RA 和 RS 都不是单靠模板就能救的题。Sunny 会让学生把它们当成防守型高权重题：RA 先看得准、读得完整，RS 先听到主干和意群；考试时目标不是临场创造奇迹，而是把自己能力范围内的分稳定拿住。遇到难句不要因为一个词乱掉整句，清晰、顺序和连续输出比硬追完美更重要。",
+    "source": "phase2-media local staging batch 164, RA RS defensive scoring",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-rs-practice-needs-audio",
+    "title": "RS 能不能只看文本练",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "音频",
+      "跟读",
+      "模仿",
+      "复述",
+      "口语"
+    ],
+    "answer": "RS 不能只看文本练。Sunny 会提醒学生，RS 的输入本来就是音频，只看句子最多帮你认识单词，不能训练听觉反应、短时记忆和开口复述。更稳的练法是先听原音频，跟读模仿节奏，再遮住文本做复述，最后才用文本核对漏词和顺序。文本是复盘工具，不是 RS 训练的主材料。",
+    "source": "phase2-media local staging batch 164, RS audio based practice",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-practice-strict-scoring-calibration",
+    "title": "练习平台为什么要用更严格的评分校准",
+    "keywords": [
+      "Speaking",
+      "RA",
+      "练习平台",
+      "严格评分",
+      "校准",
+      "发音",
+      "流利度"
+    ],
+    "answer": "练习平台不要只追求看起来好看的分数。Sunny 会建议学生偶尔把评分标准调严格一些，用它暴露发音、停顿和流利度问题：如果宽松模式能过，严格模式一读就掉分，说明考试里仍可能不稳。严格评分不是用来吓自己，而是用来校准训练标准；发现问题后回到具体句子，修清楚再加量。",
+    "source": "phase2-media local staging batch 164, strict scoring calibration",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-sentence-paragraph-loop",
+    "title": "RA 为什么要一句练完再回到整段",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "整段练习",
+      "句子练习",
+      "流利度",
+      "嘴型",
+      "节奏"
+    ],
+    "answer": "RA 练习可以按“一句到整段”的循环做。Sunny 会让学生先把单句读到发音清楚、停顿自然，再回头把整段连起来读一遍，确认句子之间的节奏没有散。然后再进入下一段的单句练习。这个方法看起来慢，但它训练的是嘴型灵活度和整段连续感，比一口气刷很多篇却每篇都卡更有效。",
+    "source": "phase2-media local staging batch 164, RA sentence paragraph loop",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-quality-over-volume",
+    "title": "RA 练习为什么不要只追求篇幅",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "练习质量",
+      "录音复盘",
+      "发音",
+      "流利度",
+      "口语"
+    ],
+    "answer": "RA 不是练得篇幅越长越好。Sunny 会要求学生把标准放高：哪怕时间只够 15 分钟，也要把一两句读到清楚、顺、少回读，再录音复盘。半小时刷很多段但每段都含糊，容易把错误习惯练牢。每天少量高质量输出，配合录音或反馈修正，才能真正改善发音和流利度。",
+    "source": "phase2-media local staging batch 164, RA quality over volume",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-hcs-meaning-not-near-synonym",
+    "title": "HCS 近义词为什么也可能是错选项",
+    "keywords": [
+      "HCS",
+      "Highlight Correct Summary",
+      "近义词",
+      "语义精度",
+      "听力",
+      "选项陷阱",
+      "summary"
+    ],
+    "answer": "HCS 不能看到选项和原文很像就直接选。Sunny 会让学生检查意义关系有没有被换掉：peace 不等于 equality，political group 也不一定能改成 religious group。正确摘要要保留原音频的核心关系、对象和态度，而不是只堆相似词。遇到近义替换时，先问它有没有改变范围、因果或对象身份，再决定是不是正确摘要。",
+    "source": "phase2-media local staging batch 164, HCS meaning precision",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-the-linking-pattern",
+    "title": "the 为什么要按后面单词调整读法",
+    "keywords": [
+      "发音",
+      "the",
+      "冠词",
+      "连读",
+      "弱读",
+      "RA",
+      "pronunciation"
+    ],
+    "answer": "the 是高频功能词，读法不稳会反复影响 RA 和听力听感。Sunny 会让学生按后面单词来处理：后面接辅音时轻轻读成短的 the，后面接元音时更容易拉成 the apple 这类连贯声音。重点不是把冠词读得很重，而是让它自然存在，并和后面的词接上。功能词稳定了，句子会更像连续英文。",
+    "source": "phase2-media local staging batch 164, the linking pattern",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-final-s-voicing",
+    "title": "词尾 s 为什么不能都读成同一个音",
+    "keywords": [
+      "发音",
+      "词尾 s",
+      "复数",
+      "清浊",
+      "RA",
+      "DI",
+      "pronunciation"
+    ],
+    "answer": "词尾 s 不是永远读成一个硬硬的 /s/。Sunny 会让学生注意前一个音的清浊和发音位置：有些结尾要轻一点，有些更接近 /z/，有些需要多出一个短音节。RA、DI 和 RS 里大量复数、第三人称和名词结尾都靠这个细节让词形清楚。练习时不要把 s 拖得很重，也不要直接吞掉；轻、准、不断节奏最稳。",
+    "source": "phase2-media local staging batch 164, final s voicing",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-no-substitute-unknown-word",
+    "title": "RA 遇到不会读的词能不能换成别的词",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "生词",
+      "换词",
+      "跳词",
+      "发音",
+      "流利度"
+    ],
+    "answer": "RA 里不会读的词不要随便换成另一个词。Sunny 会把选择分清：有把握时按拼读规则猜读，完全没把握时可以轻轻跳过或快速带过，但不要把它替换成 something、banana 这类无关词。换词会让声音和文本明显不匹配，比少读一个难词更危险。平时再把跳过的词单独查音、补练。",
+    "source": "phase2-media local staging batch 165, RA unknown word substitution",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-fossilized-word-drill",
+    "title": "查过发音还是读错的词怎么练",
+    "keywords": [
+      "RA",
+      "发音",
+      "错词",
+      "肌肉记忆",
+      "单词重音",
+      "复盘",
+      "口语"
+    ],
+    "answer": "有些词不是查一次音标就能改，因为旧读法已经变成肌肉记忆。Sunny 会让学生把这种词从整句里拿出来，单独慢读很多遍，直到看到它能自动说出正确读法，再放回短语和 RA 句子里。不要只在错题本里写中文意思，重点记录重音、主要元音和自己原来错在哪里。改一个顽固词，比泛泛刷十篇更有用。",
+    "source": "phase2-media local staging batch 165, RA fossilized pronunciation drill",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-asq-fixed-vs-flexible-answers",
+    "title": "ASQ 答案什么时候能用近义词",
+    "keywords": [
+      "ASQ",
+      "Answer Short Question",
+      "固定答案",
+      "近义词",
+      "短问答",
+      "口语",
+      "机经"
+    ],
+    "answer": "ASQ 有些题可以接受自然近义答案，比如问发表论文的地方，periodical 和 journal 都可能贴题；但有些是固定常识或固定名称，比如一年四次、季度这类，就不能随便换。Sunny 会让学生复盘时把答案分成两类：可替换表达和必须固定记忆。考试里先给最标准、最短的答案，不要为了显得灵活把固定答案说变形。",
+    "source": "phase2-media local staging batch 165, ASQ fixed versus flexible answers",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-asq-uncertain-answer-mini-list",
+    "title": "ASQ 不确定的答案要怎么整理",
+    "keywords": [
+      "ASQ",
+      "Answer Short Question",
+      "考前复习",
+      "错题整理",
+      "发音",
+      "反应速度",
+      "口语"
+    ],
+    "answer": "ASQ 不需要占用大块主线时间，但不确定的答案要单独整理。Sunny 会让学生把“想不出来、容易犹豫、发音不稳”的短答案列成一个小清单，平时扫一遍，考前两三天再快速过一次。整理时只保留最短、最稳的答案和读法，不要把每题写成大段解释。ASQ 的目标是减少愣住，而不是背百科全书。",
+    "source": "phase2-media local staging batch 165, ASQ uncertain answer review",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-vocabulary-meaning-pos-not-spelling",
+    "title": "阅读生词要不要都背拼写",
+    "keywords": [
+      "Reading",
+      "阅读词汇",
+      "生词",
+      "词性",
+      "FIB",
+      "拼写",
+      "复盘"
+    ],
+    "answer": "阅读里遇到冷门生词，不一定都要背到会拼。Sunny 会让学生先确认三件事：大概意思、词性、常见搭配。阅读 FIB 和 RO 更常考你能不能判断它在句子里做名词、动词还是形容词，以及能不能和前后词搭上；拼写优先级通常低于 WFD 和听力 FIB。冷门词了解即可，高频词再进入精背。",
+    "source": "phase2-media local staging batch 165, reading vocabulary meaning and part of speech",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-be-plus-preposition-check",
+    "title": "FIB 里 be 动词后有介词该先想什么",
+    "keywords": [
+      "FIB",
+      "Reading",
+      "be 动词",
+      "介词",
+      "形容词",
+      "过去分词",
+      "词性"
+    ],
+    "answer": "FIB 里看到 be 动词后面有空格，别下意识只找 ing 或 ed。Sunny 会让学生先看空格后面有没有介词：如果是 be ___ with/about/to 这类结构，可能需要形容词加介词搭配；如果后面是 by，则更可能是过去分词形成被动。判断顺序是先看句子框架，再看介词提示，最后用意思确认。这样能避免只靠词尾乱选。",
+    "source": "phase2-media local staging batch 165, reading FIB be verb and preposition clue",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-gerund-infinitive-subject-singular",
+    "title": "动名词或不定式做主语时谓语怎么选",
+    "keywords": [
+      "WE",
+      "写作",
+      "主谓一致",
+      "动名词",
+      "不定式",
+      "语法",
+      "谓语"
+    ],
+    "answer": "WE 里如果 to do 或 doing 这一整件事做主语，谓语通常按单数处理。Sunny 会提醒学生不要被里面的复数名词带偏，比如“提高多个标准”这件事本身仍是一个动作或事件。写作检查时先圈真正主语，不要只看离谓语最近的名词。主谓一致这种小错很常见，也很容易通过固定检查减少。",
+    "source": "phase2-media local staging batch 165, writing gerund infinitive subject agreement",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-swt-shorter-limit-main-clause",
+    "title": "PTE Core 的 SWT 为什么更要会删修饰",
+    "keywords": [
+      "PTE Core",
+      "SWT",
+      "Summarize Written Text",
+      "词数",
+      "主干",
+      "修饰成分",
+      "写作"
+    ],
+    "answer": "PTE Core 的 SWT 词数空间更紧，不能把 Academic 的长句拼接习惯直接搬过去。Sunny 会让学生先保主干：主题是谁、发生了什么、核心原因或结果是什么；再删掉不影响主旨的例子、重复解释和过长修饰。删减时不能把句子切残，答案仍要是一句完整英文。Core SWT 的关键是短而完整，不是把所有细节塞进去。",
+    "source": "phase2-media local staging batch 165, PTE Core SWT shorter word limit",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-flap-t-middle-words",
+    "title": "water、ladder 里的 t 为什么不像硬 t",
+    "keywords": [
+      "发音",
+      "flap t",
+      "water",
+      "ladder",
+      "city",
+      "visitor",
+      "RA"
+    ],
+    "answer": "美式发音里，water、batter、ladder、city、visitor 这类词中间的 t 常会变成轻快的闪音，听起来不像一个完整爆破的硬 t。Sunny 会让学生先慢速确认音节，再把舌头轻轻一弹，不要把每个 t 都炸出来。RA 里这种处理能让声音更省力、更连续，但前提是单词本身仍然清楚可识别。",
+    "source": "phase2-media local staging batch 166, flap t pronunciation drill",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-s-cluster-light-stop",
+    "title": "student、school 这类 s 后辅音怎么读",
+    "keywords": [
+      "发音",
+      "s cluster",
+      "student",
+      "school",
+      "spirit",
+      "statistics",
+      "RA"
+    ],
+    "answer": "s 后面接 p、t、k 这类辅音时，不要把第二个辅音读得像单独开头那么用力。Sunny 会用 student、school、spirit、statistics 这类词提醒学生：s 后面的爆破要轻一点，声音顺过去，会更省气力。练习时别为了“清楚”把 st、sk、sp 拆成两个很重的音，否则 RA 和模板口播会显得断。",
+    "source": "phase2-media local staging batch 166, s cluster light stop pronunciation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-template-modules-by-image-type",
+    "title": "DI 能不能所有图都套 largest number",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "模板",
+      "数字图",
+      "流程图",
+      "地图",
+      "图片题"
+    ],
+    "answer": "DI 模板要按图型准备模块，不能所有题都只会 largest number 和 smallest number。Sunny 会让学生把数据图、地图、流程图和图片题分开练：数据图说最大最小、趋势和单位；流程图说步骤；地图说方位、颜色和图例；图片题说可见对象和位置。只背数字模板，遇到非数据图就容易空转。模板要服务图，不是让图迁就模板。",
+    "source": "phase2-media local staging batch 166, DI template modules by image type",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-color-as-secondary-rescue",
+    "title": "DI 颜色信息什么时候要说",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "颜色",
+      "主次信息",
+      "补充信息",
+      "流利度",
+      "图片题"
+    ],
+    "answer": "DI 里颜色不是第一优先级。Sunny 会让学生先说标题、类别、数字、趋势或方位；如果图中文字和数据很多，颜色完全可以不讲。相反，如果图片信息少、时间还没撑起来，颜色可以作为补充，比如某条线是 purple、orange 或 pink。颜色是救场信息，不要把它放在关键内容前面。",
+    "source": "phase2-media local staging batch 166, DI color as secondary rescue",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-wfd-first-words-trigger-memory",
+    "title": "WFD 高频句要熟到什么程度",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "高频",
+      "熟练度",
+      "听写",
+      "换题",
+      "听力"
+    ],
+    "answer": "WFD 高频句不能只是“看过”。Sunny 会要求学生把近期高频练到前几个词一出来，就大概知道后面是哪一句、讲什么内容。这样考试里即使音频有弱读或噪音，也能靠句子熟悉度补住结构。刷题时至少过两三遍，第一遍认句子，第二遍补漏词和拼写，第三遍把冠词、介词、复数和标点习惯一起检查。",
+    "source": "phase2-media local staging batch 166, WFD first words trigger memory",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-sst-abbreviations-must-be-readable",
+    "title": "SST 笔记缩写为什么不能太潦草",
+    "keywords": [
+      "SST",
+      "Summarize Spoken Text",
+      "缩写",
+      "笔记",
+      "听力",
+      "关键词",
+      "符号"
+    ],
+    "answer": "SST 可以用缩写和符号，但前提是自己回看时认得出来。Sunny 会提醒学生，缩写不是越短越好；长词可以保留首尾或关键辅音，常见逻辑可以用箭头、问号、正负号，但每个符号都要有固定含义。听到 people 这类词，如果中文写得更快也可以。笔记的目标是快且可还原，不是写一堆考后自己也看不懂的暗号。",
+    "source": "phase2-media local staging batch 166, SST readable abbreviation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-sst-fill-template-countability",
+    "title": "SST 填词模板里名词还要管单复数吗",
+    "keywords": [
+      "SST",
+      "Summarize Spoken Text",
+      "填词模板",
+      "名词词组",
+      "冠词",
+      "复数",
+      "语法"
+    ],
+    "answer": "要管。SST 基础模板可以降低造句风险，但填进去的名词词组仍然要符合基本语法。Sunny 会提醒学生，可数名词不要裸着放：要么加 a/the 等冠词，要么按语境用复数；不可数名词则不要机械加 s。填词模板的本质是把关键词安全放进句子里，如果词形和冠词乱了，模板再熟也会丢语法稳定性。",
+    "source": "phase2-media local staging batch 166, SST fill template countability",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-ro-result-versus-result-of",
+    "title": "RO 里 as a result 和 as a result of 有什么区别",
+    "keywords": [
+      "RO",
+      "阅读排序",
+      "as a result",
+      "as a result of",
+      "因果",
+      "逻辑词",
+      "阅读"
+    ],
+    "answer": "as a result 和 as a result of 不是同一个连接方式。Sunny 会让学生把 as a result 看成“所以/结果是”，它通常承接前一句原因；as a result of 更像“由于……”，后面接原因短语，因果关系可能主要在本句内部。做 RO 时看到它们，不要只看到 result 就往后排，要判断它是在接前文，还是在句子里引出原因。",
+    "source": "phase2-media local staging batch 166, RO as a result distinction",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-sst-ten-plus-content-phrases",
+    "title": "SST 笔记至少要抓多少内容词",
+    "keywords": [
+      "SST",
+      "Summarize Spoken Text",
+      "内容词",
+      "名词词组",
+      "笔记",
+      "内容分",
+      "听力"
+    ],
+    "answer": "Sunny 会把 SST 的基础目标说得很具体：一篇文章尽量抓到十个以上有效单词或词组，内容分才更稳。这里不是让学生抄满整页，而是优先记主题名词、名词词组、关键形容词和少量能表达关系的动词。目标 50-65 的学生，先让答案里有足够多原文重点词，再谈复杂句和漂亮逻辑。",
+    "source": "phase2-media local staging batch 167, SST content phrase count",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-sst-note-line-density",
+    "title": "SST 纸上笔记一行写多少点",
+    "keywords": [
+      "SST",
+      "笔记",
+      "纸笔",
+      "名词词组",
+      "虚词",
+      "总结",
+      "听力"
+    ],
+    "answer": "SST 笔记不要把一行塞得太满。Sunny 更推荐一行最多一到两个有效点，最好是名词、名词词组或形容词名词组合；the、of、and 这类没有内容分的虚词可以少写。这样写的好处是听完后能马上看懂自己的笔记，不会在组织 summary 时被一团缩写拖住。",
+    "source": "phase2-media local staging batch 167, SST note density",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-sst-fill-template-order-flexible",
+    "title": "SST 填词模板必须按原文顺序吗",
+    "keywords": [
+      "SST",
+      "填词模板",
+      "原文顺序",
+      "内容分",
+      "语法",
+      "拼写",
+      "模板"
+    ],
+    "answer": "基础填词模板不需要死守原文顺序。Sunny 会提醒学生，填进去的词组只要来自原文重点，数量够、拼写对、语法形态合理，就能托住基础内容分。不要为了排序纠结到写不完；先把主题词、关键对象和重要名词词组安全放进句子，再检查冠词、复数和拼写。",
+    "source": "phase2-media local staging batch 167, SST fill template order",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-sst-template-by-grammar-level",
+    "title": "SST 填句子还是填词模板怎么选",
+    "keywords": [
+      "SST",
+      "模板",
+      "填句子",
+      "填词",
+      "语法基础",
+      "名词词组",
+      "写作"
+    ],
+    "answer": "SST 模板要按自己的语法稳定度选。Sunny 会让语法基础弱、听到内容较少的学生先用填词模板，只填名词和名词词组，减少自己造句的错误；如果学生能听到更多信息，也能写出没有明显语法错误的句子，再用填句子模板。模板不是越复杂越好，真正目标是把听到的重点安全写成 50-70 词。",
+    "source": "phase2-media local staging batch 167, SST template choice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-wfd-score-based-accuracy-target",
+    "title": "WFD 正确率要按目标分定到多少",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "正确率",
+      "目标分",
+      "听力",
+      "写作",
+      "高频"
+    ],
+    "answer": "WFD 练习不要只问“刷了几遍”，还要按目标分看正确率。Sunny 通常会让目标 50 左右的学生先把高频句做到大约七成稳定；目标 65 左右要逐步推到八成上下；更高目标则要继续减少冠词、复数、时态和拼写漏分。正确率目标越清楚，复盘才不会只停留在“这句我听过”。",
+    "source": "phase2-media local staging batch 167, WFD accuracy target",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-wfd-after-audio-check-minute",
+    "title": "WFD 音频后的时间怎么用",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "检查",
+      "大小写",
+      "句号",
+      "漏词",
+      "听写"
+    ],
+    "answer": "WFD 音频结束后不要立刻放空。Sunny 会让学生把剩下的时间用来补漏词、检查首字母大写、句号、单复数、时态和介词冠词。听的时候先把能抓住的主干写下，音频后再靠语法和熟悉度把小词补回来。这个检查阶段常常能救回一两个有效词，比盲目跳下一题更值。",
+    "source": "phase2-media local staging batch 167, WFD after-audio check",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-record-swallowed-phrases",
+    "title": "RA 每天 30 分钟要盯哪类词组",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "吞音",
+      "录音复盘",
+      "意群",
+      "发音",
+      "流利度"
+    ],
+    "answer": "RA 日常练习不只是把文章读一遍。Sunny 会让学生专门记录自己容易吞音、卡顿或读糊的词组，每天用一段时间反复读、录音、回听。重点不是刷很多新题，而是把反复出问题的意群读到嘴巴顺、声音清楚、词尾交代出来。这样复盘比单纯看平台分数更能修正真实扣分点。",
+    "source": "phase2-media local staging batch 167, RA swallowed phrase recording",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-voice-out-of-throat",
+    "title": "RA 声音为什么不能囤在喉咙里",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "声音",
+      "嘴型",
+      "清晰度",
+      "发音",
+      "重音"
+    ],
+    "answer": "RA 声音太小、太闷时，很多会读的词也会被识别得不清楚。Sunny 会提醒学生把声音送出来，嘴型打开，内容词和重读音节要有一点力量，而不是用很温柔的小声音含在喉咙里。清晰度不是喊叫，而是让每个重点词有足够的口型和声量支撑。",
+    "source": "phase2-media local staging batch 167, RA voice projection",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-ro-first-sentence-two-tests",
+    "title": "RO 首句怎么用两个条件排除",
+    "keywords": [
+      "RO",
+      "阅读排序",
+      "首句",
+      "指代词",
+      "转折词",
+      "主题句",
+      "阅读"
+    ],
+    "answer": "RO 找首句时，Sunny 会让学生先做两个测试：形式上要独立，通常不带 this、it、the former、however、but 这类明显依赖前文的词；内容上要更宽泛，像背景介绍或中心句。若两句都形式独立，就比较主干意思，哪一句更像开场介绍，哪一句更像后面的细节说明。",
+    "source": "phase2-media local staging batch 168, RO first sentence tests",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-ro-general-before-specific-frame",
+    "title": "RO 为什么常按总分框架排",
+    "keywords": [
+      "RO",
+      "阅读排序",
+      "总分结构",
+      "背景句",
+      "细节句",
+      "文章框架",
+      "阅读"
+    ],
+    "answer": "很多 RO 不是靠逐句翻译排出来，而是靠总分框架。Sunny 会让学生先找介绍概念、人物、节日、书或现象的宽泛句，再把版本、流程、特点、原因、好处等细节放到后面。最后检查时也看这条线：文章是不是先立主题，再展开解释，而不是一上来就进入很窄的细节。",
+    "source": "phase2-media local staging batch 168, RO general-to-specific frame",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-ro-three-minute-split",
+    "title": "RO 三分钟怎么分配",
+    "keywords": [
+      "RO",
+      "阅读排序",
+      "三分钟",
+      "两两配对",
+      "检查",
+      "限时",
+      "阅读"
+    ],
+    "answer": "RO 不适合无限精读。Sunny 的限时思路是三分钟左右一题：前两分半先确定首句并做两两配对，最后三十秒从前往后通读，检查因果、转折、指代和总分关系是否成立。如果两分半还没完全确定，也要先放出最有把握的对子，避免整题被一个难点拖住。",
+    "source": "phase2-media local staging batch 168, RO three-minute split",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-first-sentence-theme-anchor",
+    "title": "阅读 FIB 为什么先看第一句",
+    "keywords": [
+      "FIB",
+      "阅读填空",
+      "第一句",
+      "主题句",
+      "上下文",
+      "主干",
+      "阅读"
+    ],
+    "answer": "阅读 FIB 的第一句经常给出整篇文章的主题，尤其是下拉题里前一两个空很难时，第一句更要慢一点看主干。Sunny 会让学生先弄清楚文章在讨论什么对象，再回到空格判断词性、搭配和意思。只盯空格附近几个词，容易把和主题不一致的选项误选进去。",
+    "source": "phase2-media local staging batch 168, FIB first sentence theme",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-score-cross-contribution-priority",
+    "title": "阅读低分为什么不只刷阅读小题",
+    "keywords": [
+      "阅读",
+      "RA",
+      "SWT",
+      "HIW",
+      "FIB",
+      "RO",
+      "交叉供分"
+    ],
+    "answer": "阅读低分不一定只靠刷阅读选择题解决。Sunny 会让学生优先看交叉供分和性价比：RA 虽然是口语题，但会影响阅读；SWT 需要阅读主干压缩；HIW 也会给阅读带来贡献；阅读本身则重点看 FIB 和 RO。时间有限时，先抓这些高回报题型，再用选择题做补充，效率通常比平均刷所有阅读题更高。",
+    "source": "phase2-media local staging batch 168, reading cross contribution",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-round-complex-numbers",
+    "title": "DI 复杂数字能不能近似说",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "数字",
+      "近似数",
+      "流利度",
+      "图表",
+      "口语"
+    ],
+    "answer": "DI 遇到 47.25、7.66 这类复杂数字时，不一定要把小数读得很细。Sunny 会让学生优先保证流利度和信息清楚，可以把数字近似成 47、8 或 about 47。只要不改变图表的大意，近似读法往往比卡在小数点上更稳。复杂数字要服务内容，不要把整段口语拖断。",
+    "source": "phase2-media local staging batch 168, DI rounded numbers",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rl-opening-topic-anchor",
+    "title": "RL 音频开头为什么要认真听",
+    "keywords": [
+      "RL",
+      "Retell Lecture",
+      "开头",
+      "主题",
+      "笔记",
+      "讲座",
+      "口语"
+    ],
+    "answer": "RL 往往一开头就交代讲座主题，后面再展开原因、例子或细节。Sunny 会提醒学生，开头几秒要特别集中，先抓这篇到底讲什么；后面再记语速变慢、重读、转折或因果处的重点。主题没抓住时，后面即使记了很多零散词，复述也容易听起来散。",
+    "source": "phase2-media local staging batch 168, RL opening topic",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rl-skip-empty-details",
+    "title": "RL 笔记哪些细节可以不写",
+    "keywords": [
+      "RL",
+      "Retell Lecture",
+      "笔记",
+      "细节",
+      "主谓宾",
+      "关键词",
+      "口语"
+    ],
+    "answer": "RL 笔记不要把没有实际含义的碎词都写下来。Sunny 会让学生优先记有主谓宾关系的简单内容，比如谁做了什么、什么导致什么结果；一些零散数字、口头填充或听不清的虚词，如果不能帮助复述主题，可以放过。准备时间只有 10 秒，笔记越可用，开口越稳。",
+    "source": "phase2-media local staging batch 168, RL useful notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]

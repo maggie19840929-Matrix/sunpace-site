@@ -610,16 +610,6 @@
 
 备注：本轮继续只保留公开知识库和进度文档修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。当前为两轮同步周期的第 1 轮，下一轮完成后再提交并尝试推送 GitHub。
 
-## 2026-05-21 Knowledge Distillation 21
-
-- 模式：本地继续处理；当前白天模式允许每两轮同步 GitHub
-- 输入来源：本地已完成转写池，继续参考 `resume-35` 的 WFD、阅读 FIB、HCS、WE 写作和学习节奏素材
-- 输出文件：`data/pte-knowledge.sunpace.json`
-- 本次新增 SunPace 自有知识条目：8 条
-- 覆盖主题：WFD 错词与小分关系、FIB 并列被动线索、FIB 人群名词并列、reports/editorials 语域区分、project 动词义、冠词与可数/不可数判断、HCS 听结构、WE 单边与 own experience
-
-备注：本轮继续只保留公开知识库和进度文档修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。本轮为两轮同步周期的第 2 轮，校验通过后提交并尝试推送 GitHub。
-
 ## 2026-05-21 Knowledge Distillation 19
 
 - 模式：本地继续处理；当前白天模式允许每两轮同步 GitHub
@@ -639,3 +629,183 @@
 - 覆盖主题：WFD 缩写按原音频、首词漏听处理、WFD 原始词分与加权、WFD 英美拼写一致、阅读统一计时与混合顺序、阅读单选多选目标分控时、RA 权威发音复盘、阅读预测不要只背答案
 
 备注：本轮继续只保留公开知识库和进度文档修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。当前为两轮同步周期的第 1 轮，下一轮完成后再提交并尝试推送 GitHub。
+
+## 2026-05-21 Knowledge Distillation 21
+
+- 模式：本地继续处理；当前白天模式允许每两轮同步 GitHub
+- 输入来源：本地已完成转写池，继续参考 `resume-35` 的 WFD、阅读 FIB、HCS、WE 写作和学习节奏素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：WFD 错词与小分关系、FIB 并列被动线索、FIB 人群名词并列、reports/editorials 语域区分、project 动词义、冠词与可数/不可数判断、HCS 听结构、WE 单边与 own experience
+
+备注：本轮继续只保留公开知识库和进度文档修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。本轮为两轮同步周期的第 2 轮，校验通过后提交并尝试推送 GitHub。
+
+## 2026-05-21 Knowledge Distillation 22
+
+- 模式：本地继续处理；当前白天模式允许每两轮同步 GitHub
+- 输入来源：本地已完成转写池，重点参考 `resume-36` 的成绩单/考后流程素材和 `resume-35` 的 RA 弱读、语调与阶段学习素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：成绩复核预期、出分延迟不等于异常、成绩单沟通分与技能画像、90 分容错、10 分不等于零、RA 弱读反哺 RS/WFD、RA 词组尾音下收、第一阶段检查点
+
+备注：本轮继续只保留公开知识库和进度文档修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。当前为两轮同步周期的第 1 轮，下一轮完成后再提交并尝试推送 GitHub。
+
+## 2026-05-21 Knowledge Distillation 23
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-36` 的转考/备考节奏、DI 口语、RA 语调与 WE 模板素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：备考周期按基础定、备考过长与换题风险、雅思转 PTE 先诊断、DI 不照搬雅思小作文、DI 趋势词稳定优先、RA 不做真人聊天式语调、RA ed 尾音轻收、WE 模板只是地基
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-21 Knowledge Distillation 24
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-35` 的阅读 FIB 词性/并列/语义判断素材和 `resume-36` 的 WE 模板风险素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：FIB 职业并列与 an、assembly 名词词性、ability to 接动词原形、lonely/lone/alone 区分、选大不选小、for example 反推 argue、句子缺谓语判断、WE 预背材料内容风险
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-22 Knowledge Distillation 25
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-35` 的阅读多选策略、阅读 FIB 题库/笔记方法、冒号指代、非谓语搭配和短语动词素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：80 分以下阅读多选保守策略、FIB 题库词汇/语法交错、阅读课自有笔记、以题目承载技巧、冒号 this way 指代、being presented topic、refer to as 固定搭配、diverge from 同类差异
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-22 Knowledge Distillation 26
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-35` 的阅读 FIB 下拉练习素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：并列过去式谓语、in detail 与引用线索、逗号后分词 covering、own responsibility 指向 sovereignty、cannot be overemphasized、implement/implementation 区分、although + not sufficiently 正负方向、combined 后置定语
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-22 Knowledge Distillation 27
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-35` 的阅读概览、拖拽 FIB、RA 带练和 Personal Introduction/考试流程素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：阅读 FIB 对写作分的影响、RA 对阅读交叉供分、两种阅读填空主力训练、高频命中率不能按每场一半理解、拖拽 FIB 选项可移动、拖拽 FIB 多选项缩范围、RA 预读避免看错熟词、后鼻音/舌位对 RA 清晰度的影响
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-22 Knowledge Distillation 28
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-34` 的 SWT 写作评分/连接方法和口语题型流程素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：SWT 评分小项检查清单、关键词拼写与内容风险、and/but 简单连接、安全避开不熟的定语从句/同位语、SWT 预留检查时间、SWT 阅读交叉供分、RS 无 beep 时看进度条开口、口语整体计时与 Next 节奏
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-22 Knowledge Distillation 29
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-33` 的阅读精讲、口语新题型、发音突破和 DI 带练素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：阅读破折号/括号解释区、反复陌生专有名词作主题标签、冒号分号列表计数、口语新题型按目标分取舍、长短元音、开口元音、DI 固定短语不断开、阶段检测防止错误方法重复
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-22 Knowledge Distillation 30
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-33` 的听力大课、Apple 听力/口语、自我介绍、DI 数字和图片描述素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：听力文段型/句子型输入、SST 未用完时间不顺延、听力选择题选项预读、备考小目标拆解、自我介绍链条、自我介绍兼麦克风检查、DI 小数百分比读法、DI 图片细节库
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-22 Knowledge Distillation 31
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-30` 的口语模板、RS 讲解、DI/RL 界面区分和考场设备/笔记板操作素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：DI/RL 无唯一标准答案、DI/RL 说错后继续、DI/RL 界面框数区分、试笔不写模板词、白板笔变浅及时更换、笔记板居中减少头部晃动、RS 短词可模仿长词可放弃、RS 不必复制原音频语调
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-22 Knowledge Distillation 32
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-30` 的 RS 发音/流利度讲解、DI/RL 关键词与模板使用、考场候考和试音素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：RS 实词清晰输出、RS 小语法词取舍、RS something 衔接、DI/RL 关键词与连续性、DI 标题词组填充、DI 颜色方位说错继续、候考卡片口语热身、试音电流声/杂音检查
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-22 Knowledge Distillation 33
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-29` 的口语顺滑度、听力选择题、HCS/SMW 和 `resume-30` 的试音素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：麦克风自然音量、试音背景声判断、试音模板热身、口语顺滑度反哺 RS/WFD、SMW 进度条与最后一句、HCS 不边听边选、听力选择题不靠选项规律猜、五秒预读抓主题
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-22 Knowledge Distillation 34
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-29` 的 RA/RS/DI/RL 概览、RA 练习方法、HCS 选项精讲和发音连读规则素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：RA/RS 少丢分策略、RS 必须听音频练、练习平台严格评分校准、RA 单句到整段循环、RA 质量优先于篇幅、HCS 近义词语义精度、the 连读模式、词尾 s 清浊处理
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-22 Knowledge Distillation 35
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-28` 的 RA 生词处理、ASQ 讲解、阅读词性训练、写作语法和 PTE Core SWT 素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：RA 不用无关词替换生词、顽固错音单词单独 drill、ASQ 固定答案与可替换答案、ASQ 不确定答案小清单、阅读生词优先意思和词性、FIB be 动词后介词线索、动名词/不定式主语的主谓一致、PTE Core SWT 短词数下删修饰保主干
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-22 Knowledge Distillation 36
+
+- 模式：夜间模式本地继续处理；不提交 GitHub、不推送、不请求权限
+- 输入来源：本地已完成转写池，重点参考 `resume-27` 的 RA 下半讲、发音 day52、DI/口语刷题、WFD/SST 听力刷题和 RO 阅读排序素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：flap t 闪音、s 后爆破辅音轻化、DI 按图型准备模板模块、DI 颜色作为次级救场信息、WFD 高频句前几个词触发整句记忆、SST 缩写笔记可读性、SST 填词模板里的冠词/复数、RO 区分 as a result 与 as a result of
+
+备注：夜间模式下，本轮只保留本地公开文件修改；原始逐字稿、队列和日志仍只在 `knowledge_exports/`。不提交、不推送、不上传 GitHub。
+
+## 2026-05-22 Knowledge Distillation 37
+
+- 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交
+- 输入来源：本地已完成转写池，重点参考 `resume-26` 的 SST/WFD 听力刷题和 RA 口语带练素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：SST 至少十个内容词组、SST 纸笔笔记密度、SST 填词模板顺序弹性、SST 模板按语法水平选择、WFD 目标正确率、WFD 音频后检查、RA 吞音词组录音复盘、RA 声音从喉咙里送出来
+
+备注：本轮只写入 SunPace 自有公开知识条目；原始逐字稿、队列和日志继续留在 `knowledge_exports/`，不会提交。
+
+## 2026-05-22 Knowledge Distillation 38
+
+- 模式：白天同步模式；第 37、38 两轮完成后同步 GitHub
+- 输入来源：本地已完成转写池，重点参考 `resume-26` 的 RO/FIB 阅读刷题、DI 图表带练和 RL 答疑素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：RO 首句两个条件、RO 总分框架、RO 三分钟时间分配、阅读 FIB 第一句主题锚点、阅读交叉供分优先级、DI 复杂数字近似说、RL 开头主题锚点、RL 笔记过滤无效细节
+
+备注：两轮新增后将执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，再只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
