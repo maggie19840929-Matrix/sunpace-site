@@ -889,3 +889,23 @@
 - 覆盖主题：none of 单复数判断、a pair of 与复数名词一致、news/physics 等形式复数实为单数、DI 视线流程预演、DI 少即是多、DI 模板熟练加内容提取、RA 意群保护阅读分、RS 实词优先
 
 备注：两轮新增后执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，并只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
+
+## 2026-05-23 Knowledge Distillation 47
+
+- 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交
+- 输入来源：本地已完成转写池，重点参考 `resume-23` 的插入语、强调句、倒装句和虚拟语气语法素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：插入语与同位语删除测试、not until 强调结构、谓语动词 do/does/did 强调、地点提前代词主语不倒装、否定词提前部分倒装、only 加状语句首倒装、虚拟语气时态退格意义、过去反事实 if 判断
+
+备注：本轮只写入 SunPace 自有公开知识条目；原始逐字稿、队列和日志继续留在 `knowledge_exports/`，不会提交。
+
+## 2026-05-23 Knowledge Distillation 48
+
+- 模式：白天同步模式；第 47、48 两轮完成后同步 GitHub
+- 输入来源：本地已完成转写池，重点参考 `resume-23` 后段与 `resume-24/25` 交叉素材中的 RA 发音/意群、PTE 口语评分和 DI 图表带练内容
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：RA 名动词重音差异、RA 重音标记到内化、RA 长主语意群停顿、口语内容分门槛、短期优先修流利度、DI 坐标轴单位范围、which is around 后接数值、DI 图例标签替代复杂颜色
+
+备注：两轮新增后执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，并只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。

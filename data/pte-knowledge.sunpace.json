@@ -16237,5 +16237,261 @@
     "source": "phase2-media local staging batch 176, RS content words not function-only",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-insertion-vs-appositive-test",
+    "title": "怎么区分插入语和同位语",
+    "keywords": [
+      "插入语",
+      "同位语",
+      "句子主干",
+      "阅读",
+      "语法",
+      "PTE"
+    ],
+    "answer": "Sunny 会让学生用一个很实用的测试：把这段拿掉，看句子主干和核心意思是否仍然成立。as you know、I think、that is to say 这类插入语，多数是说话人的补充态度或解释，拿掉后主句仍完整；同位语则通常直接说明前面的名词是谁或是什么，拿掉后名词身份可能不清。阅读时先把插入语降权，可以更快看见真正的主谓宾。",
+    "source": "phase2-media local staging batch 177, insertion vs appositive test",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-emphasis-not-until-until",
+    "title": "强调 not until 时为什么不用 till",
+    "keywords": [
+      "强调句",
+      "not until",
+      "until",
+      "till",
+      "语法",
+      "写作"
+    ],
+    "answer": "在普通表达里 till 和 until 都可能出现，但做强调句时，Sunny 会固定学生使用 It was not until ... that ...。这个结构里强调部分放在 It was 和 that 中间，not until 是整体触发点，不建议换成 not till。练写作或语法改错时，看到 not until 被强调，就优先检查框架是否完整、that 后面主句是否回到正常语序。",
+    "source": "phase2-media local staging batch 177, not until emphasis",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-emphasize-verb-with-do",
+    "title": "谓语动词怎么做强调",
+    "keywords": [
+      "强调句",
+      "谓语",
+      "do",
+      "does",
+      "did",
+      "语法"
+    ],
+    "answer": "It is ... that ... 不能直接拿来强调谓语动词，因为会把一个句子变成双谓语。Sunny 会让学生改用 do、does、did 加动词原形来加强语气：现在时第三人称用 does，过去时用 did，其他现在时用 do。这样强调的是动作本身，同时句子结构仍然干净。",
+    "source": "phase2-media local staging batch 177, emphasize predicates with do",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-inversion-pronoun-subject-exception",
+    "title": "地点提前后什么时候不倒装",
+    "keywords": [
+      "倒装句",
+      "完全倒装",
+      "地点状语",
+      "代词主语",
+      "语法",
+      "阅读"
+    ],
+    "answer": "地点、方位或表语提前时，名词主语常见完全倒装，例如地点在前、动词在中、主语在后。但 Sunny 会提醒学生：如果主语是 he、she、it、they 这类代词，通常不做完全倒装，而保持主语在动词前。阅读时遇到 here、there、away、in the room 这类开头，要先判断后面的主语是名词还是代词，再决定是不是倒装结构。",
+    "source": "phase2-media local staging batch 177, full inversion pronoun exception",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-negative-fronting-partial-inversion",
+    "title": "否定词提前为什么要部分倒装",
+    "keywords": [
+      "倒装句",
+      "部分倒装",
+      "否定词提前",
+      "hardly",
+      "never",
+      "语法"
+    ],
+    "answer": "hardly、never、not until、no sooner、in no way 这类否定或半否定表达放在句首时，Sunny 会让学生马上检查部分倒装：把助动词、情态动词或 be 动词移到主语前。如果原句没有这些词，就按时态补 do、does 或 did，后面的实义动词回到原形。这个规则对阅读长难句和写作改错都很常见。",
+    "source": "phase2-media local staging batch 177, negative fronting partial inversion",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-only-adverbial-partial-inversion",
+    "title": "only 放句首什么时候倒装",
+    "keywords": [
+      "倒装句",
+      "only",
+      "部分倒装",
+      "状语",
+      "语法",
+      "写作"
+    ],
+    "answer": "不是所有 only 放句首都自动倒装。Sunny 会让学生看 only 后面是不是状语成分，例如 only in this way、only then、only after the test。only 加状语放到句首时，后面的主句通常用部分倒装；如果没有助动词、情态动词或 be，就补 do、does、did。这个判断比死记例句更稳。",
+    "source": "phase2-media local staging batch 177, only adverbial partial inversion",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-subjunctive-tense-backshift-meaning",
+    "title": "虚拟语气为什么像时态退一格",
+    "keywords": [
+      "虚拟语气",
+      "时态后退",
+      "假设",
+      "礼貌",
+      "语法",
+      "写作"
+    ],
+    "answer": "Sunny 会把虚拟语气解释成时态退一格：形式上往过去推，但重点不一定是过去时间，而是降低确定性。用过去式谈将来，往往表示可能性低或语气更委婉；用过去完成谈过去，则常常表示事实没有发生。这样理解比只背 would、could、should 更容易判断句子在表达真实、假设还是反事实。",
+    "source": "phase2-media local staging batch 177, subjunctive tense backshift",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-past-counterfactual-if",
+    "title": "过去事实为什么不能随便加 if",
+    "keywords": [
+      "虚拟语气",
+      "过去反事实",
+      "if",
+      "过去完成",
+      "would have",
+      "语法"
+    ],
+    "answer": "如果一件事在过去真实发生了，Sunny 不建议学生随手加 if 来表达；if yesterday... 这类结构很容易变成没有发生的假设。谈过去反事实时，条件从句通常用 had done，结果部分常见 would have done。做题时先问自己：这件事到底发生了吗？发生了就陈述事实；没发生、只是假设，才进入过去反事实框架。",
+    "source": "phase2-media local staging batch 177, past counterfactual if",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-word-stress-noun-verb-pairs",
+    "title": "RA 遇到 object 这类词为什么要先看词性",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "重音",
+      "词性",
+      "object",
+      "发音"
+    ],
+    "answer": "RA 里有些常见词会因为词性不同而重音和读法不同，例如 object 作名词和作动词时重点不一样。Sunny 会让学生先看它在句子里是名词目标、物体，还是动词反对，再决定怎么读。练习时不要只按熟悉读音冲过去，尤其是 record、produce、object 这类学术文本高频词，词性判断会直接影响发音准确度。",
+    "source": "phase2-media local staging batch 178, RA noun verb stress pairs",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-mark-stress-then-internalize",
+    "title": "RA 练习时标重音有什么用",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "重音标记",
+      "练习方法",
+      "发音",
+      "口语"
+    ],
+    "answer": "Sunny 会允许学生在练习阶段给重音、停顿和易错音做标记，因为这能把注意力从盲读转成有意识地处理结构和发音。但标记只是训练工具，不是最终依赖。练熟以后要逐步减少标记，让眼睛看到句子时自然知道哪里重、哪里停、哪里要收音，这样考试里才不会因为没有红笔提示就乱掉。",
+    "source": "phase2-media local staging batch 178, RA mark stress then internalize",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-long-subject-phrasing",
+    "title": "RA 长主语应该在哪里停",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "长主语",
+      "意群",
+      "停顿",
+      "阅读"
+    ],
+    "answer": "长主语不要读到一半随便断。Sunny 会让学生先把主语里的固定搭配和核心名词读完整，再在进入下一个大信息块前停顿。比如主语里有 travel abroad 这类短语，就不要把 travel 和 abroad 拆开；真正需要停的位置，往往是在完整主语或主语补充信息之后。这样既保护流利度，也让阅读结构更清楚。",
+    "source": "phase2-media local staging batch 178, RA long subject phrasing",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-content-zero-multiplies-to-zero",
+    "title": "口语内容分为什么不能归零",
+    "keywords": [
+      "口语",
+      "内容分",
+      "发音",
+      "流利度",
+      "PTE",
+      "评分"
+    ],
+    "answer": "PTE 口语常看发音、流利度和内容三个维度。Sunny 会提醒学生，内容分虽然不总是直观看见，但它像底层门槛：如果内容严重跑偏或接近零，发音和流利度再好也很难转化成有效得分。练 RA、RS、DI 时，顺不等于够，必须先保证机器听到的是和题目相关的有效内容。",
+    "source": "phase2-media local staging batch 178, speaking content zero multiplier",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-oral-fluency-fastest-short-term-gain",
+    "title": "短期提口语先抓发音还是流利度",
+    "keywords": [
+      "口语",
+      "流利度",
+      "发音",
+      "短期提分",
+      "PTE",
+      "训练优先级"
+    ],
+    "answer": "短期备考里，Sunny 通常会先抓 oral fluency，因为流利度比发音更容易在几周内稳定改善。发音受母语习惯影响，细节修正可能需要更久；但停顿过多、反复重启、语速忽快忽慢，可以通过模板、分块和跟读更快改善。不是不练发音，而是先把能最快止损的流利度问题压下来。",
+    "source": "phase2-media local staging batch 178, oral fluency short-term gain",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-axis-unit-range",
+    "title": "DI 坐标轴没有名称时怎么说",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "坐标轴",
+      "单位",
+      "范围",
+      "模板"
+    ],
+    "answer": "DI 看图时，Sunny 会让学生优先补齐坐标轴的名称、单位和范围。若纵轴或横轴没有明确名称，也不要卡住，可以说出能看见的单位和范围，例如百分比从 0 到 6。轴信息的作用是帮听者理解图表尺度，不一定每次都要复杂描述；能安全说出的标签、单位和大致范围，比临场编一个名称更稳。",
+    "source": "phase2-media local staging batch 178, DI axis unit range",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-which-is-around-value",
+    "title": "DI 说 which is around 后面接什么",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "最高点",
+      "最低点",
+      "数值",
+      "模板"
+    ],
+    "answer": "Sunny 会纠正一个常见 DI 模板错误：which is around 后面应该接数值或大致数值，而不是再接年份、类别或一串解释。比如说最高项之后，用 which is around six percent 这类表达把值补上。小数看不准时可以近似，但模板槽位要清楚：类别说明对象，around 后面补数值。",
+    "source": "phase2-media local staging batch 178, DI which is around value",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-legend-labels-avoid-color-burden",
+    "title": "DI 图例颜色太复杂要不要硬说",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "图例",
+      "颜色",
+      "Country A",
+      "口语"
+    ],
+    "answer": "如果图例已经给出 Country A、Country B、Country C 这类标签，Sunny 不会让学生把注意力浪费在复杂颜色名上。颜色只是定位信息，真正要说的是图例标签和对应趋势或数值。考试里颜色看不准或英文颜色词不稳时，直接用图例名称更安全，既减少发音负担，也避免因为纠结颜色而打断流利度。",
+    "source": "phase2-media local staging batch 178, DI legend labels avoid color burden",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
