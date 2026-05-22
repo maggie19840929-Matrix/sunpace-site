@@ -15981,5 +15981,261 @@
     "source": "phase2-media local staging batch 174, reading MCQ single versus multiple",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-parallel-clause-core-rebuild",
+    "title": "并列句太长怎么抓主干",
+    "keywords": [
+      "阅读",
+      "并列句",
+      "句子主干",
+      "and",
+      "but",
+      "SWT"
+    ],
+    "answer": "并列句很长时，Sunny 会让学生先把 and、but、not only...but also 这些并列连接处分开看。每个分句都先找自己的主语、谓语和宾语；如果第二个分句省略了相同主语或助动词，就从前面补回来。最后只保留两个分句的核心信息，再重新拼接。这样做能避免被重复修饰和细节拖走，SWT 和阅读长句都会更清楚。",
+    "source": "phase2-media local staging batch 175, parallel clause core rebuild",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-adverbial-clause-main-first",
+    "title": "状语从句很多时先看哪里",
+    "keywords": [
+      "阅读",
+      "状语从句",
+      "主句",
+      "because",
+      "when",
+      "where"
+    ],
+    "answer": "遇到时间、地点、原因、让步或目的状语从句，Sunny 会让学生先找主句。主句通常已经说明“谁做了什么”或“什么情况成立”，从句只是补充什么时候、在哪里、为什么或在什么条件下。比如 because 后面的原因很重要，但先要知道主句到底在说什么。先主句后状语，长句就不会一开头被从句绕进去。",
+    "source": "phase2-media local staging batch 175, adverbial clause main-first",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-relative-clause-noun-placement",
+    "title": "定语从句修饰谁怎么看",
+    "keywords": [
+      "语法",
+      "定语从句",
+      "先行词",
+      "who",
+      "which",
+      "that"
+    ],
+    "answer": "定语从句的位置会影响它修饰谁。Sunny 会让学生先问：who、which、that 后面的从句是在补充说明哪个名词？如果从句紧跟 the boy，它多半修饰 boy；如果放到 friend 后面，修饰对象就可能变成 friend。阅读时看清先行词，写作时也别把从句放错位置，否则句子意思会变。",
+    "source": "phase2-media local staging batch 175, relative clause modified noun",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-participle-phrases-are-modifiers",
+    "title": "including 这类现在分词是不是主谓",
+    "keywords": [
+      "阅读",
+      "现在分词",
+      "including",
+      "修饰语",
+      "长难句",
+      "句子结构"
+    ],
+    "answer": "长句里 seeing、including、furthering 这类 -ing 结构，很多时候不是主句谓语，而是在做状语、后置定语或补充说明。Sunny 会让学生先找真正带时态的谓语，再看这些 -ing 块修饰谁、补充什么。不要一看到动词形态就以为它是主干动作；先分清谓语和修饰语，FIB 和 RO 的句子判断会稳很多。",
+    "source": "phase2-media local staging batch 175, participle phrase as modifier",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-object-clause-after-reporting-verbs",
+    "title": "say believe 后面一整句是什么成分",
+    "keywords": [
+      "语法",
+      "宾语从句",
+      "that",
+      "say",
+      "believe",
+      "写作"
+    ],
+    "answer": "say、believe、suggest、insist 这类动词后面，经常接一整件事作为宾语。Sunny 会让学生把 that 后面的完整句子看成“动词说的内容”或“相信的内容”，而不是另一个随便拼上的独立句。写 WE 或 SWT 时，如果要把一个完整观点放在动词后面，就要用合适的从句连接，避免两个句子硬挤在一起。",
+    "source": "phase2-media local staging batch 175, object clause after reporting verbs",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-adjective-adverb-target-word",
+    "title": "形容词和副词在 FIB 里怎么分",
+    "keywords": [
+      "FIB",
+      "词性",
+      "形容词",
+      "副词",
+      "修饰",
+      "阅读"
+    ],
+    "answer": "FIB 里区分形容词和副词时，Sunny 会让学生先看它要修饰谁。修饰名词或代词，多数需要形容词；修饰动词、形容词、副词或整句话，多数需要副词。不要只看中文意思，也不要只看词尾 ly，因为有些 ly 结尾的词不是副词。先找目标词，再判断修饰关系，选项范围会小很多。",
+    "source": "phase2-media local staging batch 175, adjective adverb target word",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-each-every-singular-verb",
+    "title": "each every many a 后面谓语怎么选",
+    "keywords": [
+      "语法",
+      "主谓一致",
+      "each",
+      "every",
+      "many a",
+      "写作"
+    ],
+    "answer": "each、every、many a 这类表达虽然可能指很多人或物，但语法上常按单数处理。Sunny 会提醒学生，写作检查时不要只看中文里的“很多”，要看英语主语的形式。every student、each book、many a boy 后面通常接单数谓语。主谓一致这类小错很容易在 WE、SWT 和 WFD 检查里被修掉。",
+    "source": "phase2-media local staging batch 175, each every many-a agreement",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-each-of-versus-they-each",
+    "title": "each of them 和 they each 谓语一样吗",
+    "keywords": [
+      "语法",
+      "主谓一致",
+      "each of",
+      "they each",
+      "单复数",
+      "写作"
+    ],
+    "answer": "不一样。Sunny 会让学生看 each 放在哪里：each of them 强调“他们中的每一个”，主语核心是 each，谓语通常按单数；they each 里主语是 they，each 只是强调每个人都如此，谓语跟 they 走，通常用复数。写作里看到 of 短语不要被后面的复数名词带偏，先找真正主语。",
+    "source": "phase2-media local staging batch 175, each-of versus they-each agreement",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-none-of-countable-uncountable",
+    "title": "none of 后面谓语一定用单数吗",
+    "keywords": [
+      "语法",
+      "主谓一致",
+      "none of",
+      "可数名词",
+      "不可数名词",
+      "写作"
+    ],
+    "answer": "不一定。Sunny 会让学生区分 none of 后面的名词类型：如果后面是可数复数，谓语在实际使用中可能单复数都能见到；如果后面是不可数名词，通常按单数处理。考试写作里不需要故意写复杂 none of 结构，但阅读和改错时要知道它不是机械一刀切。",
+    "source": "phase2-media local staging batch 176, none-of agreement",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-pair-of-plural-noun-agreement",
+    "title": "trousers glasses 前有 a pair of 怎么办",
+    "keywords": [
+      "语法",
+      "主谓一致",
+      "trousers",
+      "glasses",
+      "a pair of",
+      "单复数"
+    ],
+    "answer": "trousers、glasses 这类成双物品单独做主语时，谓语常按复数处理；但前面如果有 a pair of 或 one pair of，主语核心变成 pair，谓语通常按单数。Sunny 会让学生写作检查时看真正中心词，不要只盯离谓语最近的复数名词。这个原则也能迁移到 a group of、a number of 等结构的判断。",
+    "source": "phase2-media local staging batch 176, pair-of plural noun agreement",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-news-academic-subjects-singular",
+    "title": "news physics 这些词看着复数怎么处理",
+    "keywords": [
+      "语法",
+      "主谓一致",
+      "news",
+      "physics",
+      "mathematics",
+      "economics"
+    ],
+    "answer": "有些词以 s 结尾，看起来像复数，但语法上常按单数处理，比如 news、physics、mathematics、economics。Sunny 会提醒学生，不要只靠词尾 s 判断主谓一致。写作里如果这些词做主语，先把它们当成一个学科、一个领域或一个整体信息来看，谓语更可能用单数。",
+    "source": "phase2-media local staging batch 176, singular-looking plural-ending nouns",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-eye-route-rehearsal",
+    "title": "DI 准备时为什么要预演视线",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "准备时间",
+      "视线流程",
+      "模板",
+      "流利度"
+    ],
+    "answer": "DI 的 25 秒准备里，Sunny 不只让学生找信息，还会让学生预演正式作答时眼睛怎么移动。图上信息往往分散在标题、坐标、图例和数字之间，如果开口后再临时找，模板和内容之间就容易断。准备时按模板顺序扫一遍视线路线，正式说的时候照路线执行，卡顿会明显少很多。",
+    "source": "phase2-media local staging batch 176, DI eye-route rehearsal",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-less-is-more-key-points",
+    "title": "DI 要不要把所有细节都说完",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "less is more",
+      "关键信息",
+      "细节",
+      "口语"
+    ],
+    "answer": "不要。Sunny 会用 less is more 提醒学生：DI 不是把图上所有细节都塞进去，而是选三到五个最清楚、最容易说顺的关键信息。图上有十个点时，先抓标题、核心类别、最大最小或明显步骤；小字、重复项和难读词可以少说。内容少一点但顺，比贪多说到卡住更稳。",
+    "source": "phase2-media local staging batch 176, DI less is more key points",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-template-plus-content-extraction",
+    "title": "DI 模板熟了为什么还低分",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "模板",
+      "关键信息",
+      "内容提取",
+      "口语"
+    ],
+    "answer": "DI 模板熟只是第一步。Sunny 会提醒学生，很多人模板能背，但遇到没练过的图就不知道抓哪些信息，结果模板和图片内容接不上。真正要练的是快速提取关键信息：这是什么图、最明显的文字是什么、哪几个数字或步骤最安全。模板负责流利度，内容提取负责相关性，两边都要练。",
+    "source": "phase2-media local staging batch 176, DI template plus content extraction",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-phrasing-protects-reading",
+    "title": "RA 一口气读很多词为什么阅读还低",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "意群",
+      "阅读",
+      "交叉供分",
+      "口语"
+    ],
+    "answer": "RA 不是只要不断气读完就行。Sunny 会提醒学生，RA 也在反映你是否看懂句子结构；如果十五个词一口气平均读下去，没有意群、重音和结构感，口语听起来可能还连续，但阅读交叉供分不一定稳。练 RA 时要把主语、谓语、介词短语和从句按自然意群读出来，既保流利度，也让机器更容易识别文本结构。",
+    "source": "phase2-media local staging batch 176, RA phrasing protects reading",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rs-content-words-not-function-only",
+    "title": "RS 只说 off in 这类小词有分吗",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "内容词",
+      "功能词",
+      "复述",
+      "口语"
+    ],
+    "answer": "RS 里只蹦出 off、in、the 这类功能词，基本不能算有效复述。Sunny 会让学生优先抓能承载意思的内容词，比如名词、动词、形容词和关键短语；功能词能带上当然好，但不能只剩功能词。哪怕只记住一半，也要让机器听到有意义的连续词组，而不是几个没有语义支撑的小词。",
+    "source": "phase2-media local staging batch 176, RS content words not function-only",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]

@@ -830,6 +830,26 @@
 
 备注：两轮新增后执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，并只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
 
+## 2026-05-22 Knowledge Distillation 41
+
+- 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交
+- 输入来源：本地已完成转写池，重点参考 `resume-25` 后半段的 DI/RA/WFD 口语与听力刷题素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：DI 准备时间先定口播顺序、标签图先标签后数字、坐标/量尺范围补充、DI 有力但不尖的声音、RA 小卡顿后的心态恢复、RA 过度卷舌修正、RA 词尾语调控制、WFD 长句选择性记笔记
+
+备注：本轮只写入 SunPace 自有公开知识条目；原始逐字稿、队列和日志继续留在 `knowledge_exports/`，不会提交。
+
+## 2026-05-22 Knowledge Distillation 42
+
+- 模式：白天同步模式；第 41、42 两轮完成后同步 GitHub
+- 输入来源：本地已完成转写池，重点参考 `resume-24` 写作精讲、阅读计时/RO/FIB 方法，以及前序口语刷题素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：WE 相关词扣题、一边倒作文里的反方材料、讨论题段落功能、SWT 字数显示仍需自查、PTE 独立计时与总计时区别、阅读总计时结束不能返回、RO 按段落数控时、RO 代词两两配对
+
+备注：两轮新增后执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，并只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
+
 ## 2026-05-22 Knowledge Distillation 43
 
 - 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交
@@ -850,22 +870,22 @@
 
 备注：两轮新增后执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，并只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
 
-## 2026-05-22 Knowledge Distillation 41
+## 2026-05-23 Knowledge Distillation 45
 
 - 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交
-- 输入来源：本地已完成转写池，重点参考 `resume-25` 后半段的 DI/RA/WFD 口语与听力刷题素材
+- 输入来源：本地已完成转写池，重点参考 `resume-23` 的句子主干、从句、词性和主谓一致基础语法素材
 - 输出文件：`data/pte-knowledge.sunpace.json`
 - 本次新增 SunPace 自有知识条目：8 条
-- 覆盖主题：DI 准备时间先定口播顺序、标签图先标签后数字、坐标/量尺范围补充、DI 有力但不尖的声音、RA 小卡顿后的心态恢复、RA 过度卷舌修正、RA 词尾语调控制、WFD 长句选择性记笔记
+- 覆盖主题：并列句主干重组、状语从句先找主句、定语从句修饰对象、现在分词作修饰、宾语从句连接、形容词/副词修饰目标、each/every/many a 单数谓语、each of 与 they each 区分
 
 备注：本轮只写入 SunPace 自有公开知识条目；原始逐字稿、队列和日志继续留在 `knowledge_exports/`，不会提交。
 
-## 2026-05-22 Knowledge Distillation 42
+## 2026-05-23 Knowledge Distillation 46
 
-- 模式：白天同步模式；第 41、42 两轮完成后同步 GitHub
-- 输入来源：本地已完成转写池，重点参考 `resume-24` 写作精讲、阅读计时/RO/FIB 方法，以及前序口语刷题素材
+- 模式：白天同步模式；第 45、46 两轮完成后同步 GitHub
+- 输入来源：本地已完成转写池，重点参考 `resume-23` 的主谓一致专项、DI 模板/信息提取和 RA/RS 交叉供分素材
 - 输出文件：`data/pte-knowledge.sunpace.json`
 - 本次新增 SunPace 自有知识条目：8 条
-- 覆盖主题：WE 相关词扣题、一边倒作文里的反方材料、讨论题段落功能、SWT 字数显示仍需自查、PTE 独立计时与总计时区别、阅读总计时结束不能返回、RO 按段落数控时、RO 代词两两配对
+- 覆盖主题：none of 单复数判断、a pair of 与复数名词一致、news/physics 等形式复数实为单数、DI 视线流程预演、DI 少即是多、DI 模板熟练加内容提取、RA 意群保护阅读分、RS 实词优先
 
 备注：两轮新增后执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，并只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
