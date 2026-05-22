@@ -15197,5 +15197,277 @@
     "source": "phase2-media local staging batch 168, RL useful notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-wfd-weekly-error-bank",
+    "title": "WFD 错题为什么要每周合并复习",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "错题整理",
+      "生词",
+      "固定搭配",
+      "连读",
+      "复盘"
+    ],
+    "answer": "WFD 不是听过一遍、改完答案就结束。Sunny 会让学生把一周里错过的生词、固定搭配、连读弱读句子分别整理出来，再固定找时间合并复习。这样做能看出自己真正反复丢分的是哪一类：是拼写和大小写，还是某类介词短语、复数尾音、连读小词。错题库要服务下一轮针对性训练，而不是只留一堆零散答案。",
+    "source": "phase2-media local staging batch 169, WFD weekly error bank",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-wfd-simple-versus-hard-repetition",
+    "title": "WFD 简单句和难句要听几遍",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "简单句",
+      "长难句",
+      "精听",
+      "练习遍数",
+      "听写"
+    ],
+    "answer": "WFD 练习遍数要看句子难度。Sunny 会让简单句尽量一遍听完就写，训练考试反应；中等或长难句可以听三到五遍，每一遍都要补句子、加试词、再回看错因。不要把所有句子都当背诵题硬记，也不要一句难句无限回放到失去考试节奏。简单句练速度，难句练精听和结构。",
+    "source": "phase2-media local staging batch 169, WFD repetition by difficulty",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-wfd-trial-word-order-free-form-exact",
+    "title": "WFD 试词顺序重要还是形式重要",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "试词",
+      "顺序",
+      "拼写",
+      "大小写",
+      "句号"
+    ],
+    "answer": "WFD 的补救重点是把正确词写出来，试词顺序本身不是最关键；真正容易白丢的是拼写、大小写、连字符、单复数和句末格式。Sunny 会让学生先写确定句子，再把最可能的冠词、介词、动词形式或名词复数补在合理位置。试词可以帮忙，但形式细节要准确，否则有词也可能拿不稳。",
+    "source": "phase2-media local staging batch 169, WFD trial word order and form",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-wfd-dont-rush-final-check",
+    "title": "WFD 写完为什么不要太快提交",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "检查",
+      "句号",
+      "大写",
+      "试词",
+      "听写"
+    ],
+    "answer": "WFD 写完太快提交，很容易把可控分送掉。Sunny 会提醒学生，哪怕句子很简单，也要先检查开头大写、句末句号、核心词拼写和常见试词；中长句更要给自己一小段时间整理结构。逗号这类标点通常不是重点，但句号和大小写要养成习惯。速度是好事，前提是最后一遍检查没有被省掉。",
+    "source": "phase2-media local staging batch 169, WFD final check",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-sst-opening-trigger-familiarity",
+    "title": "SST 高频要熟到听开头能认题吗",
+    "keywords": [
+      "SST",
+      "Summarize Spoken Text",
+      "高频",
+      "开头",
+      "熟练度",
+      "关键词",
+      "听力"
+    ],
+    "answer": "SST 高频题不能只是看过题名。Sunny 会让学生练到看到或听到文章开头一两句，就大概知道是哪一篇、后面会有哪些主题词和主要内容。这个熟悉度不是为了背整篇答案，而是让耳朵在考试里更快识别文章框架。尤其目标 65+ 的学生，高频最好过两三遍：先认主题，再补关键词，最后练成听音频就能记要点。",
+    "source": "phase2-media local staging batch 169, SST opening trigger familiarity",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-sst-difficulty-based-practice-flow",
+    "title": "SST 难题和简单题练习流程一样吗",
+    "keywords": [
+      "SST",
+      "Summarize Spoken Text",
+      "难题",
+      "原文",
+      "关键词",
+      "听音频",
+      "练习流程"
+    ],
+    "answer": "SST 练习流程可以按难度调。话题难、生词多、又是高频的题，Sunny 会让学生先过原文或参考内容，整理难词和核心词组，再听音频记笔记；话题简单、已经练到第二三遍的题，可以直接听音频、记笔记、写 summary。不是每篇都要慢慢拆到最细，但难题先搭框架，简单题直接练反应，效率会更高。",
+    "source": "phase2-media local staging batch 169, SST difficulty-based flow",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-sst-template-reduce-when-notes-strong",
+    "title": "SST 笔记内容多时模板要写满吗",
+    "keywords": [
+      "SST",
+      "Summarize Spoken Text",
+      "模板",
+      "笔记",
+      "字数",
+      "内容分",
+      "summary"
+    ],
+    "answer": "SST 模板不是必须每次完整写满。如果笔记内容够多、自己能写出语法稳定的句子，Sunny 会允许减少模板套话，把更多位置留给听到的主题词和词组；如果基础弱或听到内容少，再用填词模板兜底。模板的价值是稳住 50-70 词和语法，不是挤掉真正有内容分的笔记。",
+    "source": "phase2-media local staging batch 169, SST reduce template when notes are strong",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-sst-error-bank-before-writing",
+    "title": "SST 写作前要不要复习自己的易错词",
+    "keywords": [
+      "SST",
+      "Summarize Spoken Text",
+      "错题文档",
+      "难词",
+      "单复数",
+      "拼写",
+      "summary"
+    ],
+    "answer": "要。Sunny 会让学生把 SST 里反复拼错的难词、名词单复数、冠词和固定词组单独整理成文档。写 summary 前快速过一遍自己的易错点，比临场凭感觉更稳。练完每篇后，也要回看哪些重要词组没写到、哪些词形写错了，把它们补进个人清单，下一篇写作前再提醒自己。",
+    "source": "phase2-media local staging batch 169, SST personal error bank",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-simplify-template-keep-dimensions",
+    "title": "DI 模板太难能不能简化",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "模板",
+      "简化",
+      "最高值",
+      "最低值",
+      "口语"
+    ],
+    "answer": "DI 模板可以简化，但信息维度不要丢。Sunny 会允许基础弱或临考学生把复杂开头换成更稳的 we can see、it is clear 或 the picture shows；但标题、图型、三到五个可见名词、最高最低值、单位或方位这些核心内容仍要保留。句型可以短，内容不能空。模板越适合自己，越容易在 40 秒里说顺。",
+    "source": "phase2-media local staging batch 170, DI simplified template",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-common-label-pronunciation-bank",
+    "title": "DI 常见图表词要不要单独练读音",
+    "keywords": [
+      "DI",
+      "Describe Image",
+      "图表词",
+      "国家地区",
+      "单位",
+      "读音",
+      "发音"
+    ],
+    "answer": "要单独积累。DI 里很多卡顿来自常见标签不会顺口读，比如地区、国家名、单位、percentage、category、Asia、Africa 这类词。Sunny 会让学生把图表里反复出现的名称和单位建成小词库，课后专门练读音。考试时难词可以避开，但常见标签不能总靠猜；这些词读顺了，标题、最高最低值和对比句才不会断。",
+    "source": "phase2-media local staging batch 170, DI common label pronunciation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-speed-not-at-expense-of-known-words",
+    "title": "RA 读得快但会的词读错怎么办",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "语速",
+      "会的词",
+      "发音",
+      "清晰度",
+      "流利度"
+    ],
+    "answer": "如果一提速就把本来会的词读错，说明速度已经超过当前可控范围。Sunny 会让学生先把语速降回能看准、读准、尾音交代清楚的状态，再慢慢提速。目标不是飞快读完，而是紧凑、稳定、少错。尤其一句话模式里，内容本来就短，会的词读错比少快一点更亏。",
+    "source": "phase2-media local staging batch 170, RA speed versus known words",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-keep-energy-to-the-end",
+    "title": "RA 为什么后半句不能越读越小",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "声音",
+      "后半句",
+      "力度",
+      "清晰度",
+      "口语"
+    ],
+    "answer": "RA 开头有力、后面越来越小，会让最后几个内容词变糊。Sunny 会提醒学生，全句都要保持清晰、响亮、有力，尤其后半句的名词、动词和关键短语不要因为快读或没气而塌下去。练习时可以专门回听句尾：是不是声音变轻、元音变扁、词尾漏掉。结尾稳住，整句听感才完整。",
+    "source": "phase2-media local staging batch 170, RA keep energy to end",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rs-missing-middle-recombination",
+    "title": "RS 中间丢了一段还要继续吗",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "短时记忆",
+      "中间丢失",
+      "头尾",
+      "复述",
+      "口语"
+    ],
+    "answer": "要继续。RS 听漏中间一块时，不要让这个缺口把前面和后面的记忆都冲淡。Sunny 会让学生练“缺口重组”：头部、尾部和能确定的关键词先保住，中间不确定的部分可以跳过或轻带，整句仍然顺着说出来。大量练习后，大脑会慢慢习惯带着缺口组织句子，而不是一漏中段就整句崩掉。",
+    "source": "phase2-media local staging batch 170, RS missing middle recombination",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-ro-these-can-summarize-two-sentences",
+    "title": "RO 里的 these 可能指代几句话吗",
+    "keywords": [
+      "RO",
+      "阅读排序",
+      "these",
+      "指代",
+      "单复数",
+      "两两配对",
+      "阅读"
+    ],
+    "answer": "可以。RO 里 these discussions、these issues 这类复数指代，有时不是只接前一句，而是总结前面两句话里的并列信息。Sunny 会让学生同时看语法单复数和内容范围：如果某句的 it 是单数，只能回指一个单数概念；如果后面出现 these discussions，就可能在承接前面政治讨论和媒体讨论两部分。指代不是只找重复词，要看数量和范围是否对得上。",
+    "source": "phase2-media local staging batch 170, RO these reference range",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-dropdown-context-not-pos",
+    "title": "FIB 下拉题词性都一样时怎么选",
+    "keywords": [
+      "FIB",
+      "阅读填空",
+      "下拉题",
+      "上下文",
+      "固定搭配",
+      "主动被动",
+      "阅读"
+    ],
+    "answer": "FIB 下拉题常常不给明显词性排除，因为几个选项可能都是同一词性、拼写还相似。Sunny 会让学生转向上下文：先看空格前后的固定搭配，尤其介词搭配；再看主语和动词关系是主动还是被动，时态是不是被虚拟语气或假设场景改变。下拉题难，是因为它更考语义和句法，不是只看词性。",
+    "source": "phase2-media local staging batch 170, FIB dropdown context",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-timed-core-practice",
+    "title": "阅读 FIB 每题大概控制多久",
+    "keywords": [
+      "FIB",
+      "阅读填空",
+      "下拉题",
+      "拖拽题",
+      "限时",
+      "阅读",
+      "时间管理"
+    ],
+    "answer": "阅读 FIB 要按统一计时来练，不要无限精读。Sunny 通常会让下拉 FIB 控制在两分半左右，拖拽 FIB 控制在两分钟左右；课堂练习可以稍微放宽，但考试要养成节奏。因为阅读原题命中不稳定，训练重点不是背答案，而是在限时里用词性、搭配、上下文和语法关系把最确定的空先拿下。",
+    "source": "phase2-media local staging batch 170, FIB timed practice",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]

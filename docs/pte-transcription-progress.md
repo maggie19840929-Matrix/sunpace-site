@@ -809,3 +809,23 @@
 - 覆盖主题：RO 首句两个条件、RO 总分框架、RO 三分钟时间分配、阅读 FIB 第一句主题锚点、阅读交叉供分优先级、DI 复杂数字近似说、RL 开头主题锚点、RL 笔记过滤无效细节
 
 备注：两轮新增后将执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，再只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
+
+## 2026-05-22 Knowledge Distillation 39
+
+- 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交
+- 输入来源：本地已完成转写池，重点参考 `resume-25` 的 WFD/SST 听力刷题素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：WFD 每周错题库、WFD 简单句/难句练习遍数、WFD 试词顺序与形式、WFD 提交前检查、SST 高频开头触发熟练度、SST 按难度调整练习流程、SST 笔记强时减少模板、SST 写作前复习个人易错词
+
+备注：本轮只写入 SunPace 自有公开知识条目；原始逐字稿、队列和日志继续留在 `knowledge_exports/`，不会提交。
+
+## 2026-05-22 Knowledge Distillation 40
+
+- 模式：白天同步模式；第 39、40 两轮完成后同步 GitHub
+- 输入来源：本地已完成转写池，重点参考 `resume-25` 的 DI/RA/RS/RO/FIB 口语和阅读刷题素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：DI 简化模板但保留维度、DI 常见标签读音库、RA 语速不牺牲会读词、RA 后半句保持力度、RS 中段缺失后的重组、RO these 复数指代范围、FIB 下拉题上下文判断、阅读 FIB 限时核心练习
+
+备注：两轮新增后执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，并只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
