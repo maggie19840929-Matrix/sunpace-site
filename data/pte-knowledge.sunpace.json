@@ -16749,5 +16749,261 @@
     "source": "phase2-media local staging batch 180, DI flowchart pack two items",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-adjective-three-roles",
+    "title": "形容词在句子里常看哪三个位置",
+    "keywords": [
+      "形容词",
+      "定语",
+      "表语",
+      "宾补",
+      "语法",
+      "FIB"
+    ],
+    "answer": "Sunny 会让学生把形容词先放进三个常见位置理解：名词前面做定语，be/linking verb 后面做表语，宾语后面补充说明宾语状态。阅读 FIB 和写作检查时，看到空格在名词前、系动词后或 make/find/keep + 宾语后，就要优先考虑形容词。这样判断词性，比单纯翻中文更稳。",
+    "source": "phase2-media local staging batch 181, adjective roles",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-afraid-adjective-needs-be",
+    "title": "afraid 这类词为什么前面要有 be",
+    "keywords": [
+      "形容词",
+      "afraid",
+      "be afraid of",
+      "be afraid to",
+      "语法",
+      "写作"
+    ],
+    "answer": "afraid 翻成中文像“害怕”，学生容易把它当动词用。Sunny 会提醒：afraid 是形容词，放进句子时通常需要 be 或其他系动词托住，比如 be afraid of something 或 be afraid to do something。写作里不要给 afraid 机械加 s，也不要把它直接当谓语动词；先确认它是不是在做表语。",
+    "source": "phase2-media local staging batch 181, afraid adjective pattern",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-ing-ed-adjectives-feeling-vs-quality",
+    "title": "excited 和 exciting 怎么区分",
+    "keywords": [
+      "形容词",
+      "ing",
+      "ed",
+      "主观感受",
+      "客观性质",
+      "语法"
+    ],
+    "answer": "动词变来的形容词里，Sunny 会让学生先分主观感受和客观性质。-ed 形式常描述人或对象受到影响后的感受，例如 excited；-ing 形式常描述事物本身带来的性质，例如 exciting。做 FIB 或写作文时，不要只看中文“令人兴奋/感到兴奋”，要看主语是感受者，还是制造这种感觉的事情。",
+    "source": "phase2-media local staging batch 181, ing ed adjectives",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-compound-adjective-hyphen",
+    "title": "5-year-old 放名词前为什么要连字符",
+    "keywords": [
+      "复合形容词",
+      "连字符",
+      "hyphen",
+      "定语",
+      "写作",
+      "语法"
+    ],
+    "answer": "几个词一起放在名词前当一个形容词用时，Sunny 会提醒学生不要把连字符丢掉。a 5-year-old boy 里，5-year-old 整体修饰 boy，中间的 year 通常不加复数 s；如果写成分散的词，机器和读者更难判断它们是一个定语块。写作检查时，数字 + year/month/day + old 这类结构要特别扫一眼。",
+    "source": "phase2-media local staging batch 181, compound adjective hyphen",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-comparative-modifier-patterns",
+    "title": "比较级前面可以加哪些修饰词",
+    "keywords": [
+      "比较级",
+      "much",
+      "far",
+      "any",
+      "no",
+      "语法"
+    ],
+    "answer": "比较级不只是 taller than 这一种。Sunny 会让学生记住，much、far 可以加强比较级，any、no 也常和比较级一起表达“是否更……”或“并不更……”。如果形容词本身用 more 构成比较级，表达“越来越”时说 more and more + 原级，而不是 more better 这类重复比较。写作里比较结构要先稳，再追求复杂。",
+    "source": "phase2-media local staging batch 181, comparative modifier patterns",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-word-formation-prefix-meaning-suffix-pos",
+    "title": "前缀和后缀分别主要改变什么",
+    "keywords": [
+      "词根词缀",
+      "前缀",
+      "后缀",
+      "词性",
+      "词义",
+      "阅读"
+    ],
+    "answer": "Sunny 会把派生词拆成两层：前缀更常改变词义方向，后缀更常改变词性。比如加否定前缀后，意思变成相反或否定，但词性可能仍是形容词；加 -er、-tion、-ity 这类后缀时，词性往往会从动词转成名词。阅读生词时先看前缀判断大方向，再看后缀判断它在句子里能不能填这个位置。",
+    "source": "phase2-media local staging batch 181, prefix meaning suffix part of speech",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-word-formation-compound-word-meaning",
+    "title": "合成词看不懂时怎么猜",
+    "keywords": [
+      "合成词",
+      "构词法",
+      "阅读词汇",
+      "guidebook",
+      "bookmark",
+      "PTE"
+    ],
+    "answer": "合成词常由两个或多个熟词组合成新词。Sunny 会让学生先把每一块的基本意思拆出来，再合并成一个合理概念。比如 book 和 mark 合在一起，就容易联想到书里的标记；guide 和 book 合在一起，就接近指南手册。阅读里遇到合成词不要马上慌，先拆熟词，再回句子验证。",
+    "source": "phase2-media local staging batch 181, compound word meaning",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-word-formation-conversion-by-context",
+    "title": "同一个词形怎么判断词性变了",
+    "keywords": [
+      "转化法",
+      "词性",
+      "名词动词转换",
+      "上下文",
+      "阅读",
+      "FIB"
+    ],
+    "answer": "有些词不改变拼写，也能在句子里换词性。Sunny 会让学生看它的位置和搭配：在名词位置可能表示一个概念，在谓语位置可能就是动作；在 be 后面可能是形容词，在宾语后面可能是补足语。interest、time、cool、empty 这类词都可能根据上下文转换。FIB 里别只按单词表记忆，要看它在句子里承担什么角色。",
+    "source": "phase2-media local staging batch 181, conversion by context",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-simple-present-future-clauses",
+    "title": "if 从句里为什么常用一般现在表将来",
+    "keywords": [
+      "一般现在时",
+      "条件从句",
+      "时间从句",
+      "主将从现",
+      "语法",
+      "写作"
+    ],
+    "answer": "在时间和条件状语从句里，Sunny 会让学生记住一个实用规则：主句说将来，从句常用一般现在表达将来意义。比如 if、when、after、before 引导的从句里，不要一看到未来含义就机械加 will。写作检查时，遇到 if it rains、when the test starts 这类结构，重点看从句动词是否按一般现在和主语一致。",
+    "source": "phase2-media local staging batch 182, simple present future clauses",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-do-support-lexical-verb-negative",
+    "title": "实义动词变否定为什么要借 do",
+    "keywords": [
+      "实义动词",
+      "助动词",
+      "do",
+      "否定句",
+      "疑问句",
+      "语法"
+    ],
+    "answer": "实义动词不能直接把 not 粘在后面变否定。Sunny 会让学生先判断句子里有没有 be、have、情态动词或助动词；如果没有，变否定或疑问时通常要借 do、does、did，后面的实义动词回到原形。写作里 I do not like 比 I like not 稳，过去时也要注意 did 后面不再保留过去式。",
+    "source": "phase2-media local staging batch 182, do support lexical verb negative",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-be-going-to-complete-unit",
+    "title": "be going to 为什么不能缺词",
+    "keywords": [
+      "将来时",
+      "be going to",
+      "动词原形",
+      "主谓一致",
+      "语法",
+      "写作"
+    ],
+    "answer": "be going to 要当成一个完整结构处理，后面接动词原形。Sunny 会提醒学生，不能只写 going to，也不能漏掉 to；其中 be 要根据主语变成 am、is、are、was 或 were。它常用来表达计划、安排或已经决定的事情。写作检查时，看到 going to，顺手检查前面有没有合适的 be，后面是不是动词原形。",
+    "source": "phase2-media local staging batch 182, be going to complete unit",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-present-continuous-for-future",
+    "title": "现在进行时什么时候可以表将来",
+    "keywords": [
+      "现在进行时",
+      "将来",
+      "come",
+      "go",
+      "arrive",
+      "语法"
+    ],
+    "answer": "现在进行时不只表示此刻正在发生。Sunny 会让学生注意，come、go、leave、arrive 这类表示移动或安排的动词，常用现在进行时表达已经安排好的将来动作。看到 the train is arriving 这类句子，不要误以为一定是此刻正在进站；要结合时间词和上下文判断它是不是未来安排。",
+    "source": "phase2-media local staging batch 182, present continuous future use",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-present-perfect-current-implication",
+    "title": "现在完成时为什么看现在影响",
+    "keywords": [
+      "现在完成时",
+      "have done",
+      "言外之意",
+      "时态",
+      "语法",
+      "写作"
+    ],
+    "answer": "Sunny 会让学生把现在完成时理解成“过去的动作和现在有关”。它不只是说明过去发生过，还常带出现阶段的结果或言外之意。例如说已经看过某部电影，重点可能是现在不想再看。写作和阅读里判断现在完成时，不要只问动作什么时候发生，还要问它对现在状态、选择或结论有什么影响。",
+    "source": "phase2-media local staging batch 182, present perfect current implication",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-subject-clause-formal-it",
+    "title": "主语从句太长时为什么用 it",
+    "keywords": [
+      "主语从句",
+      "形式主语",
+      "it",
+      "that clause",
+      "语法",
+      "阅读"
+    ],
+    "answer": "主语从句本质上是一整句话充当主语，但如果放在句首太长，Sunny 会让学生认出形式主语 it。It is important that... 里，真正重要的是后面的 that 从句，it 只是先占位置，避免句子头重脚轻。阅读时看到 It is + 名词/形容词 + that，不要把 it 当成具体事物，要回头找真正主语。",
+    "source": "phase2-media local staging batch 182, subject clause formal it",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-noun-clause-role-replacement-test",
+    "title": "怎么判断名词性从句是哪一种",
+    "keywords": [
+      "名词性从句",
+      "主语从句",
+      "宾语从句",
+      "替换测试",
+      "语法",
+      "阅读"
+    ],
+    "answer": "Sunny 会用替换测试讲名词性从句：一整句话替换掉原本一个名词位置，就按它所在位置判断类型。替换主语位置，就是主语从句；替换 say、believe、suggest 这类动词后面的宾语，就是宾语从句。不要只看连接词 that、whether、what，而要看这整段在主句里承担的是主语、宾语还是其他名词角色。",
+    "source": "phase2-media local staging batch 182, noun clause role replacement",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-where-adverbial-clause-place",
+    "title": "where 引导的一定是定语从句吗",
+    "keywords": [
+      "where",
+      "地点状语从句",
+      "定语从句",
+      "主句完整",
+      "语法",
+      "阅读"
+    ],
+    "answer": "不一定。Sunny 会让学生先看主句是否已经完整。如果主句主谓宾已经成立，where 引导的部分可能是在补“在哪里发生”，也就是地点状语从句；如果 where 在修饰前面的地点名词，才更像定语从句。判断时不要只看 where 这个词，要看它是替换地点状语，还是修饰一个具体地点名词。",
+    "source": "phase2-media local staging batch 182, where place adverbial clause",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
