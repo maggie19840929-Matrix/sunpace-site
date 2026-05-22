@@ -17005,5 +17005,261 @@
     "source": "phase2-media local staging batch 182, where place adverbial clause",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-mcq-radio-vs-checkbox",
+    "title": "阅读单选和多选怎么一眼区分",
+    "keywords": [
+      "阅读",
+      "单选",
+      "多选",
+      "圆圈",
+      "方框",
+      "时间管理"
+    ],
+    "answer": "阅读部分时间在走，不要每次都把题目说明读完才判断题型。Sunny 会让学生先看选项前面的图标：圆圈通常是单选，方框通常是多选。先确认题型，再决定策略。单选错了就是零分，多选还涉及多项判断；如果一开始把题型看错，后面读文章的目标也会跟着错。",
+    "source": "phase2-media local staging batch 183, reading MCQ radio versus checkbox",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-mcq-question-keywords-first",
+    "title": "阅读选择题先看文章还是题目",
+    "keywords": [
+      "阅读",
+      "选择题",
+      "题干",
+      "关键词",
+      "定位",
+      "PTE"
+    ],
+    "answer": "Sunny 会让学生先看题目，再回文章定位。阅读选择题文章可能接近三百词，但下面只有一题；如果从头精读，性价比很低。先圈题干里的限定词和主题词，例如 present、Australia、climate change，再带着这些词去文章里找对应信息。目标不是读懂每一句，而是用题目决定要读哪一块。",
+    "source": "phase2-media local staging batch 183, reading MCQ question keywords first",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-mcq-time-cap-by-target",
+    "title": "阅读单选题要花很多时间吗",
+    "keywords": [
+      "阅读",
+      "单选",
+      "时间分配",
+      "65分",
+      "79分",
+      "PTE"
+    ],
+    "answer": "阅读单选题通常分值不高，Sunny 不建议基础目标学生在这里耗太久。目标 65 左右或以下时，能抓就抓，但不要为了一个一分题挤掉 FIB、RO 这类更高价值题；目标 79 时每一分更重要，可以更认真做，但仍要快。训练时给单选题设一个短时间上限，比无限精读更接近真实考试。",
+    "source": "phase2-media local staging batch 183, reading MCQ time cap",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-ro-park-uncertain-sentences",
+    "title": "RO 有一句不确定要先硬放吗",
+    "keywords": [
+      "RO",
+      "Re-order Paragraphs",
+      "不确定句",
+      "两两配对",
+      "阅读",
+      "逻辑"
+    ],
+    "answer": "不要因为一句不确定就把整题拖住。Sunny 会让学生先把能确定的两两关系配出来，例如代词指代、转折、时间线或总分关系；暂时不确定的句子先放一边。等稳定小组出来后，再把那句插进去通读验证。RO 不是凭一个词硬排全篇，先减少不确定性，最后再处理难句，错误率会低很多。",
+    "source": "phase2-media local staging batch 183, RO park uncertain sentences",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-ro-generalization-ending",
+    "title": "RO 结尾句常有什么特征",
+    "keywords": [
+      "RO",
+      "Re-order Paragraphs",
+      "总结句",
+      "抽象名词",
+      "总分结构",
+      "阅读"
+    ],
+    "answer": "Sunny 会提醒学生，RO 里有些句子用 strict management plans、sustainable attractions 这类抽象概括词，功能上更像总结或上位概括。它们通常不是突然接在一个细节后面，而是在前文讲完过程、规则或具体内容后收束。判断结尾时，不要只看有没有 therefore，而要看这句话是不是把前面的细节提升成一个总体结论。",
+    "source": "phase2-media local staging batch 183, RO generalization ending",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-missing-predicate-check",
+    "title": "FIB 句子缺谓语时怎么判断",
+    "keywords": [
+      "FIB",
+      "阅读填空",
+      "谓语",
+      "主语",
+      "宾语",
+      "词性判断"
+    ],
+    "answer": "FIB 先看句子骨架。Sunny 会让学生判断：主语已经有了、后面还有宾语或补足信息，但中间没有真正谓语，那空格大概率要填动词谓语。选项里即使有几个词意思都相关，也要先排除不能做谓语的形式。词义只是第二步，主谓宾有没有闭合，往往能先把范围缩小。",
+    "source": "phase2-media local staging batch 183, FIB missing predicate",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-complete-sentence-nonfinite",
+    "title": "FIB 句子完整了还缺什么",
+    "keywords": [
+      "FIB",
+      "阅读填空",
+      "非谓语",
+      "副词",
+      "句子成分",
+      "词性"
+    ],
+    "answer": "如果空格前后的主系表或主谓宾已经完整，Sunny 会让学生先别再找第二个谓语。下一步看这个位置是不是需要副词、介词短语、解释成分，或者非谓语来补充说明。很多 FIB 干扰项就是让你在完整句子里又塞一个谓语，造成双谓语错误。先问句子缺不缺核心成分，再决定要填谓语还是修饰成分。",
+    "source": "phase2-media local staging batch 183, FIB complete sentence nonfinite",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-subject-verb-number-crosscheck",
+    "title": "FIB 怎么用主谓单复数互相反推",
+    "keywords": [
+      "FIB",
+      "主谓一致",
+      "单复数",
+      "词形",
+      "阅读",
+      "语法"
+    ],
+    "answer": "Sunny 会让学生在 FIB 里用主语和谓语互相反推。谓语是原形时，主语往往是复数或第一二人称；谓语带三单 s 时，主语更可能是单数或不可数。反过来，如果主语已经确定，也能排除动词形式不合的选项。这个方法特别适合几个选项意思都像，但词形只有一个能和句子结构配上时。",
+    "source": "phase2-media local staging batch 183, FIB subject verb number crosscheck",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-wfd-exactly-as-heard",
+    "title": "WFD 听到 don't 能写 do not 吗",
+    "keywords": [
+      "WFD",
+      "Write From Dictation",
+      "缩写",
+      "exactly as heard",
+      "听写",
+      "格式"
+    ],
+    "answer": "WFD 的原则是尽量按听到的形式写。Sunny 会提醒学生，如果音频里是 don't，就不要自作主张展开成 do not；如果听到的是 it is，也不要随手缩成 it's。写作里有些缩写不推荐，但 WFD 是听写题，重点是还原音频和标准答案。听到什么格式，就尽量写什么格式。",
+    "source": "phase2-media local staging batch 184, WFD exactly as heard",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-wfd-word-format-earns-word",
+    "title": "WFD 拼写或词形错是怎么扣的",
+    "keywords": [
+      "WFD",
+      "拼写",
+      "词形",
+      "大小写",
+      "语法形式",
+      "听写"
+    ],
+    "answer": "WFD 里拼写、大小写和词形错误，核心影响是这个词本身能不能算写对。Sunny 会让学生理解：它不是像 WE 那样单独给一段语法评论，而是看每个目标词是否匹配。单词拼错、该大写没大写、单数复数或时态形式错，都可能让这个词拿不到内容分。训练目标是每个有效词尽量完整匹配。",
+    "source": "phase2-media local staging batch 184, WFD word format earns word",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-personal-intro-noisy-room-baseline",
+    "title": "考场很吵时自我介绍有什么用",
+    "keywords": [
+      "Personal Introduction",
+      "自我介绍",
+      "麦克风",
+      "背景噪音",
+      "口语",
+      "考场"
+    ],
+    "answer": "Personal Introduction 通常不计分，但 Sunny 会把它当成进正式口语前的声音基线。考场很吵时，稳定说完一段熟悉内容，可以帮助自己确认音量、麦克风位置和背景噪音是否压过自己的声音。不要乱说或沉默，用固定的姓名、学习/工作、考试目的顺一遍，让正式 RA 开始前声音已经打开。",
+    "source": "phase2-media local staging batch 184, personal introduction noisy room baseline",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ra-prediction-not-enough",
+    "title": "RA 只背预测够不够",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "预测",
+      "陌生段落",
+      "练习素材",
+      "口语"
+    ],
+    "answer": "不够。Sunny 会让学生把 RA 预测当作练习素材和可能命中的补充，而不是唯一准备。RA 命中率不稳定，考试里很可能遇到陌生段落，所以平时一定要练陌生文本的断句、重音和连续朗读。预测可以备，但真正保分的是看到新段落也能快速划意群、读顺、不回读。",
+    "source": "phase2-media local staging batch 184, RA prediction not enough",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rs-prediction-with-wfd",
+    "title": "RS 预测能不能和 WFD 一起过",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "WFD",
+      "预测",
+      "句子熟悉度",
+      "口语"
+    ],
+    "answer": "可以。Sunny 会把 RS 和 WFD 都看成需要句子熟悉度的题型：WFD 要能听写，RS 要能听后复述。过 WFD 高频时，顺手把相似句型、主题词和常见表达拿来做 RS 跟读或复述，能提高耳朵对句子结构的反应。区别是 WFD 追求写准，RS 追求听后顺着说出来，两者可以互相带动。",
+    "source": "phase2-media local staging batch 184, RS prediction with WFD",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-rl-sst-mass-practice-listen-note",
+    "title": "RL 和 SST 题海到底练什么",
+    "keywords": [
+      "RL",
+      "SST",
+      "泛听",
+      "记笔记",
+      "题海",
+      "听力"
+    ],
+    "answer": "RL 和 SST 的题海不是为了背每一篇答案。Sunny 会把它拆成听、记、说或写三步：早期先把说和写的框架练稳，第二阶段再用大量讲座材料训练听力和笔记。材料来源可以很广，关键是每次都要抓主题、分论点和能写进答案的词组。题海的目标是反应速度和笔记质量，不是机械堆题量。",
+    "source": "phase2-media local staging batch 184, RL SST mass practice listen and note",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-fib-hiw-speed-training",
+    "title": "听力 FIB 和 HIW 要不要加速练",
+    "keywords": [
+      "听力FIB",
+      "HIW",
+      "加速训练",
+      "1.2倍",
+      "1.5倍",
+      "听力"
+    ],
+    "answer": "Sunny 会在第二阶段让学生把听力 FIB 和 HIW 放到更快语速里练，比如 1.2 倍或 1.5 倍。目的不是长期折磨耳朵，而是让正常考试速度显得更可控。加速时先抓关键词和空格附近的词形，不要追每个细节；回到正常速度后，再检查拼写、单复数和反应延迟有没有改善。",
+    "source": "phase2-media local staging batch 184, listening FIB HIW speed training",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-prediction-read-ideas-not-memorize",
+    "title": "WE/SWT 预测要不要整篇背",
+    "keywords": [
+      "写作",
+      "预测",
+      "WE",
+      "SWT",
+      "思路",
+      "背诵"
+    ],
+    "answer": "Sunny 不建议把写作预测整篇背下来。预测的用法是看题目、理清思路、准备可迁移的观点和例子；考试里真正要写的是针对 prompt 的稳定答案。整篇背诵容易模板痕迹重，也容易一换题就接不上。更稳的是知道每类题能写哪两个角度、用哪些安全句型，以及最后如何检查语法和字数。",
+    "source": "phase2-media local staging batch 184, writing prediction ideas not memorization",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]

@@ -949,3 +949,23 @@
 - 覆盖主题：主将从现、实义动词否定借 do、be going to 完整结构、现在进行时表将来、现在完成时看现在影响、形式主语 it、名词性从句替换测试、where 地点状语从句判断
 
 备注：两轮新增后执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，并只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
+
+## 2026-05-23 Knowledge Distillation 53
+
+- 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交
+- 输入来源：本地已完成转写池，重点参考 `resume-35` 的阅读选择题、RO 排序和 FIB 词性判断素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：阅读单选/多选图标区分、选择题先看题干关键词、阅读单选按目标控时、RO 不确定句先搁置、RO 抽象总结句判断、FIB 缺谓语识别、句子完整后找非谓语/修饰成分、FIB 主谓单复数互推
+
+备注：本轮只写入 SunPace 自有公开知识条目；原始逐字稿、队列和日志继续留在 `knowledge_exports/`，不会提交。
+
+## 2026-05-23 Knowledge Distillation 54
+
+- 模式：白天同步模式；第 53、54 两轮完成后同步 GitHub
+- 输入来源：本地已完成转写池，重点参考 `resume-35/36` 的 WFD、Personal Introduction、RA/RS 预测、RL/SST 泛听和写作预测使用素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：WFD 按听到形式写、WFD 单词格式决定有效词、自我介绍作噪音环境声音基线、RA 不能只靠预测、RS 与 WFD 一起过句子熟悉度、RL/SST 题海练听记、听力 FIB/HIW 加速训练、写作预测看思路不背全文
+
+备注：两轮新增后执行 JSON 校验、重复 ID 检查、公开 Sunny 回归，并只提交 `data/pte-knowledge.sunpace.json` 和 `docs/pte-transcription-progress.md`。
