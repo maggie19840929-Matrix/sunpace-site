@@ -12547,11 +12547,11 @@
       "近义词",
       "英英释义",
       "collocation",
-      "Longman",
-      "Oxford",
+      "英英词典",
+      "搭配",
       "词典"
     ],
-    "answer": "不够。Sunny 会让学生查近义词时看英英解释和例句，尤其看搭配对象和介词。很多 FIB 选项中文都像“提供、下降、保持”，但英文用法不同；只记中文会让你觉得每个都能选。复盘时可以看 Oxford、Collins、Longman 这类词典里的例句和 collocation，把 provide/offer、decrease/decline/descent 这类词放到具体语境里比。",
+    "answer": "不够。Sunny 会让学生查近义词时看英英解释和例句，尤其看搭配对象和介词。很多 FIB 选项中文都像“提供、下降、保持”，但英文用法不同；只记中文会让你觉得每个都能选。复盘时可以看主流英英词典里的例句和 collocation，把 provide/offer、decrease/decline/descent 这类词放到具体语境里比。",
     "source": "phase2-media local staging batch 148, reading dictionary and collocations",
     "visibility": "public",
     "priority": "medium"
@@ -22383,6 +22383,262 @@
     ],
     "answer": "题库版本越新，材料可能越长。Sunny 会同时做增加和删减：新增重要内容进入计划，重复、低价值或已掌握内容退出重点列表。没有删减策略，学生很快会被材料量压住。",
     "source": "local OCR extraction round 94, version-management notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-template-map-to-question-type",
+    "title": "WE 模板先匹配题型再使用",
+    "keywords": [
+      "WE",
+      "模板",
+      "题型匹配",
+      "agree disagree",
+      "problem solving",
+      "写作"
+    ],
+    "answer": "Sunny 会先判断 WE 题型，再决定是否使用某个结构。观点题、利弊题和问题解决题需要的段落任务不同，不能用同一套空模板硬套。题型匹配对了，模板才是支架；匹配错了，文章会答非所问。",
+    "source": "local OCR extraction round 95, WE template notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-template-fill-with-real-argument",
+    "title": "WE 模板空位必须填真实论点",
+    "keywords": [
+      "WE",
+      "模板",
+      "论点",
+      "论证",
+      "写作",
+      "内容"
+    ],
+    "answer": "模板里的空位不是随便填词。Sunny 会让学生先写出真实论点，再放进句子结构。每个论点都要能解释为什么、影响谁、结果是什么。没有内容的高级句式，只会让文章看起来空。",
+    "source": "local OCR extraction round 95, WE template notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-example-credible-not-invented",
+    "title": "WE 例子要可信，不要硬编权威",
+    "keywords": [
+      "WE",
+      "例子",
+      "可信度",
+      "论证",
+      "写作",
+      "证据"
+    ],
+    "answer": "WE 可以用简短例子支撑观点，但 Sunny 不鼓励硬编机构调查或名人引用。更稳的做法是写常识性场景、可解释的结果和清楚的因果。可信的小例子，比夸张但无法验证的权威句更安全。",
+    "source": "local OCR extraction round 95, WE evidence notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-opposing-view-not-strawman",
+    "title": "反方观点不要写成稻草人",
+    "keywords": [
+      "WE",
+      "反方观点",
+      "让步",
+      "论证",
+      "写作",
+      "平衡"
+    ],
+    "answer": "写反方观点时，Sunny 会要求学生给出真实、合理的反方理由，再解释为什么自己仍然坚持主立场。不要把反方写得明显荒谬，这会削弱文章成熟度。好的让步段能展示判断力，而不是机械反驳。",
+    "source": "local OCR extraction round 95, WE counterargument notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-problem-solution-cause-first",
+    "title": "问题解决题先写原因再写措施",
+    "keywords": [
+      "WE",
+      "问题解决题",
+      "原因",
+      "措施",
+      "写作",
+      "结构"
+    ],
+    "answer": "Problem/Solution 题不能直接跳到建议。Sunny 会让学生先说明问题为什么出现，再提出对应措施。原因和措施要一一对应，否则建议会显得泛泛。结构上先诊断，再治疗，文章更自然。",
+    "source": "local OCR extraction round 95, WE problem-solving notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-solution-agent-specific",
+    "title": "解决方案要写清执行主体",
+    "keywords": [
+      "WE",
+      "解决方案",
+      "执行主体",
+      "政府",
+      "机构",
+      "个人"
+    ],
+    "answer": "WE 解决方案里，Sunny 会让学生写清谁来做：政府、学校、企业、社区还是个人。主体不同，动作也不同。只写“应该采取措施”不够；要说明主体、动作和预期结果。",
+    "source": "local OCR extraction round 95, WE solution notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-conclusion-restates-answer-not-template",
+    "title": "WE 结尾要回答题目，不要只收模板",
+    "keywords": [
+      "WE",
+      "结尾",
+      "回答题目",
+      "模板",
+      "写作",
+      "立场"
+    ],
+    "answer": "WE 结尾的任务是回答题目。Sunny 会让学生用一句话重申立场、比较权重或总结解决路径。不要只写空泛收束句。结尾短可以，但必须让读者知道你最终回答了什么。",
+    "source": "local OCR extraction round 95, WE conclusion notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-template-word-count-check",
+    "title": "WE 模板要做字数和时间检查",
+    "keywords": [
+      "WE",
+      "模板",
+      "字数",
+      "时间",
+      "写作",
+      "检查"
+    ],
+    "answer": "模板套出来的文章可能过长，也可能空。Sunny 会在训练中检查两件事：能否在 20 分钟内写完并检查，字数是否落在安全区间。不能限时完成的模板，需要缩短；内容不足的模板，需要补论证。",
+    "source": "local OCR extraction round 95, WE template testing notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-intensive-before-extensive",
+    "title": "泛听建立在精听基础上",
+    "keywords": [
+      "听力",
+      "精听",
+      "泛听",
+      "SST",
+      "RS",
+      "WFD"
+    ],
+    "answer": "Sunny 会把精听作为泛听的前提。精听解决词和句子能不能听准，泛听训练篇章大意和信息筛选。如果基础词句听不稳，直接泛听只会得到模糊印象，很难转化成分数。",
+    "source": "local OCR extraction round 96, listening training notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-intensive-task-types",
+    "title": "精听任务分词语和句子",
+    "keywords": [
+      "精听",
+      "FIB-L",
+      "HIW",
+      "RS",
+      "WFD",
+      "听力"
+    ],
+    "answer": "精听不是只反复播放。Sunny 会按任务拆分：词语精听适合听力填空和错词识别，句子精听适合 RS 和 WFD。词语训练辨音和拼写，句子训练记忆和语法还原。分清任务，复盘才有效。",
+    "source": "local OCR extraction round 96, listening training notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-extensive-general-idea",
+    "title": "泛听目标是抓篇章大意",
+    "keywords": [
+      "泛听",
+      "篇章大意",
+      "SST",
+      "HCS",
+      "MCQ",
+      "听力"
+    ],
+    "answer": "泛听的目标不是听清每个词，而是抓主题、结构和主要信息。Sunny 会用 SST、摘要选择、多选单选和缺失词等任务训练篇章判断。泛听时要问：这段在讲什么，重点转折在哪里，结论是什么？",
+    "source": "local OCR extraction round 96, extensive listening notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-listen-write-two-phase",
+    "title": "SST 用听和写两阶段训练",
+    "keywords": [
+      "SST",
+      "听力",
+      "写作",
+      "笔记",
+      "概括",
+      "泛听"
+    ],
+    "answer": "SST 同时考听力和写作。Sunny 会分两阶段训练：先听出主题、分论点和例子，再把笔记改写成完整摘要。听的时候不要忙着造句，写的时候不要只抄关键词。两阶段分开，质量更稳。",
+    "source": "local OCR extraction round 96, SST listening notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-pronunciation-small-daily-practice",
+    "title": "发音训练要少量高频",
+    "keywords": [
+      "发音",
+      "口音",
+      "口语",
+      "每日练习",
+      "RA",
+      "流利度"
+    ],
+    "answer": "发音习惯不是一晚改变的。Sunny 会让学生每天练几分钟，而不是一次练很久。每次只修一个音、一个重音或一个连读问题。少量高频的练习，更容易把新发音变成自然习惯。",
+    "source": "local OCR extraction round 96, pronunciation training notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-mirror-practice",
+    "title": "镜子练习能修正口型",
+    "keywords": [
+      "发音",
+      "镜子练习",
+      "口型",
+      "辅音",
+      "元音",
+      "口语"
+    ],
+    "answer": "很多发音问题来自口型位置不稳定。Sunny 会让学生用镜子观察嘴唇、舌位和下颌动作，再录音对比。看得见口型，才更容易修正听不出来的小问题。镜子练习尤其适合元音和唇齿音。",
+    "source": "local OCR extraction round 96, pronunciation training notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-ipa-as-map",
+    "title": "IPA 是发音地图，不是背诵表",
+    "keywords": [
+      "IPA",
+      "音标",
+      "发音",
+      "口语",
+      "辅音",
+      "元音"
+    ],
+    "answer": "Sunny 会把 IPA 当作发音地图。学生不需要为了考试背完整术语，但要知道一个符号对应什么口型、舌位和声音。音标能帮助定位问题，尤其是在相近辅音、长短元音和弱读音上。",
+    "source": "local OCR extraction round 96, pronunciation training notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-rhythm-stress-intonation",
+    "title": "口语清晰度还靠节奏重音语调",
+    "keywords": [
+      "口语",
+      "节奏",
+      "重音",
+      "语调",
+      "发音",
+      "RA"
+    ],
+    "answer": "发音不只是单音准确。Sunny 会把节奏、词重音、句重音和语调一起练。RA 和日常口语都需要轻重变化，否则即使每个词都读对，也会显得平、紧或难跟。节奏感能明显提升清晰度。",
+    "source": "local OCR extraction round 96, pronunciation rhythm notes",
     "visibility": "public",
     "priority": "high"
   }
