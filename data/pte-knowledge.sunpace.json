@@ -24433,5 +24433,261 @@
     "source": "local media transcript round 110, pronunciation mouth-shape notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-naked-countable-singular",
+    "title": "FIB 里可数单数名词不能裸放",
+    "keywords": [
+      "FIB",
+      "可数名词",
+      "单数",
+      "冠词",
+      "阅读",
+      "语法"
+    ],
+    "answer": "Reading FIB 里如果选项放进去后形成一个可数名词单数，Sunny 会先检查它前面有没有 a、an、the、this、that 这类限定词。没有限定词，又不是固定标题或专有名词时，裸单数通常不稳。很多选项中文意思像对，但一放进句子就变成裸单数名词，这种要先排掉。",
+    "source": "local media transcript round 111, reading FIB countability notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-countable-plural-repair",
+    "title": "FIB 可数名词可用复数修正形式",
+    "keywords": [
+      "FIB",
+      "可数名词",
+      "复数",
+      "词形",
+      "阅读",
+      "选项"
+    ],
+    "answer": "有些 FIB 选项意思对，但单数形式不合语法。Sunny 会让学生想两个修正方向：要么前面有合适限定词，要么名词变成复数。考试中不能自己改选项时，就要判断给出的形式能不能直接成立。能不能数、是不是复数，经常比中文意思更早决定答案。",
+    "source": "local media transcript round 111, reading FIB noun-form notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-two-predicates-option-alert",
+    "title": "FIB 选项放入后出现两个谓语要警惕",
+    "keywords": [
+      "FIB",
+      "谓语",
+      "句子结构",
+      "阅读",
+      "语法",
+      "选项排除"
+    ],
+    "answer": "FIB 做题时，Sunny 会让学生把选项放回原句后检查谓语数量。如果原句已经有 has become、is、was 这类谓语，再放入一个普通动词原形或过去式，可能就变成一个分句里两个谓语。意思再像，也要先问结构能不能成立。FIB 不只是选词义，也是在选一个能让句子站住的形式。",
+    "source": "local media transcript round 111, reading FIB predicate notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-gerund-repairs-second-verb",
+    "title": "FIB 里第二个动词常要变成动名词或非谓语",
+    "keywords": [
+      "FIB",
+      "动名词",
+      "非谓语",
+      "谓语",
+      "阅读",
+      "语法"
+    ],
+    "answer": "如果一句话已经有谓语，而选项里的动词又想表达一个动作，Sunny 会检查它能不能变成动名词、分词或不定式这类非谓语结构。比如一个动作整体做主语时，doing... 比直接放动词原形更稳。看到两个动词挤在同一层级，不要急着按中文翻译选，先把谓语和非谓语分清楚。",
+    "source": "local media transcript round 111, reading FIB nonfinite-verb notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-question-clause-as-subject",
+    "title": "疑问词加不定式可以整体做主语",
+    "keywords": [
+      "FIB",
+      "how to",
+      "不定式",
+      "主语",
+      "阅读",
+      "语法"
+    ],
+    "answer": "Reading FIB 里看到 how to、what to、whether to 这类结构时，Sunny 会让学生把它当成一个整体名词块来读。它可以在句子前面做主语，后面再接单数谓语。不要因为里面有动词就误判成第二个谓语；关键是看这块结构在整句里承担什么功能。",
+    "source": "local media transcript round 111, reading FIB infinitive-subject notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-abstract-noun-countability",
+    "title": "抽象名词不一定需要复数或冠词",
+    "keywords": [
+      "FIB",
+      "抽象名词",
+      "不可数名词",
+      "冠词",
+      "阅读",
+      "词形"
+    ],
+    "answer": "FIB 里不是所有名词都要加冠词或复数。Sunny 会让学生区分可数个体和抽象概念：表示过程、性质、状态或总体概念的名词，常常可以按不可数处理。看到一个抽象名词单独出现时，不要立刻判错；要看它是不是在表达某类概念，而不是一个可数对象。",
+    "source": "local media transcript round 111, reading FIB abstract-noun notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-compare-countability-not-translation",
+    "title": "FIB 相近选项要比较可数性而不是只看中文",
+    "keywords": [
+      "FIB",
+      "可数性",
+      "近义词",
+      "选项比较",
+      "阅读",
+      "语法"
+    ],
+    "answer": "两个选项中文都像能表达题意时，Sunny 会让学生比较可数性和句子位置。一个词可能是可数名词，单数裸放不成立；另一个可能是抽象不可数名词，形式反而自然。FIB 的关键经常不是谁中文更顺，而是谁的词性、词形和搭配能直接嵌进原句。",
+    "source": "local media transcript round 111, reading FIB countability-comparison notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-form-before-meaning-check",
+    "title": "FIB 改错题先看形式，再看意思",
+    "keywords": [
+      "FIB",
+      "改错",
+      "语法形式",
+      "词形",
+      "阅读",
+      "复盘"
+    ],
+    "answer": "FIB 改错或多选判断时，Sunny 会让学生先用形式筛一遍：名词可数性、谓语数量、动词形式、冠词和主谓一致。形式过不了的选项，中文意思再贴近也不安全。形式筛完后再看语义，速度会更快，也能减少“看懂但选错”的情况。",
+    "source": "local media transcript round 111, reading FIB form-first notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-booking-account-use-personal-email",
+    "title": "报名账户要用自己长期可用的邮箱",
+    "keywords": [
+      "报名",
+      "账户",
+      "邮箱",
+      "考试预约",
+      "通知",
+      "流程"
+    ],
+    "answer": "Sunny 会让学生用自己长期可登录的邮箱创建考试账户。这个邮箱不只是收验证码，还会承接预约确认、考前通知、成绩提醒和后续流程。不要用临时邮箱、别人代管的邮箱或自己经常忘记密码的邮箱。流程问题处理不好，会让备考成果卡在行政环节。",
+    "source": "local OCR extraction round 112, exam booking process notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-booking-name-order-double-check",
+    "title": "报名姓名要核对拼写和顺序",
+    "keywords": [
+      "报名",
+      "证件姓名",
+      "姓名顺序",
+      "拼写",
+      "考试流程",
+      "入场"
+    ],
+    "answer": "报名时，Sunny 会让学生逐项核对证件上的姓、名、拼写和顺序。大小写通常不是最大问题，但漏字母、顺序填反或和证件不一致会带来入场和成绩处理风险。提交前不要凭记忆填，拿着证件对照看一遍，是最省时间的风险控制。",
+    "source": "local OCR extraction round 112, exam account identity notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-booking-password-access-before-exam",
+    "title": "考试账户密码要提前确认能登录",
+    "keywords": [
+      "报名",
+      "账户",
+      "密码",
+      "登录",
+      "考试流程",
+      "成绩"
+    ],
+    "answer": "Sunny 会提醒学生不要等到要查考位、改期或发送成绩时才发现账户登不上。报名后把账户邮箱、密码和安全验证方式妥善保存；考前和出分后都可能需要登录。流程资料可以简单，但必须自己能掌控。账号不可用，会影响预约、查分和成绩发送。",
+    "source": "local OCR extraction round 112, exam account access notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-booking-exam-type-verify-with-requirement",
+    "title": "考试类型要按申请要求确认",
+    "keywords": [
+      "考试类型",
+      "预约",
+      "UKVI",
+      "PTE Academic",
+      "PTE Core",
+      "申请要求"
+    ],
+    "answer": "预约前不要只凭名称相近就选择考试类型。Sunny 会让学生回到学校、机构、签证或移民项目的要求，确认需要的是普通学术用途、签证用途，还是其他类型。考错版本比晚几天预约更麻烦。先确认用途，再付费预约，是报名阶段最重要的一步。",
+    "source": "local OCR extraction round 112, exam type selection notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-seat-search-buffer-plan",
+    "title": "查考位要给出分和补考留缓冲",
+    "keywords": [
+      "考位",
+      "预约",
+      "出分",
+      "补考",
+      "申请截止",
+      "时间规划"
+    ],
+    "answer": "查考位时，Sunny 不会只看哪天最近。更稳的是倒推申请截止、预计出分时间、可能补考和复习修正时间。热门考点和周末场次变化快，最好准备备选日期和地点。考位选择服务于整体申请节奏，不是越早抢到越好。",
+    "source": "local OCR extraction round 112, seat-search planning notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-booking-confirmation-save-details",
+    "title": "预约确认信息要单独留档",
+    "keywords": [
+      "预约确认",
+      "考试地点",
+      "到场时间",
+      "邮箱",
+      "考试流程",
+      "留档"
+    ],
+    "answer": "预约完成后，Sunny 会让学生把考试日期、考点地址、到场时间、证件要求和改期规则单独留档。不要只相信邮箱里一定能马上找到。考前一天再核对一次，尤其检查垃圾箱和临时通知。流程越清楚，考试当天越能把注意力留给题目本身。",
+    "source": "local OCR extraction round 112, booking confirmation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-send-recipient-match",
+    "title": "发送成绩前要核对接收方信息",
+    "keywords": [
+      "成绩发送",
+      "成绩单",
+      "接收方",
+      "申请",
+      "官方账户",
+      "流程"
+    ],
+    "answer": "需要从考试账户发送成绩时，Sunny 会让学生先核对接收方名称、项目、校区或部门、截止日期和是否需要额外申请材料。不要只下载 PDF 就以为递交完成。发送后保留记录或截图，方便后续追踪。成绩流程要闭环，才不会因为递交路径出错耽误申请。",
+    "source": "local OCR extraction round 112, score sending notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-booking-final-date-risk-mock",
+    "title": "正式预约前先做一次风险模考",
+    "keywords": [
+      "模考",
+      "预约考试",
+      "风险检查",
+      "目标分",
+      "备考计划",
+      "PTE"
+    ],
+    "answer": "Sunny 通常会建议学生在正式预约前做一次接近实战的模考。目的不是追求漂亮分数，而是确认目标分差距、题型短板和时间稳定性。如果 RA 卡顿、WFD 做不完、写作格式不稳，就要把考试日期和补弱计划一起调整。先查风险，再定场次，比盲目报名更稳。",
+    "source": "local OCR extraction round 112, pre-booking mock-test notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
