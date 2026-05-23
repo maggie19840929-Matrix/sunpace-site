@@ -23153,5 +23153,261 @@
     "source": "local OCR extraction round 100, queue completion notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-room-allowed-items-check",
+    "title": "进考场前先确认可带物品",
+    "keywords": [
+      "考试当天",
+      "考场规则",
+      "证件",
+      "储物柜",
+      "PTE",
+      "流程"
+    ],
+    "answer": "Sunny 会提醒学生进正式考场前确认可带物品。通常只保留证件和现场允许携带的必要物品，其余都放入储物柜。不要把自备文具、纸张或未经允许的配件带进去。规则越简单，临场越不容易出错。",
+    "source": "local media transcript round 101, exam-day process notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-scratch-board-plan",
+    "title": "草稿纸板要提前规划使用",
+    "keywords": [
+      "草稿纸",
+      "考试当天",
+      "SST",
+      "WFD",
+      "听力",
+      "阅读"
+    ],
+    "answer": "PTE 现场草稿材料数量可能有限。Sunny 会让学生提前规划：阅读前少占空间，听力前如果有合适间隙再申请更换或整理。SST、FIB-L 和 WFD 都需要记笔记，草稿空间要留给高价值听力任务。",
+    "source": "local media transcript round 101, exam-day process notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-transition-before-listening",
+    "title": "阅读到听力之间要做切换检查",
+    "keywords": [
+      "考试节奏",
+      "阅读",
+      "听力",
+      "切换",
+      "草稿",
+      "PTE"
+    ],
+    "answer": "阅读结束、听力开始前是重要切换点。Sunny 会让学生快速检查草稿材料、耳机状态、心态和下一题型节奏。不要把阅读里的焦虑带进听力。短暂切换做得好，SST 和 WFD 会更稳。",
+    "source": "local media transcript round 101, exam-day process notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-room-noise-plan",
+    "title": "考场噪音要提前有预案",
+    "keywords": [
+      "考场噪音",
+      "口语",
+      "写作",
+      "阅读",
+      "耳塞",
+      "PTE"
+    ],
+    "answer": "PTE 考场里旁边考生的口语和键盘声可能很明显。Sunny 会让学生提前模拟噪音环境练习，并了解现场允许的降噪方式。不要临场第一次面对噪音。心理预期越清楚，越不容易被别人节奏带走。",
+    "source": "local media transcript round 101, exam-day process notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-earplug-use-after-speaking",
+    "title": "口语后可按规则使用降噪工具",
+    "keywords": [
+      "耳塞",
+      "降噪",
+      "写作",
+      "阅读",
+      "考场",
+      "注意力"
+    ],
+    "answer": "如果考场提供允许使用的降噪工具，Sunny 会让学生按现场规则使用。它通常更适合口语结束后的写作和阅读阶段，减少他人口语或打字声干扰。不要使用自带或未经允许的物品，避免规则风险。",
+    "source": "local media transcript round 101, exam-day process notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-staff-interaction-calm",
+    "title": "和考场工作人员沟通要保持节奏",
+    "keywords": [
+      "考试当天",
+      "工作人员",
+      "沟通",
+      "心态",
+      "流程",
+      "PTE"
+    ],
+    "answer": "考试当天如果需要询问草稿材料、降噪工具或设备问题，Sunny 会让学生简短、礼貌、明确地沟通。无论对方态度如何，都不要让情绪影响下一题。目标是解决流程问题，不是和现场环境较劲。",
+    "source": "local media transcript round 101, exam-day process notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-study-cycle-match-foundation",
+    "title": "备考周期要匹配基础和目标",
+    "keywords": [
+      "备考周期",
+      "学习计划",
+      "目标分",
+      "基础",
+      "PTE",
+      "时间管理"
+    ],
+    "answer": "Sunny 不会给所有学生同一个备考周期。基础较好、目标明确的学生可以压缩周期；基础薄弱或目标分高的学生要留出补弱时间。周期太短容易漏项，周期太长又可能疲劳和遗忘。计划要服务目标分。",
+    "source": "local media transcript round 101, preparation planning notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-study-hours-by-weakness",
+    "title": "每天学习时长按弱项分配",
+    "keywords": [
+      "学习时长",
+      "弱项",
+      "备考",
+      "计划",
+      "PTE",
+      "复盘"
+    ],
+    "answer": "Sunny 会先看弱项，再安排每天学习时长。已经稳定的题型不必平均分配大量时间，真正短板要有专项训练和复盘。长时间硬学不一定更有效，关键是每天解决一个明确问题。",
+    "source": "local media transcript round 101, preparation planning notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-one-breath-phrase-flow",
+    "title": "RA 要练一口气的短语流",
+    "keywords": [
+      "RA",
+      "短语流",
+      "口语",
+      "流利度",
+      "朗读",
+      "节奏"
+    ],
+    "answer": "RA 不是逐词点读。Sunny 会让学生把句子切成短语组，一组尽量一口气读完。短语内部连贯，短语之间自然停顿。这样既能减少卡顿，也能让评分系统听到更稳定的口语流。",
+    "source": "local media transcript round 102, RA fluency notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-weak-forms-function-words",
+    "title": "RA 虚词要会弱读",
+    "keywords": [
+      "RA",
+      "弱读",
+      "虚词",
+      "to",
+      "that",
+      "口语"
+    ],
+    "answer": "RA 里介词、冠词、连词和部分代词不应该每个都重读。Sunny 会让学生练弱读，让内容词更突出。虚词读得太重，句子会像一串独立单词；弱读稳定后，节奏和自然度都会提升。",
+    "source": "local media transcript round 102, RA weak-form notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-final-consonant-control",
+    "title": "RA 词尾辅音要轻收不丢",
+    "keywords": [
+      "RA",
+      "词尾辅音",
+      "爆破音",
+      "发音",
+      "口语",
+      "清晰度"
+    ],
+    "answer": "Sunny 会让学生特别检查词尾辅音。词尾不能完全丢，也不能用力过猛。像 t、d、s 这类尾音要轻收，让词边界清楚但不打断节奏。轻收比重砸更适合连续朗读。",
+    "source": "local media transcript round 102, RA pronunciation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-intonation-keep-controlled",
+    "title": "RA 语调要稳，不要过度上扬",
+    "keywords": [
+      "RA",
+      "语调",
+      "上扬",
+      "口语",
+      "朗读",
+      "稳定"
+    ],
+    "answer": "RA 需要自然，但不需要戏剧化语调。Sunny 会让学生把句尾和短语尾控制住，避免每个词都上扬。过度上扬会让朗读显得不稳，也会影响节奏。目标是清楚、平稳、有轻重。",
+    "source": "local media transcript round 102, RA intonation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-word-first-sentence-second",
+    "title": "RA 先读准单词，再放回句子",
+    "keywords": [
+      "RA",
+      "单词发音",
+      "句子",
+      "口语",
+      "发音",
+      "练习"
+    ],
+    "answer": "遇到 RA 卡词时，Sunny 会先让学生单独读准这个词，再放回短语和句子。直接在整句里反复读，容易把错误节奏固定下来。单词、短语、整句三步走，修正更稳。",
+    "source": "local media transcript round 102, RA repair notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-ielts-speaking-habit-adjustment",
+    "title": "雅思口语习惯转 PTE 要调整",
+    "keywords": [
+      "雅思转考",
+      "PTE",
+      "RA",
+      "口语",
+      "语调",
+      "机器评分"
+    ],
+    "answer": "从真人口语考试转到 PTE 时，Sunny 会提醒学生调整表达习惯。真人交流里的夸张语气和互动感，在 RA 里可能变成不稳定语调。PTE 口语更需要清晰、连续、可预测的声音输出。",
+    "source": "local media transcript round 102, test-transfer notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-not-ielts-task-one",
+    "title": "DI 不是雅思小作文口头版",
+    "keywords": [
+      "DI",
+      "雅思转考",
+      "图表",
+      "口语",
+      "模板",
+      "时间"
+    ],
+    "answer": "Sunny 会特别提醒：DI 不是把雅思小作文完整说出来。DI 时间短，目标是快速定位主题、说关键数据和明显趋势。不要追求每道图都换高级表达，稳定结构和清楚比较更重要。",
+    "source": "local media transcript round 102, DI transfer notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-repeatable-trend-words",
+    "title": "DI 趋势词可以稳定重复",
+    "keywords": [
+      "DI",
+      "趋势词",
+      "increase",
+      "decrease",
+      "口语",
+      "稳定"
+    ],
+    "answer": "DI 口语里不必为每个趋势都换词。Sunny 会让学生优先使用自己说得顺的稳定表达。趋势词重复一点没关系，关键是数据和比较说清楚。为了换词而卡顿，得不偿失。",
+    "source": "local media transcript round 102, DI delivery notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
