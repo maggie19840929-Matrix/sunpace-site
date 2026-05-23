@@ -21617,5 +21617,261 @@
     "source": "local OCR extraction round 88, template rewriting notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-bank-index-to-skill-map",
+    "title": "大题库目录要转成能力地图",
+    "keywords": [
+      "题库",
+      "目录",
+      "能力地图",
+      "PTE",
+      "复习规划",
+      "题型"
+    ],
+    "answer": "大题库目录很长，Sunny 会先把它转成能力地图：口语输出、写作概括、阅读排序、填空、听力复述和听写。学生不要被页数吓住，而是先看自己哪一类能力缺口最大，再决定优先训练什么题型。",
+    "source": "local OCR extraction round 89, integrated question-bank index notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-bank-version-drift-check",
+    "title": "题库版本变化要先看结构漂移",
+    "keywords": [
+      "题库版本",
+      "结构变化",
+      "复习",
+      "PTE",
+      "更新",
+      "规划"
+    ],
+    "answer": "不同版本的题库页码和分区可能会变化。Sunny 会先检查结构漂移：哪些题型页数增加，哪些分区位置变化，是否新增了重点题型。先看结构，再看细节，可以避免把时间浪费在重复内容上。",
+    "source": "local OCR extraction round 89, integrated question-bank index notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-bank-priority-by-score-impact",
+    "title": "题库复习按分数影响排优先级",
+    "keywords": [
+      "题库",
+      "分数影响",
+      "优先级",
+      "WFD",
+      "FIB",
+      "SWT"
+    ],
+    "answer": "题库不能从第一页平均刷到最后一页。Sunny 会按分数影响排序：听写、阅读写作填空、SWT、SST、RA 等高影响任务优先进入训练计划。低频或低影响材料可以做背景熟悉，但不应占据主要时间。",
+    "source": "local OCR extraction round 89, integrated question-bank index notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-bank-topic-breadth-preload",
+    "title": "RA 题库要预热主题广度",
+    "keywords": [
+      "RA",
+      "题库",
+      "主题广度",
+      "口语",
+      "朗读",
+      "词汇"
+    ],
+    "answer": "RA 题库常覆盖科技、历史、自然、教育、健康、经济和社会议题。Sunny 会让学生按主题预热发音和关键词，而不是逐篇死背。主题熟悉后，陌生文章也更容易读出节奏和意义。",
+    "source": "local OCR extraction round 89, RA index notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-title-is-preview-not-answer",
+    "title": "RA 标题是预判线索，不是答案",
+    "keywords": [
+      "RA",
+      "标题",
+      "预判",
+      "朗读",
+      "口语",
+      "理解"
+    ],
+    "answer": "RA 目录里的标题可以帮助预判主题和词汇，但不能替代正式朗读训练。Sunny 会让学生用标题快速猜话题，然后回到句子本身练停顿、重音和连读。标题只是入口，真正评分仍在发音和流利度。",
+    "source": "local OCR extraction round 89, RA index notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-bank-output-types",
+    "title": "口语题库按输出类型分开练",
+    "keywords": [
+      "口语",
+      "RA",
+      "RS",
+      "DI",
+      "RL",
+      "ASQ"
+    ],
+    "answer": "口语题库看起来都在说话，但输出任务完全不同。Sunny 会把 RA 的朗读、RS 的短期记忆、DI 的图表描述、RL 的听后复述和 ASQ 的快速回答分开训练。混在一起刷，会看似努力却很难精准补弱。",
+    "source": "local OCR extraction round 89, speaking-section index notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-bank-separate-fib-modes",
+    "title": "阅读填空要区分下拉和拖拽",
+    "keywords": [
+      "阅读",
+      "FIB",
+      "下拉",
+      "拖拽",
+      "词性",
+      "搭配"
+    ],
+    "answer": "阅读填空材料要按模式分开复盘。下拉题重点比较选项之间的词义、词性和搭配；拖拽题还要管理候选词池，避免前面选错导致后面连锁失误。Sunny 会让学生分别统计错误类型，而不是只看对错数。",
+    "source": "local OCR extraction round 89, reading-section index notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-bank-wfd-last-mile",
+    "title": "WFD 是听力题库的最后一公里",
+    "keywords": [
+      "WFD",
+      "听力",
+      "题库",
+      "拼写",
+      "复盘",
+      "高影响"
+    ],
+    "answer": "WFD 通常放在听力材料后段，但 Sunny 会把它当作高优先级任务。训练时要同时检查听懂、记住、拼对和语法还原。只听熟句子不够，最后一公里是把完整句子准确写出来。",
+    "source": "local OCR extraction round 89, listening-section index notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-bank-deduplicate-by-code-topic",
+    "title": "题库去重要看编号和主题",
+    "keywords": [
+      "题库",
+      "去重",
+      "编号",
+      "主题",
+      "版本",
+      "复习效率"
+    ],
+    "answer": "不同版本里同一题可能页码不同、标题略有变化。Sunny 会用编号、主题和核心关键词一起去重。确认重复后，只保留最新复盘记录和个人错误点。这样题库越更新，复习系统不会越臃肿。",
+    "source": "local OCR extraction round 90, integrated question-bank index notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-bank-progress-by-section",
+    "title": "题库进度按题型区块记录",
+    "keywords": [
+      "题库进度",
+      "题型",
+      "复习记录",
+      "PTE",
+      "计划",
+      "备考"
+    ],
+    "answer": "题库进度不应该只记录看到第几页。Sunny 会按题型区块记录：已练多少、错因是什么、是否限时、是否复盘。区块记录能看出训练是否均衡，也能防止学生只刷自己熟悉的部分。",
+    "source": "local OCR extraction round 90, integrated question-bank index notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-bank-large-pdf-sample-first",
+    "title": "大 PDF 先抽样再决定处理方式",
+    "keywords": [
+      "PDF",
+      "题库",
+      "抽样",
+      "OCR",
+      "复习",
+      "资料管理"
+    ],
+    "answer": "遇到几千页的大 PDF，Sunny 会先抽样看目录、题型分布和前几页质量，再决定是否拆分、OCR 或只提炼结构。不要一开始就全量处理。先抽样能节省时间，也能降低把无效内容带进知识库的风险。",
+    "source": "local OCR extraction round 90, PDF processing notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-bank-topic-tags-for-review",
+    "title": "题库复盘要加主题标签",
+    "keywords": [
+      "题库",
+      "主题标签",
+      "复盘",
+      "RA",
+      "SWT",
+      "阅读"
+    ],
+    "answer": "Sunny 会给题库复盘加主题标签，例如科技、自然、教育、经济、社会、健康、历史。标签能帮助学生发现自己不熟的背景领域。下次遇到同类主题时，复习的是一组知识，而不是孤立题目。",
+    "source": "local OCR extraction round 90, topic-index notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-science-society-vocab-preload",
+    "title": "RA 科学社会主题要预加载词汇",
+    "keywords": [
+      "RA",
+      "科学主题",
+      "社会主题",
+      "词汇",
+      "发音",
+      "朗读"
+    ],
+    "answer": "RA 里科学和社会主题词常带来卡顿。Sunny 会让学生提前练能源、污染、改革、债务、健康、生态、技术等高频主题词。预加载不是背答案，而是让舌头和大脑先熟悉这些词的读法和意义。",
+    "source": "local OCR extraction round 90, RA topic-index notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-bank-monthly-update-delta-log",
+    "title": "题库月更要记录变化清单",
+    "keywords": [
+      "题库更新",
+      "变化清单",
+      "月更",
+      "复习",
+      "版本",
+      "备考"
+    ],
+    "answer": "题库每月更新时，Sunny 会记录变化清单：新增题、删除题、题型位置变化、重复题和重点题。只看“有新版本”容易制造焦虑；看变化清单，才能知道真正需要补什么。",
+    "source": "local OCR extraction round 90, version-management notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-bank-integrated-not-one-study-plan",
+    "title": "整合题库不等于学习计划",
+    "keywords": [
+      "题库",
+      "学习计划",
+      "整合资料",
+      "PTE",
+      "备考",
+      "优先级"
+    ],
+    "answer": "整合题库只是材料仓库，不是自动生成的学习计划。Sunny 会根据目标分、弱项、考试日期和可用时间，把题库切成每天可执行的任务。没有计划地翻完整合资料，很容易忙了很久却没有完成关键训练。",
+    "source": "local OCR extraction round 90, study-planning notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-bank-public-knowledge-rewrite-rule",
+    "title": "题库内容入库必须先改写成方法",
+    "keywords": [
+      "题库",
+      "知识库",
+      "改写",
+      "公开内容",
+      "SunPace",
+      "资料合规"
+    ],
+    "answer": "Sunny 的公开知识库只保留自有方法，不收录题库原文、来源名称或固定答案。题库内容如果有价值，必须先改写成训练原则、复盘流程或评分提醒。这样既能保护内容边界，也能让学生真正学会方法。",
+    "source": "local OCR extraction round 90, public-knowledge rewriting notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
