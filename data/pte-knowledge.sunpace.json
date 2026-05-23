@@ -22897,5 +22897,261 @@
     "source": "local OCR extraction round 98, vocabulary supplement notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-translation-after-first-listen",
+    "title": "听力译文要放在第一次听后",
+    "keywords": [
+      "听力",
+      "译文",
+      "精听",
+      "泛听",
+      "复盘",
+      "SST"
+    ],
+    "answer": "Sunny 不建议学生一上来就看译文。第一遍先听，记录自己听懂了什么，再用译文检查漏掉的词、结构和逻辑。译文的作用是诊断，不是替代听力。先听再看，才能知道真正卡在哪里。",
+    "source": "local OCR extraction round 99, listening translation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-second-pass-no-text",
+    "title": "看完译文后要再不看稿复听",
+    "keywords": [
+      "听力",
+      "复听",
+      "译文",
+      "精听",
+      "听懂",
+      "复盘"
+    ],
+    "answer": "看完译文不是结束。Sunny 会让学生合上文本再听一遍，验证刚才没听懂的地方是否能被重新识别。第二遍不看稿复听，能把“看懂了”转成“听出来了”。这一步对听力提升很关键。",
+    "source": "local OCR extraction round 99, listening review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-error-map-from-translation",
+    "title": "译文复盘要做听力错因图",
+    "keywords": [
+      "听力",
+      "错因",
+      "译文",
+      "精听",
+      "复盘",
+      "笔记"
+    ],
+    "answer": "Sunny 会把译文复盘结果做成错因图：是生词没听出、弱读连读没跟上、句法关系没反应过来，还是背景词不熟。错因不同，训练不同。只写“没听懂”太粗，下一次仍然会在同一处卡住。",
+    "source": "local OCR extraction round 99, listening error-map notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-daily-passage-rhythm",
+    "title": "长听力材料要少量每日练",
+    "keywords": [
+      "听力",
+      "每日练习",
+      "长材料",
+      "精听",
+      "泛听",
+      "习惯"
+    ],
+    "answer": "长听力材料不用一天刷很多。Sunny 会让学生每天处理少量篇章，保持听、查、复听和跟读的完整流程。稳定练习能让耳朵逐步适应英文语速和结构，比偶尔一次大量听更可靠。",
+    "source": "local OCR extraction round 99, listening practice cadence notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-shadow-after-meaning",
+    "title": "跟读要在理解意思后进行",
+    "keywords": [
+      "跟读",
+      "听力",
+      "口语",
+      "发音",
+      "理解",
+      "节奏"
+    ],
+    "answer": "Sunny 会让学生先听懂主线，再做跟读。没理解意思就模仿声音，容易只学到表面节奏。理解后跟读，可以同时练发音、停顿、重音和信息组块。跟读的目标不是背原文，而是让耳朵和嘴建立连接。",
+    "source": "local OCR extraction round 99, shadowing practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-lecture-role-action-notes",
+    "title": "讲座听力先记角色和动作",
+    "keywords": [
+      "讲座听力",
+      "笔记",
+      "角色",
+      "动作",
+      "SST",
+      "RL"
+    ],
+    "answer": "学术讲座或校园场景里，Sunny 会让学生先记角色和动作：谁在说，谁要做什么，为什么要做。角色动作清楚后，再补时间、地点和结果。这样笔记更像信息结构，不是零散单词。",
+    "source": "local OCR extraction round 99, academic listening notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-history-topic-chronology",
+    "title": "历史类听力要抓时间线",
+    "keywords": [
+      "听力",
+      "历史主题",
+      "时间线",
+      "SST",
+      "RL",
+      "笔记"
+    ],
+    "answer": "历史或制度发展类听力常按时间推进。Sunny 会让学生标记起点、变化阶段、原因和结果。时间线抓住了，细节就有位置。否则听到很多年份和事件，最后很难写成清楚摘要。",
+    "source": "local OCR extraction round 99, academic listening chronology notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-business-risk-cause-effect",
+    "title": "商业风险类听力要抓因果",
+    "keywords": [
+      "听力",
+      "商业主题",
+      "风险",
+      "因果",
+      "SST",
+      "笔记"
+    ],
+    "answer": "商业、贸易或风险主题听力常讲一个机制：某种风险出现，成本变化，行为随之调整。Sunny 会让学生用因果链记录，而不是只写名词。因果链清楚，SST 写作时就能自然概括。",
+    "source": "local OCR extraction round 99, academic listening cause-effect notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-translation-not-public-answer",
+    "title": "译文不是公开知识库答案",
+    "keywords": [
+      "译文",
+      "知识库",
+      "改写",
+      "资料合规",
+      "SunPace",
+      "听力"
+    ],
+    "answer": "Sunny 的公开知识库不收录外部材料译文或逐句答案。译文如果有价值，只能转成训练方法：如何听、如何查错、如何复听、如何跟读。保留方法，删掉原文，是资料入库的基本边界。",
+    "source": "local OCR extraction round 100, public knowledge rewriting notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-bilingual-material-use-as-diagnostic",
+    "title": "双语材料适合作诊断工具",
+    "keywords": [
+      "双语材料",
+      "诊断",
+      "听力",
+      "阅读",
+      "复盘",
+      "备考"
+    ],
+    "answer": "双语材料最适合用来诊断理解差距。Sunny 会先让学生处理英文，再用中文确认意义。反过来先看中文，会让大脑以为已经会了。诊断顺序很重要：英文输入在前，中文辅助在后。",
+    "source": "local OCR extraction round 100, bilingual review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-bilingual-sentence-alignment-for-structure",
+    "title": "双语对照要看句子结构差异",
+    "keywords": [
+      "双语对照",
+      "句子结构",
+      "听力",
+      "阅读",
+      "长句",
+      "复盘"
+    ],
+    "answer": "看双语对照时，Sunny 会让学生注意结构差异：英文先给主干还是先给修饰，中文是否把顺序调整了。不要只看意思对不对。结构差异看多了，长句听力和阅读都会更容易拆。",
+    "source": "local OCR extraction round 100, sentence alignment notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-vocab-from-missed-lines",
+    "title": "听漏的句子要转成词汇卡",
+    "keywords": [
+      "听力",
+      "词汇卡",
+      "漏听",
+      "复盘",
+      "发音",
+      "搭配"
+    ],
+    "answer": "Sunny 会把听漏的句子拆成词汇卡和短语卡。每张卡记录发音、弱读位置、搭配和自己的例句。听力词汇不能只记中文意思，还要能在声音里认出来。漏听处往往就是最值得做卡的地方。",
+    "source": "local OCR extraction round 100, listening vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-shadowing-record-compare-loop",
+    "title": "跟读要录音对比形成闭环",
+    "keywords": [
+      "跟读",
+      "录音",
+      "对比",
+      "口语",
+      "发音",
+      "闭环"
+    ],
+    "answer": "跟读不是读完就算。Sunny 会让学生录自己的版本，对比节奏、重音、尾音和停顿。每次只修一个问题，然后再录一遍。录音对比让跟读从模仿变成可观察的训练闭环。",
+    "source": "local OCR extraction round 100, shadowing review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-academic-listening-topic-schema",
+    "title": "学术听力要建立主题框架",
+    "keywords": [
+      "学术听力",
+      "主题框架",
+      "SST",
+      "RL",
+      "背景知识",
+      "复习"
+    ],
+    "answer": "学术听力常围绕教育、商业、科学、历史、社会制度和校园事务展开。Sunny 会让学生为每类主题建立框架：常见角色、动作、原因和结果。框架不是背答案，而是帮助现场更快组织信息。",
+    "source": "local OCR extraction round 100, academic listening schema notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-material-quality-check",
+    "title": "听力材料要先做质量检查",
+    "keywords": [
+      "听力材料",
+      "质量检查",
+      "音频",
+      "文本",
+      "复习",
+      "备考"
+    ],
+    "answer": "使用外部听力材料前，Sunny 会先检查音频是否清晰、文本是否完整、难度是否适合当前阶段。材料本身再好，如果音质差或文本错误多，就不适合做精听。质量检查能避免无效训练。",
+    "source": "local OCR extraction round 100, listening material QA notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pdf-ocr-queue-completion-check",
+    "title": "OCR 队列完成后要做收尾检查",
+    "keywords": [
+      "OCR",
+      "队列",
+      "收尾检查",
+      "知识库",
+      "进度",
+      "资料管理"
+    ],
+    "answer": "当一条 OCR 队列跑完，Sunny 会做收尾检查：确认已处理数量、失败或跳过原因、公开知识是否已脱敏、原始 OCR 是否仍在本地忽略目录。队列完成不只是跑完脚本，还要确保公开内容边界清楚。",
+    "source": "local OCR extraction round 100, queue completion notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
