@@ -19057,5 +19057,261 @@
     "source": "local OCR extraction round 68, SST and LFIB practice notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-asq-low-weight-light-review",
+    "title": "ASQ 不要占太多备考时间",
+    "keywords": [
+      "ASQ",
+      "口语",
+      "短问答",
+      "备考优先级",
+      "时间分配",
+      "PTE"
+    ],
+    "answer": "ASQ 题量不多、分值相对小，Sunny 不会让学生把大量时间压在这个题型上。更合理的做法是把 ASQ 当作常识和基础词汇的轻量复习：每天快速浏览一小组，保持反应速度即可。备考主时间仍然要给 RA、RS、DI、WFD、FIB、SST 这些更能影响分数的题型。",
+    "source": "local OCR extraction round 69, ASQ priority notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-asq-answer-short-direct",
+    "title": "ASQ 回答要短、准、直接",
+    "keywords": [
+      "ASQ",
+      "口语",
+      "短答案",
+      "词汇",
+      "反应速度",
+      "听力"
+    ],
+    "answer": "ASQ 的核心是听懂问题后给出最直接的词或短语。Sunny 会提醒学生不要解释、不要造长句、不要绕。听到问地点、职业、数量、反义词或常识概念时，先锁定问题类型，再给答案。ASQ 练习的目标不是展示语言复杂度，而是快速、清楚、准确。",
+    "source": "local OCR extraction round 69, ASQ answer notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-asq-category-review",
+    "title": "ASQ 可以按常识类别复习",
+    "keywords": [
+      "ASQ",
+      "常识分类",
+      "口语",
+      "词汇",
+      "反应",
+      "备考"
+    ],
+    "answer": "ASQ 范围很广，Sunny 会按类别复习：自然现象、职业、地点、数量、家庭关系、政府社会、反义词和日常动作。分类能减少随机记忆压力，也能让学生听到问题时更快判断答案类型。不要逐题死背，先建立类别感，再补自己不会的词。",
+    "source": "local OCR extraction round 69, ASQ category notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-keyword-paraphrase-first",
+    "title": "WE 开头先处理题干关键词",
+    "keywords": [
+      "WE",
+      "写作",
+      "关键词替换",
+      "改写",
+      "词汇多样性",
+      "审题"
+    ],
+    "answer": "WE 写作里，Sunny 会先让学生挑出题干关键词，再做安全替换。替换不是为了显得高级，而是为了减少重复并证明你理解题目。不能确定用法的近义词不要硬换；宁可用简单准确的表达，也不要用一个看似高级但语境不对的词。关键词替换要服务审题和扣题。",
+    "source": "local OCR extraction round 69, WE vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-linguistic-range-clear-first",
+    "title": "WE 语言广度先保证清楚",
+    "keywords": [
+      "WE",
+      "写作",
+      "语言广度",
+      "复杂句",
+      "清晰",
+      "语法"
+    ],
+    "answer": "WE 的语言广度不是堆复杂句。Sunny 会让学生先确保意思清楚，再增加从句、转折、让步和因果结构。复杂观点可以用复杂结构表达，但每个句子都要能看出主语、谓语和逻辑关系。如果复杂句让意思变模糊，反而会拖累语法和表达分。",
+    "source": "local OCR extraction round 69, WE linguistic-range notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-prompt-type-structure-choice",
+    "title": "WE 结构要先看题目类型",
+    "keywords": [
+      "WE",
+      "作文结构",
+      "同意不同意",
+      "利弊题",
+      "解决方案",
+      "审题"
+    ],
+    "answer": "WE 常见题目可以先分成三类：观点讨论、利弊比较、问题解决。Sunny 会让学生先判断题目类型，再决定段落功能。观点题要明确立场，利弊题要比较权重，解决方案题要说明问题和措施。结构选对以后，通用表达才能放到合适位置。",
+    "source": "local OCR extraction round 69, WE structure notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-viewpoint-phrases-controlled",
+    "title": "WE 观点表达不要整段套短语",
+    "keywords": [
+      "WE",
+      "观点表达",
+      "写作短语",
+      "自然表达",
+      "连贯",
+      "模板"
+    ],
+    "answer": "观点类表达可以准备，但 Sunny 不会让学生整段堆短语。每个段落只需要少量清楚的立场、原因和例子表达。短语太密会让文章像拼贴，反而影响连贯。写作时先想清楚观点，再选择能准确表达这一层意思的句式。",
+    "source": "local OCR extraction round 69, WE viewpoint notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-advantage-solution-collocations",
+    "title": "WE 利弊和解决方案要有搭配库",
+    "keywords": [
+      "WE",
+      "利弊",
+      "解决方案",
+      "搭配",
+      "写作词汇",
+      "观点"
+    ],
+    "answer": "WE 常见主题离不开 advantage、drawback、solution、problem 这类词。Sunny 会让学生整理搭配库：某事带来好处、造成缺点、寻找解决方案、处理问题、减少影响。搭配库比单个替换词更有用，因为写作评分看的是词能不能自然进入句子。",
+    "source": "local OCR extraction round 69, WE collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-keyword-table-use",
+    "title": "SST 关键词表不能只背中文",
+    "keywords": [
+      "SST",
+      "关键词表",
+      "词性",
+      "听力",
+      "摘要",
+      "复盘"
+    ],
+    "answer": "SST 关键词表要同时看英文、意思和词性。Sunny 会让学生用它复盘自己听漏了哪些主题词、哪些动词和形容词。只背中文会让你看懂材料，却不一定能在摘要里写出来。关键词表的目标是把听到的词转成能写进句子的表达。",
+    "source": "local OCR extraction round 70, SST keyword notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-topic-keyword-clusters",
+    "title": "SST 关键词按话题簇整理",
+    "keywords": [
+      "SST",
+      "话题词",
+      "关键词",
+      "主题簇",
+      "听力",
+      "摘要"
+    ],
+    "answer": "Sunny 会把 SST 关键词按话题簇整理，比如市场、建筑、数学、领导力、文化、科技和健康。这样复习时不是孤立背词，而是建立一组相关词。听到某个话题后，学生更容易预测可能出现的名词、动词和形容词，也更容易组织摘要。",
+    "source": "local OCR extraction round 70, SST keyword notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-proper-name-as-label",
+    "title": "SST 里的公司或人名多半是标签",
+    "keywords": [
+      "SST",
+      "专有名词",
+      "关键词",
+      "摘要",
+      "听力",
+      "主题"
+    ],
+    "answer": "SST 里出现公司名、人名、地名或作品名时，Sunny 会让学生先把它当主题标签，不要被拼写卡住。摘要真正要写的是这个标签背后的动作、观点、原因或结果。专有名词听不完整时，可以用更概括的类别表达，先保住主线。",
+    "source": "local OCR extraction round 70, SST keyword notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-keywords-to-sentences",
+    "title": "SST 关键词要练成句子",
+    "keywords": [
+      "SST",
+      "关键词",
+      "句子",
+      "摘要",
+      "写作",
+      "听力"
+    ],
+    "answer": "SST 复习关键词时，Sunny 会让学生把词放进短句，而不是只读词表。比如名词说明主题，动词说明发生了什么，形容词说明态度或特点。能把关键词连成一句清楚的话，才算能在摘要里使用它。词表复习的终点是句子输出。",
+    "source": "local OCR extraction round 70, SST keyword notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-pos-helps-note-taking",
+    "title": "SST 记笔记时词性能帮你分工",
+    "keywords": [
+      "SST",
+      "词性",
+      "笔记",
+      "名词",
+      "动词",
+      "摘要"
+    ],
+    "answer": "SST 记笔记不是所有词都同等重要。Sunny 会让学生用词性分工：名词多半是主题和对象，动词说明变化或动作，形容词副词补态度和程度。这样听的时候能更快判断哪些词必须记，哪些词只是辅助说明。笔记更短，摘要更清楚。",
+    "source": "local OCR extraction round 70, SST keyword notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-synonym-accuracy-over-variety",
+    "title": "WE 近义词准确性比多样性更重要",
+    "keywords": [
+      "WE",
+      "近义词",
+      "词汇多样性",
+      "准确性",
+      "写作",
+      "学术表达"
+    ],
+    "answer": "WE 确实需要词汇多样性，但 Sunny 会把准确性放在前面。近义词要看搭配、语气、正式程度和句子位置。一个词如果不适合学术语境，或者常接不同介词，就不要为了避免重复硬用。评分更喜欢准确自然的表达，而不是冒险替换。",
+    "source": "local OCR extraction round 70, WE vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-solution-verb-bank",
+    "title": "WE 解决方案题要准备动词库",
+    "keywords": [
+      "WE",
+      "解决方案",
+      "动词库",
+      "问题",
+      "措施",
+      "写作"
+    ],
+    "answer": "解决方案题不能只写 solution。Sunny 会让学生准备一组动作动词：identify、tackle、handle、address、reduce、prevent、improve、adopt、provide。写作时用这些动词说明谁采取什么措施、解决什么问题、产生什么结果。动词库能让段落更具体。",
+    "source": "local OCR extraction round 70, WE solution notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-asq-after-core-tasks",
+    "title": "ASQ 放在核心题型之后复习",
+    "keywords": [
+      "ASQ",
+      "复习顺序",
+      "口语",
+      "备考计划",
+      "优先级",
+      "PTE"
+    ],
+    "answer": "Sunny 通常把 ASQ 放在每天核心任务之后：先完成 RA、RS、DI、WFD、FIB、SST 等训练，再用 5 到 10 分钟过 ASQ。这样既不会完全忽略短问答，也不会让它挤占高价值题型时间。ASQ 要保持熟悉感，不需要变成主线任务。",
+    "source": "local OCR extraction round 70, ASQ priority notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
