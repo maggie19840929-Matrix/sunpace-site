@@ -21361,5 +21361,261 @@
     "source": "local OCR extraction round 86, vocabulary review notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-template-use-as-scaffold-not-script",
+    "title": "模板只能当骨架，不能当答案",
+    "keywords": [
+      "模板",
+      "PTE",
+      "方法",
+      "改写",
+      "考试",
+      "表达"
+    ],
+    "answer": "Sunny 会把模板当成骨架，而不是让学生背成固定答案。骨架负责提醒顺序：先说主题，再说证据，最后收束结论。真正得分来自题目关键词、逻辑关系和现场内容。只背空句，遇到变题就会显得生硬。",
+    "source": "local OCR extraction round 87, template-use notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-template-protect-topic-relation",
+    "title": "SWT 套结构时先保护主题关系",
+    "keywords": [
+      "SWT",
+      "模板",
+      "主题关系",
+      "概括",
+      "主旨",
+      "写作"
+    ],
+    "answer": "SWT 可以用固定句法帮助压缩，但 Sunny 会先检查主题关系有没有被保住。一个好句子必须说明主题是什么、发生了什么关系、为什么重要。结构再顺，如果把原文的因果、转折或对比写错，也不能算有效概括。",
+    "source": "local OCR extraction round 87, SWT template notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-keyword-chain-not-list",
+    "title": "SST 关键词要连成信息链",
+    "keywords": [
+      "SST",
+      "关键词",
+      "信息链",
+      "听力",
+      "概括",
+      "写作"
+    ],
+    "answer": "SST 记录关键词后，Sunny 会让学生把它们连成信息链，而不是逐个罗列。主题、原因、例子、影响和结论之间要有关系。复述时可以少写一些词，但要让读者看出讲座围绕什么展开。",
+    "source": "local OCR extraction round 87, SST template notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rl-short-stable-skeleton",
+    "title": "RL 用短骨架保持流利",
+    "keywords": [
+      "RL",
+      "口语",
+      "模板",
+      "流利度",
+      "结构",
+      "复述"
+    ],
+    "answer": "RL 需要在短时间内稳定输出。Sunny 会让学生准备短骨架：主题、两到三个要点、一个收束句。骨架越短，越容易把注意力留给听到的内容。不要为了显得复杂而牺牲流利度和清楚度。",
+    "source": "local OCR extraction round 87, RL template notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rl-content-over-perfect-grammar",
+    "title": "RL 先保内容和连续性",
+    "keywords": [
+      "RL",
+      "语法",
+      "内容",
+      "连续性",
+      "口语",
+      "流利度"
+    ],
+    "answer": "RL 现场不适合反复停下来修语法。Sunny 会让学生先保证主题和关键词连续说出来，再用简单句减少错误。语法要尽量稳，但比起追求复杂结构，内容覆盖和不中断更重要。",
+    "source": "local OCR extraction round 87, RL delivery notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-chart-type-first-sentence",
+    "title": "DI 开头先说图表类型和主题",
+    "keywords": [
+      "DI",
+      "图表类型",
+      "主题",
+      "开头",
+      "口语",
+      "结构"
+    ],
+    "answer": "DI 开头不用复杂，Sunny 会让学生先说图表类型和主题。这样能快速进入内容，也能让后面的比较有对象。开头句的任务是定位图表，不是展示高级词汇。",
+    "source": "local OCR extraction round 87, DI template notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-rank-data-when-static",
+    "title": "静态 DI 可按排名组织",
+    "keywords": [
+      "DI",
+      "静态图",
+      "排名",
+      "最大值",
+      "最小值",
+      "口语"
+    ],
+    "answer": "柱状图、饼图和表格如果没有明显时间变化，Sunny 会让学生按排名组织：最大、第二大、最小，再补充一个对比。这样比逐项读数字更清楚。选择三到四个关键信息即可，不要把所有数据都念完。",
+    "source": "local OCR extraction round 87, DI static-chart notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-line-chart-endpoints",
+    "title": "线图 DI 先抓方向和端点",
+    "keywords": [
+      "DI",
+      "线图",
+      "趋势",
+      "端点",
+      "increase",
+      "decrease"
+    ],
+    "answer": "线图最重要的是变化方向和起止点。Sunny 会让学生先判断每条线是上升、下降、波动还是保持稳定，再读起点和终点。中间细节只挑转折点。这样能避免把线图说成一串零散数字。",
+    "source": "local OCR extraction round 87, DI line-chart notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-avoid-empty-conclusion",
+    "title": "DI 结尾不要用空泛套话",
+    "keywords": [
+      "DI",
+      "结尾",
+      "套话",
+      "趋势",
+      "比较",
+      "口语"
+    ],
+    "answer": "DI 结尾要回到图表信息。Sunny 不建议用空泛的“这张图很有趣”来收尾，而是总结最明显趋势或最大差异。例如谁最高、谁最低、整体是否上升。结尾短一点也没关系，关键是有信息量。",
+    "source": "local OCR extraction round 88, DI conclusion notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-one-sided-two-reasons",
+    "title": "一边倒 WE 用两个理由撑立场",
+    "keywords": [
+      "WE",
+      "一边倒",
+      "立场",
+      "理由",
+      "写作",
+      "结构"
+    ],
+    "answer": "一边倒 WE 不代表只喊立场。Sunny 会让学生准备两个独立理由，每个理由都要能解释、举例并回到题目。两个理由最好角度不同，例如个人层面和社会层面。这样文章会显得完整，而不是重复同一句观点。",
+    "source": "local OCR extraction round 88, WE opinion template notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-balanced-essay-final-position",
+    "title": "平衡式 WE 最后也要有判断",
+    "keywords": [
+      "WE",
+      "平衡式",
+      "双边讨论",
+      "结论",
+      "立场",
+      "写作"
+    ],
+    "answer": "平衡式 WE 可以讨论两边，但结尾仍然要有判断。Sunny 会让学生说明哪一边影响更大、条件是什么，或如何处理缺点。只说双方都有道理，会让文章像没有回答问题。平衡不是中立到没有观点。",
+    "source": "local OCR extraction round 88, WE balanced essay notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-body-paragraph-repeatable-engine",
+    "title": "WE 主体段用可复用发动机",
+    "keywords": [
+      "WE",
+      "主体段",
+      "观点",
+      "解释",
+      "例子",
+      "结论"
+    ],
+    "answer": "Sunny 会把 WE 主体段训练成可复用发动机：观点句说明理由，解释句说明原因，例子句提供场景，小结句回扣题目。这个顺序比背一整段固定话更灵活。换题时保留发动机，替换内容。",
+    "source": "local OCR extraction round 88, WE body paragraph notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-linking-phrases-with-purpose",
+    "title": "WE 连接短语要有目的",
+    "keywords": [
+      "WE",
+      "连接短语",
+      "逻辑",
+      "转折",
+      "递进",
+      "写作"
+    ],
+    "answer": "连接短语不要机械堆。Sunny 会让学生先决定这句话在做什么：补充理由、举例、转折、让步还是结论，再选对应表达。连接词数量不是越多越好，逻辑准确才是重点。",
+    "source": "local OCR extraction round 88, WE cohesion notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-template-personalize-before-exam",
+    "title": "考前模板要先个人化",
+    "keywords": [
+      "模板",
+      "考前",
+      "个人化",
+      "口语",
+      "写作",
+      "备考"
+    ],
+    "answer": "考前拿到任何模板，Sunny 都会让学生先个人化：删掉自己说不顺的词，换成稳定表达，补上常见题型的内容位置。模板只有经过个人化和限时练习，才可能在考试中自然使用。",
+    "source": "local OCR extraction round 88, template adaptation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-template-test-by-timed-output",
+    "title": "模板是否可用要用限时输出检验",
+    "keywords": [
+      "模板",
+      "限时输出",
+      "检验",
+      "口语",
+      "写作",
+      "考试"
+    ],
+    "answer": "模板看起来顺，不代表考试能用。Sunny 会用限时输出检验：DI 40 秒能不能说完，RL 是否能接住听到的词，WE 是否能在规定时间内展开。不能限时落地的模板，就需要缩短或重写。",
+    "source": "local OCR extraction round 88, template testing notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-template-avoid-source-style-leak",
+    "title": "模板改写要避免来源风格外露",
+    "keywords": [
+      "模板",
+      "改写",
+      "自有表达",
+      "风格",
+      "口语",
+      "写作"
+    ],
+    "answer": "Sunny 会要求学生把任何外部模板改成自己的表达风格。明显的固定套话、奇怪搭配或不自然语气，都要替换成更稳的常用句。公开内容和课堂训练都应保留方法，不复制来源话术。",
+    "source": "local OCR extraction round 88, template rewriting notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]

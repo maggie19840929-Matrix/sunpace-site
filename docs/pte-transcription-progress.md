@@ -1164,6 +1164,27 @@
 
 备注：两轮完成后执行 JSON 校验、重复 ID 检查、公开品牌敏感词扫描、Sunny 回归，并只提交公开知识库和进度摘要；原始 OCR、队列、日志和第三方材料不进入 GitHub。
 
+## 2026-05-23 Knowledge Distillation 87
+
+- 模式：白天同步模式；继续 PDF OCR 小批处理，并将可用内容改写为 SunPace 自有知识条目
+- 输入来源：本地 PDF OCR 队列 offset 42 的 3 个候选，以及前序 PDF/OCR 结果
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：模板只能当骨架、SWT 保护主题关系、SST 关键词信息链、RL 短骨架、RL 内容和连续性优先、DI 开头定位图表、静态图按排名、线图抓方向和端点
+- 本地 OCR 进展：新跑 3 个 PDF OCR 候选，3 个成功；原始 OCR 文本和结果清单继续留在 ignored `knowledge_exports/`
+
+备注：本轮不发布来源品牌名、课程名、路径信息或第三方逐字文本；公开答案均改写为 SunPace/Sunny 自有指导。
+
+## 2026-05-23 Knowledge Distillation 88
+
+- 模式：白天同步模式；第 87、88 两轮完成后同步 GitHub
+- 输入来源：本地 OCR 摘要、DI/RL/SST/WE 模板类素材，以及前序写作结构素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：DI 避免空泛结尾、一边倒 WE 两个理由、平衡式 WE 结尾判断、主体段可复用发动机、连接短语有目的、考前模板个人化、限时输出检验模板、避免来源风格外露
+
+备注：两轮完成后执行 JSON 校验、重复 ID 检查、公开品牌敏感词扫描、Sunny 回归，并只提交公开知识库和进度摘要；原始 OCR、队列、日志和第三方材料不进入 GitHub。
+
 ## 2026-05-22 Knowledge Distillation 41
 
 - 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交
