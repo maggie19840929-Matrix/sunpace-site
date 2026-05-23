@@ -17261,5 +17261,264 @@
     "source": "phase2-media local staging batch 184, writing prediction ideas not memorization",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-report-communicative-skills-first",
+    "title": "看成绩单先看哪几个分项",
+    "keywords": [
+      "成绩单",
+      "分项",
+      "Communicative Skills",
+      "口语",
+      "写作",
+      "阅读",
+      "听力",
+      "诊断"
+    ],
+    "answer": "Sunny 会让学生先看四个 Communicative Skills，而不是只盯总分。总分能告诉你是否达标，但不能告诉你下一周该练什么。口语低，优先拆 RA、RS、DI/RL 的流利度和内容；听力低，优先查 WFD、SST、FIB-L 的漏词和拼写；阅读低，看 FIB、RO、选择题的词性和逻辑；写作低，看 WE/SWT 的结构、语法和拼写。成绩单的价值在于定位短板，不是单纯庆祝或焦虑。",
+    "source": "local PDF extraction round 55, score interpretation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-overall-not-equal-training-plan",
+    "title": "总分达标为什么还要看小分",
+    "keywords": [
+      "总分",
+      "小分",
+      "成绩诊断",
+      "目标分",
+      "提分计划",
+      "复盘"
+    ],
+    "answer": "总分和小分不是同一个用途。总分适合判断申请或移民目标是否够用，小分适合安排训练。Sunny 会提醒学生：如果总分接近目标但某一项明显拖后腿，不要平均用力；要把训练时间压到拖分题型上。比如听力拖后腿，就别只刷阅读词汇；口语拖后腿，也不要只背写作模板。分数报告要转成下一轮练习清单，才真的有用。",
+    "source": "local PDF extraction round 55, score interpretation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-test-day-check-email-and-id",
+    "title": "考试前一天要确认什么",
+    "keywords": [
+      "考试流程",
+      "考前准备",
+      "邮件",
+      "证件",
+      "考场",
+      "迟到"
+    ],
+    "answer": "考试前一天，Sunny 会让学生做三件事：查邮箱和垃圾箱，确认考试没有临时变动；核对证件姓名、生日和有效期，确保和报名信息一致；查好考场路线和到达时间。不要把这些当行政小事，PTE 是机考，迟到、证件不匹配或考场政策没确认，都可能直接影响能不能入场。复习最后一天可以少刷题，但流程确认不能省。",
+    "source": "local PDF extraction round 55, test-day process",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-test-day-arrive-and-locker-routine",
+    "title": "到考场后怎样避免慌乱",
+    "keywords": [
+      "考试当天",
+      "签到",
+      "储物柜",
+      "手机",
+      "安检",
+      "考场流程"
+    ],
+    "answer": "到考场后，Sunny 会建议学生按固定流程走：提前到达，先完成证件核验、拍照或签名等签到步骤；手机关机并确认闹钟关闭；把个人物品按要求放入储物柜；进入考位前只保留允许携带的物品。很多学生不是题不会，而是考前十分钟被流程打乱。把这些动作提前预演一遍，考试开始时大脑才能回到听、说、读、写本身。",
+    "source": "local PDF extraction round 55, test-day process",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-collocation-bank-method",
+    "title": "FIB 固定搭配怎么背才有效",
+    "keywords": [
+      "FIB",
+      "阅读填空",
+      "固定搭配",
+      "介词",
+      "词性",
+      "阅读"
+    ],
+    "answer": "FIB 固定搭配不要背成孤立中文表。Sunny 会让学生按结构记：动词加介词、名词加介词、形容词加介词，以及常见连接短语。每个搭配都要放回一个短句里，顺手判断空格需要名词、动词、形容词还是介词。比如看到 result、role、consist、aware 这类高频线索时，先想它后面常接什么，再看选项词性和句意。搭配库的目标是缩短判断时间，不是把表格逐字默写。",
+    "source": "local PDF extraction round 55, reading FIB collocations",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-we-collocation-active-use",
+    "title": "WE 写作词汇搭配怎么用",
+    "keywords": [
+      "WE",
+      "大作文",
+      "词汇搭配",
+      "替换表达",
+      "20分钟",
+      "写作"
+    ],
+    "answer": "WE 词汇搭配的正确用法不是考前背一堆高级短语，而是和限时写作绑定。Sunny 会让学生先按常见话题准备几组安全搭配，比如影响、增长、问题、解决、责任、好处和代价；然后在 20 分钟作文里主动使用。写完后检查三件事：搭配是否自然，介词是否接对，句子是否因为追求高级而变复杂。能稳定写对的中等搭配，比生硬堆高级词更值分。",
+    "source": "local PDF extraction round 55, writing collocations",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-ro-memory-list-use-safely",
+    "title": "RO 记忆顺序题能不能背",
+    "keywords": [
+      "RO",
+      "排序题",
+      "阅读",
+      "逻辑",
+      "连接词",
+      "复习"
+    ],
+    "answer": "RO 可以看高频顺序题，但 Sunny 不建议把它当成唯一策略。背过的段落可能帮你省时间，没背过的段落仍然要靠逻辑：先找总述句，再看代词指代、转折、因果、时间推进和重复关键词。考前快速复习顺序题时，重点不是记每个故事，而是总结为什么这一句在前、那一句在后。这样即使遇到新题，也能把记忆材料转成判断能力。",
+    "source": "local PDF extraction round 55, RO review",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-sst-lfib-three-pass-review",
+    "title": "SST 和听力 FIB 能不能一起练",
+    "keywords": [
+      "SST",
+      "听力FIB",
+      "关键词",
+      "笔记",
+      "复盘",
+      "听力"
+    ],
+    "answer": "可以，而且很适合做三刷复盘。第一刷按考试方式听全文，抓主题、关键词和能支撑总结的细节；第二刷把关键词按逻辑关系整理，比如原因、结果、对比、例子和结论；第三刷回看漏掉的词，检查拼写、词性和单复数。Sunny 会把 SST 和听力 FIB 放在一起练，是因为它们都要求听懂关键词，但输出不同：SST 要组织成摘要，FIB 要写准具体词形。",
+    "source": "local PDF extraction round 55, SST LFIB review",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-confusable-verbs-by-context",
+    "title": "阅读里近义词怎么区分",
+    "keywords": [
+      "阅读",
+      "近义词",
+      "易混词",
+      "FIB",
+      "语境",
+      "词汇"
+    ],
+    "answer": "Sunny 会提醒学生，阅读里的近义词不能只背中文。比如一组词都可以翻成“提高、限制、喜欢、名单”，真正区别在使用场景、对象和语气。做 FIB 或选择题时，先看空格附近的名词、介词和动作对象，再判断哪个词最自然。词汇复习可以按“同义组”整理，但每组至少配一个语境差异：正式还是口语，具体动作还是抽象比喻，主动限制还是范围限制。",
+    "source": "local PDF extraction round 56, reading vocabulary",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-bank-split-by-question-type",
+    "title": "PTE 词汇要不要按题型背",
+    "keywords": [
+      "词汇",
+      "阅读",
+      "听力",
+      "写作",
+      "口语",
+      "题型"
+    ],
+    "answer": "要按题型拆，不要只按 A-Z 单词表背。Sunny 会把词汇分成四类：阅读词看词性和搭配，听力词练发音反应和拼写，写作词练可安全输出的搭配，口语词练读音和重音。一个词在阅读里可能只要认得，在 WFD 里必须拼对，在 WE 里还要会搭配。按题型背词，才能把词汇变成分数，而不是只增加熟悉感。",
+    "source": "local PDF extraction round 56, vocabulary planning",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-spelling-uk-us-consistency",
+    "title": "英美拼写在 PTE 里怎么处理",
+    "keywords": [
+      "英式拼写",
+      "美式拼写",
+      "WFD",
+      "写作",
+      "拼写",
+      "词汇"
+    ],
+    "answer": "英式和美式拼写都可能遇到，关键是保持一致和写准。Sunny 会让学生重点记几类高频差异：-our 和 -or，-re 和 -er，-ise 和 -ize，以及双写或简化的变化。WFD 里听到词后，先写自己最熟悉且确定正确的拼写；写作里不要同一篇一会儿 colour、一会儿 color。考试不是考你站哪种体系，而是看你能不能稳定输出正确形式。",
+    "source": "local PDF extraction round 56, spelling",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-number-reaction-three-digit-grouping",
+    "title": "听到大数字反应慢怎么办",
+    "keywords": [
+      "数字",
+      "听力",
+      "DI",
+      "RL",
+      "记笔记",
+      "数量级"
+    ],
+    "answer": "大数字反应慢，通常不是听力差，而是中英文数量级转换没练熟。Sunny 会让学生按英文三位一组来记：thousand、million、billion 先写成简短符号，再转换成中文理解。听力和图表题里不要边听边翻译成长中文，先把数字结构记下来，再判断它是上升、下降、占比还是对比。平时单独练 5 分钟数字反应，比临场硬扛更有效。",
+    "source": "local PDF extraction round 56, number reaction",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-question-types-cross-score-map",
+    "title": "为什么要懂题型交叉评分",
+    "keywords": [
+      "题型",
+      "交叉评分",
+      "口语",
+      "听力",
+      "阅读",
+      "写作",
+      "学习计划"
+    ],
+    "answer": "PTE 不是每道题只影响一个分项。Sunny 会让学生先懂交叉评分，再安排训练优先级。比如 RA 不只是口语，也会牵动阅读；WFD 不只是听力，也会牵动写作；SWT 和 WE 会影响写作表现；SST 同时考听、记和写。懂这个之后，就不会平均刷所有题，而是优先抓能带动多个分项的题型。学习计划先看杠杆题，再补短板题。",
+    "source": "local PDF extraction round 56, question-type map",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-ra-material-not-memorization",
+    "title": "RA 高频材料应该怎么用",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "高频材料",
+      "断句",
+      "重音",
+      "口语"
+    ],
+    "answer": "RA 高频材料的价值是训练断句、重音和稳定朗读，不是赌原题。Sunny 会让学生拿一段材料做三遍：第一遍划意群，第二遍慢读保证不漏词，第三遍接近考试速度录音。熟悉文本之后，还要换陌生段落验证能力是否迁移。只会背熟段落，一遇到新句子就卡，说明练的是记忆，不是 RA 能力。",
+    "source": "local PDF extraction round 56, RA practice",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fibrw-vocab-table-use",
+    "title": "FIBRW 生词表怎么转成做题能力",
+    "keywords": [
+      "FIBRW",
+      "阅读写作填空",
+      "生词",
+      "词组",
+      "固定搭配",
+      "阅读"
+    ],
+    "answer": "FIBRW 生词表不要只背中文释义。Sunny 会让学生把每个词放进三个格子：词性、常见搭配、在句子里的功能。比如名词要看前面能不能接冠词或形容词，动词要看主谓一致和后面介词，形容词要看修饰对象。表格复习完，要回到真题句子里做空格判断。能说出“为什么这里要这个词”，才算从词表变成做题能力。",
+    "source": "local PDF extraction round 56, FIBRW vocabulary",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-keyword-map-before-answer",
+    "title": "SST 思维导图怎么用",
+    "keywords": [
+      "SST",
+      "思维导图",
+      "关键词",
+      "听力",
+      "摘要",
+      "复盘"
+    ],
+    "answer": "SST 思维导图不是拿来背成固定答案的。Sunny 会让学生先用它看清讲座逻辑：主题是什么，分论点怎样展开，例子服务哪个观点，最后有没有转折或结论。练习时先听音频做自己的笔记，再对照导图检查漏掉的逻辑链。真正要背的是关键词之间的关系，而不是整段文字。这样考试遇到不同表述，也能写出结构清楚的摘要。",
+    "source": "local PDF extraction round 56, SST keyword map",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
