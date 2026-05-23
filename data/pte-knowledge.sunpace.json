@@ -18801,5 +18801,261 @@
     "source": "local OCR extraction round 66, FIBR speed-review notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-speed-review-grammar-bridge",
+    "title": "FIBRW 速刷要多一步语法验证",
+    "keywords": [
+      "FIBRW",
+      "速刷",
+      "语法验证",
+      "阅读写作填空",
+      "词性",
+      "搭配"
+    ],
+    "answer": "FIBRW 速刷不能只看空格词和中文意思。Sunny 会多加一步语法验证：这个词放进句子后，词性是否对，单复数是否对，时态是否对，前后搭配是否自然。因为 FIBRW 同时影响阅读和写作，答案不仅要意思通，还要写作结构成立。",
+    "source": "local OCR extraction round 67, FIBRW speed-review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-critical-awareness-vocab",
+    "title": "FIBRW 抽象名词要看论证场景",
+    "keywords": [
+      "FIBRW",
+      "抽象名词",
+      "批判意识",
+      "证据",
+      "语境",
+      "阅读"
+    ],
+    "answer": "FIBRW 里常出现 evidence、awareness、bias、context 这类抽象词。Sunny 会让学生先看文章在讲事实、观点、立场还是判断标准。抽象词不能只背中文，要看它在论证里承担什么功能：提供依据、指出问题、描述态度，还是限定范围。功能判断清楚，选项更容易排除。",
+    "source": "local OCR extraction round 67, FIBRW vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-function-words-matter",
+    "title": "FIBRW 小词也可能决定答案",
+    "keywords": [
+      "FIBRW",
+      "小词",
+      "功能词",
+      "语法",
+      "阅读",
+      "写作"
+    ],
+    "answer": "FIBRW 的空格不一定都是大词。有些空格是连接逻辑、完成结构或限定语气的小词。Sunny 会提醒学生不要只关注名词和动词，also、but、this、even、not 这类词也可能让句子逻辑成立。小词填错，整句意思和语法都会变。",
+    "source": "local OCR extraction round 67, FIBRW speed-review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-mnemonic-after-analysis",
+    "title": "RO 顺口溜只能放在解析之后",
+    "keywords": [
+      "RO",
+      "排序",
+      "顺口溜",
+      "解析",
+      "阅读",
+      "复盘"
+    ],
+    "answer": "RO 的记忆口诀可以帮助考前回忆顺序，但 Sunny 会把它放在解析之后使用。先分析首句、指代、转折、因果和例子，再用口诀辅助记忆。直接背口诀容易记住一题，却学不会排序方法。RO 的目标不是背顺序，而是看懂句子为什么这样排。",
+    "source": "local OCR extraction round 67, RO review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-reference-map",
+    "title": "RO 复盘时给指代关系画图",
+    "keywords": [
+      "RO",
+      "指代",
+      "this",
+      "these",
+      "阅读",
+      "句子衔接"
+    ],
+    "answer": "RO 复盘时，Sunny 会让学生把 this、that、these、they、such 这类指代词和它们指向的内容连起来。这个小图能快速看出哪两句必须靠近、哪一句不能放首句。指代关系一旦清楚，排序就不再只是靠语感。",
+    "source": "local OCR extraction round 67, RO reference notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-title-not-enough",
+    "title": "RO 看到标题不能直接背顺序",
+    "keywords": [
+      "RO",
+      "标题",
+      "高频题",
+      "排序",
+      "新题",
+      "阅读"
+    ],
+    "answer": "RO 高频题的标题能帮学生快速定位主题，但 Sunny 不会让学生只凭标题背顺序。考试中句子可能改写、顺序可能变化，甚至出现相似主题的新题。正确做法是用标题建立背景，再回到每一句找逻辑关系。标题是入口，不是答案。",
+    "source": "local OCR extraction round 67, RO review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-lfib-three-pass-workflow",
+    "title": "SST+LFIB 可以用三刷法",
+    "keywords": [
+      "SST",
+      "LFIB",
+      "三刷法",
+      "关键词",
+      "思维导图",
+      "复盘"
+    ],
+    "answer": "Sunny 会把 SST+LFIB 组合练成三刷：第一刷按考试方式听音频，补关键词并检查拼写；第二刷用结构图复盘文章逻辑、搭配和漏记信息；第三刷只看关键词，尝试回忆主题和主线。这样一套训练既练听力填空，也练摘要内容组织。",
+    "source": "local OCR extraction round 67, SST and LFIB practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-lfib-keyword-range",
+    "title": "SST 和 LFIB 的关键词范围可以共用",
+    "keywords": [
+      "SST",
+      "LFIB",
+      "关键词",
+      "听力",
+      "摘要",
+      "词性"
+    ],
+    "answer": "SST 和 LFIB 虽然题型不同，但关键词训练可以共用。LFIB 让学生准确听写核心词，SST 让学生把这些核心词放进主题和逻辑里。Sunny 会让学生同时记录关键词的意思、词性和搭配。这样复习一个材料时，能同时提升听写准确度和摘要质量。",
+    "source": "local OCR extraction round 67, SST and LFIB practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-incomplete-recall-caution",
+    "title": "SST 不完整回忆只能做框架参考",
+    "keywords": [
+      "SST",
+      "回忆题",
+      "框架",
+      "听力",
+      "摘要",
+      "风险"
+    ],
+    "answer": "有些 SST 材料只有考场回忆，没有完整音频。Sunny 会把这类内容当框架参考，而不是当标准答案。学生可以用它熟悉话题、关键词和可能逻辑，但不能替代真实听力训练。没有音频的材料，主要价值是考前提醒，不是核心练习。",
+    "source": "local OCR extraction round 68, SST review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-mind-map-after-audio",
+    "title": "SST 思维导图最好听后再画",
+    "keywords": [
+      "SST",
+      "思维导图",
+      "听力",
+      "笔记",
+      "复盘",
+      "摘要"
+    ],
+    "answer": "SST 思维导图最好在听完并写完摘要后再画。Sunny 会让学生先靠自己完成听记和写作，再用导图检查主题、分点、例子和结论是否完整。如果一开始就看导图，容易降低听力负荷，复盘看起来顺利，真实考试却不一定能抓住结构。",
+    "source": "local OCR extraction round 68, SST review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-lfib-spelling-grammar-check",
+    "title": "LFIB 填完后要检查拼写和语法",
+    "keywords": [
+      "LFIB",
+      "听力填空",
+      "拼写",
+      "语法",
+      "单复数",
+      "复盘"
+    ],
+    "answer": "LFIB 听到词以后还没结束。Sunny 会让学生填完后检查拼写、大小写、单复数、时态和词性。很多错误不是没听到，而是写成了错误形式。复盘时要分清是听辨问题、拼写问题，还是语法形式问题，下一轮训练才有方向。",
+    "source": "local OCR extraction round 68, LFIB practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-lfib-keyword-pos-label",
+    "title": "LFIB 关键词要标词性",
+    "keywords": [
+      "LFIB",
+      "关键词",
+      "词性",
+      "听力",
+      "填空",
+      "词汇"
+    ],
+    "answer": "LFIB 关键词表不要只写单词和中文。Sunny 会让学生标出词性，因为空格前后的语法会提示答案形式。名词要注意单复数，动词要注意时态，形容词和副词要看修饰对象。词性标签能把听力训练和语法判断连起来。",
+    "source": "local OCR extraction round 68, LFIB keyword notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-translation-to-structure",
+    "title": "FIBRW 中文理解要转成英文结构",
+    "keywords": [
+      "FIBRW",
+      "中文理解",
+      "英文结构",
+      "语法",
+      "搭配",
+      "阅读写作"
+    ],
+    "answer": "FIBRW 速刷里的中文理解可以帮学生降低阅读压力，但 Sunny 会要求最后转回英文结构。答案要在原句中满足语法位置、搭配关系和逻辑方向。中文觉得通顺，不代表英文就能填。每次复盘都要问：这个词为什么能放在这里？",
+    "source": "local OCR extraction round 68, FIBRW speed-review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-general-to-specific-order",
+    "title": "RO 常见顺序是先总后分",
+    "keywords": [
+      "RO",
+      "总分结构",
+      "排序",
+      "阅读",
+      "段落逻辑",
+      "首句"
+    ],
+    "answer": "RO 很多段落会先给总述，再展开细节、例子或解释。Sunny 会让学生先找不依赖前文的总述句，再找带 this、these、for example、however 等信号的后续句。先总后分不是绝对规则，但它是快速判断首句和后续展开的好入口。",
+    "source": "local OCR extraction round 68, RO ordering notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-example-after-claim",
+    "title": "RO 例子通常跟在观点后面",
+    "keywords": [
+      "RO",
+      "例子",
+      "观点",
+      "排序",
+      "for example",
+      "阅读"
+    ],
+    "answer": "RO 里如果一句话出现具体地点、人物、案例或 for example 这类信号，Sunny 会优先判断它在解释哪一个观点。例子通常不是首句，它要依附前面的概括句。把例子和观点配对，能快速确定相邻关系。",
+    "source": "local OCR extraction round 68, RO ordering notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-integrated-sst-lfib-review",
+    "title": "SST+LFIB 复盘要分内容和形式",
+    "keywords": [
+      "SST",
+      "LFIB",
+      "复盘",
+      "内容",
+      "形式",
+      "听力"
+    ],
+    "answer": "SST+LFIB 双练复盘时，Sunny 会把问题分成内容和形式两类。内容包括主题、主线、例子和结论有没有抓住；形式包括关键词拼写、词性、单复数和搭配有没有写对。内容决定摘要质量，形式决定填空得分。两类问题分开看，训练更精准。",
+    "source": "local OCR extraction round 68, SST and LFIB practice notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
