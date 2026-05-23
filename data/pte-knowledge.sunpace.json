@@ -23921,5 +23921,261 @@
     "source": "local media transcript round 106, study-stage notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-hiw-miss-vs-wrong-click",
+    "title": "HIW 漏点和误点风险不一样",
+    "keywords": [
+      "HIW",
+      "Highlight Incorrect Words",
+      "错词",
+      "倒扣",
+      "听力",
+      "保守策略"
+    ],
+    "answer": "HIW 里最怕把原本正确的词点成错词。Sunny 会提醒学生：确定听到和屏幕不同再点；漏掉一个错词通常只是少拿这一分，但误点正确词会制造倒扣风险。目标分不高时，先练少误点，再提高反应速度。",
+    "source": "local media transcript round 107, HIW scoring-risk notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-smw-gap-can-be-phrase",
+    "title": "SMW 缺的可能是一个词，也可能是一组词",
+    "keywords": [
+      "SMW",
+      "Selecting Missing Word",
+      "缺失词",
+      "结尾逻辑",
+      "听力",
+      "选项"
+    ],
+    "answer": "SMW 不是只猜最后一个单词。Sunny 会让学生听完整段结尾逻辑，因为被盖住的部分可能是一个词，也可能是一组表达。选项要能自然接上前面的意思、语气和语法，而不是只看哪个词听起来熟。",
+    "source": "local media transcript round 107, SMW gap notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-lfib-not-reading-fib",
+    "title": "听力 FIB 看起来像阅读题，本质仍是听音题",
+    "keywords": [
+      "Listening FIB",
+      "听力填空",
+      "FIB-L",
+      "音频",
+      "拼写",
+      "词形"
+    ],
+    "answer": "听力 FIB 有文字和空格，所以很多学生会把它当阅读填空猜。Sunny 会提醒：这题核心仍是听音频，文字只帮助定位。先跟住播放进度，再用空格前后语法检查词形和拼写，不能只靠上下文脑补答案。",
+    "source": "local media transcript round 107, listening FIB task-identity notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-lfib-accent-noise-practice",
+    "title": "听力 FIB 要适应口音和背景噪音",
+    "keywords": [
+      "Listening FIB",
+      "口音",
+      "背景噪音",
+      "听力",
+      "填空",
+      "学术词"
+    ],
+    "answer": "Sunny 会让学生不要只练特别干净的音频。听力 FIB 的材料可能来自讲座、访谈或对话，口音和背景噪音都会影响简单词识别。训练时要加入不同语速和口音的短段，复盘自己是没听清声音，还是词汇和拼写本身不稳。",
+    "source": "local media transcript round 107, listening accent-noise notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-dropdown-hardest-first",
+    "title": "阅读下拉 FIB 往往是最吃功夫的阅读题",
+    "keywords": [
+      "阅读 FIB",
+      "下拉题",
+      "FIBRW",
+      "阅读",
+      "词汇",
+      "语法"
+    ],
+    "answer": "Sunny 会把阅读下拉题当成核心训练区。它文章常更长、空格更多，要求同时判断词性、搭配、语义和逻辑。基础阶段不要只刷快题，先把下拉题的解题顺序练出来，再去追求速度。",
+    "source": "local media transcript round 107, reading dropdown-FIB notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-method-not-blind-brush",
+    "title": "阅读 FIB 不能学完技巧后还盲刷",
+    "keywords": [
+      "阅读 FIB",
+      "技巧",
+      "刷题",
+      "复盘",
+      "词性",
+      "搭配"
+    ],
+    "answer": "Sunny 会要求学生把每道阅读 FIB 带回方法里复盘。错了不能只记答案，要问：这空是词性错、搭配错、语义错，还是前后逻辑没看懂。技巧只有落到题目里，才会变成下一次能用的判断。",
+    "source": "local media transcript round 107, reading method-application notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-personal-notebook-after-class",
+    "title": "阅读课后要形成自己的 FIB 笔记",
+    "keywords": [
+      "阅读 FIB",
+      "笔记",
+      "复盘",
+      "词汇",
+      "语法",
+      "错题"
+    ],
+    "answer": "资料文件只是起点，Sunny 会让学生课后整理自己的阅读 FIB 笔记。笔记不应只是答案列表，而要记录常错词性、固定搭配、逻辑信号和自己反复误判的选项。能复用的笔记，才会在下一套题里帮你提速。",
+    "source": "local media transcript round 107, reading notebook notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-question-as-method-carrier",
+    "title": "阅读 FIB 方法要通过题目讲透",
+    "keywords": [
+      "阅读 FIB",
+      "方法",
+      "题目载体",
+      "复盘",
+      "下拉题",
+      "训练"
+    ],
+    "answer": "Sunny 不建议学生只背一套抽象技巧。阅读 FIB 的方法要通过具体题目讲透：先看空格结构，再看选项范围，再用上下文验证。做几篇后回顾共同规律，比先背一堆规则更容易真正会用。",
+    "source": "local media transcript round 107, reading question-based-method notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-task-name-before-method",
+    "title": "学口语技巧前先认识题型名称",
+    "keywords": [
+      "口语",
+      "题型名称",
+      "RA",
+      "DI",
+      "RS",
+      "备考基础"
+    ],
+    "answer": "Sunny 会让新手先知道每个口语题型在考什么，再进入技巧。看到 RA、RS、DI、RL 这些名称时，至少要知道任务动作是什么。连题型都没分清，后面的模板、计时和评分重点就很难真正吸收。",
+    "source": "local media transcript round 108, speaking orientation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-study-replay-after-active-learning",
+    "title": "录播适合复盘，不适合替代主动学习",
+    "keywords": [
+      "学习方法",
+      "录播",
+      "复盘",
+      "提问",
+      "PTE",
+      "备考"
+    ],
+    "answer": "Sunny 会把录播当成复盘工具，而不是偷懒替代品。第一次学习时要尽量主动听、做题、提问；课后再用录播补没听懂的点。只看录播不练题，容易觉得自己懂了，真正做题时还是卡住。",
+    "source": "local media transcript round 108, study replay notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-study-question-by-own-level",
+    "title": "提问要站在自己的分数和基础上",
+    "keywords": [
+      "学习方法",
+      "提问",
+      "目标分",
+      "基础",
+      "备考计划",
+      "PTE"
+    ],
+    "answer": "同一节课里可能有 50 分目标，也可能有 79 分目标。Sunny 会鼓励学生按自己的基础提问：哪里不懂、哪个题型做不动、目标分需要什么程度。不要因为问题基础就不问，清楚暴露问题才能安排下一步训练。",
+    "source": "local media transcript round 108, study question-loop notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-data-graph-scan-title-items-unit",
+    "title": "DI 数据图先扫标题、项目和单位",
+    "keywords": [
+      "DI",
+      "数据图",
+      "标题",
+      "单位",
+      "项目",
+      "口语"
+    ],
+    "answer": "Sunny 会让学生用固定顺序扫 DI 数据图：先看标题，再看主要项目或类别，再看单位和范围，最后找最大最小或明显对比。准备时间短时，这个顺序能减少乱看图，也能让开口后每句话都有信息落点。",
+    "source": "local media transcript round 108, DI graph-scan notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-flowchart-fallback-frame",
+    "title": "DI 看不懂图时可用流程框架救场",
+    "keywords": [
+      "DI",
+      "流程图",
+      "救场",
+      "模板",
+      "口语",
+      "顺序"
+    ],
+    "answer": "遇到陌生流程或关系图时，Sunny 会让学生先用流程框架保住输出：主题是什么，第一步是什么，接下来发生什么，最后到哪里。即使专业原理看不懂，也能按图上可见顺序说出一条清楚路线。",
+    "source": "local media transcript round 108, DI flowchart fallback notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-flowchart-visible-start",
+    "title": "DI 流程图起点按图上可见线索定",
+    "keywords": [
+      "DI",
+      "流程图",
+      "first step",
+      "起点",
+      "顺序",
+      "口语"
+    ],
+    "answer": "流程图不必在准备时间里研究真实科学起点。Sunny 会让学生按图上最清楚的箭头、编号、上下左右或可读标签确定 first step。考试要的是可见信息和顺序表达，不是专业解释。先说得出，再追求说得细。",
+    "source": "local media transcript round 108, DI visible-start notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-template-same-core-different-content",
+    "title": "DI 模板核心可固定，内容必须随图换",
+    "keywords": [
+      "DI",
+      "模板",
+      "图表",
+      "流程图",
+      "内容",
+      "口语"
+    ],
+    "answer": "Sunny 会让学生把 DI 模板分成固定核心和可替换内容。开头、顺序词和简单结尾可以稳定，但标题、项目、单位、步骤和比较必须来自当前图片。模板越熟，越要把脑力留给图中信息，而不是把所有图说成同一段话。",
+    "source": "local media transcript round 108, DI template-adaptation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-step-count-stability-first",
+    "title": "DI 流程步骤数量按稳定度加",
+    "keywords": [
+      "DI",
+      "流程图",
+      "目标分",
+      "步骤",
+      "流利度",
+      "口语"
+    ],
+    "answer": "流程图步骤不是说得越多越好。Sunny 会按稳定度加量：基础阶段先说一两个最稳步骤，65 左右再争取两个以上，79 目标再覆盖更多关键步骤。多说但频繁卡顿，不如少说一点但顺序清楚、声音连续。",
+    "source": "local media transcript round 108, DI step-count notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
