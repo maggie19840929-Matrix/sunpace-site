@@ -891,6 +891,27 @@
 
 备注：两轮完成后执行 JSON 校验、重复 ID 检查、公开品牌敏感词扫描、Sunny 回归，并只提交公开知识库和进度摘要；原始 OCR、队列、日志和第三方材料不进入 GitHub。
 
+## 2026-05-23 Knowledge Distillation 61
+
+- 模式：白天同步模式；继续 PDF OCR 小批处理，并将可用内容改写为 SunPace 自有知识条目
+- 输入来源：本地 PDF OCR 队列 offset 3 的 3 个候选，以及前序 PDF/文档审计结果
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：RA 四层练习、RA 高频材料迁移、RA 陌生词恢复、RA 连读不吞词、阅读易混词语境判断、易混词小卡片、FIB 固定搭配从错题积累、介词作为 FIB 信号
+- 本地 OCR 进展：新跑 3 个 PDF OCR 候选，3 个成功；原始 OCR 文本和结果清单继续留在 ignored `knowledge_exports/`
+
+备注：本轮不发布来源品牌名、课程名、路径信息或第三方逐字文本；公开答案均改写为 SunPace/Sunny 自有指导。
+
+## 2026-05-23 Knowledge Distillation 62
+
+- 模式：白天同步模式；第 61、62 两轮完成后同步 GitHub
+- 输入来源：本地 OCR 摘要、阅读 FIB 固定搭配素材、阅读易混词素材、RL/DI 口语词汇处理素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：FIB 原因结果搭配、整块识别 role/part 结构、known 后介词差异、表格清单类熟词精确含义、数量词可数不可数线索、RL 话题分支图、DI/RL 专有名词处理、阅读词汇长期和短期策略
+
+备注：两轮完成后执行 JSON 校验、重复 ID 检查、公开品牌敏感词扫描、Sunny 回归，并只提交公开知识库和进度摘要；原始 OCR、队列、日志和第三方材料不进入 GitHub。
+
 ## 2026-05-22 Knowledge Distillation 41
 
 - 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交

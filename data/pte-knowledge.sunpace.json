@@ -18033,5 +18033,261 @@
     "source": "local PDF extraction round 60, RO ordering notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-four-layer-practice-stack",
+    "title": "RA 一篇文章可以分四层练",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "意群",
+      "连读",
+      "重音",
+      "易错词"
+    ],
+    "answer": "Sunny 会把 RA 一篇文章拆成四层练：先划意群，保证读的时候不断句；再处理连读和轻微失爆，让声音更自然；第三步标出单词内重音，避免每个音节都一样重；最后整理易错词，单独慢读再放回句子。不要一上来就整篇狂读，分层练完再合起来，流利度和清晰度都会更稳。",
+    "source": "local OCR extraction round 61, RA practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-high-frequency-text-transfer",
+    "title": "RA 高频材料不是用来背原文的",
+    "keywords": [
+      "RA",
+      "高频材料",
+      "迁移能力",
+      "流利度",
+      "发音",
+      "备考"
+    ],
+    "answer": "RA 高频材料的价值不在于背下原文，而在于把练法迁移到陌生文章。Sunny 会让学生用固定材料练意群、停顿、重音和尾音，再换一篇新文章检查是否还能做出来。如果只背熟少数文章，遇到陌生文本就会掉速；如果掌握拆解方法，任何文章都能更快进入稳定朗读状态。",
+    "source": "local OCR extraction round 61, RA practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-unfamiliar-word-recovery",
+    "title": "RA 遇到陌生词怎么不断节奏",
+    "keywords": [
+      "RA",
+      "陌生词",
+      "发音",
+      "节奏",
+      "流利度",
+      "口语"
+    ],
+    "answer": "RA 遇到陌生词时，Sunny 不建议停下来纠结完美发音。先看词形能不能拆成音节，再用相对清楚的重音和元音读过去，保证句子节奏不断。复盘时把陌生词单独查音、标重音、放回原句再读。考试时的目标是整体可识别和连续，不是每个生词都读成字典示范音。",
+    "source": "local OCR extraction round 61, RA practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-linking-without-swallowing",
+    "title": "RA 连读不是把词吞掉",
+    "keywords": [
+      "RA",
+      "连读",
+      "失爆",
+      "尾音",
+      "机器识别",
+      "发音"
+    ],
+    "answer": "RA 里的连读和轻微失爆是为了让句子顺，不是把关键词吞掉。Sunny 会提醒学生：功能词可以轻一些，内容词要清楚；爆破音可以轻收，但尾音位置不能完全消失。练习时先慢速读准，再逐步连起来。如果一追求速度就牺牲可识别度，口语分反而不稳。",
+    "source": "local OCR extraction round 61, RA practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-confusable-words-context-first",
+    "title": "阅读易混词要放进语境区分",
+    "keywords": [
+      "阅读",
+      "易混词",
+      "近义词",
+      "FIB",
+      "选择题",
+      "语境"
+    ],
+    "answer": "近义词不能只背中文释义。Sunny 会让学生看三个问题：这个词常和什么宾语搭配，语气是正式还是口语，强调动作方式还是结果。比如同一组“提高、限制、列出、小的、少量”等意思相近的词，真正做题时靠上下文、词性和搭配来区分。语境判断比单词表记忆更可靠。",
+    "source": "local OCR extraction round 61, reading confusable-word notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-confusable-micro-cards",
+    "title": "易混词错题做成小卡片",
+    "keywords": [
+      "阅读",
+      "近义词",
+      "错题本",
+      "词汇",
+      "FIB",
+      "复盘"
+    ],
+    "answer": "阅读里反复错的易混词，Sunny 会让学生做成小卡片。每张卡只放一组词，写清楚区别点、常见搭配和一个自己造的短句。不要把几十个近义词堆在一起背。小卡片的目标是下次看到空格或选项时，能马上想到“这个词适合什么结构、什么语气、什么对象”。",
+    "source": "local OCR extraction round 61, reading confusable-word notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-collocation-bank-from-mistakes",
+    "title": "阅读 FIB 固定搭配库要从错题长出来",
+    "keywords": [
+      "FIB",
+      "阅读",
+      "固定搭配",
+      "错题",
+      "积累",
+      "复盘"
+    ],
+    "answer": "固定搭配当然要积累，但 Sunny 更看重从错题里长出来的搭配库。每次 FIB 做错，记录的不只是正确选项，还要写空格前后的结构：动词接什么介词，形容词接什么介词，名词后面跟什么搭配。这样积累出来的库和真实题目绑定，比单独背一长串短语更容易用出来。",
+    "source": "local OCR extraction round 61, reading FIB collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-preposition-collocation-signal",
+    "title": "FIB 里介词常常是答案信号",
+    "keywords": [
+      "FIB",
+      "介词",
+      "固定搭配",
+      "阅读",
+      "词性",
+      "语法信号"
+    ],
+    "answer": "阅读 FIB 里，介词经常是很强的信号。Sunny 会让学生特别留意空格前后有没有 of、to、in、with、from、on 这类连接点。它们可能提示名词搭配、动词短语、形容词结构或因果关系。先看介词，再看选项词性和语义，很多看似靠词汇量的题会变得更可判断。",
+    "source": "local OCR extraction round 61, reading FIB collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-cause-result-collocations",
+    "title": "FIB 里的原因结果搭配怎么抓",
+    "keywords": [
+      "FIB",
+      "原因结果",
+      "result in",
+      "result from",
+      "阅读",
+      "逻辑"
+    ],
+    "answer": "FIB 做到原因结果关系时，Sunny 会让学生先判断方向。某事导致结果，常见结构是“导致某结果”；某结果来自原因，方向就反过来。不要只看到 result、cause、effect 这类词就选，要看主语是原因还是结果，再看后面介词和名词是否匹配。方向判断清楚，搭配题会少错很多。",
+    "source": "local OCR extraction round 62, reading FIB collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-role-part-in-pattern",
+    "title": "play a role in 这类结构要整块识别",
+    "keywords": [
+      "FIB",
+      "固定搭配",
+      "play a role in",
+      "阅读",
+      "短语",
+      "搭配"
+    ],
+    "answer": "有些 FIB 搭配不能一个词一个词拆开理解。Sunny 会让学生把“起作用、参与、构成关系”这类表达当成整块结构识别，尤其注意后面常接的介词和名词。做题时如果只看单个动词，可能多个选项都像对；把短语框架看出来，答案范围会明显缩小。",
+    "source": "local OCR extraction round 62, reading FIB collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-known-as-for-by",
+    "title": "known 后面的介词决定意思",
+    "keywords": [
+      "FIB",
+      "known as",
+      "known for",
+      "介词",
+      "阅读",
+      "固定搭配"
+    ],
+    "answer": "阅读 FIB 里遇到 known，不要只记“著名”。Sunny 会让学生看后面的介词：as 更像身份或称呼，for 更像原因或特点，by 可能指被谁知道或通过什么方式。介词一变，句子的关系就变。把这类结构按功能整理，比机械背一个中文意思更有用。",
+    "source": "local OCR extraction round 62, reading FIB collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-list-table-chart-precision",
+    "title": "阅读里表格和清单类词也要精确",
+    "keywords": [
+      "阅读",
+      "易混词",
+      "list",
+      "table",
+      "chart",
+      "词汇辨析"
+    ],
+    "answer": "阅读材料里 list、table、chart、form、schedule 这类词看起来简单，但含义不完全一样。Sunny 会让学生结合场景判断：是名单、表格、图表、表单，还是时间安排。PTE 阅读选项常用这些细小差异制造干扰。越是熟词，越要回到句子功能里确认。",
+    "source": "local OCR extraction round 62, reading confusable-word notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-quantity-countability-clue",
+    "title": "little、few、several 先看可数不可数",
+    "keywords": [
+      "阅读",
+      "FIB",
+      "数量词",
+      "可数名词",
+      "不可数名词",
+      "语法"
+    ],
+    "answer": "FIB 遇到数量词时，Sunny 会先看后面的名词能不能数。little 常和不可数名词走在一起，few 和 several 要看可数复数；同时还要注意语气是偏否定还是中性数量。这个判断很快，但能排掉很多意思相近的选项。数量词题不是只考词义，也考名词形式。",
+    "source": "local OCR extraction round 62, reading confusable-word notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rl-mind-map-topic-branches",
+    "title": "RL 复述可以先做话题分支图",
+    "keywords": [
+      "RL",
+      "Retell Lecture",
+      "思维导图",
+      "听力",
+      "口语",
+      "笔记"
+    ],
+    "answer": "RL 不适合把整段讲座逐字记下来。Sunny 会让学生先按话题做分支图：主题是什么，讲了几个分点，每个分点有没有例子、原因或结果。听的时候笔记尽量短，复述时按分支顺序说。这样就算漏掉个别词，也能保住整体结构和内容覆盖。",
+    "source": "local OCR extraction round 62, RL practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-rl-proper-noun-handling",
+    "title": "DI/RL 里人名地名不会读怎么办",
+    "keywords": [
+      "DI",
+      "RL",
+      "专有名词",
+      "人名",
+      "地名",
+      "口语"
+    ],
+    "answer": "DI 和 RL 遇到人名、地名或专有词时，Sunny 会提醒学生不要被一个词卡住。如果能大致按音节读清楚，就自然带过去；如果完全不确定，可以用图表里的角色、地点类别或主题词替代说明。复盘时再整理常见专有名词读音。考试现场先保流利和内容，不要让单个名字拖垮整题。",
+    "source": "local OCR extraction round 62, DI/RL vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-vocab-long-short-plan",
+    "title": "阅读词汇要分长期积累和短期错题",
+    "keywords": [
+      "阅读",
+      "词汇",
+      "备考周期",
+      "错题",
+      "近义词",
+      "FIB"
+    ],
+    "answer": "备考时间不同，词汇策略也不同。Sunny 会让长期备考的学生系统整理易混词、搭配和词族；短期冲刺的学生则优先整理自己刷题中反复错的词。不要在时间很紧时追求大词表全覆盖。PTE 阅读最实用的词汇，是能在题目上下文里帮你排除干扰项的词。",
+    "source": "local OCR extraction round 62, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
