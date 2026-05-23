@@ -22129,5 +22129,261 @@
     "source": "local OCR extraction round 92, weekly prediction planning notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-bank-expanded-sections-update-plan",
+    "title": "题库区块扩展后要更新学习计划",
+    "keywords": [
+      "题库",
+      "区块扩展",
+      "学习计划",
+      "新题型",
+      "PTE",
+      "备考"
+    ],
+    "answer": "当整合题库出现更多任务区块时，Sunny 会先更新学习计划，而不是继续沿用旧节奏。新增区块要判断评分影响、训练方式和学生当前弱项。计划跟着题型结构调整，才不会漏掉新任务或误把低优先级内容放大。",
+    "source": "local OCR extraction round 93, integrated bank structure notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-bank-page-number-not-anchor",
+    "title": "题库页码不能当复习锚点",
+    "keywords": [
+      "题库",
+      "页码",
+      "版本变化",
+      "复习记录",
+      "编号",
+      "主题"
+    ],
+    "answer": "不同版本的题库页码经常变化。Sunny 会用题型、编号、主题和个人错因做复习锚点，而不是记“第几页”。页码只用于定位材料，不能作为长期复盘依据。锚点稳定，版本更新才不会打乱记录。",
+    "source": "local OCR extraction round 93, integrated bank structure notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-bank-section-size-estimates-workload",
+    "title": "题型区块大小能估算训练负荷",
+    "keywords": [
+      "题库",
+      "题型区块",
+      "训练负荷",
+      "复习计划",
+      "时间管理",
+      "PTE"
+    ],
+    "answer": "题型区块越大，越需要拆成小任务。Sunny 会用区块大小估算训练负荷：大区块做每日切片，小区块做集中扫盲，高影响区块做多轮复盘。这样材料量再大，也能变成可执行的日计划。",
+    "source": "local OCR extraction round 93, integrated bank structure notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-bank-stable-topics-track-over-time",
+    "title": "稳定主题要跨版本追踪",
+    "keywords": [
+      "题库",
+      "稳定主题",
+      "版本追踪",
+      "RA",
+      "复习",
+      "主题"
+    ],
+    "answer": "如果某些主题跨多个版本持续出现，Sunny 会把它们标成稳定主题。稳定主题不等于背原文，而是说明相关词汇、背景和发音值得长期预热。跨版本追踪能帮助学生区分短期波动和长期高频能力区。",
+    "source": "local OCR extraction round 93, integrated bank structure notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-fib-large-section-slicing",
+    "title": "阅读写作填空大区块要切片",
+    "keywords": [
+      "FIB",
+      "阅读写作",
+      "题库",
+      "切片复习",
+      "词性",
+      "搭配"
+    ],
+    "answer": "阅读写作填空通常是大体量区块。Sunny 会把它切成小片：每次只处理一组题，记录词性、搭配、语义线索和错因。大区块不能靠冲刺一次刷完，要靠多次小循环把判断能力磨出来。",
+    "source": "local OCR extraction round 93, reading-writing bank notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-bank-rotate-by-mode",
+    "title": "大题库复习按能力模式轮换",
+    "keywords": [
+      "题库",
+      "轮换",
+      "口语",
+      "写作",
+      "阅读",
+      "听力"
+    ],
+    "answer": "整合题库会把听说读写都放在一起。Sunny 会按能力模式轮换：口语输出、阅读判断、写作概括、听力记忆分别安排。轮换能避免一天只刷一种材料，也能让大脑在不同评分能力之间保持转换。",
+    "source": "local OCR extraction round 93, integrated bank planning notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-bank-new-task-section-early-diagnosis",
+    "title": "新任务区块先做早期诊断",
+    "keywords": [
+      "新题型",
+      "诊断",
+      "题库",
+      "RTS",
+      "SGD",
+      "备考"
+    ],
+    "answer": "遇到新任务区块，Sunny 会先做早期诊断：学生是否理解任务要求，是否能在时间内输出，错误集中在听不懂、没结构还是表达不自然。诊断清楚后，再决定是补模板、补听力还是补场景表达。",
+    "source": "local OCR extraction round 93, new task section notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-bank-integrated-index-for-teacher-review",
+    "title": "整合目录适合老师做复盘导航",
+    "keywords": [
+      "题库目录",
+      "老师复盘",
+      "导航",
+      "学习计划",
+      "PTE",
+      "知识库"
+    ],
+    "answer": "整合目录对学生来说可能太大，但对老师很有用。Sunny 会用目录做复盘导航：快速定位题型、判断材料覆盖面、安排下次训练重点。目录不是要学生背，而是帮助教学端管理路径。",
+    "source": "local OCR extraction round 93, integrated bank structure notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rts-sgd-sections-need-separate-rubrics",
+    "title": "RTS 和 SGD 要分开设评分关注点",
+    "keywords": [
+      "RTS",
+      "SGD",
+      "新题型",
+      "评分关注点",
+      "口语",
+      "听力"
+    ],
+    "answer": "RTS 和 SGD 都是新任务区块，但能力重点不同。Sunny 会把 RTS 关注点放在情境目标、礼貌和行动，把 SGD 关注点放在多人信息整合、主题归纳和摘要结构。分开设评分关注点，训练才不会混乱。",
+    "source": "local OCR extraction round 94, new task section notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-asq-small-section-quick-recall",
+    "title": "ASQ 小区块适合快速回忆训练",
+    "keywords": [
+      "ASQ",
+      "短答",
+      "快速回忆",
+      "口语",
+      "题库",
+      "反应速度"
+    ],
+    "answer": "ASQ 区块通常不大，但需要反应速度。Sunny 会用短时段训练快速回忆：听到问题后先判断类别，再给出简短答案。ASQ 不适合拖长解释，目标是准确、直接、不卡顿。",
+    "source": "local OCR extraction round 94, speaking section notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-rl-large-section-sampling",
+    "title": "DI 和 RL 大区块要抽样覆盖题型",
+    "keywords": [
+      "DI",
+      "RL",
+      "抽样",
+      "题库",
+      "口语",
+      "复习"
+    ],
+    "answer": "DI 和 RL 区块较大时，Sunny 不会要求学生一口气全刷，而是抽样覆盖类型：图表、流程、地图、讲座主题、科学和社会话题都要碰到。抽样目标是覆盖能力边界，而不是追求材料数量。",
+    "source": "local OCR extraction round 94, speaking section planning notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-essay-separate-output-goals",
+    "title": "SWT 和 WE 要分清输出目标",
+    "keywords": [
+      "SWT",
+      "WE",
+      "写作",
+      "输出目标",
+      "概括",
+      "论证"
+    ],
+    "answer": "SWT 和 WE 都在写作区块，但输出目标不同。Sunny 会让学生分开训练：SWT 练压缩主旨和语法完整，WE 练立场、段落和论证。把两者混成“写英文”，会导致复盘没有重点。",
+    "source": "local OCR extraction round 94, writing section notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-section-sequence-logic",
+    "title": "RO 区块重点练顺序逻辑",
+    "keywords": [
+      "RO",
+      "阅读",
+      "排序",
+      "逻辑",
+      "衔接",
+      "题库"
+    ],
+    "answer": "RO 区块不适合只背固定顺序。Sunny 会让学生复盘每道题的顺序逻辑：主题句、代词指代、时间推进、因果和转折。能解释为什么这句在前，才说明排序能力真正提升。",
+    "source": "local OCR extraction round 94, reading section notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-hiw-fib-type-in-audio-text-sync",
+    "title": "听力填空和 HIW 要练音文同步",
+    "keywords": [
+      "FIB-L",
+      "HIW",
+      "听力",
+      "音文同步",
+      "题库",
+      "复盘"
+    ],
+    "answer": "听力填空和 Highlight Incorrect Words 都需要音文同步。Sunny 会让学生练定位、跟读和错词标记，而不是只看答案。听得见、跟得上、写得准，是这类区块的三层能力。",
+    "source": "local OCR extraction round 94, listening section notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-wfd-section-count-does-not-change-priority",
+    "title": "WFD 区块靠后不代表优先级低",
+    "keywords": [
+      "WFD",
+      "听写",
+      "优先级",
+      "题库",
+      "听力",
+      "复习"
+    ],
+    "answer": "WFD 在目录里常出现在后面，但 Sunny 不会把它当低优先级。它对听力和写作都有高影响，应该单独安排复听、拼写和语法还原。目录位置只是排版，不代表训练价值。",
+    "source": "local OCR extraction round 94, WFD section notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-bank-version-growth-requires-pruning",
+    "title": "题库越长越需要删减策略",
+    "keywords": [
+      "题库",
+      "删减策略",
+      "版本增长",
+      "复习效率",
+      "优先级",
+      "备考"
+    ],
+    "answer": "题库版本越新，材料可能越长。Sunny 会同时做增加和删减：新增重要内容进入计划，重复、低价值或已掌握内容退出重点列表。没有删减策略，学生很快会被材料量压住。",
+    "source": "local OCR extraction round 94, version-management notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]

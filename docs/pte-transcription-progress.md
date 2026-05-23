@@ -1227,6 +1227,27 @@
 
 备注：两轮完成后执行 JSON 校验、重复 ID 检查、公开品牌敏感词扫描、Sunny 回归，并只提交公开知识库和进度摘要；原始 OCR、队列、日志和第三方材料不进入 GitHub。
 
+## 2026-05-23 Knowledge Distillation 93
+
+- 模式：白天同步模式；继续 PDF OCR 小批处理，并将可用内容改写为 SunPace 自有知识条目
+- 输入来源：本地 PDF OCR 队列 offset 51 的 3 个候选，以及前序 PDF/OCR 结果
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：题库区块扩展后更新计划、页码不能当复习锚点、题型区块大小估算训练负荷、稳定主题跨版本追踪、FIB 大区块切片、按能力模式轮换、新任务区块早期诊断、整合目录作老师复盘导航
+- 本地 OCR 进展：新跑 3 个 PDF OCR 候选，3 个成功；原始 OCR 文本和结果清单继续留在 ignored `knowledge_exports/`
+
+备注：本轮不发布来源品牌名、课程名、路径信息或第三方逐字文本；公开答案均改写为 SunPace/Sunny 自有指导。
+
+## 2026-05-23 Knowledge Distillation 94
+
+- 模式：白天同步模式；第 93、94 两轮完成后同步 GitHub
+- 输入来源：本地 OCR 摘要、整合题库目录、新任务区块和题型分布素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：RTS/SGD 分开设评分关注点、ASQ 快速回忆、DI/RL 抽样覆盖题型、SWT/WE 分清输出目标、RO 顺序逻辑、听力填空和 HIW 音文同步、WFD 区块靠后不代表低优先级、题库增长后的删减策略
+
+备注：两轮完成后执行 JSON 校验、重复 ID 检查、公开品牌敏感词扫描、Sunny 回归，并只提交公开知识库和进度摘要；原始 OCR、队列、日志和第三方材料不进入 GitHub。
+
 ## 2026-05-22 Knowledge Distillation 41
 
 - 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交
