@@ -24177,5 +24177,261 @@
     "source": "local media transcript round 108, DI step-count notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-break-if-offered-return-on-time",
+    "title": "听力前如有休息也要按考场时间返回",
+    "keywords": [
+      "听力",
+      "休息",
+      "考试流程",
+      "时间管理",
+      "PTE",
+      "考场"
+    ],
+    "answer": "如果某个考试版本或考场安排给到听力前的休息机会，Sunny 会让学生把它当成状态切换，而不是无限缓冲。离座前先看清现场时间，喝水、整理状态后按规则及时回来；如果超过允许时间，后续听力时间或流程可能受影响。更稳的备考方式，是平时也练完整流程，不把发挥建立在一定能休息上。",
+    "source": "local media transcript round 109, listening section process notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-final-section-still-cross-scores",
+    "title": "听力在最后也不能当低风险部分",
+    "keywords": [
+      "听力",
+      "交叉评分",
+      "SST",
+      "WFD",
+      "FIB-L",
+      "考试策略"
+    ],
+    "answer": "听力虽然常在考试后段出现，但它不是只影响听力单项。Sunny 会提醒学生，SST、WFD、听力 FIB 和 HIW 等题型可能牵动写作、阅读、拼写和词汇表现。到了最后一段更要保护注意力：短暂调整状态，先稳高价值题，再快速处理低权重小题。",
+    "source": "local media transcript round 109, listening cross-score notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-first-minutes-information-collection",
+    "title": "SST 前段时间是信息收集，不是空等",
+    "keywords": [
+      "SST",
+      "Summarize Spoken Text",
+      "笔记",
+      "时间分配",
+      "听力",
+      "写作"
+    ],
+    "answer": "SST 的倒计时一开始就包含音频播放，所以前面听材料的时间要当成信息收集阶段。Sunny 会让学生在播放时抓主题、分论点、例子和结论，音频结束后再进入组织和写作。不要等录音播完才开始想写什么；也不要一边听一边造完整长句，先把可用信息收稳。",
+    "source": "local media transcript round 109, SST timing notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-note-method-match-typing-speed",
+    "title": "SST 笔记方式要匹配打字速度",
+    "keywords": [
+      "SST",
+      "笔记",
+      "打字",
+      "手写",
+      "草稿纸",
+      "时间管理"
+    ],
+    "answer": "SST 可以用键盘记，也可以手写记，关键看哪种方式更稳定。打字很快的学生可以直接在答题框里记关键词，但提交前一定把临时 notes 清干净，改成正式摘要；手写更顺的学生就用草稿纸，避免在听音频时被拼写和键盘位置拖慢。笔记方式不是越高级越好，而是要能在听完后快速转成 50-70 词的成稿。",
+    "source": "local media transcript round 109, SST note-taking notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-mcq-no-blank-best-option",
+    "title": "听力选择题不要空着交",
+    "keywords": [
+      "听力选择题",
+      "MCQ",
+      "单选",
+      "多选",
+      "小题",
+      "考试策略"
+    ],
+    "answer": "听力选择题听不全时，Sunny 也不建议空着。单选题没有把握时，用题干目标、重复词、语气和排除法快速定一个最合理答案。多选题要更保守：先选最确定的，不要为了凑数量把模糊选项全点上。空着一定没有机会，乱贪又可能倒扣，正确策略是在风险和时间之间取稳。",
+    "source": "local media transcript round 109, listening MCQ decision notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-multiple-answer-second-choice-rule",
+    "title": "听力多选第二个选项要有把握才点",
+    "keywords": [
+      "听力多选",
+      "MCQ Multiple Answers",
+      "倒扣",
+      "保守策略",
+      "听力",
+      "选择题"
+    ],
+    "answer": "听力多选不是看到两个像就必须选两个。Sunny 会让学生把第二个选项设成高门槛：只有听到明确证据、并且没有改变对象、范围或态度时才点。第一个稳，第二个虚，就宁愿保守。多选题的目标不是展示勇气，而是在有限时间里避免用不确定选项抵消已经拿到的分。",
+    "source": "local media transcript round 109, listening multiple-answer risk notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-hcs-long-options-protect-memory",
+    "title": "HCS 长选项别把音频记忆挤掉",
+    "keywords": [
+      "HCS",
+      "Highlight Correct Summary",
+      "长选项",
+      "听力",
+      "主旨",
+      "摘要选择"
+    ],
+    "answer": "HCS 的选项常常很长，Sunny 不会让学生在预读时逐字翻完。预读先抓每个选项的主题方向和差异点，音频播放时把注意力放回讲座主线。听完后再用主题、原因、结果和态度去比对选项。长选项读太久，反而会把刚听到的主旨记忆挤掉。",
+    "source": "local media transcript round 109, HCS option-memory notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-lfib-transfer-from-board",
+    "title": "听力 FIB 从草稿转填时要做词形核对",
+    "keywords": [
+      "Listening FIB",
+      "听力填空",
+      "草稿纸",
+      "词形",
+      "拼写",
+      "转填"
+    ],
+    "answer": "听力 FIB 先记在草稿纸上以后，转到屏幕时不能只搬大概词义。Sunny 会让学生做一次短核对：拼写是否完整，s、ed、ly 或三单有没有带上，空格前后语法是否匹配。如果当时只能记中文或缩写，转填时也要回到英文词形。最后写进空格的形式，才是真正计分的答案。",
+    "source": "local media transcript round 109, listening FIB transfer notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-short-subject-read-through",
+    "title": "RA 短主语后面不要硬停",
+    "keywords": [
+      "RA",
+      "Read Aloud",
+      "短主语",
+      "停顿",
+      "意群",
+      "流利度"
+    ],
+    "answer": "RA 里如果主语很短，Sunny 通常会让学生一口气带到后面的谓语或核心信息，不要在主语后面机械停一下。短主语后硬停，会让句子像一个词一个词拼出来，流利度也容易碎。真正需要停顿的是完整意群之后，而不是每看到一个语法边界就停。",
+    "source": "local media transcript round 110, RA phrasing notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-function-chain-light-but-present",
+    "title": "RA 功能词串要轻，但不能消失",
+    "keywords": [
+      "RA",
+      "功能词",
+      "弱读",
+      "重弱读",
+      "内容词",
+      "流利度"
+    ],
+    "answer": "RA 里 by the、to the、of the 这类功能词串不用读得很重，但也不能被吞掉。Sunny 会让学生把功能词轻快带过，把重心留给后面的内容词。轻读的标准是自然、短、存在；如果完全消失，会像漏词，如果每个小词都重读，又会显得平、慢、断。",
+    "source": "local media transcript round 110, RA function-word notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-ed-tail-light-not-heavy",
+    "title": "RA 词尾 ed 要收住，不要砸重音",
+    "keywords": [
+      "RA",
+      "ed",
+      "词尾",
+      "过去分词",
+      "发音",
+      "重音"
+    ],
+    "answer": "RA 里遇到 funded、designed、influenced 这类词，不要把词尾 ed 砸成新的重音。Sunny 会让学生先把主重音放在词干或内容词上，词尾轻轻收住，确保存在但不拖长。ed 读得太重会让节奏变硬；完全吞掉又可能影响词形识别。目标是清楚但不笨重。",
+    "source": "local media transcript round 110, RA past-participle tail notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-familiar-words-need-visual-scan",
+    "title": "RA 熟词也要预读确认词形",
+    "keywords": [
+      "RA",
+      "预读",
+      "熟词",
+      "看错词",
+      "发音",
+      "准确度"
+    ],
+    "answer": "很多 RA 错误不是生词，而是熟词看快了读成另一个词。Sunny 会让学生在准备时间里扫一遍容易混的拼写、词尾和复合词，尤其是自己明明会读却常看错的词。熟词更容易掉以轻心；提前确认词形，能减少把正确读音用到错误单词上的情况。",
+    "source": "local media transcript round 110, RA pre-read accuracy notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-practice-mic-local-check-first",
+    "title": "练口语没声音先查本机麦克风",
+    "keywords": [
+      "口语练习",
+      "麦克风",
+      "设备检查",
+      "录音",
+      "练习平台",
+      "故障排查"
+    ],
+    "answer": "做线上口语练习或模考时，如果老师或系统听不到声音，Sunny 会先让学生查本机麦克风：有没有静音、浏览器权限是否打开、输入设备是否选对、网络是否卡住。不要反复空读浪费练习时间。设备确认好以后，再重新录一小段检查波形和回放，保证声音真的进去了。",
+    "source": "local media transcript round 110, speaking device-check notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-same-day-correction-loop",
+    "title": "纠正过的发音当天就要成组复读",
+    "keywords": [
+      "发音",
+      "RA",
+      "纠音",
+      "复盘",
+      "肌肉记忆",
+      "口语"
+    ],
+    "answer": "课上或练习里被纠正的词，不等于以后自动会读。Sunny 会让学生当天就做小循环：单词慢读，短语连读，放回原句，再录音回听。尤其是多年读错的熟词，只跟读一次很快会回到旧习惯。当天把正确读法压进嘴巴，比过几天再补更有效。",
+    "source": "local media transcript round 110, pronunciation correction-loop notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-supported-voice-not-yelling",
+    "title": "口语声音要有支撑，不是喊",
+    "keywords": [
+      "口语",
+      "声音",
+      "发音",
+      "流利度",
+      "RA",
+      "DI"
+    ],
+    "answer": "Sunny 会区分有支撑的声音和单纯喊大声。有支撑是声音稳定、关键词清楚、重读音节有力量；喊叫则容易音调变尖、尾音飘、发音变形。声音太虚时，机器更难识别；声音太冲时，节奏又容易乱。练习时用清楚说明信息的状态，不用表演式用力。",
+    "source": "local media transcript round 110, supported speaking voice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-mouth-shape-record-contrast",
+    "title": "嘴型问题要录音加镜子一起查",
+    "keywords": [
+      "发音",
+      "嘴型",
+      "录音",
+      "镜子练习",
+      "元音",
+      "口语"
+    ],
+    "answer": "有些词反复读糊，不是因为不会意思，而是嘴型和舌位没到位。Sunny 会让学生一边照镜子看口型，一边录音听结果：嘴巴有没有打开，嘴唇有没有过度撅起，舌头是不是太靠后。只听录音可能不知道身体动作哪里错；只看嘴型又不知道声音是否清楚，两者一起查更稳。",
+    "source": "local media transcript round 110, pronunciation mouth-shape notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
