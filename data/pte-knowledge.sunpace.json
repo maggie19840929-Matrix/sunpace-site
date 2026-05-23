@@ -18545,5 +18545,261 @@
     "source": "local OCR extraction round 64, SST and RS topic notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-fibr-speed-review-not-answer-bank",
+    "title": "FIBR 速刷不是答案银行",
+    "keywords": [
+      "FIBR",
+      "速刷",
+      "阅读填空",
+      "高频题",
+      "理解",
+      "备考"
+    ],
+    "answer": "FIBR 速刷适合在时间紧时快速回顾常见空格词和题目语义，但 Sunny 不会把它当答案银行。真正考试时仍要看空格前后结构、词性、搭配和全文逻辑。速刷材料的正确用法是帮你提高反应速度，而不是让你脱离英文句子背中文概括。",
+    "source": "local OCR extraction round 65, FIBR speed-review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibr-blank-word-collocation-flag",
+    "title": "FIBR 空格词要标出是否属于固定搭配",
+    "keywords": [
+      "FIBR",
+      "固定搭配",
+      "空格词",
+      "阅读",
+      "速刷",
+      "复盘"
+    ],
+    "answer": "FIBR 复盘时，Sunny 会要求学生给空格词加标签：它是单纯词义答案，还是固定搭配的一部分。如果是固定搭配，就不能只背这个词，要连同前后介词、动词或名词一起记。下次做题时看到同样结构，才能快速反应，而不是只觉得这个词眼熟。",
+    "source": "local OCR extraction round 65, FIBR speed-review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibr-topic-title-first",
+    "title": "做 FIBR 前先看题目场景",
+    "keywords": [
+      "FIBR",
+      "题目场景",
+      "阅读",
+      "主题",
+      "语义预测",
+      "填空"
+    ],
+    "answer": "FIBR 里很多空格的判断都和题目场景有关。Sunny 会让学生先确认文章在讲自然环境、历史人物、商业、科技、动物还是社会现象。主题确定后，选项的语义范围会变窄。不要直接盯空格，先用标题和首句建立场景，再回到空格做词性和搭配判断。",
+    "source": "local OCR extraction round 65, FIBR speed-review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-translation-back-to-english",
+    "title": "FIBR 中文概括看完要回到英文句子",
+    "keywords": [
+      "FIBR",
+      "中文概括",
+      "英文句子",
+      "阅读",
+      "词性",
+      "复盘"
+    ],
+    "answer": "中文概括能帮学生快速理解题意，但 Sunny 会提醒：最终答案必须回到英文句子里验证。中文看懂不等于空格能填对，因为英文还要满足词性、单复数、时态、介词搭配和句法位置。复盘时可以先看中文抓大意，再用英文原句检查结构。",
+    "source": "local OCR extraction round 65, FIBR speed-review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-detailed-logic-use-cases",
+    "title": "SST 详细逻辑资料适合三个场景",
+    "keywords": [
+      "SST",
+      "详细逻辑",
+      "复盘",
+      "预判",
+      "碎片时间",
+      "听力"
+    ],
+    "answer": "SST 详细逻辑资料可以用在三个场景：练习前快速预判话题结构，练习后集中回忆自己漏了哪些逻辑，碎片时间复习常见主题。Sunny 不建议学生只在考前临时看一遍就上场。资料的核心价值，是帮你养成划分文章结构的意识。",
+    "source": "local OCR extraction round 65, SST detailed-logic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-prediction-before-listening",
+    "title": "SST 练习前可以做内容预判",
+    "keywords": [
+      "SST",
+      "内容预判",
+      "听力",
+      "主题",
+      "笔记",
+      "摘要"
+    ],
+    "answer": "SST 练习前，Sunny 会让学生根据标题或主题做轻量预判：可能讲定义、问题、原因、影响，还是解决方案。预判不是猜答案，而是给听力笔记准备框架。播放时如果实际内容和预判不同，要立刻调整，不要强行套原来的思路。",
+    "source": "local OCR extraction round 65, SST detailed-logic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-directory-not-memorized-list",
+    "title": "SST 目录只能帮你看范围",
+    "keywords": [
+      "SST",
+      "目录",
+      "高频主题",
+      "听力",
+      "复盘",
+      "备考"
+    ],
+    "answer": "SST 高频目录能帮学生知道常见范围，比如科学、社会、经济、历史、教育、技术等，但它不能替代听力训练。Sunny 会让学生用目录做主题地图：哪些领域自己熟，哪些领域容易空白。真正练习还是要回到音频、笔记和摘要，而不是背目录上的题名。",
+    "source": "local OCR extraction round 65, SST detailed-logic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-high-frequency-risk",
+    "title": "FIBR 高频题也要按新题标准做",
+    "keywords": [
+      "FIBR",
+      "高频题",
+      "阅读",
+      "新题",
+      "速刷",
+      "考试"
+    ],
+    "answer": "高频 FIBR 可以提高熟悉度，但 Sunny 会要求学生每次都按新题标准做：读主题、判断词性、看搭配、验证语义。不要因为见过类似材料就直接写记忆里的答案。考试里题目可能换顺序、换选项或出现相似干扰，按方法做才稳。",
+    "source": "local OCR extraction round 65, FIBR speed-review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibr-part-of-speech-table",
+    "title": "FIBR 生词表要保留词性栏",
+    "keywords": [
+      "FIBR",
+      "词性",
+      "生词表",
+      "阅读",
+      "填空",
+      "复盘"
+    ],
+    "answer": "FIBR 生词表里，词性栏很重要。Sunny 会让学生把名词、动词、形容词、副词分开标注，因为空格能不能填，首先看句法位置。一个词中文意思很合适，但词性不匹配，仍然不能选。复习时先遮住释义，只看词性和搭配回忆用法，会更接近真实做题。",
+    "source": "local OCR extraction round 66, FIBR vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibr-either-or-parallel",
+    "title": "FIBR 看到 either/or 要检查并列结构",
+    "keywords": [
+      "FIBR",
+      "either or",
+      "并列结构",
+      "阅读",
+      "语法",
+      "填空"
+    ],
+    "answer": "FIBR 出现 either/or、not only/but also 这类结构时，Sunny 会让学生先检查并列成分是否同类。前面是名词，后面通常也要名词；前面是动词短语，后面也要能并列。并列结构能提供很强的词性线索，很多答案不用全靠翻译就能排除。",
+    "source": "local OCR extraction round 66, FIBR grammar notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-depend-on-pattern",
+    "title": "depend on 这类动词介词要整组记",
+    "keywords": [
+      "FIBR",
+      "动词介词",
+      "固定搭配",
+      "depend on",
+      "阅读",
+      "搭配"
+    ],
+    "answer": "FIBR 里很多短语是动词加介词的整体搭配。Sunny 会让学生把这类结构整组记，而不是只记动词中文意思。看到空格附近有介词时，要立刻问：这个介词是不是某个动词、形容词或名词的固定搭配？整组识别越快，选项判断越稳。",
+    "source": "local OCR extraction round 66, FIBR collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibr-cultural-science-topic-schema",
+    "title": "FIBR 文化和科学题用不同语义框架",
+    "keywords": [
+      "FIBR",
+      "文化题",
+      "科学题",
+      "语义框架",
+      "阅读",
+      "主题"
+    ],
+    "answer": "FIBR 主题不同，常见词也不同。文化类文章常讲作品、阶段、风格、影响；科学类文章常讲现象、过程、物种、实验、结果。Sunny 会让学生按主题建立语义框架。做题时先判断文章类型，再看哪些选项符合该主题的常见表达。",
+    "source": "local OCR extraction round 66, FIBR topic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-phrasal-verbs-turn-up",
+    "title": "FIBR 短语动词要看整体意思",
+    "keywords": [
+      "FIBR",
+      "短语动词",
+      "阅读",
+      "搭配",
+      "语义",
+      "填空"
+    ],
+    "answer": "FIBR 里短语动词经常不能按单个词直译。Sunny 会让学生把动词和小品词放在一起看整体意思，再看它后面接人、物、事件还是抽象名词。短语动词如果拆开背，很容易在选项里被干扰；整块记忆才更接近考试判断。",
+    "source": "local OCR extraction round 66, FIBR collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-semantic-chain-in-one-sentence",
+    "title": "FIBR 一句话里多个空格要串成语义链",
+    "keywords": [
+      "FIBR",
+      "多空题",
+      "语义链",
+      "阅读",
+      "上下文",
+      "填空"
+    ],
+    "answer": "FIBR 一句话里如果有多个空格，Sunny 会让学生把它们串成语义链。比如主题、动作、结果、场景和程度之间通常互相支持。不要每个空格独立猜，前一个空格会给后一个空格提供语义方向。串起来看，答案更容易稳定。",
+    "source": "local OCR extraction round 66, FIBR speed-review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-fragment-time-review",
+    "title": "SST 碎片时间适合复习逻辑不适合新练",
+    "keywords": [
+      "SST",
+      "碎片时间",
+      "逻辑复习",
+      "听力",
+      "摘要",
+      "备考"
+    ],
+    "answer": "碎片时间可以用来复习 SST 常见逻辑，但不适合完整新练。Sunny 会把完整训练放在安静时间：听音频、记笔记、写摘要、复盘；碎片时间只做主题回忆、逻辑框架复述和关键词回顾。这样训练和复习分工清楚，效率更高。",
+    "source": "local OCR extraction round 66, SST detailed-logic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-fast-review-to-full-practice",
+    "title": "FIBR 速刷后要回到完整练习",
+    "keywords": [
+      "FIBR",
+      "速刷",
+      "完整练习",
+      "阅读",
+      "复盘",
+      "备考"
+    ],
+    "answer": "FIBR 速刷能帮助学生快速熟悉空格词，但 Sunny 会在速刷后安排完整练习。完整练习要看全文、限时判断、选项排除和错题复盘。速刷解决的是熟悉度，完整练习解决的是考试能力。两者结合，才不容易变成只认识答案、不会做题。",
+    "source": "local OCR extraction round 66, FIBR speed-review notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]

@@ -933,6 +933,27 @@
 
 备注：两轮完成后执行 JSON 校验、重复 ID 检查、公开品牌敏感词扫描、Sunny 回归，并只提交公开知识库和进度摘要；原始 OCR、队列、日志和第三方材料不进入 GitHub。
 
+## 2026-05-23 Knowledge Distillation 65
+
+- 模式：白天同步模式；继续 PDF OCR 小批处理，并将可用内容改写为 SunPace 自有知识条目
+- 输入来源：本地 PDF OCR 队列 offset 9 的 3 个候选，以及前序 PDF/文档审计结果
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：FIBR 速刷不是答案银行、空格词固定搭配标记、先看题目场景、中文概括后回到英文句子、SST 详细逻辑三种使用场景、SST 练习前内容预判、SST 目录只看范围、FIBR 高频题按新题标准做
+- 本地 OCR 进展：新跑 3 个 PDF OCR 候选，3 个成功；原始 OCR 文本和结果清单继续留在 ignored `knowledge_exports/`
+
+备注：本轮不发布来源品牌名、课程名、路径信息或第三方逐字文本；公开答案均改写为 SunPace/Sunny 自有指导。
+
+## 2026-05-23 Knowledge Distillation 66
+
+- 模式：白天同步模式；第 65、66 两轮完成后同步 GitHub
+- 输入来源：本地 OCR 摘要、FIBR 生词固定搭配素材、FIBR 速刷素材、SST 详细逻辑复盘素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：FIBR 词性栏、either/or 并列结构、动词介词整组记、文化和科学题语义框架、短语动词整体意思、多空题语义链、SST 碎片时间复习、FIBR 速刷后回到完整练习
+
+备注：两轮完成后执行 JSON 校验、重复 ID 检查、公开品牌敏感词扫描、Sunny 回归，并只提交公开知识库和进度摘要；原始 OCR、队列、日志和第三方材料不进入 GitHub。
+
 ## 2026-05-22 Knowledge Distillation 41
 
 - 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交
