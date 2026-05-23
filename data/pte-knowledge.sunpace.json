@@ -20337,5 +20337,261 @@
     "source": "local OCR extraction round 78, practice-platform notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-vocabulary-range-not-word-pile",
+    "title": "WE 词汇广度不是堆难词",
+    "keywords": [
+      "WE",
+      "写作",
+      "词汇广度",
+      "学术词汇",
+      "清晰表达",
+      "评分"
+    ],
+    "answer": "WE 的词汇广度要体现多样性和准确性，不是把难词堆进文章。Sunny 会让学生优先选择能清楚表达观点、适合学术语境、搭配自然的词。一个普通但准确的词，比一个看似高级但用法别扭的词更安全。词汇升级要以读者能顺畅理解为前提。",
+    "source": "local OCR extraction round 79, WE vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-paraphrase-prompt-keywords",
+    "title": "WE 改写题干关键词要保留题意",
+    "keywords": [
+      "WE",
+      "题干改写",
+      "关键词",
+      "同义替换",
+      "审题",
+      "写作"
+    ],
+    "answer": "WE 开头改写题干时，Sunny 会先保护题意，再考虑词汇变化。关键词可以换近义表达，但不能改变讨论范围、立场对象或程度。改写后要回头问：这个句子和原题是不是还在问同一个问题？如果答案不确定，就用更保守的表达。",
+    "source": "local OCR extraction round 79, WE paraphrase notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-agree-disagree-phrases-with-stance",
+    "title": "同意不同意表达要跟立场绑定",
+    "keywords": [
+      "WE",
+      "同意不同意",
+      "立场",
+      "观点表达",
+      "写作",
+      "段落"
+    ],
+    "answer": "agree、disagree 相关表达不要孤立背。Sunny 会让学生先确定立场：完全同意、部分同意、还是反对，再选对应句式。段落里每个观点表达都要服务论证，不要为了换词而反复说同一层意思。立场清楚，表达自然就够了。",
+    "source": "local OCR extraction round 79, WE viewpoint notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-advantages-outweigh-logic",
+    "title": "利弊题要比较权重，不只列清单",
+    "keywords": [
+      "WE",
+      "利弊题",
+      "outweigh",
+      "段落结构",
+      "论证",
+      "写作"
+    ],
+    "answer": "advantages outweigh disadvantages 这类题，Sunny 会让学生比较权重，而不是两边各列几个点就结束。主体段要说明哪一边影响更大、范围更广或更长期。结论也要回应“是否超过”。如果只列清单，文章会像素材堆积，论证力度不够。",
+    "source": "local OCR extraction round 79, WE structure notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-solution-action-result",
+    "title": "解决方案段落要写动作和结果",
+    "keywords": [
+      "WE",
+      "解决方案",
+      "动作",
+      "结果",
+      "问题",
+      "写作"
+    ],
+    "answer": "WE 解决方案题不能只说“需要解决”。Sunny 会让学生写清楚三件事：谁采取行动，采取什么措施，预期减少什么问题。动作动词要具体，结果要和题干问题对应。这样段落才像解决方案，而不是泛泛建议。",
+    "source": "local OCR extraction round 79, WE solution notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-vocab-polysemy-context",
+    "title": "阅读写作词汇要警惕一词多义",
+    "keywords": [
+      "阅读写作",
+      "一词多义",
+      "词汇",
+      "语境",
+      "FIB",
+      "写作"
+    ],
+    "answer": "很多阅读写作词既可以是名词，也可以是动词或形容词。Sunny 会让学生先看语境和词性，再选含义。比如一个常见词在学术语境里可能不是日常意思。做 FIB 时尤其要注意：中文释义相近不代表句子位置合适。",
+    "source": "local OCR extraction round 79, reading-writing vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-vocab-pos-before-meaning",
+    "title": "阅读写作生词先标词性再记意思",
+    "keywords": [
+      "阅读写作",
+      "词性",
+      "生词",
+      "FIB",
+      "词汇",
+      "复盘"
+    ],
+    "answer": "整理阅读写作词汇时，Sunny 会先标词性，再写意思和例句。因为考试中空格首先需要一个合适的句子成分。一个词如果既能作名词又能作动词，就要分别记用法。词性清楚，词义才不会漂在空中。",
+    "source": "local OCR extraction round 79, reading-writing vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-vocab-common-word-academic-use",
+    "title": "熟词在学术语境里可能有新用法",
+    "keywords": [
+      "阅读写作",
+      "熟词生义",
+      "学术语境",
+      "词汇",
+      "阅读",
+      "写作"
+    ],
+    "answer": "Sunny 会特别提醒熟词生义。简单词在学术材料里可能表示参数、均值、机制、倾向、引用或结果。遇到熟词不要直接套第一个中文意思，要看它和哪些词搭配、出现在什么话题里。熟词判断错，比生词不认识更隐蔽。",
+    "source": "local OCR extraction round 79, reading-writing vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-easy-word-bank-before-chart",
+    "title": "DI 先准备易错词再练图表",
+    "keywords": [
+      "DI",
+      "易错词",
+      "图表",
+      "口语",
+      "发音",
+      "词汇"
+    ],
+    "answer": "DI 图表里常出现能源、地理、国家、行业、数量和自然现象词。Sunny 会让学生先准备一份易错词库，确认读音和重音，再进入图表描述。图表准备时间很短，如果基础词一读就卡，后面的趋势和数字也会被拖慢。",
+    "source": "local OCR extraction round 80, DI vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-place-names-read-smoothly",
+    "title": "DI 地名国名要练到顺口",
+    "keywords": [
+      "DI",
+      "地名",
+      "国名",
+      "专有名词",
+      "口语",
+      "发音"
+    ],
+    "answer": "DI 里如果出现地名或国名，Sunny 会让学生先练常见读法和重音。读不准时，不要反复停顿，可以用区域、国家、城市或位置类别继续说明。复盘后再把高频地名加入词库。目标是现场不卡壳，而不是每个名字都像播音员一样完美。",
+    "source": "local OCR extraction round 80, DI vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-energy-environment-vocab",
+    "title": "DI 能源环境词要成组预热",
+    "keywords": [
+      "DI",
+      "能源",
+      "环境",
+      "词汇",
+      "图表",
+      "口语"
+    ],
+    "answer": "能源和环境类图表在 DI 里很常见。Sunny 会让学生成组预热相关词：燃料、可再生能源、水力发电、排放、温度、降水、海湾、空气和生物燃料。成组预热后，看到图表时能更快判断主题，也更容易自然说出关键词。",
+    "source": "local OCR extraction round 80, DI vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-unit-label-pronunciation",
+    "title": "DI 单位标签也要会读",
+    "keywords": [
+      "DI",
+      "单位",
+      "标签",
+      "图表",
+      "发音",
+      "口语"
+    ],
+    "answer": "DI 不能只练大词，单位和标签也要会读。Sunny 会让学生把 percentage、temperature、emission、barrel、depth、quarter 这类图表词放进短句练。单位标签读顺了，报数字和比较趋势时会自然很多。",
+    "source": "local OCR extraction round 80, DI vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-wordlist-filter-by-task",
+    "title": "阅读写作词表要按任务筛选",
+    "keywords": [
+      "阅读写作",
+      "词表",
+      "任务筛选",
+      "FIB",
+      "WE",
+      "SWT"
+    ],
+    "answer": "一张大词表不能平均背。Sunny 会按任务筛选：FIB 重点看词性和搭配，SWT 重点看概括和连接，WE 重点看能主动使用的学术词。词表服务题型，而不是题型围着词表转。每次复习都要问：这个词会在哪类题里帮我得分？",
+    "source": "local OCR extraction round 80, reading-writing vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-vocab-cluster-business-science",
+    "title": "阅读写作词汇按商业和科学主题分簇",
+    "keywords": [
+      "阅读写作",
+      "主题词",
+      "商业",
+      "科学",
+      "词汇",
+      "PTE"
+    ],
+    "answer": "Sunny 会把阅读写作词汇按主题分簇，例如商业经济、自然科学、社会制度、健康医疗、艺术文化。每个主题都有常见名词、动词和形容词。按主题分簇能帮助学生在阅读时快速进入语境，在写作时也更容易找到相关表达。",
+    "source": "local OCR extraction round 80, reading-writing vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-collocation-before-synonym",
+    "title": "WE 替换词前先检查搭配",
+    "keywords": [
+      "WE",
+      "替换词",
+      "搭配",
+      "近义词",
+      "写作",
+      "准确性"
+    ],
+    "answer": "WE 里想替换一个词，Sunny 会先检查它能不能和前后词搭配。近义词意思相近，但常接的介词、宾语和语气可能不同。替换前先把短语读一遍，看是否像自然英文。搭配通顺，再考虑多样性。",
+    "source": "local OCR extraction round 80, WE vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-vocab-card-four-fields",
+    "title": "词汇卡片至少写四项",
+    "keywords": [
+      "词汇卡",
+      "词性",
+      "发音",
+      "搭配",
+      "例句",
+      "复习"
+    ],
+    "answer": "Sunny 的词汇卡片至少写四项：发音和重音、词性、常见搭配、自己的例句。只写中文意思，通常只能帮助识别，不能帮助输出。四项都补齐后，这个词才更可能进入听说读写的真实使用。",
+    "source": "local OCR extraction round 80, vocabulary review notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
