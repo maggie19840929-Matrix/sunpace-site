@@ -20849,5 +20849,261 @@
     "source": "local OCR extraction round 82, grammar foundation notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-topic-bank-group-by-domain",
+    "title": "SWT 题库复习先按主题分组",
+    "keywords": [
+      "SWT",
+      "题库",
+      "主题分组",
+      "复习",
+      "概括",
+      "阅读"
+    ],
+    "answer": "SWT 题库数量多时，Sunny 会先按主题分组，而不是按文件顺序硬刷。科技、环境、教育、健康、历史、社会问题等主题各有常见逻辑。按主题复习能帮助学生更快识别文章主线，也能积累同一领域的概括词。",
+    "source": "local OCR extraction round 83, SWT topic-bank notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-high-frequency-not-memorization",
+    "title": "SWT 高频题不能只背答案",
+    "keywords": [
+      "SWT",
+      "高频题",
+      "机经",
+      "背诵",
+      "概括",
+      "方法"
+    ],
+    "answer": "SWT 高频材料可以帮助熟悉主题，但 Sunny 不建议只背固定答案。考试文本可能改写、删减或换角度。更稳的做法是记住主题逻辑、关键词关系和一句话压缩方法。这样即使遇到变体，也能现场重新组织。",
+    "source": "local OCR extraction round 83, SWT topic-bank notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-main-actor-action-first",
+    "title": "SWT 先抓主角和动作",
+    "keywords": [
+      "SWT",
+      "主旨",
+      "主语",
+      "动作",
+      "概括",
+      "阅读"
+    ],
+    "answer": "SWT 第一遍不要急着抄细节。Sunny 会让学生先找文章主角是谁，它发生了什么变化、采取了什么行动或带来什么影响。主角和动作确定后，再挑原因、结果或对比信息。主干稳，一句话才不会散。",
+    "source": "local OCR extraction round 83, SWT summary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-prioritize-cause-effect",
+    "title": "SWT 优先保留因果结果",
+    "keywords": [
+      "SWT",
+      "因果",
+      "结果",
+      "细节筛选",
+      "概括",
+      "写作"
+    ],
+    "answer": "SWT 字数有限，不能平均保留所有信息。Sunny 会优先保留因果和结果，因为它们最能解释文章为什么重要。背景、举例和数字只有在支撑主线时才写。看到一串细节时，先问它们共同指向什么结果。",
+    "source": "local OCR extraction round 83, SWT detail-selection notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-one-main-clause-rule",
+    "title": "SWT 一句概括要有一个清楚主句",
+    "keywords": [
+      "SWT",
+      "主句",
+      "句法",
+      "概括",
+      "语法",
+      "写作"
+    ],
+    "answer": "SWT 虽然只能写一句，但这句话必须有清楚主句。Sunny 会让学生先写出主语和谓语，再添加定语、原因、结果或伴随信息。不要先堆修饰语，否则句子容易变长却没有核心判断。",
+    "source": "local OCR extraction round 83, SWT sentence-control notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-avoid-proper-noun-overload",
+    "title": "SWT 不要塞满专有名词",
+    "keywords": [
+      "SWT",
+      "专有名词",
+      "细节",
+      "概括",
+      "阅读",
+      "写作"
+    ],
+    "answer": "SWT 里人物、地点、机构和年代可能很多，但不代表都要写。Sunny 会让学生只保留对主线有必要的名称，其余可以概括成研究者、地区、群体、政策或技术。专有名词太多会挤掉真正的逻辑关系。",
+    "source": "local OCR extraction round 83, SWT detail-selection notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-compression-grammar-check",
+    "title": "SWT 压缩后必须做语法检查",
+    "keywords": [
+      "SWT",
+      "语法检查",
+      "主谓",
+      "标点",
+      "概括",
+      "写作"
+    ],
+    "answer": "SWT 最大风险之一是压缩过度后句子不完整。Sunny 会让学生提交前检查三点：有没有主谓，连接方式是否正确，逗号和连词有没有制造断句错误。语法完整比多塞一个细节更重要。",
+    "source": "local OCR extraction round 83, SWT editing notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-sample-to-rule-review",
+    "title": "SWT 范文复盘要抽规则",
+    "keywords": [
+      "SWT",
+      "范文",
+      "复盘",
+      "规则",
+      "概括",
+      "训练"
+    ],
+    "answer": "看 SWT 范文时，Sunny 不让学生只记那一句答案，而是反推它用了什么规则：保留了哪条主线，删掉了哪些细节，用了什么从句或并列结构。每篇范文都要转成可迁移规则，下一篇才用得上。",
+    "source": "local OCR extraction round 83, SWT sample-review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-education-topic-two-value-lines",
+    "title": "教育类 WE 可先拆两条价值线",
+    "keywords": [
+      "WE",
+      "教育类",
+      "论点",
+      "学业",
+      "健康",
+      "写作"
+    ],
+    "answer": "教育类 WE 题常同时涉及学业结果和身心发展。Sunny 会让学生先拆两条价值线：一条看成绩、基础知识和未来机会，另一条看健康、情绪、社交和长期习惯。价值线拆清楚，立场才不容易单薄。",
+    "source": "local OCR extraction round 84, WE education-topic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-curriculum-cost-benefit",
+    "title": "课程设置题要写成本和收益",
+    "keywords": [
+      "WE",
+      "课程设置",
+      "成本收益",
+      "教育",
+      "论证",
+      "写作"
+    ],
+    "answer": "遇到学校是否应该增加某类课程，Sunny 会让学生同时写收益和成本。收益可以是文化理解、审美、历史意识或综合发展；成本则可能是时间压力、核心学科被挤压和学习负担。成本收益都写到，答案会更成熟。",
+    "source": "local OCR extraction round 84, WE curriculum-topic notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-relative-clause-background",
+    "title": "SWT 定语从句适合压缩背景",
+    "keywords": [
+      "SWT",
+      "定语从句",
+      "背景信息",
+      "人物",
+      "概括",
+      "语法"
+    ],
+    "answer": "SWT 中如果人物、群体或概念需要简短说明，Sunny 会让学生用一个定语从句压缩背景。重点是说明身份或关键变化，不要把整段历史塞进去。背景从句要服务主句，而不是抢走主句位置。",
+    "source": "local OCR extraction round 84, SWT relative-clause notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-participle-phrase-for-status",
+    "title": "SWT 分词结构可补充状态",
+    "keywords": [
+      "SWT",
+      "分词结构",
+      "伴随状态",
+      "句法压缩",
+      "概括",
+      "写作"
+    ],
+    "answer": "SWT 需要压缩职业、状态或同时发生的信息时，Sunny 会让学生谨慎使用分词结构。它适合补充状态，但不能替代主句。使用前要确认逻辑主语一致，否则句子会显得漂亮却不准确。",
+    "source": "local OCR extraction round 84, SWT sentence-compression notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-negative-correlation-expression",
+    "title": "SWT 可用负相关表达压缩变化",
+    "keywords": [
+      "SWT",
+      "负相关",
+      "变化",
+      "对比",
+      "概括",
+      "写作"
+    ],
+    "answer": "当原文说一个活动增加、另一个活动减少时，Sunny 会让学生用负相关或反向变化来概括。这样比逐句复述更简洁。写之前要确认两者确实有对应关系，否则会把并列事实误写成因果或相关。",
+    "source": "local OCR extraction round 84, SWT contrast notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-multi-factor-trend-compression",
+    "title": "SWT 多因素趋势要合并成类别",
+    "keywords": [
+      "SWT",
+      "多因素",
+      "趋势",
+      "类别",
+      "概括",
+      "写作"
+    ],
+    "answer": "SWT 文章如果列出很多推动因素，Sunny 会让学生先归类，再写一句总结。交通、通信、政策、文化和经济因素可以归成更大的原因组。把因素合并成类别，句子会短很多，也更像概括而不是清单。",
+    "source": "local OCR extraction round 84, SWT trend notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-version-deduplicate-by-topic",
+    "title": "SWT 多版本资料按主题去重",
+    "keywords": [
+      "SWT",
+      "资料管理",
+      "去重",
+      "版本",
+      "主题",
+      "复习"
+    ],
+    "answer": "SWT 资料常有不同月份或不同版本。Sunny 会按主题和核心段落去重，而不是看到新版本就从头背。重复主题只补差异：新增角度、不同主线或更好的压缩句。这样能减少无效复习时间。",
+    "source": "local OCR extraction round 84, SWT topic-bank notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-outline-only-low-confidence",
+    "title": "SWT 只有提纲的题要低置信处理",
+    "keywords": [
+      "SWT",
+      "提纲",
+      "低置信",
+      "题库",
+      "复习",
+      "概括"
+    ],
+    "answer": "如果 SWT 资料只有题目或提纲，没有完整文本，Sunny 会把它标成低置信素材。它可以用来熟悉话题和关键词，但不能直接当成可背答案。低置信素材要等完整文本出现后再补主线和句法压缩。",
+    "source": "local OCR extraction round 84, SWT topic-bank notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
