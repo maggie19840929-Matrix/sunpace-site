@@ -18289,5 +18289,261 @@
     "source": "local OCR extraction round 62, reading vocabulary notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-logic-review-not-full-memorization",
+    "title": "SST 逻辑速刷不能代替刷题",
+    "keywords": [
+      "SST",
+      "听力",
+      "逻辑复盘",
+      "高频题",
+      "刷题",
+      "备考"
+    ],
+    "answer": "SST 逻辑速刷适合考前快速熟悉常见话题和表达方向，但 Sunny 不会让学生只背整理好的逻辑。真正能提分的是先听音频、做笔记、写摘要，再用逻辑材料复盘自己漏了哪条主线。只背答案会让你看起来懂题，换个音频或细节就容易断。逻辑材料应该是复盘工具，不是替代训练。",
+    "source": "local OCR extraction round 63, SST practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-topic-bank-build-framework",
+    "title": "SST 高频话题库应该怎么用",
+    "keywords": [
+      "SST",
+      "话题库",
+      "听力",
+      "摘要",
+      "框架",
+      "复盘"
+    ],
+    "answer": "SST 高频话题库的价值是帮学生看到常见学术主题，比如社会、科技、经济、环境、历史和教育。Sunny 会让学生从每个话题里提炼框架：主题是什么、问题是什么、原因或影响是什么、结论是什么。不要把话题库当原文背诵清单，而要把它变成听新题时能快速归类的框架库。",
+    "source": "local OCR extraction round 63, SST topic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-chinese-logic-to-english-summary",
+    "title": "SST 可以先用中文理逻辑再写英文",
+    "keywords": [
+      "SST",
+      "中文逻辑",
+      "英文摘要",
+      "听力",
+      "结构",
+      "写作"
+    ],
+    "answer": "SST 复盘时，Sunny 允许学生先用中文说清逻辑，再转成英文摘要。这样做不是考试时写中文，而是训练大脑分清主线、例子和结论。中文逻辑清楚以后，再用简单英文句子表达，通常比直接套复杂句更稳。尤其是基础薄弱的学生，先理顺逻辑，再追求语言质量。",
+    "source": "local OCR extraction round 63, SST review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-sample-answer-after-own-draft",
+    "title": "SST 范文要在自己写完后再看",
+    "keywords": [
+      "SST",
+      "范文",
+      "复盘",
+      "摘要",
+      "听力笔记",
+      "训练顺序"
+    ],
+    "answer": "SST 练习顺序很重要。Sunny 会让学生先自己听、记、写，再看参考答案。提前看范文会让你误以为自己听懂了，其实只是看懂了文字。对照时重点看三件事：自己有没有抓到主题，关键因果有没有漏，句子是否在字数内表达清楚。范文是校准，不是第一步。",
+    "source": "local OCR extraction round 63, SST review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rs-topic-classification",
+    "title": "RS 可以按话题分类练",
+    "keywords": [
+      "RS",
+      "Repeat Sentence",
+      "话题分类",
+      "听力",
+      "口语",
+      "句子结构"
+    ],
+    "answer": "RS 不是只靠瞬时记忆。Sunny 会把句子按学习、工作、生活、科学、国家、环境、经济等话题分类练，因为同一话题常有相似背景词和句型。分类练习能帮学生提前建立语义场，听到句子时更容易预测后面的内容。分类不是为了背原句，而是为了提高反应速度。",
+    "source": "local OCR extraction round 63, RS topic notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rs-slash-structure-before-shadowing",
+    "title": "RS 跟读前先切结构",
+    "keywords": [
+      "RS",
+      "句子结构",
+      "意群",
+      "跟读",
+      "听力",
+      "口语"
+    ],
+    "answer": "RS 练习不要一上来就跟着音频硬追。Sunny 会先让学生把句子切成 2 到 4 个意群，听的时候按块接收，复述时也按块输出。长句尤其要找主干、地点时间和补充信息。结构切开以后，哪怕不能逐字复述，也更容易保住核心内容和自然语序。",
+    "source": "local OCR extraction round 63, RS structure notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rs-meaning-anchor-not-translation",
+    "title": "RS 翻译只做意思锚点",
+    "keywords": [
+      "RS",
+      "翻译",
+      "意思锚点",
+      "听力",
+      "记忆",
+      "复述"
+    ],
+    "answer": "RS 材料里看到中文意思时，Sunny 会提醒学生别逐字翻译回英文。中文只用来建立意思锚点：这句话讲学习要求、实验安全、课程安排，还是研究发现。真正复述时仍然要靠英文声音、意群和关键词。把中文当辅助理解可以，拿中文倒推原句会拖慢反应。",
+    "source": "local OCR extraction round 63, RS review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rs-topic-words-preload",
+    "title": "RS 话题词可以提前预热",
+    "keywords": [
+      "RS",
+      "话题词",
+      "预热",
+      "听力",
+      "口语",
+      "词汇"
+    ],
+    "answer": "RS 分类练习前，Sunny 会让学生先预热该话题的常见词，比如校园、实验、研究、服务、环境或经济类词。预热不是背整句，而是让耳朵对可能出现的词更敏感。听到熟悉话题词时，短时记忆负担会下降，学生能把更多注意力留给句子顺序和小词。",
+    "source": "local OCR extraction round 63, RS topic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-vocab-per-question",
+    "title": "FIBRW 生词要按题目场景整理",
+    "keywords": [
+      "FIBRW",
+      "阅读写作填空",
+      "生词",
+      "题目场景",
+      "搭配",
+      "复盘"
+    ],
+    "answer": "FIBRW 的生词表不要打散成普通词汇书。Sunny 会让学生按题目场景整理：这题讲建筑、生物、课程、语言、广告还是自然科学。每个词都和原来的上下文、词性和搭配放在一起。这样下次遇到相似主题时，学生能调出整组语义，而不是孤立地回忆中文意思。",
+    "source": "local OCR extraction round 64, FIBRW vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-word-pos-collocation-context",
+    "title": "FIBRW 词汇卡要写四件事",
+    "keywords": [
+      "FIBRW",
+      "词汇卡",
+      "词性",
+      "固定搭配",
+      "上下文",
+      "阅读"
+    ],
+    "answer": "Sunny 的 FIBRW 词汇卡通常写四件事：单词或短语、词性、常见搭配、出现的题目语境。只写中文释义是不够的，因为填空真正需要判断词性和结构。复习时用这四项回忆，学生会更容易知道这个词能不能放进空格，而不是只知道它大概是什么意思。",
+    "source": "local OCR extraction round 64, FIBRW vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-long-short-prep",
+    "title": "FIBRW 长期备考和短期冲刺不同",
+    "keywords": [
+      "FIBRW",
+      "备考周期",
+      "长期积累",
+      "短期冲刺",
+      "词汇",
+      "固定搭配"
+    ],
+    "answer": "FIBRW 长期备考可以系统积累题目里的生词、难词和固定搭配；短期冲刺则要优先刷题，并把自己不会的词立刻整理出来。Sunny 不建议时间很紧时盲目补大词表。短期目标是提高命中率：常错词、常见搭配、词性判断和语境排除先补上。",
+    "source": "local OCR extraction round 64, FIBRW preparation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-proper-nouns-as-context",
+    "title": "FIBRW 里的专有名词多半是背景线索",
+    "keywords": [
+      "FIBRW",
+      "专有名词",
+      "背景线索",
+      "阅读",
+      "主题",
+      "填空"
+    ],
+    "answer": "FIBRW 里出现桥梁、地点、文明、机构或作品名时，Sunny 会让学生把它们当背景线索，不要把精力都花在拼读专有名词上。真正决定答案的通常是专有名词周围的动词、形容词、名词搭配和逻辑关系。先判断文章主题，再看空格结构，专有名词只负责帮你定位场景。",
+    "source": "local OCR extraction round 64, FIBRW vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-academic-verb-bank",
+    "title": "FIBRW 要单独整理学术动词",
+    "keywords": [
+      "FIBRW",
+      "学术动词",
+      "阅读",
+      "词汇",
+      "搭配",
+      "语义"
+    ],
+    "answer": "FIBRW 里很多关键答案是动词或动词短语。Sunny 会让学生单独整理表示变化、传播、依赖、突出、利用、扩展、刺激等含义的学术动词。整理时不要只写中文，要补它常接什么宾语或介词。学术动词一熟，阅读填空里的语义方向会清楚很多。",
+    "source": "local OCR extraction round 64, FIBRW vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-topic-cluster-review",
+    "title": "FIBRW 词汇复习按主题簇走",
+    "keywords": [
+      "FIBRW",
+      "主题簇",
+      "词汇复习",
+      "自然科学",
+      "社会科学",
+      "阅读"
+    ],
+    "answer": "Sunny 会把 FIBRW 词汇按主题簇复习，而不是按字母顺序。自然科学类常见物种、细胞、进化、能量；社会科学类常见研究、广告、语言、社区；教育类常见课程、模块、资格、服务。按主题簇复习能帮学生在阅读时更快进入语境，减少看到生词就慌的情况。",
+    "source": "local OCR extraction round 64, FIBRW vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-public-knowledge-rewrite-policy",
+    "title": "Sunny 为什么只给改写后的方法",
+    "keywords": [
+      "Sunny",
+      "知识库",
+      "改写",
+      "学习方法",
+      "PTE",
+      "资料使用"
+    ],
+    "answer": "Sunny 知识库不会直接发布第三方资料原文，而是把可用信息改写成 SunPace 自有方法。这样做有两个目的：一是保护来源内容，不让学生依赖逐字材料；二是把零散资料变成能执行的练习步骤。学生真正需要的不是原文堆叠，而是知道该怎么练、怎么复盘、怎么迁移到新题。",
+    "source": "local OCR extraction round 64, public knowledge policy notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-rs-topic-bank-common-use",
+    "title": "SST 和 RS 话题库都要服务新题",
+    "keywords": [
+      "SST",
+      "RS",
+      "话题库",
+      "新题",
+      "迁移",
+      "备考"
+    ],
+    "answer": "SST 和 RS 的话题库看起来一个偏听写摘要，一个偏短句复述，但 Sunny 使用它们的原则一致：熟悉常见话题、建立语义预期、训练迁移到新题。不要把话题库变成背答案任务。每次练完都问自己：这类话题有什么常见词、常见结构、常见逻辑？这才是能带进考场的能力。",
+    "source": "local OCR extraction round 64, SST and RS topic notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
