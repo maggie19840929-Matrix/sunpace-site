@@ -19313,5 +19313,261 @@
     "source": "local OCR extraction round 70, ASQ priority notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-rl-content-ratio-over-template",
+    "title": "DI/RL 里有效内容要多于模板",
+    "keywords": [
+      "DI",
+      "RL",
+      "模板",
+      "内容覆盖",
+      "口语",
+      "自然表达"
+    ],
+    "answer": "DI 和 RL 可以准备框架，但 Sunny 会把有效内容比例放在模板前面。每句话都像固定句型循环，容易显得机械；真正要覆盖的是题目里的主要对象、关系、趋势、原因或例子。框架只是帮你组织，不应该替代题目信息。练习时可以数一数：你说的话里有多少是具体内容，多少只是套话。",
+    "source": "local OCR extraction round 71, DI/RL framework notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-rl-natural-pause",
+    "title": "DI/RL 不要为了塞内容说太快",
+    "keywords": [
+      "DI",
+      "RL",
+      "语速",
+      "停顿",
+      "流利度",
+      "口语"
+    ],
+    "answer": "DI/RL 要有自然交流感。Sunny 会提醒学生不要为了塞进更多内容而说太快，造成回读、卡顿或逻辑断裂。30 到 40 秒内说清主线，比 40 秒里堆满重复模板更好。自然停顿不是扣分点，只要停顿位置合理、后面能继续输出，整体流利度仍然可以保持。",
+    "source": "local OCR extraction round 71, DI/RL framework notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-chart-first-sentence-topic-time",
+    "title": "DI 图表第一句先交代主题和时间",
+    "keywords": [
+      "DI",
+      "图表",
+      "第一句",
+      "主题",
+      "时间",
+      "口语"
+    ],
+    "answer": "DI 数据图第一句要让听者知道图表在讲什么。Sunny 会让学生先说图表类型、主题和时间范围；如果图中没有时间，就不要硬加。第一句清楚以后，后面再补轴线、类别、最大值或显著变化。开头不要泛泛说图片很有用，要直接进入题目信息。",
+    "source": "local OCR extraction round 71, DI chart notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-axis-before-number",
+    "title": "DI 报数字前先说轴线含义",
+    "keywords": [
+      "DI",
+      "坐标轴",
+      "数字",
+      "图表",
+      "单位",
+      "口语"
+    ],
+    "answer": "DI 数据图不要一上来只报最大值。Sunny 会先让学生确认横轴、纵轴、类别和单位。知道数字代表人数、比例、年份还是金额后，再说最大值、第二大值或变化趋势。轴线没说清，数字就容易变成孤立信息，听起来不完整。",
+    "source": "local OCR extraction round 71, DI chart notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-maximum-only-when-logical",
+    "title": "DI 最大值不是每张图都必须说",
+    "keywords": [
+      "DI",
+      "最大值",
+      "图表",
+      "趋势",
+      "内容选择",
+      "口语"
+    ],
+    "answer": "很多 DI 图可以说最大值，但 Sunny 不会让学生机械套“最大值最小值”。流程图、地图、图片题或信息关系图，重点可能不是数值，而是步骤、位置或功能。先判断题型，再决定说趋势、对比、步骤还是特点。选错信息类型，比少说一个数字更影响内容质量。",
+    "source": "local OCR extraction round 71, DI/RL framework notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rl-framework-flexible-sentences",
+    "title": "RL 框架句要能灵活替换",
+    "keywords": [
+      "RL",
+      "框架",
+      "灵活表达",
+      "复述",
+      "听力",
+      "口语"
+    ],
+    "answer": "RL 框架不是固定背诵文本。Sunny 会让学生准备几组可替换主干句，用来表达主题、分点、例子和结论。不同讲座内容不同，句子也要跟着调整。能灵活换词、换顺序、换连接方式，才说明你在复述内容，而不是把同一段话套在所有题上。",
+    "source": "local OCR extraction round 71, DI/RL framework notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-number-three-digit-grouping",
+    "title": "英文大数字先按三位分组",
+    "keywords": [
+      "数字反应",
+      "听力",
+      "大数字",
+      "million",
+      "billion",
+      "PTE"
+    ],
+    "answer": "英文大数字的反应核心是三位分组。Sunny 会让学生先按 thousand、million、billion 听出段落，再写成阿拉伯数字，而不是马上换算成中文万亿体系。先保住英语数字结构，最后再根据需要转换。这样听力里遇到长数字时，反应会快很多。",
+    "source": "local OCR extraction round 71, number-reaction notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-number-sound-to-arabic-first",
+    "title": "听数字先转阿拉伯数字",
+    "keywords": [
+      "数字反应",
+      "听力",
+      "阿拉伯数字",
+      "笔记",
+      "WFD",
+      "DI"
+    ],
+    "answer": "听到英文数字时，Sunny 会让学生先形成阿拉伯数字图像。比如听到 million、billion 或 point，不急着翻译成中文，而是先写出数字串和小数点位置。阿拉伯数字是最简明的中转站，能减少听力反应时间，也方便后续在 DI、SST 或听力题里引用。",
+    "source": "local OCR extraction round 71, number-reaction notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-number-decimal-fraction-variants",
+    "title": "小数和分数表达要做同义反应",
+    "keywords": [
+      "数字反应",
+      "小数",
+      "分数",
+      "听力",
+      "point",
+      "one-third"
+    ],
+    "answer": "数字训练不能只练整数。Sunny 会让学生单独练小数、分数和比例表达，比如 point、nought point、one out of three、one in every three 这类说法。听力里同一个比例可能换不同表达，只有建立同义反应，才不容易因为形式变化而漏听。",
+    "source": "local OCR extraction round 72, number-reaction notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-number-visual-scan-training",
+    "title": "数字反应用扫视训练提升",
+    "keywords": [
+      "数字反应",
+      "扫视训练",
+      "短时记忆",
+      "听说",
+      "PTE",
+      "口语"
+    ],
+    "answer": "Sunny 会用扫视训练提升数字反应：眼睛快速扫过一串数字，立刻移开，再尽量完整读出来。这个训练能强化短时记忆和数字分组能力。练到后面，三位、六位、九位数字都能更快转成英语表达，听力和口语里的数字都会更稳。",
+    "source": "local OCR extraction round 72, number-reaction notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-collocation-component-pair",
+    "title": "学术搭配要按两个组件一起记",
+    "keywords": [
+      "学术搭配",
+      "词汇",
+      "Component",
+      "FIB",
+      "写作",
+      "阅读"
+    ],
+    "answer": "学术搭配不能只背单个词。Sunny 会让学生把两个组件一起记，比如形容词加名词、动词加名词、副词加形容词。真正做 FIB 或写作时，考的往往是这个词和谁自然搭配。单词认识但搭配不熟，还是容易选错或写得不地道。",
+    "source": "local OCR extraction round 72, academic collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-collocation-pos-classification",
+    "title": "搭配表要按词性分类记",
+    "keywords": [
+      "学术搭配",
+      "词性",
+      "FIB",
+      "写作",
+      "阅读",
+      "词汇"
+    ],
+    "answer": "搭配表里的词性信息很有用。Sunny 会让学生按形容词加名词、动词加名词、副词加分词等类型整理。分类后，看到空格前是形容词，就会期待后面名词；看到动词，就会想它常接什么宾语。词性分类能把词汇记忆变成做题线索。",
+    "source": "local OCR extraction round 72, academic collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-collocation-academic-word-family",
+    "title": "academic 这类高频词要做词族搭配",
+    "keywords": [
+      "学术词汇",
+      "academic",
+      "词族",
+      "搭配",
+      "写作",
+      "阅读"
+    ],
+    "answer": "academic 这类高频词不要只记一个意思。Sunny 会让学生做词族搭配：学术研究、学术写作、学术机构、学术成就、学术讨论等。一个核心词和不同名词搭配，会覆盖多个考试场景。这样复习比只背“学术的”更能迁移到阅读和写作。",
+    "source": "local OCR extraction round 72, academic collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-collocation-writing-upgrade",
+    "title": "写作提分可以从搭配升级开始",
+    "keywords": [
+      "写作",
+      "学术搭配",
+      "WE",
+      "SWT",
+      "词汇升级",
+      "自然表达"
+    ],
+    "answer": "写作升级不一定先追求罕见词。Sunny 会让学生先把常见搭配写自然，比如 achieve a goal、acquire knowledge、accept responsibility、accurate information。搭配准确，文章会更像学术英语；单词很难但搭配别扭，反而不稳定。",
+    "source": "local OCR extraction round 72, academic collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-number-training-connection",
+    "title": "数字训练能直接服务 DI",
+    "keywords": [
+      "DI",
+      "数字反应",
+      "图表",
+      "口语",
+      "坐标轴",
+      "数据"
+    ],
+    "answer": "DI 数据图需要快速读数、说数和比较数。Sunny 会把数字反应训练和 DI 放在一起练：先扫数字，快速说出英文；再放进图表句子里表达最大值、第二大值、比例或变化。数字反应越快，DI 准备时间里能留给内容选择的空间越多。",
+    "source": "local OCR extraction round 72, DI and number-reaction notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-collocation-reading-fib-bridge",
+    "title": "学术搭配能直接迁移到阅读 FIB",
+    "keywords": [
+      "学术搭配",
+      "FIB",
+      "阅读",
+      "词汇",
+      "搭配",
+      "迁移"
+    ],
+    "answer": "学术搭配表不只是写作用。Sunny 会让学生把搭配迁移到阅读 FIB：看到空格前后的词，就判断它们是否组成常见学术搭配。比如形容词后期待名词，动词后期待合适宾语，副词后期待形容词或分词。搭配越熟，阅读填空越不需要完全靠猜词义。",
+    "source": "local OCR extraction round 72, academic collocation notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
