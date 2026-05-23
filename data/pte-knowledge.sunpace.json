@@ -20593,5 +20593,261 @@
     "source": "local OCR extraction round 80, vocabulary review notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-coherence-whole-essay-role",
+    "title": "WE 连贯性先看全文分工",
+    "keywords": [
+      "WE",
+      "连贯性",
+      "作文结构",
+      "段落功能",
+      "写作",
+      "评分"
+    ],
+    "answer": "WE 的连贯性不是多放连接词，而是全文每一段都有清楚分工。Sunny 会先让学生确认开头负责改写题目和立场，主体段负责展开理由和证据，结尾负责收束答案。段落功能清楚后，读者才能顺着文章走。",
+    "source": "local OCR extraction round 81, WE coherence notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-paragraph-sentence-function",
+    "title": "WE 每句话都要有段内作用",
+    "keywords": [
+      "WE",
+      "段落结构",
+      "句子功能",
+      "观点",
+      "例子",
+      "结论"
+    ],
+    "answer": "Sunny 会把 WE 主体段拆成句子功能：观点、解释、例子、讨论和小结。学生写完一段后，要能说出每句话为什么存在。如果某句话既不推进观点，也不解释证据，就应该删掉或合并。",
+    "source": "local OCR extraction round 81, WE paragraph notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-connectors-serve-logic",
+    "title": "连接词要服务真实逻辑",
+    "keywords": [
+      "WE",
+      "连接词",
+      "逻辑",
+      "however",
+      "therefore",
+      "写作"
+    ],
+    "answer": "WE 里连接词只负责标明真实逻辑，不负责制造逻辑。Sunny 会让学生先判断两句话是转折、递进、因果还是举例，再选择连接方式。如果前后关系本来不清楚，硬加 however 或 therefore 反而会暴露结构问题。",
+    "source": "local OCR extraction round 81, WE cohesion notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-avoid-idiom-colloquial-risk",
+    "title": "WE 少用谚语和口语化表达",
+    "keywords": [
+      "WE",
+      "正式文体",
+      "谚语",
+      "口语化",
+      "写作",
+      "written discourse"
+    ],
+    "answer": "WE 要优先稳定、正式、清楚。Sunny 通常不建议学生为了显得地道而使用谚语、俚语或过口语的表达，因为这些内容容易偏离学术文体。安全的高分路径是自然搭配、清晰论证和统一语气。",
+    "source": "local OCR extraction round 81, WE vocabulary style notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-complex-sentence-mix-control",
+    "title": "复杂句要和简单句搭配使用",
+    "keywords": [
+      "WE",
+      "复杂句",
+      "简单句",
+      "语法",
+      "句式",
+      "写作"
+    ],
+    "answer": "WE 不需要每一句都写成长难句。Sunny 会让学生用简单句保证清楚，用复合句表达原因、让步、条件和补充信息。句式组合的目标是可读性和控制力，而不是把所有从句塞进一篇文章。",
+    "source": "local OCR extraction round 81, WE grammar notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-form-word-count-band",
+    "title": "WE 字数先落在安全区间",
+    "keywords": [
+      "WE",
+      "字数",
+      "form",
+      "写作",
+      "时间管理",
+      "考试"
+    ],
+    "answer": "WE 的字数属于基础分，但不能忽视。Sunny 会让学生先稳定写到安全区间，再追求更充分的论证。字数太少会让观点展开不足，字数过多会挤压检查时间。对大多数学生来说，稳定、完整、可检查比盲目写长更重要。",
+    "source": "local OCR extraction round 81, WE form notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-spelling-low-tolerance",
+    "title": "WE 拼写错误容错很低",
+    "keywords": [
+      "WE",
+      "拼写",
+      "检查",
+      "写作",
+      "自动纠错",
+      "扣分"
+    ],
+    "answer": "WE 拼写问题往往不是小事。Sunny 会让学生在训练时关闭输入辅助，养成自己检查名词复数、动词形式、常见学术词和连接词拼写的习惯。写作最后一分钟优先查拼写和标点，比临时再加一句更有价值。",
+    "source": "local OCR extraction round 81, WE spelling notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-written-discourse-formal-style",
+    "title": "WE 书面文体要保持正式统一",
+    "keywords": [
+      "WE",
+      "written discourse",
+      "正式文体",
+      "缩写",
+      "语气",
+      "写作"
+    ],
+    "answer": "WE 的 written discourse 看的是文章是否像正式书面表达。Sunny 会提醒学生避免缩写、聊天语气和过度主观的口头表达。全文语气要一致，句子之间要自然衔接，让评分系统和读者都能看出这是完整的学术短文。",
+    "source": "local OCR extraction round 81, WE written discourse notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-agree-disagree-opening-two-jobs",
+    "title": "同意题开头只做两件事",
+    "keywords": [
+      "WE",
+      "agree disagree",
+      "开头段",
+      "背景",
+      "立场",
+      "写作"
+    ],
+    "answer": "agree/disagree 题的开头不需要复杂。Sunny 会让学生只完成两件事：用自己的话交代题目背景，并明确自己的立场。背景句不要展开论证，立场句不要含糊。开头越清楚，主体段越容易沿着一个方向写下去。",
+    "source": "local OCR extraction round 82, WE opinion essay notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-concession-paragraph-one-three",
+    "title": "让步段可用一观点三支撑",
+    "keywords": [
+      "WE",
+      "让步段",
+      "段落结构",
+      "解释",
+      "例子",
+      "结果"
+    ],
+    "answer": "让步段不是简单说“对方也有道理”。Sunny 会让学生写成一观点三支撑：先承认对方合理点，再解释原因、给一个简短例子，最后说明它能带来的结果。这样让步段有内容，但不会抢走自己主立场的重心。",
+    "source": "local OCR extraction round 82, WE concession notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-own-view-paragraph-evidence-chain",
+    "title": "自己观点段要形成证据链",
+    "keywords": [
+      "WE",
+      "主体段",
+      "证据链",
+      "例子",
+      "讨论",
+      "结论"
+    ],
+    "answer": "自己观点段要比让步段更有力。Sunny 会让学生按观点、例子、讨论、结果的顺序写，确保每一步都回到题目立场。例子不能孤立存在，后面必须解释它如何证明观点。证据链完整，文章才不只是素材陈列。",
+    "source": "local OCR extraction round 82, WE body paragraph notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-one-sentence-two-effects",
+    "title": "SWT 一句话可压缩两类影响",
+    "keywords": [
+      "SWT",
+      "概括",
+      "一句话",
+      "主干",
+      "影响",
+      "写作"
+    ],
+    "answer": "SWT 经常需要把多段内容压缩进一句完整句。Sunny 会让学生先找中心行为，再选两个最重要影响或结果，用并列、从句或介词短语合并。不要逐点搬运原文细节，重点是让一句话覆盖主旨和关键关系。",
+    "source": "local OCR extraction round 82, SWT summary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-use-relative-clauses-carefully",
+    "title": "SWT 定语从句要少而准",
+    "keywords": [
+      "SWT",
+      "定语从句",
+      "which",
+      "who",
+      "概括",
+      "语法"
+    ],
+    "answer": "SWT 可以用定语从句压缩信息，但 Sunny 会要求少而准。先确定被修饰对象，再补充最关键的身份、作用或后果。不要连续套从句，避免主干被埋掉。一个清楚的定语从句，胜过多个难以读完的修饰块。",
+    "source": "local OCR extraction round 82, SWT grammar notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-while-for-contrast",
+    "title": "SWT 可用对比结构合并信息",
+    "keywords": [
+      "SWT",
+      "对比",
+      "while",
+      "概括",
+      "连接",
+      "写作"
+    ],
+    "answer": "当原文比较两类对象、两种影响或两种立场时，Sunny 会让学生考虑用对比结构合并。关键是先确认两边是否真的形成对比，再用清楚的句子呈现。对比结构能节省字数，但不能把无关信息硬拉到一起。",
+    "source": "local OCR extraction round 82, SWT contrast notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-cause-result-compression",
+    "title": "SWT 因果链要压成主线",
+    "keywords": [
+      "SWT",
+      "因果",
+      "概括",
+      "结果",
+      "主线",
+      "写作"
+    ],
+    "answer": "SWT 里遇到原因、过程和结果时，Sunny 会让学生压成一条主线：什么因素导致什么变化，最后产生什么影响。不要把所有背景都写进去。因果关系清楚，比词数用满更重要。",
+    "source": "local OCR extraction round 82, SWT cause-result notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-grammar-terms-map-to-functions",
+    "title": "语法术语要映射到考试功能",
+    "keywords": [
+      "语法",
+      "从句",
+      "不定式",
+      "补语",
+      "PTE",
+      "基础"
+    ],
+    "answer": "语法复习不必被术语困住。Sunny 会把术语映射到考试功能：从句帮助补充原因、条件和让步，不定式帮助表达目的，补语帮助说明状态。学生能在写作和口语里用出来，才说明语法真正进入能力层。",
+    "source": "local OCR extraction round 82, grammar foundation notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
