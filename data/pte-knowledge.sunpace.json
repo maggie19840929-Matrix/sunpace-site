@@ -17520,5 +17520,262 @@
     "source": "local PDF extraction round 56, SST keyword map",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-affix-guess-then-verify",
+    "title": "词根词缀猜词后还要做什么",
+    "keywords": [
+      "词根",
+      "词缀",
+      "猜词",
+      "阅读",
+      "FIB",
+      "词汇"
+    ],
+    "answer": "词根词缀只能帮你先猜方向，不能直接替你选答案。Sunny 会让学生做两步：先用前缀、词根、后缀判断大概含义和词性，再回到句子里验证主谓宾、搭配和语气是否匹配。比如看到表示否定、远离、加强或反复的前缀，可以先排除明显不合逻辑的选项；但最后仍要看空格附近的介词、名词和句子意义。猜词是起点，语境验证才是得分动作。",
+    "source": "local PDF extraction round 57, affix vocabulary",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-word-family-card",
+    "title": "词汇卡片为什么要写词族",
+    "keywords": [
+      "词族",
+      "词性",
+      "后缀",
+      "FIB",
+      "写作",
+      "词汇"
+    ],
+    "answer": "Sunny 不建议只把一个生词写成“英文=中文”。更好的卡片要包括词族：名词、动词、形容词、副词，以及常见后缀变化。阅读 FIB 里，空格常常不是考你认不认识这个概念，而是考你能不能判断这里需要名词还是形容词；写作里，也常因为词性用错导致句子别扭。一个词族卡片能同时服务阅读、写作和听力拼写。",
+    "source": "local PDF extraction round 57, affix vocabulary",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-synonym-group-three-checks",
+    "title": "同义词组复习要问哪三件事",
+    "keywords": [
+      "同义词",
+      "近义词",
+      "阅读",
+      "FIB",
+      "语气",
+      "搭配"
+    ],
+    "answer": "复习同义词组时，Sunny 会让学生问三件事：这个词常和什么对象搭配；它更偏具体动作还是抽象含义；语气是普通、中性、正式还是强烈。很多词中文都像“提高、限制、影响、喜欢”，但选项里只有一个能自然接后面的名词或介词。做 FIB 时先别急着翻译选项，先看空格前后的搭配位置，再用语气和对象缩小范围。",
+    "source": "local PDF extraction round 57, confusable vocabulary",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-collocation-adj-noun-verb-noun-pattern",
+    "title": "搭配表要按什么结构记",
+    "keywords": [
+      "搭配",
+      "Academic Collocation",
+      "写作",
+      "FIB",
+      "词汇",
+      "语法"
+    ],
+    "answer": "搭配表不要按字母顺序硬背。Sunny 会让学生按结构分组：形容词加名词、动词加名词、副词加形容词、介词短语。这样背的好处是，写作时知道哪个动词能接 goal、evidence、responsibility；阅读填空时也能判断空格前后是否组成自然搭配。搭配训练的目标不是记最多短语，而是让你看到空格或写句子时，能快速选出自然组合。",
+    "source": "local PDF extraction round 57, academic collocations",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-academic-word-list-active-vs-passive",
+    "title": "学术词表哪些词要会写出来",
+    "keywords": [
+      "Academic Word List",
+      "学术词汇",
+      "写作",
+      "SWT",
+      "WE",
+      "词汇"
+    ],
+    "answer": "学术词表不需要每个词都变成写作主动词汇。Sunny 会分成两层：阅读和听力里先做到看懂、听到能认；写作里只挑一部分高频、安全、搭配清楚的词主动使用。比如 analysis、evidence、policy、significant 这类词要会放进句子；太生僻或搭配不熟的词，先不要硬塞进 WE。被动词汇扩大理解，主动词汇负责稳定输出。",
+    "source": "local PDF extraction round 57, academic word list",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-final-plosive-light-release",
+    "title": "RA 里词尾爆破音要不要读很重",
+    "keywords": [
+      "RA",
+      "爆破音",
+      "词尾",
+      "连读",
+      "发音",
+      "口语"
+    ],
+    "answer": "词尾爆破音不需要炸出来，但也不能完全吞掉。Sunny 会让学生把 p、b、t、d、k、g 这类音练成“轻轻收住再走下一个词”。如果后面接辅音，可以有很轻的停顿；如果后面接元音，可以顺着连过去。RA 评分更怕卡顿、漏词和异常停顿，不是要求每个爆破音都喷得很重。清楚、自然、不断句，比用力更重要。",
+    "source": "local PDF extraction round 57, consonant pronunciation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-s-cluster-not-over-aspirate",
+    "title": "student、school 里的 t/k 为什么别读太重",
+    "keywords": [
+      "s cluster",
+      "student",
+      "school",
+      "辅音",
+      "发音",
+      "RA"
+    ],
+    "answer": "s 后面接 p、t、k 再接重读元音时，Sunny 会提醒学生不要把 p、t、k 读成很重的送气音。比如 student、school、speak 这类词，重点是顺滑连成一个辅音组合，不要在中间多加一个中文式停顿。练法很简单：先慢速读 s+t、s+k、s+p，再放进整句里读。能保持连续，RA 听起来会更自然。",
+    "source": "local PDF extraction round 57, consonant pronunciation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-fricatives-airflow-voice",
+    "title": "f/v、s/z、th 这类音怎么自查",
+    "keywords": [
+      "摩擦音",
+      "f",
+      "v",
+      "th",
+      "s",
+      "z",
+      "发音"
+    ],
+    "answer": "摩擦音自查看两个点：气流从哪里出来，声带有没有振动。Sunny 会让学生用最小对比练习，比如 f 和 v 都是唇齿音，但 v 有声带振动；s 和 z 口型相近，但 z 要带声音；th 音要注意舌尖位置，不要全部替换成 s 或 d。RA 里这些音不需要夸张，但要稳定，否则单词识别度会下降。",
+    "source": "local PDF extraction round 57, consonant pronunciation",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-account-email-keep-accessible",
+    "title": "报名邮箱为什么不能随便填",
+    "keywords": [
+      "报名",
+      "邮箱",
+      "账号",
+      "成绩单",
+      "考试通知",
+      "报考流程"
+    ],
+    "answer": "PTE 报名邮箱不是随便收验证码用的。Sunny 会提醒学生：这个邮箱会承接账号登录、考试确认、临时通知和成绩相关信息，必须是自己能长期登录、不会忘密码、不会被别人代管的邮箱。报名后要定期查收件箱和垃圾箱，尤其是考前几天。很多流程问题不是英语问题，而是邮箱、证件和账号信息没管好。",
+    "source": "local PDF extraction round 58, booking handbook",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-profile-id-match-before-payment",
+    "title": "付款前为什么要再核对个人信息",
+    "keywords": [
+      "报名",
+      "姓名",
+      "生日",
+      "证件",
+      "付款",
+      "考试流程"
+    ],
+    "answer": "付款前，Sunny 会让学生最后核对一次姓名、出生日期、证件类型和考试类型。报名系统里的信息要和考试当天携带的有效证件一致，尤其是名和姓的顺序、拼写、生日。不要觉得付完钱再改也来得及，很多错误会带来额外流程甚至影响入场。最稳的做法是：支付前停一分钟，把账号资料、考场、时间和考试类型全部看一遍。",
+    "source": "local PDF extraction round 58, booking handbook",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-core-daily-practice-three-pillars",
+    "title": "PTE Core 每天最不能断的是哪几项",
+    "keywords": [
+      "PTE Core",
+      "RA",
+      "RS",
+      "WFD",
+      "每日练习",
+      "学习计划"
+    ],
+    "answer": "PTE Core 备考里，Sunny 会把 RA、RS、WFD 当成最不能断的三项。RA 练稳定朗读和发音，RS 练听后短时记忆和口语输出，WFD 练听力、拼写和句子准确度。其他题型可以按阶段集中处理，但这三项最好每天小剂量坚持。哪怕只有 40 分钟，也可以 RA 10 分钟、RS 15 分钟、WFD 15 分钟，保持耳朵、嘴和拼写都在线。",
+    "source": "local PDF extraction round 58, PTE Core overview",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-method-tasks-vs-drill-tasks",
+    "title": "哪些题型重方法，哪些题型重日练",
+    "keywords": [
+      "PTE Core",
+      "题型优先级",
+      "模板",
+      "日练",
+      "学习计划",
+      "备考"
+    ],
+    "answer": "Sunny 会把题型分成两类：方法型和日练型。DI、RTS、SWT、WE、SST 这类题先要知道结构、评分点和时间分配，再做少量高质量练习；RA、RS、FIB、RO、WFD 这类题更需要每天重复训练，靠反应速度和准确率积累。把方法型题刷成题海，容易低效；把日练型题只听一遍讲解，又很难稳定提分。",
+    "source": "local PDF extraction round 58, PTE Core overview",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-reading-shared-time-protect-high-value",
+    "title": "PTE Core 阅读共享时间怎么分",
+    "keywords": [
+      "PTE Core",
+      "阅读",
+      "FIB",
+      "RO",
+      "选择题",
+      "时间分配"
+    ],
+    "answer": "PTE Core 阅读部分是共享时间，Sunny 会让学生先保护高价值题型。FIB-RW、FIB-R 和 RO 要认真做，因为它们更能拉开分差；阅读选择题也要做，但不要在单个选项上耗太久。遇到不确定题，先排除明显错误，再果断选。阅读时间管理不是每题平均分，而是把最多注意力给最能影响分数的题。",
+    "source": "local PDF extraction round 58, PTE Core overview",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-core-listening-time-protect-wfd",
+    "title": "PTE Core 听力最后为什么要保护 WFD",
+    "keywords": [
+      "PTE Core",
+      "听力",
+      "WFD",
+      "HIW",
+      "SST",
+      "时间分配"
+    ],
+    "answer": "听力部分里，Sunny 会提醒学生不要在低权重选择题上拖到最后没状态做 WFD。SST 要按结构写，FIB-L 和 HIW 要跟住音频，选择题不要过度纠结；到了 WFD，要把注意力留给句子结构、单复数、冠词和时态。WFD 对听力和写作都有影响，最后几题不能随便放弃。听力时间分配的核心，是把精力留给可控且高价值的题。",
+    "source": "local PDF extraction round 58, PTE Core overview",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-wfd-error-log-small-grammar",
+    "title": "WFD 错题本为什么要记小词",
+    "keywords": [
+      "WFD",
+      "错题本",
+      "冠词",
+      "单复数",
+      "时态",
+      "听写"
+    ],
+    "answer": "WFD 错题本不能只记大词。Sunny 会让学生单独标出 a、an、the、单复数、时态、介词和句尾小词，因为这些地方最容易听到了却写错。每次复盘不要只看整句答案，要把错误归类：是没听见、听见没记住、拼写错，还是语法小词漏掉。分类越细，下一轮听写提升越快。",
+    "source": "local PDF extraction round 58, PTE Core overview",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-official-practice-before-heavy-template",
+    "title": "PTE Core 新手先做什么材料",
+    "keywords": [
+      "PTE Core",
+      "新手",
+      "官方样题",
+      "模考",
+      "题型熟悉",
+      "备考"
+    ],
+    "answer": "PTE Core 新手先别急着背一堆模板。Sunny 会先让学生用官方样题、短课程或离线练习材料熟悉界面、题型、时间和答题方式。知道每道题长什么样、什么时候录音、什么时候自动跳转之后，再进入专项训练。模板可以帮你组织答案，但如果连题型流程都不熟，考试时很容易因为操作和时间感失误。",
+    "source": "local PDF extraction round 58, PTE Core handbook",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
