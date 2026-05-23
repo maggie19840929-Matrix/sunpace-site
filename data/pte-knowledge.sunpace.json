@@ -23409,5 +23409,261 @@
     "source": "local media transcript round 102, DI delivery notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-template-foundation-not-building",
+    "title": "WE 模板只是地基，不是整栋房子",
+    "keywords": [
+      "WE",
+      "模板",
+      "论证",
+      "语法",
+      "内容",
+      "写作"
+    ],
+    "answer": "Sunny 会把 WE 模板比作地基：它能提供顺序和基本句型，但真正决定分数的是学生填进去的论点、语法、例子和扣题程度。模板背熟只是开始，不能替代内容建设。",
+    "source": "local media transcript round 103, WE template-risk notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-template-slot-grammar-risk",
+    "title": "模板填空位最容易暴露语法问题",
+    "keywords": [
+      "WE",
+      "模板",
+      "语法",
+      "填空",
+      "写作",
+      "检查"
+    ],
+    "answer": "模板固定部分通常比较安全，风险常出现在学生自己填的部分。Sunny 会让学生重点检查填空位：动词形式、词性、从句结构和主谓一致。每个空位都错，模板再漂亮也救不了文章。",
+    "source": "local media transcript round 103, WE grammar notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-memorized-material-content-risk",
+    "title": "WE 大量背诵材料有内容分风险",
+    "keywords": [
+      "WE",
+      "背诵材料",
+      "内容分",
+      "模板",
+      "扣题",
+      "写作"
+    ],
+    "answer": "WE 不能靠大段预制材料撑篇幅。Sunny 会提醒学生：如果文章主要是背好的固定内容，且没有真正回答题目，内容分会有明显风险。模板要帮助组织题目相关内容，而不是遮住题目本身。",
+    "source": "local media transcript round 103, WE content-risk notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-prompt-keywords-not-enough",
+    "title": "只抄题干关键词不等于扣题",
+    "keywords": [
+      "WE",
+      "题干关键词",
+      "扣题",
+      "论点",
+      "写作",
+      "内容"
+    ],
+    "answer": "把题干关键词塞进模板，不代表文章就扣题。Sunny 会让学生把关键词转成自己的论点和因果关系。真正扣题是回答题目问法，说明立场、原因和影响；只搬关键词会让内容显得机械。",
+    "source": "local media transcript round 103, WE prompt-response notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-template-personal-argument-bank",
+    "title": "模板要配自己的论点库",
+    "keywords": [
+      "WE",
+      "论点库",
+      "模板",
+      "写作",
+      "备考",
+      "素材"
+    ],
+    "answer": "Sunny 会让学生把模板和自己的论点库配套使用。教育、科技、环境、工作、健康等主题都要有可解释的观点和例子。只有模板没有论点库，考试时就会变成临场硬编。",
+    "source": "local media transcript round 103, WE argument-bank notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-score-weight-by-task",
+    "title": "听力复习要按题型贡献排序",
+    "keywords": [
+      "听力",
+      "分数贡献",
+      "SST",
+      "WFD",
+      "FIB-L",
+      "优先级"
+    ],
+    "answer": "Sunny 会把听力题型按分数贡献和可控性排序。高影响题型优先保证，例如 SST、WFD 和听力填空；低影响题型也不放弃，但放在补充层。有限时间里，先拿稳大头，再补小分。",
+    "source": "local media transcript round 103, listening score-priority notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-big-small-task-layering",
+    "title": "听力大题小题要分层训练",
+    "keywords": [
+      "听力",
+      "大题",
+      "小题",
+      "分层训练",
+      "SST",
+      "WFD"
+    ],
+    "answer": "Sunny 会把听力训练分成大题层和小题层。大题层决定主分数稳定性，小题层帮助补边角分。训练顺序不是只做大题，而是先让大题达到稳定，再用小题补足目标分差距。",
+    "source": "local media transcript round 103, listening task-layer notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-small-tasks-not-abandoned",
+    "title": "听力小题不能直接放弃",
+    "keywords": [
+      "听力",
+      "小题",
+      "MCQ",
+      "HCS",
+      "SMW",
+      "备考"
+    ],
+    "answer": "小题贡献可能较小，但 Sunny 不建议直接放弃。考试没有绝对把握时，小题能帮助补分。正确做法是控制投入：掌握题型规则、常见陷阱和基本节奏，不让它们抢走高影响题型的时间。",
+    "source": "local media transcript round 103, listening small-task notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-report-enabling-skills-not-total-score",
+    "title": "小分项不等于总分项",
+    "keywords": [
+      "成绩单",
+      "小分项",
+      "总分",
+      "写作",
+      "口语",
+      "诊断"
+    ],
+    "answer": "Sunny 会提醒学生不要把成绩单小分项直接等同于听说读写总分。语法、词汇、拼写、篇章等小分能提供线索，但不解释全部评分逻辑。总分异常时，要回到题型表现和实际答案质量分析。",
+    "source": "local media transcript round 104, score-report notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-report-hidden-factors",
+    "title": "成绩单看不到所有评分因素",
+    "keywords": [
+      "成绩单",
+      "隐藏因素",
+      "评分",
+      "诊断",
+      "PTE",
+      "复盘"
+    ],
+    "answer": "成绩单展示的是部分指标，不代表系统只看这些指标。Sunny 会把看不到的评分因素也纳入诊断，例如内容是否答题、结构是否有效、口语是否连续、答案是否完整。不要因为某些小分高就以为没有进步空间。",
+    "source": "local media transcript round 104, score-report diagnosis notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-review-expectation-management",
+    "title": "成绩复议要管理预期",
+    "keywords": [
+      "成绩复议",
+      "出分",
+      "PTE",
+      "预期管理",
+      "考试",
+      "流程"
+    ],
+    "answer": "Sunny 会让学生理性看待成绩复议。机器评分体系下，复议不一定带来明显变化。决定是否复议前，要看是否有流程异常、目标截止日期和重考成本。不要把复议当作替代复盘的捷径。",
+    "source": "local media transcript round 104, score-review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-result-delay-not-score-signal",
+    "title": "出分延迟不等于成绩异常",
+    "keywords": [
+      "出分",
+      "延迟",
+      "成绩",
+      "考试流程",
+      "心态",
+      "PTE"
+    ],
+    "answer": "如果出分比预期晚，Sunny 会提醒学生先不要过度解读。延迟可能只是流程或考生量导致，不一定说明分数有问题。等待期间可以整理复盘和备选计划，避免情绪空转。",
+    "source": "local media transcript round 104, result-delay notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-full-score-allows-minor-errors",
+    "title": "满分不代表完全没有错",
+    "keywords": [
+      "成绩单",
+      "满分",
+      "容错率",
+      "评分",
+      "PTE",
+      "心态"
+    ],
+    "answer": "PTE 分数有容错空间。Sunny 会提醒学生：满分不一定代表每个细节都完美，低分也不一定代表全部都错。复盘时不要只盯分数数字，要看题型、错误位置和是否稳定可重复。",
+    "source": "local media transcript round 104, score interpretation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-low-pronunciation-score-distance",
+    "title": "低发音分说明距离远，不是零能力",
+    "keywords": [
+      "发音分",
+      "口语",
+      "成绩单",
+      "诊断",
+      "发音",
+      "心态"
+    ],
+    "answer": "发音分很低时，Sunny 会把它理解为距离目标较远，而不是完全没有能力。复盘要找具体问题：元音、辅音、词尾、重音还是节奏。把低分拆成可训练项，心态会稳很多。",
+    "source": "local media transcript round 104, pronunciation score notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-pattern-before-solution",
+    "title": "先看分数模式，再定解决方案",
+    "keywords": [
+      "成绩单",
+      "分数模式",
+      "诊断",
+      "备考",
+      "PTE",
+      "计划"
+    ],
+    "answer": "Sunny 会先看整张成绩单的模式，再给训练方案。单项低、交叉影响、分项和总分不一致，代表不同问题。不要看到某个数字就立刻补某个题型。先诊断模式，方案才不会跑偏。",
+    "source": "local media transcript round 104, score diagnosis notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-report-use-with-answer-review",
+    "title": "成绩单要和答题复盘一起看",
+    "keywords": [
+      "成绩单",
+      "答题复盘",
+      "诊断",
+      "模考",
+      "PTE",
+      "训练"
+    ],
+    "answer": "成绩单只能告诉你结果，不能完整告诉你过程。Sunny 会把成绩单和模考录音、写作答案、听力错题一起看。只有把结果和具体答题行为连起来，才能知道下一轮训练应该改什么。",
+    "source": "local media transcript round 104, score-report review notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
