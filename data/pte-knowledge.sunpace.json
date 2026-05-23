@@ -19825,5 +19825,261 @@
     "source": "local OCR extraction round 74, grammar pattern notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-four-skills-selection",
+    "title": "PTE 词汇要按听说读写选择性学习",
+    "keywords": [
+      "词汇",
+      "听说读写",
+      "PTE",
+      "阅读",
+      "写作",
+      "备考"
+    ],
+    "answer": "PTE 词汇量很大，Sunny 不会让学生平均背所有词。更有效的是按听说读写分层：听力词要能听出来并拼对，口语词要能自然说出，阅读词要能在语境里识别，写作词要能准确搭配。先补自己题型里真正卡住的词，效率会高很多。",
+    "source": "local OCR extraction round 75, four-skills vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-vocab-active-passive-split",
+    "title": "词汇要分主动词和被动词",
+    "keywords": [
+      "词汇",
+      "主动词汇",
+      "被动词汇",
+      "阅读",
+      "写作",
+      "口语"
+    ],
+    "answer": "Sunny 会把词汇分成主动词和被动词。阅读里只要能识别的词，可以先放在被动词库；写作和口语需要自己输出的词，要进入主动词库，必须知道搭配、词性和例句。所有词都要求会写会说，会拖慢进度；分层管理更现实。",
+    "source": "local OCR extraction round 75, four-skills vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-pronunciation-spelling-pair",
+    "title": "词汇复习要把发音和拼写绑在一起",
+    "keywords": [
+      "词汇",
+      "发音",
+      "拼写",
+      "听力",
+      "WFD",
+      "LFIB"
+    ],
+    "answer": "听力和写作相关题型里，认识中文意思还不够。Sunny 会让学生把发音和拼写绑定复习：听到能认出，写下能拼对，说出能重音清楚。尤其是 WFD、LFIB 和 RA，词汇问题经常不是不懂，而是音形没有连起来。",
+    "source": "local OCR extraction round 75, four-skills vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-vocab-topic-not-alphabet",
+    "title": "词汇手册不要按字母硬背",
+    "keywords": [
+      "词汇",
+      "主题分类",
+      "PTE",
+      "阅读",
+      "听力",
+      "复习"
+    ],
+    "answer": "Sunny 不建议按字母顺序硬背词汇手册。更好的方式是按主题和题型整理：医学健康、教育研究、环境科技、社会文化、经济商业。主题词放在一起，阅读和听力遇到同类材料时更容易形成语义预期。字母顺序方便查找，不适合深度记忆。",
+    "source": "local OCR extraction round 75, four-skills vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-root-prefix-suffix-purpose",
+    "title": "词根词缀是猜词工具不是背诵终点",
+    "keywords": [
+      "词根",
+      "词缀",
+      "猜词",
+      "阅读",
+      "词汇",
+      "备考"
+    ],
+    "answer": "词根词缀的价值在于降低生词压力。Sunny 会让学生用它推测方向：前缀可能改变意义，词根提供核心概念，后缀提示词性。但猜完以后必须回到句子验证，不能只凭词根硬判答案。词根词缀是工具，不是脱离语境的答案。",
+    "source": "local OCR extraction round 75, root-affix notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-prefix-negative-and-direction",
+    "title": "前缀先看否定、方向和加强",
+    "keywords": [
+      "前缀",
+      "否定",
+      "方向",
+      "加强",
+      "词汇",
+      "阅读"
+    ],
+    "answer": "Sunny 会让学生先掌握高频前缀的三类功能：否定或缺失，方向或位置，加强或重复。看到 unfamiliar、abstract、adapt、associate 这类词时，先拆前缀，再结合词根和语境判断。前缀能给大方向，但不要替代上下文。",
+    "source": "local OCR extraction round 75, root-affix notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-suffix-pos-clue",
+    "title": "后缀常常提示词性",
+    "keywords": [
+      "后缀",
+      "词性",
+      "名词",
+      "形容词",
+      "FIB",
+      "阅读"
+    ],
+    "answer": "后缀经常是 FIB 的词性线索。Sunny 会让学生留意 -tion、-ity、-ness 这类名词后缀，-ous、-ic、-al 这类形容词后缀，-ize、-ate 这类动词后缀。看到空格时，后缀能帮助判断这个词能不能放进句子位置。",
+    "source": "local OCR extraction round 75, root-affix notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-word-family-populate-example",
+    "title": "词族复习比单词孤立记忆更稳",
+    "keywords": [
+      "词族",
+      "词根",
+      "后缀",
+      "阅读",
+      "写作",
+      "词汇"
+    ],
+    "answer": "Sunny 会让学生按词族复习：同一个核心词根可以派生出名词、动词、形容词和抽象名词。复习时不要只记一个单词，要把相关词放在一起，看它们词性如何变化、句中位置如何变化。词族熟了，阅读猜词和写作换词都会更自然。",
+    "source": "local OCR extraction round 75, root-affix notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-book-use-as-reference",
+    "title": "语法书适合当查漏补缺工具",
+    "keywords": [
+      "语法",
+      "基础",
+      "查漏补缺",
+      "PTE",
+      "写作",
+      "阅读"
+    ],
+    "answer": "基础语法书不一定要从头到尾精读。Sunny 会把它当查漏补缺工具：刷题时发现自己总错从句、补语、介词或分词，再回去看对应章节。这样语法学习和 PTE 题目直接绑定，不容易变成脱离考试的长线阅读。",
+    "source": "local OCR extraction round 76, grammar reference notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-terminology-mapping",
+    "title": "不同语法术语要能互相对应",
+    "keywords": [
+      "语法术语",
+      "定语从句",
+      "状语从句",
+      "形式主语",
+      "补语",
+      "学习方法"
+    ],
+    "answer": "不同教材可能用不同术语。Sunny 会让学生把常见说法对应起来：形容词从句对应定语从句，副词从句对应状语从句，虚主语对应形式主语，be 后补语对应表语。术语不统一时不要慌，关键是理解它在句子里做什么。",
+    "source": "local OCR extraction round 76, grammar reference notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-from-question-errors",
+    "title": "语法学习从错题反推最有效",
+    "keywords": [
+      "语法",
+      "错题",
+      "FIB",
+      "写作",
+      "复盘",
+      "备考"
+    ],
+    "answer": "Sunny 不建议把语法学成大而全的知识点清单。更有效的是从错题反推：FIB 错词性，就补词性和搭配；写作句子不清，就补主谓宾和从句；SWT 合句混乱，就补连接和简化。错题指出短板，语法书负责补洞。",
+    "source": "local OCR extraction round 76, grammar reference notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-root-affix-spelling-memory",
+    "title": "词根词缀能帮助记拼写",
+    "keywords": [
+      "词根",
+      "词缀",
+      "拼写",
+      "词汇",
+      "WFD",
+      "写作"
+    ],
+    "answer": "词根词缀不只帮助猜义，也能帮助记拼写。Sunny 会让学生把长词拆成前缀、词根、后缀，避免只靠视觉硬背。拆开以后，implementation、controversial、collaborative 这类词更容易记住结构。拼写稳定，对 WFD、LFIB 和写作都有帮助。",
+    "source": "local OCR extraction round 76, root-affix notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-example-sentence-required",
+    "title": "生词最好配一个自己的例句",
+    "keywords": [
+      "生词",
+      "例句",
+      "词汇",
+      "写作",
+      "口语",
+      "复习"
+    ],
+    "answer": "Sunny 会让学生给重要生词配一个自己的短例句。例句不用复杂，但要能体现词性和搭配。只记中文释义，写作和口语很难主动用出来；能造句，说明这个词开始进入主动词汇。每次复习优先看自己造的句子，效果更稳。",
+    "source": "local OCR extraction round 76, four-skills vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-vocab-context-validation",
+    "title": "阅读猜词后一定要用上下文验证",
+    "keywords": [
+      "阅读",
+      "猜词",
+      "上下文",
+      "词根词缀",
+      "FIB",
+      "语义"
+    ],
+    "answer": "词根、前缀和后缀可以帮助猜词，但 Sunny 会要求最后用上下文验证。看这个猜测是否符合句子逻辑、段落主题和前后搭配。如果词根方向对，但语境不支持，仍然不能选。阅读里的猜词是“假设加验证”，不是一眼定答案。",
+    "source": "local OCR extraction round 76, root-affix notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-vocab-range-with-control",
+    "title": "写作词汇范围要可控地扩大",
+    "keywords": [
+      "写作",
+      "词汇范围",
+      "WE",
+      "控制",
+      "准确性",
+      "搭配"
+    ],
+    "answer": "写作需要词汇范围，但 Sunny 会让学生可控地扩大。每周只挑少量高频学术词和搭配进入主动库，确保会拼、会搭配、会造句。一下子背太多高级词，容易在考试里误用。写作提分靠稳定准确的扩展，而不是突然堆难词。",
+    "source": "local OCR extraction round 76, four-skills vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-vocab-pronounce-before-use",
+    "title": "口语词汇先会读再使用",
+    "keywords": [
+      "口语",
+      "词汇",
+      "发音",
+      "RA",
+      "DI",
+      "RL"
+    ],
+    "answer": "口语里想使用一个词，先要确认自己会读。Sunny 会让学生把想放进 DI、RL 或 RA 复盘的词先查音、标重音、慢读，再放进句子。不会读的词临场硬用，容易卡顿或影响识别。口语主动词汇要先过发音关。",
+    "source": "local OCR extraction round 76, four-skills vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
