@@ -22641,5 +22641,261 @@
     "source": "local OCR extraction round 96, pronunciation rhythm notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-65-79-gap-four-causes",
+    "title": "口语 65 到 79 常见卡点有四类",
+    "keywords": [
+      "口语",
+      "提分",
+      "发音",
+      "流利度",
+      "内容",
+      "诊断"
+    ],
+    "answer": "Sunny 会把 65 到 79 的口语卡点先分成四类：单词发音不稳、连读节奏断裂、流利度有停顿重复、内容覆盖不足。先分类，再训练。不要把所有问题都归因于“口音”，很多时候是节奏和内容组织一起拖分。",
+    "source": "local OCR extraction round 97, advanced speaking notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-pronunciation-vowel-consonant-stress",
+    "title": "发音评分看元音辅音和重音",
+    "keywords": [
+      "口语",
+      "发音",
+      "元音",
+      "辅音",
+      "重音",
+      "Pronunciation"
+    ],
+    "answer": "Sunny 会把发音评分拆成三个可练部分：元音是否清楚，辅音是否完整，单词和句子重音是否合理。学生不必追求母语口音，但要让每个关键词容易被听懂。重音错位时，词认识也可能被系统听偏。",
+    "source": "local OCR extraction round 97, speaking pronunciation rubric notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-fluency-hesitation-budget",
+    "title": "流利度要控制停顿预算",
+    "keywords": [
+      "口语",
+      "流利度",
+      "停顿",
+      "重复",
+      "false start",
+      "节奏"
+    ],
+    "answer": "口语不是完全不能停，而是停顿要少、短、自然。Sunny 会让学生给自己设停顿预算：一句里不要频繁重启，不要长时间空白，不要反复修正同一个词。连续短语比单词一个个蹦出来更像稳定输出。",
+    "source": "local OCR extraction round 97, oral fluency rubric notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-rhythm-phrasing-first",
+    "title": "口语先练节奏和短语组",
+    "keywords": [
+      "口语",
+      "节奏",
+      "phrasing",
+      "RA",
+      "RL",
+      "流利度"
+    ],
+    "answer": "Sunny 会让口语训练先从短语组开始，而不是只追速度。把一句话切成自然意群，关键词稍重，连接词轻一点。节奏稳定后，RA 听起来更清楚，RL 和 DI 也更容易保持连续。",
+    "source": "local OCR extraction round 97, oral fluency notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-content-gap-diagnosis",
+    "title": "口语内容缺失也会拖整体表现",
+    "keywords": [
+      "口语",
+      "内容",
+      "DI",
+      "RL",
+      "SST",
+      "诊断"
+    ],
+    "answer": "发音和流利度之外，Sunny 也会检查内容缺失。DI 是否说到关键趋势，RL 是否覆盖主题和要点，回答是否只有空架子。内容不够时，声音再顺也会显得薄。先补信息骨架，再提高表达速度。",
+    "source": "local OCR extraction round 97, speaking content notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-distortion-error-log",
+    "title": "发音扭曲要按音和语境记录",
+    "keywords": [
+      "口语",
+      "发音错误",
+      "错因记录",
+      "辅音",
+      "元音",
+      "复盘"
+    ],
+    "answer": "Sunny 会让学生记录发音扭曲发生在哪个音、哪个词、什么语境。比如某个辅音在词尾容易丢，某个元音在非重读音节容易变形。按语境记录，才能找到规律；只写“发音不好”没有复盘价值。",
+    "source": "local OCR extraction round 97, pronunciation diagnosis notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-advanced-not-native-goal",
+    "title": "口语目标是清楚高级，不是装母语",
+    "keywords": [
+      "口语",
+      "发音",
+      "高级表达",
+      "清晰度",
+      "PTE",
+      "心态"
+    ],
+    "answer": "Sunny 会把目标设成清楚、稳定、可理解，而不是追求完全母语化。高分口语需要元音辅音清楚、重音合理、节奏自然。学生保留一点口音并不可怕，真正影响分数的是听不清、停顿多和结构散。",
+    "source": "local OCR extraction round 97, speaking rubric notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-record-against-rubric",
+    "title": "口语录音要按评分维度复盘",
+    "keywords": [
+      "口语",
+      "录音",
+      "复盘",
+      "评分维度",
+      "发音",
+      "流利度"
+    ],
+    "answer": "Sunny 会让学生录音后按评分维度听：发音是否清楚，流利度是否连续，内容是否完整。每次只选一个维度重点修。按维度复盘比泛泛听一遍更有效，也能看见自己从不稳到稳定的变化。",
+    "source": "local OCR extraction round 97, speaking review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-booking-name-id-check-before-submit",
+    "title": "报名信息先核对证件姓名",
+    "keywords": [
+      "报名",
+      "证件姓名",
+      "考试流程",
+      "账户",
+      "PTE",
+      "检查"
+    ],
+    "answer": "Sunny 会在报名流程里先检查姓名是否和考试证件一致。名、姓、拼写顺序、大小写虽然看似细节，但一旦不一致可能影响入场或成绩处理。提交前把证件、账户信息和预约信息逐项核对。",
+    "source": "local OCR extraction round 98, exam booking process notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-booking-email-confirmation-check",
+    "title": "报名邮箱要能接收确认通知",
+    "keywords": [
+      "报名",
+      "邮箱",
+      "确认信",
+      "考试通知",
+      "账户",
+      "流程"
+    ],
+    "answer": "报名账户邮箱不是随便填的。Sunny 会让学生确认邮箱可登录、能收邮件、不会把考试确认信放进垃圾箱。预约确认、考试提醒和后续成绩相关通知都可能依赖邮箱。流程信息要自己留档。",
+    "source": "local OCR extraction round 98, exam booking process notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-booking-test-type-purpose-check",
+    "title": "预约前确认考试用途和类型",
+    "keywords": [
+      "报名",
+      "考试类型",
+      "签证",
+      "留学",
+      "预约",
+      "流程"
+    ],
+    "answer": "预约考试前，Sunny 会让学生先确认考试用途：普通留学申请、签证用途、语言班或其他要求可能对应不同考试类型。不要只看名称相近就下单。先核对学校或机构要求，再进入预约。",
+    "source": "local OCR extraction round 98, exam booking process notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-booking-seat-search-backup",
+    "title": "查考位要准备备选时间和地点",
+    "keywords": [
+      "考位",
+      "预约",
+      "时间",
+      "地点",
+      "考试计划",
+      "报名"
+    ],
+    "answer": "查考位时，Sunny 会让学生准备至少两个时间段和两个地点选择。热门时段可能很快变化，临近考试更要留出成绩出分和补考缓冲。考位选择不是越早越好，而是要配合自己的复习进度和申请节点。",
+    "source": "local OCR extraction round 98, booking seat-search notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-report-manual-send-checklist",
+    "title": "成绩发送要做接收方检查",
+    "keywords": [
+      "成绩单",
+      "发送成绩",
+      "接收方",
+      "流程",
+      "申请",
+      "PTE"
+    ],
+    "answer": "需要手动发送成绩时，Sunny 会让学生先确认接收方名称、项目、截止日期和是否需要额外材料。发送后保留截图或记录。成绩流程不只是考完出分，后续提交路径也要闭环。",
+    "source": "local OCR extraction round 98, score reporting process notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-mock-before-booking-risk-check",
+    "title": "预约正式考试前先做风险模考",
+    "keywords": [
+      "模考",
+      "预约考试",
+      "风险检查",
+      "目标分",
+      "备考",
+      "PTE"
+    ],
+    "answer": "Sunny 通常会建议学生在正式预约前做一次风险模考。模考不是为了追求漂亮分数，而是检查目标分差距、题型短板和时间稳定性。如果模考暴露明显风险，预约日期要和补弱计划一起调整。",
+    "source": "local OCR extraction round 98, exam preparation process notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-topic-labels-support-memory",
+    "title": "词汇表要加主题标签",
+    "keywords": [
+      "词汇",
+      "主题标签",
+      "阅读",
+      "写作",
+      "复习",
+      "记忆"
+    ],
+    "answer": "词汇表如果只按字母排列，复习很容易散。Sunny 会给词汇加主题标签，例如商业管理、法律、健康、环境、交通、科技和媒体。主题标签能帮助学生在阅读中快速进入语境，也能把词汇转成写作素材。",
+    "source": "local OCR extraction round 98, vocabulary supplement notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-vocab-example-sentence-not-copy",
+    "title": "词汇例句要改成自己的句子",
+    "keywords": [
+      "词汇",
+      "例句",
+      "复习",
+      "写作",
+      "阅读",
+      "输出"
+    ],
+    "answer": "看到词汇例句时，Sunny 会让学生先理解搭配，再改写成自己的句子。直接抄例句只能帮助识别，不能保证输出。把词放进自己的 PTE 话题句里，才更容易在 WE、SWT 和口语中调用。",
+    "source": "local OCR extraction round 98, vocabulary supplement notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
