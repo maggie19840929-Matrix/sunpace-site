@@ -20081,5 +20081,261 @@
     "source": "local OCR extraction round 76, four-skills vocabulary notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-consonant-plosive-voice-check",
+    "title": "爆破音先分清清浊和声带",
+    "keywords": [
+      "辅音",
+      "爆破音",
+      "清辅音",
+      "浊辅音",
+      "RA",
+      "发音"
+    ],
+    "answer": "Sunny 会让学生把 /p b t d k g/ 先按清浊分组练。清辅音送气、声带不振动；浊辅音气流弱、声带振动。练习时可以一只手放在喉咙上，确认 /b d g/ 有振动，/p t k/ 没有振动。这个基础打稳，RA 的单词识别度会更好。",
+    "source": "local OCR extraction round 77, consonant pronunciation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-consonant-plosive-light-stop",
+    "title": "爆破音连辅音时可以轻收",
+    "keywords": [
+      "爆破音",
+      "失爆",
+      "辅音连缀",
+      "RA",
+      "口语",
+      "发音"
+    ],
+    "answer": "RA 遇到爆破音后面紧跟另一个辅音时，Sunny 会让学生做轻微停顿或轻收，而不是把每个爆破都喷出来。重点是保留口腔动作和节奏，不要把词完全吞掉。先慢速练清楚，再提高速度，声音会更自然，也更接近真实英语连读。",
+    "source": "local OCR extraction round 77, consonant pronunciation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-consonant-s-plus-ptk",
+    "title": "s 后面的 p/t/k 不要过度送气",
+    "keywords": [
+      "s",
+      "p t k",
+      "送气",
+      "RA",
+      "发音",
+      "辅音"
+    ],
+    "answer": "s 后面接 p、t、k 再接重读元音时，Sunny 会提醒学生不要像词首 /p t k/ 那样强送气。比如 speak、stop、school 这类组合，气流要收住一点。这个细节能让发音更自然，也能减少 RA 中过度用力导致的卡顿。",
+    "source": "local OCR extraction round 77, consonant pronunciation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fricative-airflow-voice",
+    "title": "摩擦音要同时管气流和声带",
+    "keywords": [
+      "摩擦音",
+      "f v",
+      "th",
+      "s z",
+      "RA",
+      "发音"
+    ],
+    "answer": "摩擦音不是只靠嘴型。Sunny 会让学生同时检查气流位置和声带振动。/f/ 和 /v/ 都是唇齿位置，但 /v/ 要有声带振动；/s/ 和 /z/ 也是一清一浊。练习时先拉长音，再放回单词和句子，能更快发现自己是不是把浊音读成了清音。",
+    "source": "local OCR extraction round 77, consonant pronunciation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-th-sound-mouth-position",
+    "title": "th 音要先找舌齿位置",
+    "keywords": [
+      "th",
+      "辅音",
+      "口腔位置",
+      "RA",
+      "发音",
+      "摩擦音"
+    ],
+    "answer": "th 音容易被读成 /s/、/z/、/t/ 或 /d/。Sunny 会让学生先找舌尖和上齿之间的位置，气流从舌齿间通过，再区分清浊。不要急着放进长句，先用短词和短语练稳定位置。位置对了，再谈速度和连读。",
+    "source": "local OCR extraction round 77, consonant pronunciation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-reference-plain-language",
+    "title": "语法资料越基础越要接到题目",
+    "keywords": [
+      "语法",
+      "基础资料",
+      "FIB",
+      "写作",
+      "阅读",
+      "备考"
+    ],
+    "answer": "基础语法资料通常讲得很细，但 Sunny 会要求学生把每个知识点接回 PTE 题目。比如补语对应写作句子完整性，介词对应 FIB 搭配，从句对应 SWT 合句和阅读长句。语法不是单独学完，而是每次错题后用来解释为什么错。",
+    "source": "local OCR extraction round 77, grammar reference notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-practice-site-data-not-vanity",
+    "title": "练习数据不是用来看热闹的",
+    "keywords": [
+      "练习数据",
+      "复盘",
+      "题型分布",
+      "学习记录",
+      "PTE",
+      "备考"
+    ],
+    "answer": "线上练习平台会记录题数、时长、题型分布和正确率。Sunny 会让学生把这些数据转成行动：哪类题练得少，哪类题耗时多，哪类题最近下降。数据本身不提分，基于数据调整训练顺序才提分。",
+    "source": "local OCR extraction round 77, practice-platform notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-practice-last-question-loop",
+    "title": "上次练到哪里要形成闭环",
+    "keywords": [
+      "练习记录",
+      "错题",
+      "复习闭环",
+      "题型练习",
+      "PTE",
+      "学习计划"
+    ],
+    "answer": "Sunny 会让学生利用练习记录做闭环：上次练到哪一道题，本次先回看错因，再继续新题。不要每天只追新题数量。旧题如果没有复盘，错误会重复出现。练习记录的价值，是帮你把新练、错题、复盘串起来。",
+    "source": "local OCR extraction round 78, practice-platform notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-high-frequency-list",
+    "title": "高频题列表要配合专项练习",
+    "keywords": [
+      "高频题",
+      "预测题",
+      "专项练习",
+      "PTE",
+      "备考",
+      "复盘"
+    ],
+    "answer": "高频题列表能帮学生确定近期复习重点，但 Sunny 不会让学生只刷列表。高频题要和专项能力一起练：WFD 练听写，RA 练发音和流利度，FIB 练词性搭配。只看高频不补能力，换一批题还是会不稳。",
+    "source": "local OCR extraction round 78, practice-platform notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-question-search-error-review",
+    "title": "题目搜索适合用来复盘错题",
+    "keywords": [
+      "题目搜索",
+      "错题复盘",
+      "题号",
+      "关键词",
+      "PTE",
+      "学习工具"
+    ],
+    "answer": "题目搜索不只是找新题。Sunny 会让学生用题号、关键词或题型快速找回错题，复盘同一题的第二次表现。尤其是 WFD、FIB、SST 和 RO，错题间隔几天再做一次，能看出错误是否真正被修正。",
+    "source": "local OCR extraction round 78, practice-platform notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ai-feedback-second-opinion",
+    "title": "AI 反馈只能当第二意见",
+    "keywords": [
+      "AI反馈",
+      "口语评分",
+      "语法检查",
+      "写作润色",
+      "复盘",
+      "PTE"
+    ],
+    "answer": "AI 评分、语法检查和润色工具可以帮助发现问题，但 Sunny 会把它们当第二意见。先自己按评分项复盘，再看工具提示是否一致。不要因为工具给出一个分数就停止分析。真正有用的是把反馈转成下一次练习的具体动作。",
+    "source": "local OCR extraction round 78, practice-platform notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-practice-module-rotation",
+    "title": "题型模块要轮换，不要只练喜欢的",
+    "keywords": [
+      "题型模块",
+      "轮换训练",
+      "口语",
+      "阅读",
+      "写作",
+      "听力"
+    ],
+    "answer": "练习平台把口语、写作、阅读、听力拆成模块，Sunny 会用它做轮换安排。学生容易只练自己顺手的题型，短板就会一直留着。每天至少覆盖一个强项维持状态、一个弱项集中突破，模块化训练才真正有意义。",
+    "source": "local OCR extraction round 78, practice-platform notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-pronunciation-record-compare",
+    "title": "辅音练习要录音对比",
+    "keywords": [
+      "辅音",
+      "录音",
+      "发音复盘",
+      "RA",
+      "口语",
+      "清晰度"
+    ],
+    "answer": "辅音问题自己当场不一定听得出来。Sunny 会让学生录下单音、单词和短句，对比是否有尾音丢失、清浊混淆、过度送气或摩擦不足。每次只修一两个音，不要一次改全部。录音对比能让发音训练从感觉变成证据。",
+    "source": "local OCR extraction round 78, consonant pronunciation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-platform-progress-not-equal-score",
+    "title": "练习进度不等于考试分数",
+    "keywords": [
+      "练习进度",
+      "正确率",
+      "模考",
+      "PTE",
+      "学习数据",
+      "备考"
+    ],
+    "answer": "平台里的题数和学习时长能反映投入，但不能直接等同考试分数。Sunny 会同时看三个指标：专项正确率是否提高，限时表现是否稳定，模考中是否能迁移。只刷题数不看质量，很容易产生“练很多但不涨分”的错觉。",
+    "source": "local OCR extraction round 78, practice-platform notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-foundation-pronunciation-before-speed",
+    "title": "基础发音先清楚再提速",
+    "keywords": [
+      "基础发音",
+      "语速",
+      "RA",
+      "口语",
+      "辅音",
+      "流利度"
+    ],
+    "answer": "Sunny 会让发音基础薄弱的学生先清楚，再提速。爆破音、摩擦音和尾音如果本身不稳，快速朗读只会把问题放大。先慢速读准，再用节拍器或短句逐步提速。流利度不是越快越好，而是在清楚基础上的连续。",
+    "source": "local OCR extraction round 78, consonant pronunciation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-website-tools-choose-by-task",
+    "title": "学习工具要按任务选择",
+    "keywords": [
+      "学习工具",
+      "精听跟读",
+      "模考",
+      "收藏夹",
+      "题型练习",
+      "PTE"
+    ],
+    "answer": "平台工具很多，Sunny 会按任务选择：要查漏用错题和收藏夹，要练听力用精听跟读，要检验阶段成果用模考，要补专项就进题型模块。不要在工具之间来回跳却没有明确目标。工具越多，越需要清楚今天要解决什么问题。",
+    "source": "local OCR extraction round 78, practice-platform notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
