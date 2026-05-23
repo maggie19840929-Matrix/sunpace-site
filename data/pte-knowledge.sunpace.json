@@ -19569,5 +19569,261 @@
     "source": "local OCR extraction round 72, academic collocation notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-pos-adjective-before-noun-fib",
+    "title": "FIB 看到名词前空格先想形容词",
+    "keywords": [
+      "FIB",
+      "词性",
+      "形容词",
+      "名词",
+      "阅读",
+      "语法"
+    ],
+    "answer": "FIB 做题时，Sunny 会让学生先看空格后面是不是名词。如果是单数或复数名词，前面常需要形容词、限定词或名词作修饰。不要先翻译整句才开始选，先用词性把明显不可能的选项排掉。词性判断越快，语义判断越轻松。",
+    "source": "local OCR extraction round 73, part-of-speech formula notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-pos-adverb-modifies-verb-adjective",
+    "title": "副词常修饰动词和形容词",
+    "keywords": [
+      "副词",
+      "词性",
+      "FIB",
+      "阅读",
+      "语法",
+      "修饰"
+    ],
+    "answer": "Sunny 会让学生把副词当成修饰信号来看。副词可以修饰动词，也可以修饰形容词或另一个副词。FIB 里如果空格靠近动词，可能要判断动作方式；如果空格在形容词前，可能是在加强程度。先看它修饰谁，再看选项意思。",
+    "source": "local OCR extraction round 73, part-of-speech formula notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-to-preposition-vs-infinitive",
+    "title": "to 后面不一定接动词原形",
+    "keywords": [
+      "to",
+      "介词",
+      "不定式",
+      "FIB",
+      "语法",
+      "动名词"
+    ],
+    "answer": "看到 to 以后，Sunny 不会立刻默认后面接动词原形。to 如果是不定式标记，后面接动词原形；如果是介词，后面要接名词、代词或动名词。FIB 里很多错题就卡在这里。判断方法是看前面的搭配：它是动词不定式，还是固定短语里的介词。",
+    "source": "local OCR extraction round 73, part-of-speech formula notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-be-after-patterns",
+    "title": "be 动词后面常见四类结构",
+    "keywords": [
+      "be",
+      "语法",
+      "FIB",
+      "补语",
+      "被动",
+      "进行时"
+    ],
+    "answer": "be 后面不只接形容词。Sunny 会让学生熟悉四类结构：be 加形容词说明状态，be 加名词说明身份，be 加 doing 表示进行，be 加 done 可能是被动或过去分词状态。FIB 遇到 be 后空格，先判断句子需要哪一类，再看选项。",
+    "source": "local OCR extraction round 73, part-of-speech formula notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-modal-base-verb-signal",
+    "title": "情态动词后面接动词原形",
+    "keywords": [
+      "情态动词",
+      "动词原形",
+      "FIB",
+      "语法",
+      "can",
+      "must"
+    ],
+    "answer": "FIB 看到 can、could、will、would、must、should 这类情态或助动词，Sunny 会让学生马上期待动词原形。这个线索很直接，能排掉名词、形容词、过去式和动名词选项。语法信号越基础，越要训练到自动反应。",
+    "source": "local OCR extraction round 73, part-of-speech formula notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-basic-sentence-patterns-for-fib",
+    "title": "FIB 先看句子缺主干还是修饰",
+    "keywords": [
+      "FIB",
+      "句子主干",
+      "SVO",
+      "SVC",
+      "语法",
+      "阅读"
+    ],
+    "answer": "Sunny 会让学生先判断句子主干是否完整。如果缺谓语或宾语，空格就是主干成分；如果主干已经完整，空格更可能是修饰、补充或搭配。FIB 不是每个空都靠词义选，先看句子骨架，能避免把修饰词误当核心答案。",
+    "source": "local OCR extraction round 73, part-of-speech formula notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-spelling-one-system-consistency",
+    "title": "PTE 拼写要选一个体系保持一致",
+    "keywords": [
+      "拼写",
+      "英式英语",
+      "美式英语",
+      "PTE",
+      "写作",
+      "WFD"
+    ],
+    "answer": "英式和美式拼写都可以用，但 Sunny 会提醒学生在同一篇写作或同一套答案里尽量保持一致。不要一会儿写 centre，一会儿写 color。拼写体系混用容易增加检查负担，也可能让你在 WFD 或写作里犹豫。选择熟悉的一套，坚持到底。",
+    "source": "local OCR extraction round 73, spelling variation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-spelling-common-variant-patterns",
+    "title": "英美拼写差异常见在后缀",
+    "keywords": [
+      "英美拼写",
+      "后缀",
+      "re",
+      "our",
+      "ize",
+      "yse"
+    ],
+    "answer": "英美拼写差异常出现在词尾。Sunny 会让学生整理几个模式：-re 和 -er，-our 和 -or，-ise 和 -ize，-yse 和 -yze。记模式比零散记单词更省力。考试中看到自己熟悉的另一种拼法，不要慌；关键是自己输出时保持稳定。",
+    "source": "local OCR extraction round 73, spelling variation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-linking-verb-complement",
+    "title": "连系动词后面要找补语",
+    "keywords": [
+      "连系动词",
+      "补语",
+      "SVC",
+      "语法",
+      "FIB",
+      "写作"
+    ],
+    "answer": "be、seem、look、sound、feel、taste、turn、prove 这类动词后面常需要补语。Sunny 会让学生把它们理解为“主语是什么或怎么样”的连接。做 FIB 或改写句子时，看到这类动词，不要只找宾语，而要判断后面需要形容词、名词还是分词补足意思。",
+    "source": "local OCR extraction round 74, grammar pattern notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-object-complement-be-test",
+    "title": "宾语补语可以用 be 测试",
+    "keywords": [
+      "宾语补语",
+      "SVOC",
+      "be test",
+      "语法",
+      "写作",
+      "阅读"
+    ],
+    "answer": "判断宾语补语时，Sunny 会用一个简单测试：把宾语和后面的补语拿出来，中间加 be，看能不能成立。能成立，说明后面是在说明宾语是什么或怎么样。这个测试能帮助学生理解 make、find、consider 等结构，也能减少写作里宾补用错的问题。",
+    "source": "local OCR extraction round 74, grammar pattern notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-transitive-intransitive-passive",
+    "title": "不及物动词不能随便变被动",
+    "keywords": [
+      "及物动词",
+      "不及物动词",
+      "被动语态",
+      "语法",
+      "写作",
+      "阅读"
+    ],
+    "answer": "Sunny 会让学生先判断动词是否需要宾语。及物动词需要动作对象，不及物动词本身就能完成动作。很多写作错误来自把不及物动词硬变被动，或者及物动词后漏宾语。做语法检查时先问：这个动作落在谁身上？有没有接受动作的对象？",
+    "source": "local OCR extraction round 74, grammar pattern notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-infinitive-vs-gerund-uncertainty",
+    "title": "不定式和动名词可以从语气判断",
+    "keywords": [
+      "不定式",
+      "动名词",
+      "语气",
+      "语法",
+      "FIB",
+      "写作"
+    ],
+    "answer": "不定式常带有目的、计划、未发生或不确定的意味；动名词更像名词化的动作，常带持续性或事实感。Sunny 会让学生结合句子语气判断，而不是机械背规则。FIB 里如果空格前是介词，多半要动名词；如果表达目的或将要做的事，可能是不定式。",
+    "source": "local OCR extraction round 74, grammar pattern notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-causative-sensory-bare-verb",
+    "title": "使役和感官动词后结构要单独记",
+    "keywords": [
+      "使役动词",
+      "感官动词",
+      "动词原形",
+      "动名词",
+      "语法",
+      "FIB"
+    ],
+    "answer": "使役动词和感官动词后面的结构不能套普通不定式规则。Sunny 会让学生单独整理 make、let、have、see、hear、watch 等后面的动词形式。感官动词还要看动作是全过程还是正在进行。这个点常出现在阅读语法判断和写作句子修改里。",
+    "source": "local OCR extraction round 74, grammar pattern notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-participle-active-passive",
+    "title": "-ing 和 -ed 分词先看主动被动",
+    "keywords": [
+      "现在分词",
+      "过去分词",
+      "主动",
+      "被动",
+      "FIB",
+      "语法"
+    ],
+    "answer": "分词选择时，Sunny 会先看被修饰对象和动作之间的关系。对象发出动作，多半用 -ing；对象承受动作或处于结果状态，多半用 -ed。不要只凭中文“令人”或“感到”套公式，要把主谓宾关系理清。FIB 和写作里这个判断非常常见。",
+    "source": "local OCR extraction round 74, grammar pattern notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-preposition-vs-conjunction-clause",
+    "title": "介词和连接词看后面接什么",
+    "keywords": [
+      "介词",
+      "连接词",
+      "从句",
+      "名词",
+      "语法",
+      "FIB"
+    ],
+    "answer": "after、before、since、until 这类词可能像介词，也可能像连接词。Sunny 会让学生看后面接的是名词性成分还是完整从句。介词后面接名词、代词、动名词或名词性结构；连接词后面引导从句。这个判断能直接影响 FIB 选项词性。",
+    "source": "local OCR extraction round 74, grammar pattern notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-focusing-adverb-position",
+    "title": "only 这类副词位置一变意思就变",
+    "keywords": [
+      "副词位置",
+      "only",
+      "强调副词",
+      "语法",
+      "写作",
+      "阅读"
+    ],
+    "answer": "only、even、also、especially 这类副词位置很敏感。Sunny 会让学生把它们尽量放在真正修饰的对象旁边。位置一变，强调范围就会变，句子意思也可能改变。写作检查时，看到这类词要问：它到底修饰主语、动词、宾语，还是时间地点？",
+    "source": "local OCR extraction round 74, grammar pattern notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
