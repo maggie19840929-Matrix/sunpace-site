@@ -21873,5 +21873,261 @@
     "source": "local OCR extraction round 90, public-knowledge rewriting notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-prediction-read-update-table",
+    "title": "周预测先读更新表",
+    "keywords": [
+      "周预测",
+      "更新表",
+      "题库",
+      "备考",
+      "PTE",
+      "复习"
+    ],
+    "answer": "Sunny 会让学生先读周预测的更新表，而不是直接翻正文。更新表能告诉你哪些题型有新增、回流或剔除。先看变化，再安排训练，才能把时间放在真正变动的内容上。",
+    "source": "local OCR extraction round 91, weekly prediction notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-prediction-not-guarantee",
+    "title": "周预测是复习线索，不是考试保证",
+    "keywords": [
+      "周预测",
+      "备考心态",
+      "复习",
+      "PTE",
+      "风险控制",
+      "考试"
+    ],
+    "answer": "周预测只能作为复习线索，不能当成考试保证。Sunny 会让学生用预测材料缩小短期复习范围，同时保留基础能力训练。把预测当唯一计划，容易忽略真实考试里的变体和未覆盖题。",
+    "source": "local OCR extraction round 91, weekly prediction notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-prediction-categories",
+    "title": "预测变化分成新增回流剔除",
+    "keywords": [
+      "周预测",
+      "新增",
+      "回流",
+      "剔除",
+      "题库管理",
+      "复习"
+    ],
+    "answer": "Sunny 会把周预测变化分成三类：新增内容要快速熟悉，回流内容要检查是否曾经错过，剔除内容则降低优先级但不必完全删除。分类以后，学生不会被一整张更新表牵着跑。",
+    "source": "local OCR extraction round 91, weekly prediction update notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-prediction-cross-check-core-skills",
+    "title": "预测材料要回扣核心能力",
+    "keywords": [
+      "周预测",
+      "核心能力",
+      "RS",
+      "FIB",
+      "WFD",
+      "复习"
+    ],
+    "answer": "看到预测更新后，Sunny 会回扣核心能力：RS 看短期记忆和发音，FIB 看词性搭配，WFD 看听写完整度，SST 看听后概括。材料只是入口，真正要训练的是题型能力。",
+    "source": "local OCR extraction round 91, weekly prediction notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-prediction-timebox",
+    "title": "周预测复习要限时",
+    "keywords": [
+      "周预测",
+      "限时",
+      "复习计划",
+      "备考",
+      "题库",
+      "时间管理"
+    ],
+    "answer": "周预测内容容易越看越多。Sunny 会给它设定时间盒：先处理高影响题型，再处理自己薄弱题型，最后才看低优先级补充。限时复习能避免学生把整天花在翻材料上，却没有真正输出训练。",
+    "source": "local OCR extraction round 91, weekly prediction planning notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-new-items-fast-familiarization",
+    "title": "新增题先做快速熟悉",
+    "keywords": [
+      "新增题",
+      "周预测",
+      "快速熟悉",
+      "题库",
+      "复习",
+      "PTE"
+    ],
+    "answer": "新增题不一定要马上深刷。Sunny 会先做快速熟悉：看题型、主题、关键词和可能考查的能力，再决定是否进入重点训练。快速熟悉能降低陌生感，也能避免把低价值新增内容过度放大。",
+    "source": "local OCR extraction round 91, weekly prediction update notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-returned-items-check-error-history",
+    "title": "回流题先查历史错因",
+    "keywords": [
+      "回流题",
+      "错因",
+      "复盘",
+      "周预测",
+      "题库",
+      "备考"
+    ],
+    "answer": "回流题说明它重新出现在短期材料里。Sunny 会先查历史错因：当时是听不清、拼错、词性错、还是结构没看懂。回流题最有价值的地方不是“又出现了”，而是能帮助学生修正旧错误。",
+    "source": "local OCR extraction round 91, weekly prediction update notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-removed-items-lower-not-delete",
+    "title": "剔除题降低优先级，不必立刻删除",
+    "keywords": [
+      "剔除题",
+      "优先级",
+      "题库",
+      "周预测",
+      "复习",
+      "风险控制"
+    ],
+    "answer": "被剔除的题不代表永远不会遇到。Sunny 会把它们降级，而不是立刻删除。考前时间紧时先不练；如果它属于自己的薄弱能力，仍可作为训练材料保留。优先级要变，能力训练不用断。",
+    "source": "local OCR extraction round 91, weekly prediction update notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sgd-new-task-note-taking",
+    "title": "SGD 要用小组信息做摘要",
+    "keywords": [
+      "SGD",
+      "小组讨论",
+      "听力",
+      "摘要",
+      "笔记",
+      "新题型"
+    ],
+    "answer": "Summarize Group Discussion 需要从多人信息里抓共同主题、不同观点和最终任务。Sunny 会让学生笔记时按发言人或观点分列，最后合并成一条主线。不要只记零散词，要听出讨论在解决什么问题。",
+    "source": "local OCR extraction round 92, new task notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rts-situation-response-task-goal",
+    "title": "RTS 先判断情境目标",
+    "keywords": [
+      "RTS",
+      "Respond to a Situation",
+      "情境反应",
+      "口语",
+      "任务目标",
+      "新题型"
+    ],
+    "answer": "Respond to a Situation 不能只套礼貌句。Sunny 会让学生先判断情境目标：道歉、询问、请求帮助、说明变化、投诉还是协商。目标清楚后，回答才会贴合场景，而不是听起来很流利但没有解决问题。",
+    "source": "local OCR extraction round 92, new task notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rts-politeness-plus-action",
+    "title": "RTS 要有礼貌和行动",
+    "keywords": [
+      "RTS",
+      "情境反应",
+      "礼貌",
+      "行动",
+      "口语",
+      "沟通"
+    ],
+    "answer": "RTS 回答通常要同时做到礼貌和有效。Sunny 会让学生用简单结构：先说明处境或态度，再提出具体行动或请求。只有礼貌没有行动，会显得空；只有行动没有语气，又可能不符合真实沟通。",
+    "source": "local OCR extraction round 92, situation-response notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-weekly-prediction-wfd-high-impact",
+    "title": "周预测里的 WFD 要优先闭环",
+    "keywords": [
+      "WFD",
+      "周预测",
+      "听写",
+      "高影响",
+      "拼写",
+      "复盘"
+    ],
+    "answer": "如果周预测里出现 WFD 更新，Sunny 会优先做闭环：听写、核对、标错因、复听、隔天复测。WFD 的价值不在看过句子，而在能否准确写出。每个错误都要落到听音、记忆、拼写或语法还原。",
+    "source": "local OCR extraction round 92, weekly prediction WFD notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-prediction-fib-filter",
+    "title": "周预测 FIB 先筛词性搭配",
+    "keywords": [
+      "FIB",
+      "周预测",
+      "阅读",
+      "词性",
+      "搭配",
+      "复盘"
+    ],
+    "answer": "周预测里的 FIB 更新不适合只背答案。Sunny 会先筛词性、搭配和语义线索，再把错题放进词汇卡。这样即使正式题目改写，学生仍然能用判断方法解题。",
+    "source": "local OCR extraction round 92, weekly prediction FIB notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-prediction-rs-short-memory",
+    "title": "周预测 RS 要练短时记忆链",
+    "keywords": [
+      "RS",
+      "周预测",
+      "短时记忆",
+      "口语",
+      "听力",
+      "复述"
+    ],
+    "answer": "RS 更新表里的句子可以用来练短时记忆链。Sunny 会让学生听时抓语块、节奏和关键词，而不是逐词硬记。复述时先保主干和顺序，再修补细节。这样才能迁移到没见过的新句子。",
+    "source": "local OCR extraction round 92, weekly prediction RS notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-weekly-prediction-di-theme-prep",
+    "title": "周预测 DI 用来预热图表主题",
+    "keywords": [
+      "DI",
+      "周预测",
+      "图表主题",
+      "口语",
+      "预热",
+      "描述"
+    ],
+    "answer": "DI 更新可以帮助预热图表主题，例如教育、人口、语言、支出、环境或比例变化。Sunny 会让学生提前准备主题词和比较表达。真正训练时仍要回到图表本身，练开头、关键数据和趋势总结。",
+    "source": "local OCR extraction round 92, weekly prediction DI notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-weekly-prediction-balance-new-and-weak",
+    "title": "周预测要平衡新增和弱项",
+    "keywords": [
+      "周预测",
+      "弱项",
+      "新增题",
+      "复习计划",
+      "PTE",
+      "优先级"
+    ],
+    "answer": "周预测更新多时，Sunny 会平衡两件事：新增内容需要快速扫过，个人弱项必须继续训练。如果学生只追新增，旧弱点不会自动消失。考前计划要把“材料变化”和“能力短板”一起排进去。",
+    "source": "local OCR extraction round 92, weekly prediction planning notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
