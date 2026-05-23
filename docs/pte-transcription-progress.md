@@ -870,6 +870,27 @@
 
 备注：两轮完成后执行 JSON 校验、重复 ID 检查、公开品牌敏感词扫描、Sunny 回归，并只提交公开知识库和进度摘要。
 
+## 2026-05-23 Knowledge Distillation 59
+
+- 模式：白天同步模式；继续 PDF/文档素材萃取，并补跑一小批本地 OCR，只保留 SunPace 自有表达
+- 输入来源：本地 PDF 文档审计结果、可直接提取的题型练习材料，以及新生成的本地 OCR 小批次摘要
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：题型技巧按模块使用、口语离线练习录音复盘、听力只放一遍时先抓结构、离线练习与真实界面时间差、阅读离线错题分类、RO 与 FIB 同块训练、听力 FIB 词表按拼写和词族整理、刷题前先看评分项
+- 本地 OCR 进展：新跑 3 个 PDF OCR 候选，3 个成功；原始 OCR 文本和结果清单保留在 ignored `knowledge_exports/`，不会提交
+
+备注：本轮不发布来源品牌名、课程名、路径信息或第三方逐字文本；公开答案均改写为 SunPace/Sunny 自有指导。
+
+## 2026-05-23 Knowledge Distillation 60
+
+- 模式：白天同步模式；第 59、60 两轮完成后同步 GitHub
+- 输入来源：本地 PDF 文档审计结果、写作连接词、FIB 语法信号、听力 FIB、SST 和 RO 训练素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：连接词按功能记、不要堆叠连接词、FIB 中 due to/because 结构判断、条件句时态信号、听力 FIB 播放前预测词性、听力 FIB 错题分类、SST 用主题加关键细节、RO 先找代词/因果/例子链
+
+备注：两轮完成后执行 JSON 校验、重复 ID 检查、公开品牌敏感词扫描、Sunny 回归，并只提交公开知识库和进度摘要；原始 OCR、队列、日志和第三方材料不进入 GitHub。
+
 ## 2026-05-22 Knowledge Distillation 41
 
 - 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交

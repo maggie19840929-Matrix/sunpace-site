@@ -17777,5 +17777,261 @@
     "source": "local PDF extraction round 58, PTE Core handbook",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-core-test-tips-by-question-type",
+    "title": "题型技巧手册应该怎么读",
+    "keywords": [
+      "PTE Core",
+      "题型技巧",
+      "备考方法",
+      "评分点",
+      "学习顺序",
+      "Sunny"
+    ],
+    "answer": "Sunny 不建议把题型技巧手册从头到尾当教材硬读。更有效的用法是先按考试模块分组：口语先看录音流程和评分项，写作先看字数、结构和语法要求，阅读先看题型之间的时间权重，听力先看只播放一次的题。每看完一个题型，就立刻做 2 到 3 题，把技巧变成动作；只收藏技巧、不落到题目上，提分会很慢。",
+    "source": "local PDF and OCR extraction round 59, question-type study notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-record-and-band-compare",
+    "title": "口语离线练习为什么一定要录音",
+    "keywords": [
+      "口语",
+      "录音",
+      "RA",
+      "RS",
+      "DI",
+      "反馈"
+    ],
+    "answer": "离线做口语练习时，Sunny 会要求学生一定录音。只靠自己当场感觉，很容易高估流利度，也听不出尾音、吞音和停顿问题。录完后先听三件事：内容有没有覆盖题目，声音是否连续，关键词是否清楚。再和高分回答的节奏感做对比，不是模仿口音，而是看信息组织、停顿位置和语速稳定性。",
+    "source": "local PDF extraction round 59, speaking practice workflow",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-one-play-note-first",
+    "title": "听力只放一遍时先抓什么",
+    "keywords": [
+      "听力",
+      "SST",
+      "FIB-L",
+      "WFD",
+      "笔记",
+      "关键词"
+    ],
+    "answer": "PTE 听力很多题只播放一次，所以 Sunny 会让学生先抓结构，再抓单词。SST 先记主题、转折、例子和结论；FIB-L 先看空格前后词性，播放时补具体词；WFD 先保住句子主干，再补小词。听力练习不是把每个词都记下来，而是在一次播放里分清哪些信息决定答案。",
+    "source": "local PDF extraction round 59, listening practice workflow",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-offline-practice-timing-gap",
+    "title": "离线练习和真实考试时间感有什么差别",
+    "keywords": [
+      "离线练习",
+      "考试界面",
+      "时间感",
+      "模考",
+      "PTE",
+      "备考"
+    ],
+    "answer": "离线材料适合熟悉题型和答案逻辑，但它不能完全复制真实界面的倒计时、自动跳转和录音等待。Sunny 会把离线练习当第一步：先理解题型、写下答案、核对错因；第二步必须进入计时练习或模考，把读题、准备、作答和提交动作连起来。否则平时会做题，考试时仍可能被节奏打乱。",
+    "source": "local PDF extraction round 59, offline practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-offline-review-by-error-type",
+    "title": "阅读离线练习怎么复盘才有用",
+    "keywords": [
+      "阅读",
+      "离线练习",
+      "错题复盘",
+      "FIB",
+      "RO",
+      "选择题"
+    ],
+    "answer": "阅读离线练习不要只核对对错。Sunny 会把错题分成四类：没看懂题干、词性判断错、上下文逻辑断了、选项被干扰项带偏。FIB 重点回看空格前后结构，RO 重点回看指代和因果链，选择题重点回看题干问的是主旨、细节还是推断。复盘越具体，下一套题才会少犯同一类错。",
+    "source": "local PDF extraction round 59, reading practice workflow",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-ro-fib-shared-block",
+    "title": "为什么 RO 和 FIB 可以放在同一训练块",
+    "keywords": [
+      "RO",
+      "FIB",
+      "阅读",
+      "语法",
+      "上下文",
+      "训练安排"
+    ],
+    "answer": "RO 和 FIB 表面题型不同，底层都在考句子关系。RO 看句子之间的先后、指代和转折，FIB 看空格前后的词性、搭配和语义。Sunny 常把它们放在同一训练块里：先用 RO 练段落逻辑，再用 FIB 练局部结构。这样学生不会只背词，而是能把词放回句子和段落里判断。",
+    "source": "local PDF extraction round 59, reading task grouping",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibl-word-bank-spelling-families",
+    "title": "听力 FIB 词表不要只背中文意思",
+    "keywords": [
+      "FIB-L",
+      "听力",
+      "词表",
+      "拼写",
+      "词族",
+      "复盘"
+    ],
+    "answer": "听力 FIB 的词表要按声音、拼写和词族一起整理。Sunny 会让学生把容易漏字母、双写、单复数、过去式和名词/动词变化单独标出来。听得出来但写错，和完全没听出来，是两种不同问题。词表复习时一边听一边写，再按错误类型归类，比单纯看中文意思更接近考试。",
+    "source": "local OCR extraction round 59, listening FIB vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-scoring-criteria-before-drill",
+    "title": "刷题前为什么要先看评分项",
+    "keywords": [
+      "PTE Core",
+      "评分标准",
+      "RA",
+      "SWT",
+      "WE",
+      "训练目标"
+    ],
+    "answer": "同样是刷题，不同题型的得分点完全不同。Sunny 会让学生先看评分项再开始练：RA 和 RS 要同时管内容、发音和流利度；SWT 要守住字数、内容和句法；WE 要兼顾观点、结构、语法和拼写。知道评分项以后，练习目标会更清楚，复盘也不会只停留在“这题做错了”。",
+    "source": "local PDF extraction round 59, scoring criteria table",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-transition-function-groups",
+    "title": "写作连接词应该按功能记",
+    "keywords": [
+      "写作",
+      "连接词",
+      "逻辑关系",
+      "WE",
+      "SWT",
+      "句子衔接"
+    ],
+    "answer": "连接词不要按长短或高级程度背。Sunny 会让学生按功能分组：补充、对比、原因、结果、举例、让步、总结。写作时先判断句子之间是什么关系，再选一个自然的连接方式。这样比临场硬塞“高级词”更安全，也能减少逻辑跳跃。",
+    "source": "local PDF extraction round 60, writing transition notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-transition-not-stack",
+    "title": "一两句话里不要堆太多连接词",
+    "keywords": [
+      "写作",
+      "连接词",
+      "逻辑",
+      "句子清晰度",
+      "WE",
+      "SWT"
+    ],
+    "answer": "连接词的作用是帮读者看清关系，不是越多越好。Sunny 会提醒学生一层逻辑用一个清楚信号即可。如果一句话里同时出现转折、因果、递进和总结，句子会显得拥挤，语法风险也更高。写作检查时可以问自己：这句话真正要表达的关系是什么？保留最必要的那个连接点就够了。",
+    "source": "local PDF extraction round 60, writing transition notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-due-to-because-signal",
+    "title": "FIB 里 due to 和 because 怎么判断",
+    "keywords": [
+      "FIB",
+      "语法信号",
+      "due to",
+      "because",
+      "从句",
+      "词性"
+    ],
+    "answer": "FIB 遇到原因关系时，Sunny 会先看空格后面跟的是短语还是完整句子。due to 后面通常接名词性结构，because 后面更常接完整从句。判断时不要只看中文意思，要看后面有没有主语和谓语。这个习惯能帮学生在阅读 FIB 和写作改错里少选“意思对但结构错”的答案。",
+    "source": "local PDF extraction round 60, FIB grammar signal notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-conditional-tense-signal",
+    "title": "FIB 里的条件句为什么常考时态配合",
+    "keywords": [
+      "FIB",
+      "条件句",
+      "时态",
+      "主将从现",
+      "语法",
+      "阅读"
+    ],
+    "answer": "条件句是 FIB 的高频语法信号。Sunny 会让学生先找 if、when、before、after 这类连接词，再判断主句和从句的时间关系。很多情况下，主句表达将来，从句用现在时。做题时不要被中文里的“将要”带偏，英文结构要看句子分工：谁是条件，谁是结果。",
+    "source": "local PDF extraction round 60, FIB grammar signal notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-fib-predict-word-form",
+    "title": "听力 FIB 播放前先预测词性",
+    "keywords": [
+      "FIB-L",
+      "听力",
+      "词性",
+      "预测",
+      "拼写",
+      "空格"
+    ],
+    "answer": "听力 FIB 开始播放前，Sunny 会让学生快速看空格前后。冠词后面多半需要名词，be 动词后面可能是形容词或分词，介词后面常接名词或动名词。预测不是为了猜答案，而是为了听到音频时知道该捕捉什么形式。这样能减少听懂了单词却写错词性的情况。",
+    "source": "local OCR and PDF extraction round 60, listening FIB notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-fib-review-by-error-type",
+    "title": "听力 FIB 错题怎么分类",
+    "keywords": [
+      "FIB-L",
+      "听力",
+      "错题",
+      "拼写",
+      "词性",
+      "复盘"
+    ],
+    "answer": "听力 FIB 复盘要分清错误来源。Sunny 常用四类：没听到关键词、听到但拼写错、词性形式错、空格前后语法没看出来。不同错误用不同训练：没听到就做精听，拼写错就听写词族，词性错就补语法信号，语法没看出就回到句子结构。不要把所有错误都简单归为“词汇量不够”。",
+    "source": "local OCR extraction round 60, listening FIB review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-topic-plus-key-details",
+    "title": "SST 摘要不要只写细节",
+    "keywords": [
+      "SST",
+      "听力",
+      "摘要",
+      "主题句",
+      "关键词",
+      "结构"
+    ],
+    "answer": "SST 最常见的问题不是完全听不懂，而是细节堆太多、主题没写清。Sunny 会让学生用“主题加两到三个关键支撑点”的结构：第一步写讲座在讨论什么，第二步补主要原因、例子或结果，第三步检查句子是否连贯。摘要不是逐字复述音频，而是把听到的信息压成清楚的学术说明。",
+    "source": "local PDF extraction round 60, SST summary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-link-chain-pronoun-cause-example",
+    "title": "RO 排序先找哪几类衔接",
+    "keywords": [
+      "RO",
+      "阅读",
+      "排序",
+      "代词",
+      "因果",
+      "例子"
+    ],
+    "answer": "RO 不要先凭感觉读顺。Sunny 会让学生先找三类链条：代词指代链、因果转折链、例子解释链。总述句通常先给主题，后面句子用 this、these、such 或具体例子继续展开；如果出现 however、therefore、for example，就要判断它连接的是哪一句。先搭链条，再排顺序，稳定性会比纯语感更高。",
+    "source": "local PDF extraction round 60, RO ordering notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
