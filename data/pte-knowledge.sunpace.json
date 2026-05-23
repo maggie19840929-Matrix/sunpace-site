@@ -23665,5 +23665,261 @@
     "source": "local media transcript round 104, score-report review notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-wfd-sentence-length-score-ceiling",
+    "title": "WFD 句子长度会影响可拿词数",
+    "keywords": [
+      "WFD",
+      "句子长度",
+      "有效词",
+      "听力",
+      "写作",
+      "复盘"
+    ],
+    "answer": "Sunny 会让学生把 WFD 当作按有效词累积分的题来复盘。短句目标词少，漏一个词影响会更明显；长句目标词多，关键是尽量保住主干和更多确定词。不要只看“错了几句”，要看每句写对了多少有效词。",
+    "source": "local media transcript round 105, WFD scoring notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-wfd-heard-form-beats-writing-habit",
+    "title": "WFD 先还原听到的形式",
+    "keywords": [
+      "WFD",
+      "缩写",
+      "格式",
+      "听写",
+      "还原",
+      "写作习惯"
+    ],
+    "answer": "WFD 不是让学生把句子改写得更正式，而是尽量还原音频。Sunny 会提醒：听到缩写就不要随手展开，听到完整形式也不要擅自缩写。写作里的格式偏好，不能直接套到听写题里。",
+    "source": "local media transcript round 105, WFD format notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-wfd-capitalization-is-word-match",
+    "title": "WFD 大小写属于匹配细节",
+    "keywords": [
+      "WFD",
+      "大小写",
+      "首字母",
+      "专有名词",
+      "格式",
+      "听写"
+    ],
+    "answer": "Sunny 会把 WFD 的大小写当成有效词匹配的一部分。句首词、日期、月份、专有名词等位置要尽量按规范写。听懂了但大小写乱，仍可能让这个词不稳，所以最后检查要扫首字母和明显专有名词。",
+    "source": "local media transcript round 105, WFD capitalization notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-wfd-grammar-form-affects-word-credit",
+    "title": "WFD 词形错会影响这个词能不能算对",
+    "keywords": [
+      "WFD",
+      "词形",
+      "时态",
+      "单复数",
+      "语法形式",
+      "有效词"
+    ],
+    "answer": "WFD 里时态、单复数和词形不是额外的小装饰。Sunny 会提醒学生：如果音频是复数、过去式或特定形式，答案也要尽量跟上。错的形式不一定像作文那样另扣一项，但这个词本身可能匹配不上。",
+    "source": "local media transcript round 105, WFD word-form notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-short-essay-clear-side-first",
+    "title": "WE 篇幅短时先保证立场清楚",
+    "keywords": [
+      "WE",
+      "立场",
+      "单边论证",
+      "双边论证",
+      "写作",
+      "审题"
+    ],
+    "answer": "WE 只有有限字数，Sunny 会让学生先看题目到底要求讨论几边。没有明确要求双边时，单边立场通常更容易写深：两个主体段都服务同一个观点。硬写两边但每边都浅，反而容易让结论不清。",
+    "source": "local media transcript round 105, WE stance notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-personal-example-service-claim",
+    "title": "WE 个人例子要服务观点",
+    "keywords": [
+      "WE",
+      "例子",
+      "个人经历",
+      "论证",
+      "写作",
+      "扣题"
+    ],
+    "answer": "Sunny 会让学生把个人例子当成论点的证据，而不是写故事。例子出现前要先有观点，例子之后要解释它证明了什么。只写经历本身，不回到题目和立场，就容易变成流水账。",
+    "source": "local media transcript round 105, WE example notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-unrealistic-example-switch-evidence",
+    "title": "WE 遇到不真实经历要换证据角度",
+    "keywords": [
+      "WE",
+      "例子",
+      "证据",
+      "常识",
+      "写作",
+      "论证"
+    ],
+    "answer": "有些题目不适合硬写自己的亲身经历。Sunny 会让学生改用更可信的证据角度，例如身边观察、新闻常识、公共预算、学校或工作场景。例子不必戏剧化，可信且能支持观点更重要。",
+    "source": "local media transcript round 105, WE evidence notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-own-experience-not-long-story",
+    "title": "WE 个人经历不用写成长故事",
+    "keywords": [
+      "WE",
+      "个人经历",
+      "例子长度",
+      "写作",
+      "论证",
+      "时间"
+    ],
+    "answer": "Sunny 会控制 WE 例子的长度。个人经历只需要交代场景、发生了什么、为什么支持观点，不需要完整叙事。考试里例子越长，越容易挤掉分析和结论；短而清楚的例证更安全。",
+    "source": "local media transcript round 105, WE example-length notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-pi-no-silent-start",
+    "title": "Personal Introduction 不要沉默开场",
+    "keywords": [
+      "Personal Introduction",
+      "口语",
+      "开声",
+      "考场",
+      "麦克风",
+      "热身"
+    ],
+    "answer": "Personal Introduction 通常不是主得分题，但 Sunny 不建议沉默或随便糊弄。它能帮助学生在正式口语前先开声，确认自己说话音量和节奏。准备一个短版本，说顺即可，不需要追求复杂内容。",
+    "source": "local media transcript round 106, speaking warmup notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-pi-baseline-volume",
+    "title": "自我介绍可以建立口语音量基线",
+    "keywords": [
+      "Personal Introduction",
+      "音量",
+      "口语",
+      "麦克风",
+      "考场噪音",
+      "热身"
+    ],
+    "answer": "Sunny 会让学生用熟悉的自我介绍找到自己的考试音量。声音要清楚送进麦克风，但不用喊。这个短环节的价值，是让嘴巴、气息和设备位置先稳定下来，减少第一道正式口语题的紧张感。",
+    "source": "local media transcript round 106, speaking volume notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-score-experiment-as-priority-clue",
+    "title": "旧分数实验只能当优先级线索",
+    "keywords": [
+      "阅读",
+      "题型贡献",
+      "分数实验",
+      "优先级",
+      "诊断",
+      "PTE"
+    ],
+    "answer": "Sunny 会把历史分数实验当成题型优先级线索，而不是精确换算公式。题型贡献会受版本、发挥和交叉评分影响。更稳的是从实验里看出哪些题型值得优先练，再用自己的模考和成绩单验证。",
+    "source": "local media transcript round 106, reading score-priority notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-ra-reading-link-diagnosis",
+    "title": "阅读低分时也要回听 RA",
+    "keywords": [
+      "RA",
+      "阅读",
+      "口语",
+      "交叉评分",
+      "诊断",
+      "复盘"
+    ],
+    "answer": "RA 不只是一道口语题。Sunny 会提醒阅读低分学生回听 RA：有没有漏词、读错词形、吞掉尾音或意群混乱。阅读分不稳时，只查 FIB 和 RO 还不够，交叉供分题也要一起复盘。",
+    "source": "local media transcript round 106, RA reading-link notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-fib-can-drag-writing",
+    "title": "阅读 FIB 弱也可能拖写作",
+    "keywords": [
+      "FIB",
+      "阅读",
+      "写作",
+      "交叉评分",
+      "成绩单",
+      "诊断"
+    ],
+    "answer": "Sunny 会提醒学生：写作低不一定只查 WE。阅读写作类 FIB、SWT、SST 和 WFD 都可能牵动写作表现。如果成绩单显示写作不理想，但作文结构看起来还行，就要检查这些交叉题型有没有大量漏分。",
+    "source": "local media transcript round 106, FIB writing-link notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-choice-icon-fast-identify",
+    "title": "阅读选择题先快速识别单选多选",
+    "keywords": [
+      "阅读",
+      "单选",
+      "多选",
+      "题型识别",
+      "时间管理",
+      "选择题"
+    ],
+    "answer": "阅读部分是整体计时，Sunny 会让学生先快速识别题型。单选和多选的答题风险不同，不能读到一半才发现。先确认是单选还是多选，再决定保守程度和投入时间，可以避免低权重题拖走主力时间。",
+    "source": "local media transcript round 106, reading choice-identification notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-purposeful-scan",
+    "title": "阅读扫读要带着目标找信息",
+    "keywords": [
+      "阅读",
+      "扫读",
+      "定位词",
+      "单选",
+      "多选",
+      "时间管理"
+    ],
+    "answer": "Sunny 会区分有目标的扫读和漫无目的地浏览。做阅读选择题时，先看题目限定词、时间、地点、对象和主题，再回文章找对应位置。扫读不是乱跳，而是带着问题搜索，找到后再精读判断。",
+    "source": "local media transcript round 106, reading scan notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-stage-two-foundation-test-check",
+    "title": "基础框架跑通后要做一次实战检查",
+    "keywords": [
+      "备考阶段",
+      "模考",
+      "实战检查",
+      "学习计划",
+      "PTE",
+      "复盘"
+    ],
+    "answer": "Sunny 会把备考分阶段：第一阶段先跑通口语、写作、阅读和听力的基础框架；第二阶段开始加大题量和速度前，最好做一次模考或实战检查。这样能知道问题是在题型方法、时间管理还是基础能力，而不是盲目进入下一阶段。",
+    "source": "local media transcript round 106, study-stage notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
