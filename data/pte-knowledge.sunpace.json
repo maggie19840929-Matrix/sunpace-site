@@ -21105,5 +21105,261 @@
     "source": "local OCR extraction round 84, SWT topic-bank notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-index-as-topic-map",
+    "title": "SWT 目录可以当主题地图",
+    "keywords": [
+      "SWT",
+      "目录",
+      "主题地图",
+      "复习规划",
+      "概括",
+      "题库"
+    ],
+    "answer": "看到很长的 SWT 目录时，Sunny 不会让学生逐条焦虑，而是把它当主题地图。先标出科技、环境、教育、健康、历史、社会和经济等大类，再决定本周重点。目录的价值不是背页码，而是帮助学生看清自己哪些主题不熟。",
+    "source": "local OCR extraction round 85, SWT topic-index notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-monthly-version-difference",
+    "title": "SWT 月份版本只补差异",
+    "keywords": [
+      "SWT",
+      "版本差异",
+      "题库",
+      "复习",
+      "去重",
+      "概括"
+    ],
+    "answer": "不同月份的 SWT 资料常有大量重叠。Sunny 会先按题目主题去重，再只补新增题、改标题题和主线有变化的题。这样学生不会被版本数量拖住，复习重点也能放在概括能力，而不是重复翻同一批主题。",
+    "source": "local OCR extraction round 85, SWT topic-index notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-topic-breadth-build-schema",
+    "title": "SWT 主题广度要变成认知框架",
+    "keywords": [
+      "SWT",
+      "主题广度",
+      "认知框架",
+      "阅读",
+      "概括",
+      "备考"
+    ],
+    "answer": "SWT 主题覆盖面很广，Sunny 会让学生为常见领域建立框架：科技看发明与影响，环境看原因与后果，教育看公平与质量，健康看风险与干预。有框架后，遇到新文章也能更快判断主线。",
+    "source": "local OCR extraction round 85, SWT topic-index notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-table-of-contents-not-content",
+    "title": "SWT 目录不能替代正文训练",
+    "keywords": [
+      "SWT",
+      "目录",
+      "正文",
+      "低置信",
+      "训练",
+      "概括"
+    ],
+    "answer": "目录只能告诉学生可能出现哪些主题，不能替代正文概括训练。Sunny 会把只有标题的材料作为低置信线索，用来预热词汇和背景；真正的答案训练仍然要回到完整段落，练主旨、删细节和句法压缩。",
+    "source": "local OCR extraction round 85, SWT topic-index notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-vocab-visual-data-words",
+    "title": "阅读写作要熟悉图表数据词",
+    "keywords": [
+      "阅读写作",
+      "图表词",
+      "数据",
+      "graph",
+      "chart",
+      "词汇"
+    ],
+    "answer": "阅读写作中经常出现图表、曲线、数据和趋势相关词。Sunny 会让学生把 graph、chart、steadily、estimation、magnitude 这类词放在一起复习。它们不只用于 DI，也会帮助阅读理解研究结果和写作表达变化。",
+    "source": "local OCR extraction round 85, reading-writing vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-vocab-academic-admin-words",
+    "title": "学术管理词要按场景记",
+    "keywords": [
+      "阅读写作",
+      "学术词汇",
+      "管理词",
+      "课程",
+      "资格",
+      "要求"
+    ],
+    "answer": "curriculum、requirement、qualification、guideline、assessment 这类词常出现在教育和学术管理语境。Sunny 会让学生按场景记：课程设置、入学要求、评估标准和资格条件。场景清楚，阅读时就不容易把词义看散。",
+    "source": "local OCR extraction round 85, reading-writing vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-vocab-evidence-verification-judgment",
+    "title": "证据判断类词要成组掌握",
+    "keywords": [
+      "阅读写作",
+      "证据",
+      "判断",
+      "核实",
+      "学术阅读",
+      "词汇"
+    ],
+    "answer": "学术阅读里经常讨论判断、验证、说明和证据。Sunny 会把 judgment、verification、illustrate、acknowledge、justification 放在同一组。学生要知道这些词是在说明“如何证明”，而不是只背中文意思。",
+    "source": "local OCR extraction round 85, reading-writing vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-vocab-boundary-scope-terms",
+    "title": "范围边界词影响阅读判断",
+    "keywords": [
+      "阅读写作",
+      "范围",
+      "边界",
+      "限定",
+      "学术阅读",
+      "词汇"
+    ],
+    "answer": "boundary、particular、scope、guideline、requirement 这类词会限制句子的范围。Sunny 会让学生特别注意它们，因为阅读题常考“范围有没有被扩大或缩小”。范围词看准了，判断细节正误会稳很多。",
+    "source": "local OCR extraction round 85, reading-writing vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-vocab-word-family-review",
+    "title": "阅读写作词汇按词族复习",
+    "keywords": [
+      "阅读写作",
+      "词族",
+      "词性",
+      "复习",
+      "FIB",
+      "写作"
+    ],
+    "answer": "Sunny 会把词汇从单个单词扩展到词族。例如 academic、academics、academically 对应不同句子位置；assess、assessment、assessor 也有不同功能。按词族复习能同时服务 FIB 词性判断和 WE 主动表达。",
+    "source": "local OCR extraction round 86, vocabulary review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-vocab-polysemy-chart-graph",
+    "title": "熟词多义要结合学术语境",
+    "keywords": [
+      "阅读写作",
+      "熟词多义",
+      "chart",
+      "edge",
+      "strike",
+      "语境"
+    ],
+    "answer": "chart、edge、strike、annual 这类熟词在学术材料里可能不是最常见的日常意思。Sunny 会让学生看搭配和话题再判断词义。熟词多义不复盘，很容易在阅读中产生“每个词都认识但句子不懂”的问题。",
+    "source": "local OCR extraction round 86, vocabulary review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-vocab-humanities-science-clusters",
+    "title": "人文和科学词要分簇积累",
+    "keywords": [
+      "阅读写作",
+      "人文",
+      "科学",
+      "主题词",
+      "词汇",
+      "阅读"
+    ],
+    "answer": "阅读写作词汇可以按人文和科学分簇。humanity、aesthetic、pluralism 适合放入人文社会主题；biosphere、antioxidant、combustion、vaccine 更偏科学健康主题。主题分簇能帮助学生更快进入文章背景。",
+    "source": "local OCR extraction round 86, vocabulary review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-vocab-culture-migration-terms",
+    "title": "文化迁移词常牵动文章立场",
+    "keywords": [
+      "阅读写作",
+      "文化",
+      "迁移",
+      "社会主题",
+      "词汇",
+      "阅读"
+    ],
+    "answer": "aboriginal、immigrant、acquisition、autonomy、pluralism 这类词常出现在文化、迁移和社会身份文章中。Sunny 会提醒学生留意作者态度：是在描述事实、讨论权利，还是评价政策。主题词背后往往带着立场。",
+    "source": "local OCR extraction round 86, vocabulary review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-vocab-policy-action-verbs",
+    "title": "政策动作词要看力度",
+    "keywords": [
+      "阅读写作",
+      "政策",
+      "动作动词",
+      "abolish",
+      "impede",
+      "alleviate"
+    ],
+    "answer": "政策类文章常用 abolish、impede、alleviate、implement、assign 这类动作词。Sunny 会让学生比较力度：是废除、阻碍、缓解、执行还是分配。动作力度看准了，才能理解作者是在支持、限制还是修正某个方案。",
+    "source": "local OCR extraction round 86, vocabulary review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-vocab-pronunciation-aids-memory",
+    "title": "词汇发音能帮助记忆和输出",
+    "keywords": [
+      "阅读写作",
+      "发音",
+      "词汇",
+      "记忆",
+      "拼写",
+      "输出"
+    ],
+    "answer": "即使是阅读写作词汇，Sunny 也会让学生看发音和重音。发音清楚能帮助记拼写，也能让这个词进入口语和听力识别。只看中文释义容易记成孤立符号，发音、词性、搭配一起记才更稳。",
+    "source": "local OCR extraction round 86, vocabulary review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-vocab-clean-duplicates",
+    "title": "词表复习要清理重复项",
+    "keywords": [
+      "阅读写作",
+      "词表",
+      "重复项",
+      "复习效率",
+      "词汇",
+      "备考"
+    ],
+    "answer": "大词表里常有重复词、拼写变体和同主题词。Sunny 会让学生清理重复项，把同一个词的不同词性和常见搭配放在同一张卡片里。词表变薄以后，复习次数反而能增加，记忆质量也会更好。",
+    "source": "local OCR extraction round 86, vocabulary review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-vocab-active-passive-label",
+    "title": "词汇要标识识别词和输出词",
+    "keywords": [
+      "阅读写作",
+      "识别词",
+      "输出词",
+      "主动词汇",
+      "被动词汇",
+      "复习"
+    ],
+    "answer": "不是所有词都需要马上变成写作输出词。Sunny 会把词汇分成识别词和输出词：阅读中能认出即可的放识别层，WE 和 SWT 能主动使用的放输出层。分层以后，学生不会把时间平均花在所有词上。",
+    "source": "local OCR extraction round 86, vocabulary review notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
