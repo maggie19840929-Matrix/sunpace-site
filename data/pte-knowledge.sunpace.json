@@ -24939,5 +24939,249 @@
     "source": "local OCR extraction round 114, vocabulary topic-tag notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-accuracy-before-volume",
+    "title": "听力先练准确再扩大输入量",
+    "keywords": [
+      "听力",
+      "精听",
+      "泛听",
+      "SST",
+      "WFD",
+      "RS"
+    ],
+    "answer": "Sunny 会把听力训练分成两层：先解决听不清的词、连读和句子边界，再扩大材料量训练篇章耐心。如果基础阶段只大量播放材料，常常只是反复漏同一类声音。先把耳朵的识别准确度拉起来，再增加输入量，进步会更稳。",
+    "source": "local OCR extraction round 115, listening training method notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-big-small-task-map",
+    "title": "听力题要分清大题和小题",
+    "keywords": [
+      "听力",
+      "SST",
+      "WFD",
+      "HCS",
+      "MCQ",
+      "任务分层"
+    ],
+    "answer": "PTE 听力不是一个统一练法。Sunny 会把 SST、HCS、选择题这类篇章理解任务，和 WFD、FIB、HIW 这类词句识别任务分开训练。前者看主旨和结构，后者看字词准确。练习前先判断题型层级，才不会用背单词的方法硬做篇章题。",
+    "source": "local OCR extraction round 115, listening task-map notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-structure-before-summary",
+    "title": "SST 先听结构再写摘要",
+    "keywords": [
+      "SST",
+      "听力",
+      "摘要",
+      "结构",
+      "笔记"
+    ],
+    "answer": "SST 的核心不是听到多少零散词，而是能不能抓住讲话顺序。Sunny 会让学生第一遍训练时先标出主题、转折、例子和结论，再把笔记压成完整句。写作阶段只保留能支撑主旨的信息，避免把听到的词机械拼接成不连贯段落。",
+    "source": "local OCR extraction round 115, SST listen-write notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-hcs-own-summary-before-options",
+    "title": "HCS 先保留音频记忆再看选项",
+    "keywords": [
+      "HCS",
+      "听力",
+      "选项",
+      "主旨",
+      "记忆"
+    ],
+    "answer": "Highlight Correct Summary 容易被长选项带偏。Sunny 会建议学生听完后先用自己的话记一句主旨，再去比对选项。不要一边看选项一边改记忆，因为干扰项常常借用原文词。先保护音频印象，再用选项做验证。",
+    "source": "local OCR extraction round 115, HCS summary choice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-mcq-audio-purpose-filter",
+    "title": "听力选择题先看问题目的",
+    "keywords": [
+      "MCQ",
+      "听力选择",
+      "题干",
+      "多选",
+      "单选"
+    ],
+    "answer": "听力选择题要先看题干问的是原因、态度、细节还是结论。Sunny 会让学生带着问题目的听，而不是平均记录所有信息。单选题重点找最符合问题的答案，多选题宁可少选也不要贪心补选。目的清楚，干扰项就更容易排除。",
+    "source": "local OCR extraction round 115, listening MCQ purpose notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-smw-ending-logic-prediction",
+    "title": "SMW 关注结尾功能",
+    "keywords": [
+      "SMW",
+      "Select Missing Word",
+      "听力",
+      "结尾",
+      "预测"
+    ],
+    "answer": "Select Missing Word 考的不是最后一个词本身，而是结尾在整段里的功能。Sunny 会训练学生听转折、因果、总结和举例信号，再预测最后一句可能怎么收束。听到后半段时要减少抄词，转向判断说话人的逻辑走向。",
+    "source": "local OCR extraction round 115, missing word prediction notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-translation-assisted-relisten-loop",
+    "title": "译文只能放在首轮听后使用",
+    "keywords": [
+      "听力",
+      "译文",
+      "精听",
+      "复盘",
+      "理解"
+    ],
+    "answer": "使用带译文的材料时，Sunny 不建议一开始就看中文。先听原文并标出听不懂的位置，再看译文确认意思，最后合上译文重听。这个顺序能暴露真正的听力断点。如果先看译文，学生容易误以为自己听懂了。",
+    "source": "local OCR extraction round 115, translation-assisted listening notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-shadowing-audio-to-speaking-loop",
+    "title": "跟读能连接听力和口语",
+    "keywords": [
+      "跟读",
+      "听力",
+      "口语",
+      "发音",
+      "影子练习"
+    ],
+    "answer": "跟读不是单纯模仿声音，而是把听到的节奏、重音和连读转成自己的口腔动作。Sunny 会让学生选短材料做影子练习：先听懂，再慢速跟读，最后接近原速。这样既训练耳朵识别，也能改善 RA 和 RS 的声音稳定度。",
+    "source": "local OCR extraction round 115, shadowing practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-graph-chart-data-words",
+    "title": "图表词优先绑定 DI 和阅读",
+    "keywords": [
+      "词汇",
+      "图表",
+      "DI",
+      "阅读",
+      "graph",
+      "chart"
+    ],
+    "answer": "graph、chart、estimation、magnitude 这类词不要只当孤立单词背。Sunny 会把它们放进 DI 描述和阅读句子里练：它们常常提示数据、趋势、范围和判断。词汇和题型绑定后，学生在看图、读题和写解释时调用更快。",
+    "source": "local OCR extraction round 116, graph vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-judgment-verification-academic",
+    "title": "学术词要记使用场景",
+    "keywords": [
+      "词汇",
+      "学术词",
+      "judgment",
+      "verification",
+      "assessment",
+      "阅读"
+    ],
+    "answer": "judgment、verification、assessment 这类学术词在 PTE 阅读和写作中常表示判断、核实和评估。Sunny 会让学生同时记意思、词性和常见搭配，而不是只背中文释义。知道词在句子里做什么，FIB 和写作都更容易用对。",
+    "source": "local OCR extraction round 116, academic vocabulary usage notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-family-over-single-word",
+    "title": "词族比单词清单更有用",
+    "keywords": [
+      "词族",
+      "词汇",
+      "派生词",
+      "写作",
+      "阅读"
+    ],
+    "answer": "背词时只记一个形态，考试里经常认不出变化。Sunny 会让学生把 verify、verification、verifiable 这类词族放在一起，顺手标出名词、动词和形容词。阅读 FIB 看空格形式时，词族意识能直接帮助排除错误选项。",
+    "source": "local OCR extraction round 116, word-family notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-slot-part-of-speech",
+    "title": "FIB 空格先判词性槽位",
+    "keywords": [
+      "FIB",
+      "词性",
+      "阅读",
+      "语法",
+      "填空"
+    ],
+    "answer": "阅读 FIB 遇到陌生词时，不要立刻按意思猜。Sunny 会先让学生判断空格需要名词、动词、形容词还是副词，再看单复数、时态和搭配。形式槽位锁定后，即使词义不完全熟，也能排掉一批不可能的选项。",
+    "source": "local OCR extraction round 116, FIB slot analysis notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-topic-vocab-not-word-list",
+    "title": "写作词汇按话题成组准备",
+    "keywords": [
+      "WE",
+      "词汇",
+      "话题",
+      "搭配",
+      "写作素材"
+    ],
+    "answer": "WE 词汇准备不要变成随机高级词清单。Sunny 会按教育、科技、环境、社会、健康等话题建立小词组，每组包含观点词、原因词和例子词。考试时先选贴题表达，再考虑高级度。词汇服务观点，文章才自然。",
+    "source": "local OCR extraction round 116, essay topic vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-unknown-word-pre-mark",
+    "title": "RA 预读时先标陌生词风险",
+    "keywords": [
+      "RA",
+      "预读",
+      "陌生词",
+      "发音",
+      "口语"
+    ],
+    "answer": "RA 预读时间里，如果看到不确定的词，Sunny 会让学生先标出来并决定一个稳定读法。不要把全部时间花在第一句，也不要临读时临时猜音。陌生词即使读得不完美，也要保证节奏不断，避免它拖垮后面的句子。",
+    "source": "local OCR extraction round 116, RA unknown-word preparation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-academic-noun-chain",
+    "title": "长名词链从核心名词拆开",
+    "keywords": [
+      "阅读",
+      "名词链",
+      "学术句子",
+      "FIB",
+      "理解"
+    ],
+    "answer": "阅读里常见多个名词或形容词叠在一起，例如政策、评估、要求、边界这类抽象词组合。Sunny 会让学生先找最右侧或最核心的名词，再往前看修饰范围。名词链拆开后，句子主干更清楚，FIB 的搭配判断也更稳。",
+    "source": "local OCR extraction round 116, academic noun-chain notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-review-loop-listen-read-write",
+    "title": "词汇复习要跨听读写循环",
+    "keywords": [
+      "词汇复习",
+      "听力",
+      "阅读",
+      "写作",
+      "循环"
+    ],
+    "answer": "一个词只在词表里见过，不代表考试中会用。Sunny 会安排三步循环：听力里听见它，阅读里认出它，写作里用一遍。跨题型复习能把被动词汇慢慢变成可调用词汇，也能减少看到熟词却不会用的情况。",
+    "source": "local OCR extraction round 116, cross-skill vocabulary review notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
