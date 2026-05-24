@@ -27346,5 +27346,245 @@
     "source": "local OCR extraction round 134, exam email confirmation notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-template-as-scaffold-not-script",
+    "title": "作文模板只能当脚手架",
+    "keywords": [
+      "WE",
+      "模板",
+      "写作",
+      "审题",
+      "结构"
+    ],
+    "answer": "WE 模板可以帮助学生稳定结构，但不能把题目塞进固定句子就结束。Sunny 会把模板当脚手架：保留段落功能和逻辑顺序，主题词、论据、例子和结论都要根据题目重写。套得越机械，越容易离题。",
+    "source": "local OCR extraction round 135, essay framework notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-opinion-statement-early-clear",
+    "title": "观点题开头要早亮立场",
+    "keywords": [
+      "WE",
+      "观点题",
+      "开头段",
+      "立场",
+      "写作"
+    ],
+    "answer": "Agree/Disagree 或 To what extent 题，开头段应尽早告诉读者你的立场。Sunny 会让学生用背景句引入话题后，第二句直接表明基本同意、基本反对或部分同意。立场清楚，后文段落才有方向。",
+    "source": "local OCR extraction round 135, essay opinion opening notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-body-claim-explain-example-result",
+    "title": "主体段按论点解释例子结果推进",
+    "keywords": [
+      "WE",
+      "主体段",
+      "论证",
+      "例子",
+      "写作"
+    ],
+    "answer": "一个主体段最好不要只堆观点。Sunny 会用 claim、explain、example、result 四步训练：先给论点，再解释为什么成立，随后给例子或场景，最后说明影响。这样段落会有推进感，而不是同义句重复。",
+    "source": "local OCR extraction round 135, essay body development notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-example-should-be-plausible",
+    "title": "作文例子要可信不要硬造数据",
+    "keywords": [
+      "WE",
+      "例子",
+      "论证",
+      "写作",
+      "可信度"
+    ],
+    "answer": "WE 例子不需要复杂数据，但必须可信。Sunny 不鼓励学生硬造具体机构、年份和百分比；更稳的做法是写常见社会场景、学校或工作中的合理例子。例子服务解释，不是用来冒充研究报告。",
+    "source": "local OCR extraction round 135, essay evidence quality notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-concession-plus-rebuttal",
+    "title": "让步段要承认再反驳",
+    "keywords": [
+      "WE",
+      "让步段",
+      "反方观点",
+      "写作",
+      "逻辑"
+    ],
+    "answer": "让步段不是写完反方就放过它。Sunny 会让学生先承认对方观点在表面上或某种条件下有道理，再说明它忽略了什么、适用范围有限在哪里。让步加反驳，才能支持自己的主立场。",
+    "source": "local OCR extraction round 135, essay concession rebuttal notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-problem-solution-cause-impact-fix",
+    "title": "问题解决题按原因影响方案走",
+    "keywords": [
+      "WE",
+      "问题解决题",
+      "solution",
+      "原因",
+      "写作"
+    ],
+    "answer": "Problem/Solution 题要避免只列方案。Sunny 会先让学生写清问题来源，再说明影响，最后给出可执行方案。原因、影响和方案要相互对应：如果原因是信息不足，方案就应围绕教育、提醒或透明度，而不是随便换话题。",
+    "source": "local OCR extraction round 135, essay problem solution notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-solution-levels-match-problem",
+    "title": "解决方案层级要匹配问题范围",
+    "keywords": [
+      "WE",
+      "solution",
+      "政府",
+      "个人",
+      "机构"
+    ],
+    "answer": "不是每个问题都需要政府、机构和个人三方同时出场。Sunny 会让学生先判断问题范围：个人习惯用个人行动，学校问题用学校和家庭，社会系统问题才引入政府或机构。方案层级匹配，作文会更具体。",
+    "source": "local OCR extraction round 135, essay solution level notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-conclusion-reasoned-restatement",
+    "title": "结尾要重述理由而不是复制开头",
+    "keywords": [
+      "WE",
+      "结尾段",
+      "写作",
+      "总结",
+      "立场"
+    ],
+    "answer": "结尾段不能只把开头换几个词。Sunny 会要求学生用一句话重申立场，并带上最核心的理由或权衡。读者看到结尾时，应能明白为什么你得出这个结论，而不是只看到重复表态。",
+    "source": "local OCR extraction round 135, essay conclusion notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-education-sports-balance-frame",
+    "title": "教育与体育题不要做假二选一",
+    "keywords": [
+      "SWT",
+      "教育",
+      "体育",
+      "写作",
+      "平衡"
+    ],
+    "answer": "教育类材料常把学术成绩和体育活动放在一起讨论。Sunny 会提醒学生不要机械写成二选一，而要看原文是否在讲平衡：学术能带来未来机会，体育能支持健康和效率。总结时抓住两者关系。",
+    "source": "local OCR extraction round 136, education sports summary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-culture-curriculum-tradeoff",
+    "title": "文化课程题抓价值和时间成本",
+    "keywords": [
+      "SWT",
+      "文化教育",
+      "课程",
+      "权衡",
+      "总结"
+    ],
+    "answer": "涉及传统戏剧、历史文化或艺术课程的材料，常同时讨论文化理解和学业压力。Sunny 会让学生用 trade-off 框架：一边是文化、审美和开放心态，一边是时间成本和学习负担。两边都抓到，摘要更完整。",
+    "source": "local OCR extraction round 136, culture curriculum summary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-screen-time-correlation-frame",
+    "title": "屏幕时间题先抓相关关系",
+    "keywords": [
+      "SWT",
+      "屏幕时间",
+      "儿童",
+      "相关关系",
+      "总结"
+    ],
+    "answer": "儿童看电视或屏幕时间类文章，常讨论时间占用与学习、社交、运动之间的关系。Sunny 会让学生优先找 correlation：某项时间增加，哪些活动减少。写摘要时避免道德化评价，重点呈现影响链。",
+    "source": "local OCR extraction round 136, screen-time summary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-globalization-diaspora-factor-list",
+    "title": "全球化类材料抓定义和原因链",
+    "keywords": [
+      "SWT",
+      "全球化",
+      "群体迁移",
+      "原因链",
+      "总结"
+    ],
+    "answer": "全球化和迁移类材料常先定义群体，再列出交通、通信、身份、政策或国际关系等原因。Sunny 会让学生先写对象是什么，再用 including 或 because 连接原因链。不要只背一个 globalization 关键词。",
+    "source": "local OCR extraction round 136, globalization summary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-graph-chart-word-family",
+    "title": "graph 和 chart 要同时记名词动词",
+    "keywords": [
+      "RW",
+      "DI",
+      "graph",
+      "chart",
+      "词汇"
+    ],
+    "answer": "graph 和 chart 不只是图表名词，也可能作动词表示绘制、记录或跟踪。Sunny 会让学生把图表词汇按词性整理：名词用于识别题材，动词用于描述动作。这样在 DI、阅读和写作里都能用得更灵活。",
+    "source": "local OCR extraction round 136, graph chart vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-judgment-verification-assessment",
+    "title": "判断核实评估三类词要分清",
+    "keywords": [
+      "RW",
+      "词汇",
+      "judgment",
+      "verification",
+      "assessment"
+    ],
+    "answer": "judgment、verification、assessment 都和判断有关，但功能不同。Sunny 会让学生区分：judgment 是判断或裁定，verification 是核实真伪，assessment 是评估水平或价值。阅读填空时，动词搭配和语境会决定选哪一个。",
+    "source": "local OCR extraction round 136, evaluation vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-academic-word-family",
+    "title": "academic 词族按身份和性质区分",
+    "keywords": [
+      "RW",
+      "academic",
+      "词族",
+      "阅读",
+      "写作"
+    ],
+    "answer": "academic、academics、academy、academically 容易混。Sunny 会让学生按功能记：academic 可作形容词表示学术的，也可作学者；academics 常指学术人员或学业；academy 是机构；academically 表示在学业或学术层面。",
+    "source": "local OCR extraction round 136, academic word-family notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-policy-admin-vocabulary-cluster",
+    "title": "政策管理词汇按流程成组记",
+    "keywords": [
+      "RW",
+      "政策词汇",
+      "requirement",
+      "guidelines",
+      "implementation"
+    ],
+    "answer": "requirement、guidelines、implementation、establishment、qualification 常出现在制度或政策文章里。Sunny 会把它们按流程记：制定要求，发布指南，确认资格，实施方案，建立机制。按流程记比孤立背词更容易理解文章。",
+    "source": "local OCR extraction round 136, policy vocabulary cluster notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
