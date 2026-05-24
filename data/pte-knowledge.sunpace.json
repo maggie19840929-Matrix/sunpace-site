@@ -27586,5 +27586,245 @@
     "source": "local OCR extraction round 136, policy vocabulary cluster notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-template-needs-real-data",
+    "title": "DI 模板必须填真实数据",
+    "keywords": [
+      "DI",
+      "模板",
+      "图表描述",
+      "数据",
+      "口语"
+    ],
+    "answer": "DI 可以有固定开头和结尾，但主体必须来自图表真实信息。Sunny 会要求学生至少说出图表类型、最高项或最低项、明显趋势和一个具体数值。只说 interesting graph 或 useful information，没有可评分内容。",
+    "source": "local OCR extraction round 137, DI template quality notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-chart-type-controls-language",
+    "title": "DI 图型决定表达方式",
+    "keywords": [
+      "DI",
+      "图型",
+      "bar chart",
+      "line chart",
+      "口语"
+    ],
+    "answer": "柱图、饼图、表格和线图不能完全用同一套句子。Sunny 会让学生先识别图型：柱图常比较大小，饼图看占比，表格看类别差异，线图看变化方向。图型判断对了，语言才不会错位。",
+    "source": "local OCR extraction round 137, DI chart-type language notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-line-chart-trend-before-rank",
+    "title": "线图先说趋势再说排名",
+    "keywords": [
+      "DI",
+      "line chart",
+      "趋势",
+      "口语",
+      "数据"
+    ],
+    "answer": "线图重点通常不是谁最大，而是谁上升、下降、波动或保持稳定。Sunny 会训练学生先说起点和终点变化，再补充最高点或最低点。把线图当柱图排名，会漏掉最重要的动态信息。",
+    "source": "local OCR extraction round 137, DI line-chart trend notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rl-template-uses-listening-not-placeholders",
+    "title": "RL 模板不能替代听懂内容",
+    "keywords": [
+      "RL",
+      "模板",
+      "口语",
+      "听力",
+      "复述"
+    ],
+    "answer": "RL 的模板只能帮学生组织顺序，不能用空泛占位词代替听力内容。Sunny 会要求每次至少保留主题、两个支撑点和一个例子或数据。模板负责连接，内容必须来自音频。",
+    "source": "local OCR extraction round 137, RL template content notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rl-three-point-limit",
+    "title": "RL 复述抓三点比堆五点更稳",
+    "keywords": [
+      "RL",
+      "复述",
+      "口语",
+      "笔记",
+      "结构"
+    ],
+    "answer": "RL 不需要把听到的所有细节都塞进去。Sunny 会让学生优先准备三点：主题句、一个主要解释、一个例子或结果。三点说清楚并保持流利，比试图讲五六个碎片更容易拿到稳定分。",
+    "source": "local OCR extraction round 137, RL note selection notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-keyword-template-risk",
+    "title": "SST 不能把关键词硬塞进模板",
+    "keywords": [
+      "SST",
+      "模板",
+      "关键词",
+      "听力",
+      "写作"
+    ],
+    "answer": "SST 如果只把 Keyword 1、Keyword 2 放进固定句，容易变成语法通但主旨散。Sunny 会让学生先确定关键词之间的关系：定义、原因、结果、例子还是对比，再写成自然句。关系比词数更重要。",
+    "source": "local OCR extraction round 137, SST keyword-template notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-template-slot-audit",
+    "title": "作文模板每个空位都要审题填充",
+    "keywords": [
+      "WE",
+      "模板",
+      "审题",
+      "论据",
+      "写作"
+    ],
+    "answer": "作文模板里的 Topic、Argument、Example 不是随便替换名词。Sunny 会让学生填完后做 slot audit：每个空位是否回应题目，论据是否支持立场，例子是否具体，结论是否回扣题干。空位填错，比不用模板更危险。",
+    "source": "local OCR extraction round 137, essay template slot notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-grammar-still-matters-in-templates",
+    "title": "口语模板也要避免明显语法错",
+    "keywords": [
+      "口语",
+      "模板",
+      "语法",
+      "流利度",
+      "RL"
+    ],
+    "answer": "口语考试确实重视流利度，但明显语法错误仍会影响表达清晰度。Sunny 不会让学生为了上口就长期保留错误句型，而是把常用模板改成短、稳、语法清楚的版本。先稳，再快。",
+    "source": "local OCR extraction round 137, oral template grammar notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-translation-after-audio",
+    "title": "译文只能在听后核对使用",
+    "keywords": [
+      "听力",
+      "译文",
+      "精听",
+      "泛听",
+      "复盘"
+    ],
+    "answer": "听力材料有译文时，Sunny 不建议一开始就看。正确顺序是先听原文，标出听不懂的位置，再看译文确认意义，最后回到音频重听。译文是核对工具，不是替代听力训练的捷径。",
+    "source": "local OCR extraction round 138, listening translation review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-repeat-after-comprehension",
+    "title": "跟读要建立在理解之后",
+    "keywords": [
+      "听力",
+      "跟读",
+      "口语",
+      "发音",
+      "训练顺序"
+    ],
+    "answer": "跟读能同时训练听力和口语，但前提是学生知道自己在读什么。Sunny 会先让学生听懂大意和句子结构，再进行影子跟读。完全不理解就模仿声音，容易只练到表面节奏，内容记不住。",
+    "source": "local OCR extraction round 138, listening shadowing sequence notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-daily-passage-volume",
+    "title": "高分听力要有稳定篇章量",
+    "keywords": [
+      "听力",
+      "泛听",
+      "精听",
+      "高分",
+      "每日训练"
+    ],
+    "answer": "高目标学生不能只练零散单句。Sunny 会安排稳定篇章量：每天听几篇短讲座或说明文，先泛听主旨，再选一段精听。持续输入能让耳朵熟悉学术语速、转折和例子结构。",
+    "source": "local OCR extraction round 138, daily passage listening notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-community-service-lecture-frame",
+    "title": "校园服务讲座抓任务和收益",
+    "keywords": [
+      "听力",
+      "讲座",
+      "校园服务",
+      "RL",
+      "SST"
+    ],
+    "answer": "校园服务类讲座常包含项目目标、参与要求、时间安排、导师支持和学生收益。Sunny 会让学生按 who、what、when、benefit 记笔记。这样无论做 RL 还是 SST，都能复述出结构而不是只记几个名词。",
+    "source": "local OCR extraction round 138, campus lecture structure notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-history-concept-timeline",
+    "title": "历史概念讲座按时间线记",
+    "keywords": [
+      "听力",
+      "历史话题",
+      "时间线",
+      "RL",
+      "SST"
+    ],
+    "answer": "历史或制度类讲座常从早期形式讲到后续作用和影响。Sunny 会让学生抓 earliest form、later change、example、impact 四个节点。时间线清楚，复述时就不容易把背景和结论混在一起。",
+    "source": "local OCR extraction round 138, history lecture timeline notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-domain-tag-vocabulary",
+    "title": "词汇表要加领域标签",
+    "keywords": [
+      "RW",
+      "词汇",
+      "领域标签",
+      "阅读",
+      "写作"
+    ],
+    "answer": "同一个词在不同领域的使用频率和搭配不同。Sunny 会给词汇加领域标签，例如法律、商业管理、健康、交通、计算机安全、艺术设计。看到文章主题后，学生能更快预测同组词和语境。",
+    "source": "local OCR extraction round 138, domain-tag vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-law-government-word-cluster",
+    "title": "法律政府词汇按权力关系记",
+    "keywords": [
+      "RW",
+      "法律词汇",
+      "政府",
+      "阅读",
+      "词汇"
+    ],
+    "answer": "legislation、executive、prisoner、arbitrary、oppressive、suspend 等词常出现在法律和政府语境。Sunny 会让学生按权力关系记：谁制定规则，谁执行权力，谁被限制，哪种行为被视为滥用。这样阅读更容易抓主线。",
+    "source": "local OCR extraction round 138, law government vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-cyber-security-word-cluster",
+    "title": "网络安全词汇按风险链记",
+    "keywords": [
+      "RW",
+      "网络安全",
+      "fraud",
+      "password",
+      "vulnerable"
+    ],
+    "answer": "computer fraud 类文章常出现 network、password、account、transfer、vulnerable、gain entry 等词。Sunny 会让学生按风险链记：入口在哪里，漏洞是什么，攻击者如何进入，造成什么损失。词汇链比孤立释义更好用。",
+    "source": "local OCR extraction round 138, cyber security vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
