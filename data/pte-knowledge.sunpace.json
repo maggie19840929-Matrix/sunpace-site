@@ -29486,5 +29486,232 @@
     "source": "local OCR extraction round 152, reading vocabulary notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-word-class-adjective-noun",
+    "title": "FIB 形容词名词搭配先看词性槽位",
+    "keywords": [
+      "FIB",
+      "词性",
+      "adjective",
+      "noun",
+      "阅读"
+    ],
+    "answer": "FIB 看到 a、an、the 或名词前空格时，Sunny 会让学生先判断是否需要形容词或名词修饰结构。词义接近时，词性槽位往往比中文意思更快排除错误选项。",
+    "source": "local OCR extraction round 153, word class collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-adverb-verb-signal",
+    "title": "FIB 副词动词搭配看修饰方向",
+    "keywords": [
+      "FIB",
+      "adverb",
+      "verb",
+      "collocation"
+    ],
+    "answer": "副词常修饰动词或形容词，FIB 中若空格前后出现 entirely、usually、easily、intellectually 等线索，Sunny 会让学生先找被修饰对象，再判断空格词是否符合语义强度。",
+    "source": "local OCR extraction round 153, word class collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-to-preposition-vs-infinitive",
+    "title": "FIB 的 to 要区分介词和不定式",
+    "keywords": [
+      "FIB",
+      "to",
+      "preposition",
+      "infinitive",
+      "语法"
+    ],
+    "answer": "to 后面不一定都是动词原形。Sunny 会让学生判断 to 是介词还是不定式标记：介词后常接名词或 doing，不定式后接动词原形。这个判断能直接影响 FIB 选项。",
+    "source": "local OCR extraction round 153, word class collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-be-pattern-choice",
+    "title": "FIB be 后结构决定答案类型",
+    "keywords": [
+      "FIB",
+      "be verb",
+      "grammar",
+      "阅读"
+    ],
+    "answer": "be 后可能接形容词、名词、doing 或 done。Sunny 会让学生先看句子是在描述状态、定义身份、进行动作还是被动结果，再选词；不要看到 be 就机械套形容词。",
+    "source": "local OCR extraction round 153, word class collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-spelling-system-check-before-submit",
+    "title": "提交前要统一英美拼写体系",
+    "keywords": [
+      "spelling",
+      "British English",
+      "American English",
+      "writing"
+    ],
+    "answer": "PTE 可接受英式或美式拼写，但同一篇写作最好保持一致。Sunny 会让学生考前固定一个体系，提交前检查 colour/color、centre/center、analyse/analyze 等词，避免混写。",
+    "source": "local OCR extraction round 153, spelling variation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-spelling-re-er-our-or",
+    "title": "英美拼写常见差异先记词尾",
+    "keywords": [
+      "spelling",
+      "centre",
+      "color",
+      "British American"
+    ],
+    "answer": "英美拼写最容易出现在词尾：英式常见 -re、-our，美式常见 -er、-or。Sunny 会让学生把这类词做成个人检查表，写作复查时一次性扫词尾。",
+    "source": "local OCR extraction round 153, spelling variation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-spelling-ize-ise-yse-yze",
+    "title": "ize/ise 和 yse/yze 要按体系处理",
+    "keywords": [
+      "spelling",
+      "organize",
+      "analyse",
+      "写作"
+    ],
+    "answer": "英式里部分动词可用 -ise 或 -ize，美式通常倾向 -ize；-yse 与 -yze 也常体现英美差异。Sunny 会让学生不要临场纠结规则，提前统一常用动词拼写。",
+    "source": "local OCR extraction round 153, spelling variation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-lfib-preview-topic-before-blank",
+    "title": "LFIB 听空前先预判主题",
+    "keywords": [
+      "LFIB",
+      "listening",
+      "topic preview",
+      "听力"
+    ],
+    "answer": "LFIB 每题通常有多个空，反应速度来自提前知道文章在讲什么。Sunny 会让学生在音频开始前快速扫文本，判断主题场景和可能词性，听到空格时就不是裸听。",
+    "source": "local OCR extraction round 153, LFIB vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-lfib-person-role-vocab",
+    "title": "LFIB 人物职业词要听清后缀",
+    "keywords": [
+      "LFIB",
+      "vocabulary",
+      "physicist",
+      "chemist",
+      "职业词"
+    ],
+    "answer": "LFIB 高频文本常出现 scientist、physicist、chemist、statistician、beekeeper 等人物职业词。Sunny 会让学生重点听 -ist、-ian、-er 后缀，因为它们常决定空格是人还是动作。",
+    "source": "local OCR extraction round 154, LFIB vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-lfib-science-health-vocab",
+    "title": "LFIB 科学健康词按过程记",
+    "keywords": [
+      "LFIB",
+      "science",
+      "health",
+      "vocabulary"
+    ],
+    "answer": "健康科学类 LFIB 可把 dental、plaque、starch、pharmaceutical、prescribe、essential 等词串成“问题-物质-处理-必要性”的过程链。Sunny 会让学生按场景听词，不孤立背拼写。",
+    "source": "local OCR extraction round 154, LFIB vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-lfib-economy-environment-vocab",
+    "title": "LFIB 经济环境词要抓主题场",
+    "keywords": [
+      "LFIB",
+      "economy",
+      "environment",
+      "trade-off",
+      "listening"
+    ],
+    "answer": "经济环境类 LFIB 常有 margin、trade-off、release、pesticide、hive、heritage、neglect 等词。Sunny 会让学生先判断文章是经济取舍、生态影响还是历史遗产，再提高空格词反应速度。",
+    "source": "local OCR extraction round 154, LFIB vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rl-mind-map-status-use-impact",
+    "title": "RL 思维导图先分现状用途影响",
+    "keywords": [
+      "RL",
+      "retell lecture",
+      "mind map",
+      "口语"
+    ],
+    "answer": "RL 复述可把讲座信息分成现状、用途、原因、影响和未来趋势。Sunny 会让学生听到复杂主题时先放进这些格子，再组织成 35-40 秒口播，避免只堆关键词。",
+    "source": "local OCR extraction round 154, RL mind map notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rl-great-idea-definition-structure",
+    "title": "RL 定义类讲座抓特点本质结论",
+    "keywords": [
+      "RL",
+      "definition",
+      "lecture structure",
+      "口语"
+    ],
+    "answer": "定义类 RL 常先给特点，再解释本质，最后说明意义或结论。Sunny 会让学生用“it is described as..., it is based on..., therefore it can...”的结构复述，让抽象主题变得可说。",
+    "source": "local OCR extraction round 154, RL mind map notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rl-after-practice-recall-map",
+    "title": "RL 练后要用回忆图复现逻辑",
+    "keywords": [
+      "RL",
+      "复盘",
+      "mind map",
+      "retell lecture"
+    ],
+    "answer": "RL 做完题不要只看参考答案。Sunny 会让学生合上文本，用 4-5 个节点复现讲座逻辑，再对照材料补漏；能复现结构，下一次听相似题才会迁移。",
+    "source": "local OCR extraction round 154, RL mind map notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-asq-low-weight-broad-range",
+    "title": "ASQ 范围广但权重低",
+    "keywords": [
+      "ASQ",
+      "answer short question",
+      "口语",
+      "备考优先级"
+    ],
+    "answer": "ASQ 通常题量少、分值影响有限，但知识面很广。Sunny 会建议学生把 ASQ 当轻量百科和反应训练，不把主备考时间从 RS、DI、RL、WFD 等高价值题型上挪走。",
+    "source": "local OCR extraction round 154, ASQ practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-asq-answer-short-not-explain",
+    "title": "ASQ 只答短答案不解释",
+    "keywords": [
+      "ASQ",
+      "short answer",
+      "口语"
+    ],
+    "answer": "ASQ 的目标是快速给出关键词答案，不需要解释原因。Sunny 会让学生练“一问一词或一短语”的反应，听清题目类别后直接回答，拖长句子反而增加发音和流利度风险。",
+    "source": "local OCR extraction round 154, ASQ practice notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
