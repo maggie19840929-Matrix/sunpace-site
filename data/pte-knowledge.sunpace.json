@@ -27106,5 +27106,245 @@
     "source": "local OCR extraction round 132, SWT ethical debate notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-foundation-before-passage-listening",
+    "title": "泛听训练以前先有精听底座",
+    "keywords": [
+      "听力",
+      "泛听",
+      "精听",
+      "SST",
+      "备考"
+    ],
+    "answer": "篇章泛听不是随便听懂大概就结束，它需要词句精听能力做底座。Sunny 会先确认学生能听清常见单词、短句和拼写，再进入 SST、HCS、选择题和缺失词这类篇章任务。基础辨音弱时，直接泛听会变成猜主题。",
+    "source": "local OCR extraction round 133, listening extensive training notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-general-idea-not-every-word",
+    "title": "篇章泛听目标是主旨不是逐词复述",
+    "keywords": [
+      "听力",
+      "泛听",
+      "主旨",
+      "SST",
+      "HCS"
+    ],
+    "answer": "泛听训练的核心是抓 general idea，而不是把每个词都抄下来。Sunny 会让学生听完先用一句中文或英文说主旨，再回看细节。能稳定抓住主题、态度和结论，比听到一堆碎词更接近篇章题的考点。",
+    "source": "local OCR extraction round 133, passage listening purpose notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-sst-hcs-mcq-shared-core",
+    "title": "SST、HCS 和选择题共享主旨训练",
+    "keywords": [
+      "SST",
+      "HCS",
+      "选择题",
+      "听力",
+      "主旨"
+    ],
+    "answer": "SST、Highlight Correct Summary 和听力选择题形式不同，但底层都考篇章理解。Sunny 会把它们放在同一组训练：先听主题句和结构，再判断选项或写摘要。不要把每个题型都当成完全不同的技巧。",
+    "source": "local OCR extraction round 133, listening task transfer notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-small-tasks-protect-audio-memory",
+    "title": "听力小题先保护音频印象",
+    "keywords": [
+      "听力",
+      "HCS",
+      "MCQ",
+      "SMW",
+      "选项干扰"
+    ],
+    "answer": "HCS、MCQ 和 Select Missing Word 容易被选项里的原文词干扰。Sunny 会训练学生先保留自己的音频印象：主旨是什么、转折在哪里、结尾怎么收束。再看选项时，是拿选项验证记忆，不是让选项重写记忆。",
+    "source": "local OCR extraction round 133, listening option strategy notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-select-missing-word-ending-role",
+    "title": "SMW 要听结尾功能而不是赌词",
+    "keywords": [
+      "Select Missing Word",
+      "听力",
+      "结尾预测",
+      "逻辑",
+      "SMW"
+    ],
+    "answer": "Select Missing Word 的关键不是孤立猜最后一个词，而是判断整段最后一句要完成什么功能。Sunny 会让学生在后半段减少记词，重点听说话人是在总结、转折、给原因还是提出例外。功能听准，选项更容易排除。",
+    "source": "local OCR extraction round 133, SMW ending function notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-rl-sst-output-difference",
+    "title": "RL 和 SST 听同一段但输出不同",
+    "keywords": [
+      "RL",
+      "SST",
+      "听力",
+      "口语",
+      "写作"
+    ],
+    "answer": "Retell Lecture 和 SST 都需要篇章理解，但输出目标不同。Sunny 会提醒学生：RL 要口头复述主题、结构和关键细节，允许更自然的口语表达；SST 要写成清楚的书面摘要，必须控制语法、拼写和句子完整度。",
+    "source": "local OCR extraction round 133, RL SST output comparison notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-dual-notebook-words-and-logic",
+    "title": "听力错题本分词句和篇章两栏",
+    "keywords": [
+      "听力",
+      "错题本",
+      "精听",
+      "泛听",
+      "复盘"
+    ],
+    "answer": "Sunny 会把听力错题本分成两栏：词句问题记录漏听、拼写、弱读和连读；篇章问题记录主旨、转折、例子和结论。这样复盘时能分清自己是听不清单词，还是听清了却没有抓住结构。",
+    "source": "local OCR extraction round 133, listening review notebook notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-transfer-from-extensive-to-writing",
+    "title": "泛听材料要反哺写作摘要",
+    "keywords": [
+      "听力",
+      "SST",
+      "写作",
+      "摘要",
+      "训练迁移"
+    ],
+    "answer": "篇章泛听不是只服务听力选择题，也能反哺 SST 写作。Sunny 会让学生听完后用一两句总结主题、原因和结果，再检查句子语法和关键词拼写。听力主旨能写清楚，才算真正完成训练闭环。",
+    "source": "local OCR extraction round 133, listening-to-writing transfer notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-pronunciation-intelligible-not-native",
+    "title": "口语发音目标是清楚而不是装母语",
+    "keywords": [
+      "口语",
+      "发音",
+      "评分",
+      "清晰度",
+      "PTE"
+    ],
+    "answer": "PTE 口语发音不要求学生变成母语口音，核心是让元音、辅音、重音和连读足够清楚。Sunny 会把目标定为 intelligible：机器和真人都能轻松听懂。追求夸张口音反而可能造成变形。",
+    "source": "local OCR extraction round 134, speaking pronunciation scoring notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-fluency-phrasing-over-speed",
+    "title": "流利度看节奏短语不是越快越好",
+    "keywords": [
+      "口语",
+      "流利度",
+      "节奏",
+      "停顿",
+      "评分"
+    ],
+    "answer": "口语流利度不是单纯语速快。Sunny 会要求学生按意群成块说，减少无意义停顿、重复和 false start。速度可以适中，但节奏要平滑，短语之间的停顿要像自然分组，而不是一个词一个词蹦出来。",
+    "source": "local OCR extraction round 134, oral fluency scoring notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-hesitation-recovery-rule",
+    "title": "口语卡顿后要顺着句子恢复",
+    "keywords": [
+      "口语",
+      "卡顿",
+      "流利度",
+      "恢复策略",
+      "RA"
+    ],
+    "answer": "考试中偶尔卡顿不可怕，真正伤分的是卡住后反复重启。Sunny 会训练学生卡顿后从下一个意群继续，不回头纠正整句。恢复策略越稳定，整体 fluency 越不容易被一次失误拖垮。",
+    "source": "local OCR extraction round 134, speaking hesitation recovery notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-accent-work-daily-small-dose",
+    "title": "发音纠正要少量高频练",
+    "keywords": [
+      "口语",
+      "发音纠正",
+      "每日练习",
+      "IPA",
+      "训练节奏"
+    ],
+    "answer": "发音习惯不是一晚改完的。Sunny 会安排少量高频练习：每天选一组音或一个节奏问题，用镜子、录音和短句循环校正。一次练太久容易疲劳，短时间高质量反馈更容易形成新习惯。",
+    "source": "local OCR extraction round 134, accent practice rhythm notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-ipa-as-diagnostic-tool",
+    "title": "IPA 用来定位问题不是背符号",
+    "keywords": [
+      "发音",
+      "IPA",
+      "口语",
+      "诊断",
+      "学习方法"
+    ],
+    "answer": "IPA 音标的作用是帮助学生定位发音差异，而不是为了背符号本身。Sunny 会在学生混淆声音时使用 IPA 标记口型、舌位和清浊，再立刻放回单词和句子练。能改善发音才是目标。",
+    "source": "local OCR extraction round 134, IPA diagnostic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-sentence-stress-content-words",
+    "title": "句子重音优先落在内容词上",
+    "keywords": [
+      "口语",
+      "句子重音",
+      "节奏",
+      "RA",
+      "DI"
+    ],
+    "answer": "英文口语节奏依赖句子重音。Sunny 会让学生先找内容词：名词、主要动词、形容词、数字和对比信息通常更需要强调；冠词、介词和助动词多数弱读。重音落对，RA 和 DI 都更自然。",
+    "source": "local OCR extraction round 134, sentence stress notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-account-name-id-match",
+    "title": "报名账号姓名必须和证件一致",
+    "keywords": [
+      "PTE报名",
+      "考试流程",
+      "证件",
+      "姓名",
+      "账号"
+    ],
+    "answer": "报名时姓名要和考试当天使用的证件保持一致，包括拼写、姓和名的顺序，以及中间名或空格等细节。Sunny 会让学生在付款前逐项核对，因为姓名不一致可能导致入场或成绩发送出现麻烦。",
+    "source": "local OCR extraction round 134, exam account setup notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-email-confirmation-folder",
+    "title": "报名邮箱要能稳定接收考试通知",
+    "keywords": [
+      "PTE报名",
+      "邮箱",
+      "考试确认",
+      "流程",
+      "备考"
+    ],
+    "answer": "报名邮箱不只是登录用，还会接收预约确认、考试通知和成绩相关提醒。Sunny 建议使用自己能长期访问的邮箱，并把确认邮件保存到固定文件夹。临考前再核对地点、时间和证件要求，避免流程信息找不到。",
+    "source": "local OCR extraction round 134, exam email confirmation notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
