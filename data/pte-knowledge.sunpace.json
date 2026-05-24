@@ -30388,5 +30388,232 @@
     "source": "local OCR extraction round 160, essay template practice notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-name-order-id-check",
+    "title": "报名姓名顺序要按证件核验",
+    "keywords": [
+      "考试流程",
+      "报名",
+      "ID",
+      "account"
+    ],
+    "answer": "注册考试账户时，Sunny 会提醒学生把姓名顺序、拼写和证件保持一致，尤其是 first name、last name、middle name。报名信息不一致会带来考场核验风险。",
+    "source": "local OCR extraction round 161, exam registration notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-email-confirmation-habit",
+    "title": "考试邮箱要用于确认和通知追踪",
+    "keywords": [
+      "考试流程",
+      "email",
+      "booking",
+      "notification"
+    ],
+    "answer": "考试预约、通知和成绩相关信息通常会发送到注册邮箱。Sunny 会让学生使用稳定邮箱，并在预约后建立检查习惯：确认邮件、考试时间、考点和后续成绩发送都要留痕。",
+    "source": "local OCR extraction round 161, exam registration notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-booking-path-checklist",
+    "title": "考试预约按注册准备考试成绩四步检查",
+    "keywords": [
+      "考试流程",
+      "booking",
+      "test day",
+      "results"
+    ],
+    "answer": "Sunny 会把考试流程拆成四步：注册账户、预约考试、准备考试日要求、查看并发送成绩。学生每完成一步都做一次清单确认，避免临近考试才发现账户或预约问题。",
+    "source": "local OCR extraction round 161, exam process notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-study-platform-data-not-plan",
+    "title": "练习数据不是学习计划本身",
+    "keywords": [
+      "备考计划",
+      "practice data",
+      "题型练习",
+      "学习数据"
+    ],
+    "answer": "题型练习、学习数据、预测题和错题记录都只是诊断工具。Sunny 会让学生用数据判断弱项，再安排 RA、RS、DI、RL、FIB、WFD 等题型时间，而不是被平台数字牵着走。",
+    "source": "local OCR extraction round 161, practice platform workflow notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-65-79-four-bottlenecks",
+    "title": "口语 65 到 79 常卡在四个瓶颈",
+    "keywords": [
+      "Speaking",
+      "pronunciation",
+      "fluency",
+      "content",
+      "口语"
+    ],
+    "answer": "口语从 65 往 79 提升时，Sunny 会重点排查单词发音、连读节奏、流利度和内容缺失四类问题。先找主瓶颈，再决定练音素、短语块还是模板内容。",
+    "source": "local OCR extraction round 161, advanced speaking scoring notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-intelligibility-before-accent",
+    "title": "口音调整先服务可懂度",
+    "keywords": [
+      "Speaking",
+      "accent",
+      "intelligibility",
+      "pronunciation"
+    ],
+    "answer": "Sunny 不追求把学生变成某一种口音，而是先保证 vowels、consonants、word stress 和 sentence stress 不影响理解。可懂度稳定后，再微调连读和语调。",
+    "source": "local OCR extraction round 161, pronunciation practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-mirror-practice-articulation",
+    "title": "发音训练要看口型和发声位置",
+    "keywords": [
+      "Speaking",
+      "mirror practice",
+      "articulation",
+      "pronunciation"
+    ],
+    "answer": "发音问题不只靠耳朵纠正。Sunny 会让学生用镜子观察嘴唇、舌位和开口度，再对比 /p/ /b/、/t/ /d/、/f/ /v/ 等最容易影响清晰度的音。",
+    "source": "local OCR extraction round 161, pronunciation practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-rhythm-stress-schwa",
+    "title": "英语节奏要练重音和弱读",
+    "keywords": [
+      "Speaking",
+      "rhythm",
+      "stress",
+      "schwa"
+    ],
+    "answer": "口语听起来自然，往往来自句重音、弱读和 schwa，而不是每个词都重读。Sunny 会让学生在 RA 和 RL 中标出内容词重音，功能词轻带，形成稳定节奏。",
+    "source": "local OCR extraction round 161, pronunciation practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-vocab-impede-alleviate-justify-chain",
+    "title": "阻碍缓解理由词按论证链记",
+    "keywords": [
+      "vocabulary",
+      "impede",
+      "alleviate",
+      "justification",
+      "writing"
+    ],
+    "answer": "impede 表示阻碍，alleviate 表示减轻，justification 表示理由或辩护。Sunny 会让学生把它们放进论证链：某因素阻碍结果，某措施缓解问题，作者给出理由。",
+    "source": "local OCR extraction round 162, reading writing vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-autonomy-sovereignty-bureaucracy",
+    "title": "自治主权官僚词按政治层级记",
+    "keywords": [
+      "vocabulary",
+      "autonomy",
+      "sovereignty",
+      "bureaucracy"
+    ],
+    "answer": "autonomy、sovereignty、bureaucracy、abolish、governance 这类词常出现在政治制度和社会研究文本中。Sunny 会让学生按个人/组织/国家/制度层级记，避免混成一个“政治词”。",
+    "source": "local OCR extraction round 162, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-biology-biosphere-carbohydrate",
+    "title": "生物环境词按系统层级记",
+    "keywords": [
+      "vocabulary",
+      "biosphere",
+      "biological",
+      "carbohydrate"
+    ],
+    "answer": "biosphere、biological、carbohydrate、antioxidant、ruminant、caterpillar 等词可按生物圈、物种、身体物质和具体生物分层。Sunny 会让学生用层级组织词汇，阅读时更快定位主题。",
+    "source": "local OCR extraction round 162, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-psychology-consciousness-trauma",
+    "title": "心理意识词看状态和影响",
+    "keywords": [
+      "vocabulary",
+      "consciousness",
+      "trauma",
+      "illusion"
+    ],
+    "answer": "consciousness、illusion、trauma、affection、imagination、ignorance 等词常描述心理状态、认知偏差或情绪影响。Sunny 会让学生先判断是状态、原因还是后果，再选词义。",
+    "source": "local OCR extraction round 162, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-visual-representation-graph-photo",
+    "title": "图像呈现词按记录方式区分",
+    "keywords": [
+      "vocabulary",
+      "graph",
+      "photograph",
+      "delineate",
+      "chart"
+    ],
+    "answer": "graph、chart、photograph、delineate、illustrate 都和呈现有关，但方式不同。Sunny 会让学生区分数据图表、照片记录、轮廓描绘和例证说明，避免在 DI 和阅读中混用。",
+    "source": "local OCR extraction round 162, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-essay-elaborate-not-repeat",
+    "title": "Essay elaborate 不是重复观点",
+    "keywords": [
+      "WE",
+      "elaborate",
+      "argument",
+      "writing"
+    ],
+    "answer": "Essay 模板里的 elaborate 要求展开理由，而不是换句话重复题目。Sunny 会让学生在每个主体段回答“为什么成立、有什么例子、会导致什么结果”，让段落真正发展。",
+    "source": "local OCR extraction round 162, essay template practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-essay-conclusion-match-body",
+    "title": "Essay 结论必须回扣主体段",
+    "keywords": [
+      "WE",
+      "conclusion",
+      "body paragraphs",
+      "writing"
+    ],
+    "answer": "结论段不能只写万能收尾。Sunny 会让学生用一句话回扣两个主体理由，再给出清晰立场；如果结论里的判断没有被前文支持，会显得模板化。",
+    "source": "local OCR extraction round 162, essay template practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-template-adverse-impact-language",
+    "title": "负面影响表达要有程度和对象",
+    "keywords": [
+      "WE",
+      "negative impact",
+      "drawback",
+      "writing"
+    ],
+    "answer": "写 adverse impact、drawback、pitfall 时，Sunny 会让学生补上影响对象和程度：影响谁、严重到什么程度、是否超过好处。没有对象的负面词只是空泛评价。",
+    "source": "local OCR extraction round 162, essay template practice notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
