@@ -28066,5 +28066,246 @@
     "source": "local OCR extraction round 140, prediction stop-rule notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-grammar-five-basic-patterns",
+    "title": "五大基本句型是读写底盘",
+    "keywords": [
+      "语法",
+      "句型",
+      "阅读",
+      "写作",
+      "主谓宾"
+    ],
+    "answer": "Sunny 会把英语句子先还原成五类基本结构：主谓、主谓宾、主系表、主谓双宾、主谓宾补。阅读长句时先找主干，写作造句时先保证结构完整。句型底盘稳了，再谈从句和复杂表达。",
+    "source": "local OCR extraction round 141, grammar sentence-pattern notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-grammar-linking-verb-complement",
+    "title": "系动词后面要找补语",
+    "keywords": [
+      "语法",
+      "系动词",
+      "补语",
+      "写作",
+      "阅读"
+    ],
+    "answer": "be、look、sound、feel、taste、seem、prove、turn 等词常把主语和后面的补充说明连接起来。Sunny 会让学生看到这类动词时先问：后面是在说明主语是什么、怎么样，还是发生了什么动作。这样能减少误判句子主干。",
+    "source": "local OCR extraction round 141, linking verb complement notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-grammar-object-complement-be-test",
+    "title": "宾语补语可用 be 测试",
+    "keywords": [
+      "语法",
+      "宾语补语",
+      "补语",
+      "阅读",
+      "写作"
+    ],
+    "answer": "判断 S+V+O+C 时，Sunny 会让学生把宾语和补语单独拿出来，中间加 be 看是否成立。例如 make something clear 里 something is clear 能成立，clear 就是在补充说明宾语。这个测试能帮助阅读长句和写作改错。",
+    "source": "local OCR extraction round 141, object complement test notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-transitive-verb-object-check",
+    "title": "及物不及物先看动作是否需要对象",
+    "keywords": [
+      "语法",
+      "及物动词",
+      "不及物动词",
+      "FIB",
+      "写作"
+    ],
+    "answer": "Sunny 会用一个简单问题区分及物和不及物：这个动作是否必须落到某个对象身上？如果必须，就要检查宾语是否存在；如果动作本身可独立发生，就不要硬加被动或宾语。这个判断对 FIB 和作文改错都很实用。",
+    "source": "local OCR extraction round 141, transitive verb notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-grammar-infinitive-uncertainty",
+    "title": "不定式常带未确定语气",
+    "keywords": [
+      "语法",
+      "不定式",
+      "动名词",
+      "写作",
+      "阅读"
+    ],
+    "answer": "不定式常和计划、目的、可能性、未完成动作有关。Sunny 会让学生比较 to do 和 doing：前者常带目标或未确定感，后者更像动作本身或持续状态。选择形式时先看语气，而不是只背固定搭配。",
+    "source": "local OCR extraction round 141, infinitive gerund contrast notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-participle-active-passive",
+    "title": "分词先看主动被动关系",
+    "keywords": [
+      "语法",
+      "分词",
+      "主动被动",
+      "阅读",
+      "写作"
+    ],
+    "answer": "disappointing 和 disappointed 这类分词不能只靠中文选。Sunny 会让学生先找被修饰对象和动作关系：对象发出影响，用现在分词；对象承受影响或处于感受状态，用过去分词。关系清楚，选项更稳。",
+    "source": "local OCR extraction round 141, participle relation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-grammar-preposition-vs-conjunction",
+    "title": "介词和连接词看后面结构",
+    "keywords": [
+      "语法",
+      "介词",
+      "连接词",
+      "阅读",
+      "FIB"
+    ],
+    "answer": "after、before、since、until 等词可能像介词也可能像连接词。Sunny 会让学生看后面接什么：如果后面是名词、代词、动名词或名词性结构，多半是介词；如果后面是完整分句，就是连接词。这个判断能减少填空误选。",
+    "source": "local OCR extraction round 141, preposition conjunction notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-grammar-focusing-adverb-position",
+    "title": "only 这类副词位置会改变意思",
+    "keywords": [
+      "语法",
+      "副词位置",
+      "only",
+      "阅读",
+      "写作"
+    ],
+    "answer": "only、also、even、especially 等强调范围的副词，位置变化会改变句意。Sunny 会要求学生写作时把它放在真正要强调的词前后，阅读时留意它修饰谁。副词看似小，常决定整句逻辑。",
+    "source": "local OCR extraction round 141, focusing adverb notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-platform-progress-data-use",
+    "title": "练习数据要转成下一步动作",
+    "keywords": [
+      "学习数据",
+      "备考计划",
+      "练习记录",
+      "PTE",
+      "复盘"
+    ],
+    "answer": "学习平台里的已学题数、练习时长、命中率和题型分布，只是诊断入口。Sunny 会让学生把数据转成下一步动作：哪个题型练得少，哪个错因反复出现，哪个高权重任务需要加量。数据不转行动，就只是好看的数字。",
+    "source": "local OCR extraction round 142, study dashboard notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-platform-question-search-for-review",
+    "title": "题目搜索适合查错题和主题",
+    "keywords": [
+      "题目搜索",
+      "错题复盘",
+      "主题词",
+      "备考",
+      "题库"
+    ],
+    "answer": "题目搜索不是只在找某道题时使用。Sunny 会让学生用关键词查同主题题目，比如环境、教育、图书馆、作业、科技，再比较不同题型如何表达同一主题。这样搜索能变成主题复习工具。",
+    "source": "local OCR extraction round 142, question search workflow notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-platform-favorites-as-active-review",
+    "title": "收藏夹要做主动复习池",
+    "keywords": [
+      "收藏夹",
+      "错题",
+      "主动复习",
+      "备考",
+      "题库"
+    ],
+    "answer": "收藏题目如果只是存起来，很快会变成第二个杂乱题库。Sunny 会把收藏夹分成三类：不会做、会做但慢、容易粗心。复习时按类别抽查，并记录是否已经连续两次做稳，达到标准后再移出重点列表。",
+    "source": "local OCR extraction round 142, favorites review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-platform-ai-feedback-needs-human-review",
+    "title": "AI 反馈要配合人工复盘",
+    "keywords": [
+      "AI反馈",
+      "口语评分",
+      "语法检测",
+      "复盘",
+      "学习工具"
+    ],
+    "answer": "自动评分和语法检测适合快速发现问题，但 Sunny 不会让学生盲信单次结果。口语要回听录音确认是否真有吞音、卡顿或重音问题；写作要看修改是否符合题意。工具给信号，人来判断训练重点。",
+    "source": "local OCR extraction round 142, AI feedback review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-platform-all-item-types-map",
+    "title": "全题型入口要先映射到四项能力",
+    "keywords": [
+      "全题型",
+      "口语",
+      "写作",
+      "阅读",
+      "听力",
+      "备考"
+    ],
+    "answer": "全题型入口很多，Sunny 会先把它们映射到四项能力：口语输出、写作产出、阅读判断、听力记忆。再标出交叉供分题，例如 WFD、SST、SWT、RS。这样学生知道练一个题型是在补哪项能力。",
+    "source": "local OCR extraction round 142, item-type map notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-platform-weekly-high-frequency-limit",
+    "title": "每周高频题要设练习上限",
+    "keywords": [
+      "高频题",
+      "预测",
+      "学习平台",
+      "备考节奏",
+      "题库"
+    ],
+    "answer": "每周高频题可以用来快速补熟悉度，但不能无限刷。Sunny 会设上限：先完成高权重日练任务，再用高频题补主题和题型适应。超过上限仍然反复刷同一批题，收益会下降，还会挤掉基础训练。",
+    "source": "local OCR extraction round 142, weekly high-frequency workflow notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-platform-practice-record-timing",
+    "title": "练习记录要看时间分布",
+    "keywords": [
+      "练习记录",
+      "时间分布",
+      "备考计划",
+      "PTE",
+      "复盘"
+    ],
+    "answer": "只看做了多少题不够，还要看时间分布。Sunny 会检查口语、写作、阅读、听力是否长期失衡，尤其是学生容易只刷喜欢的题型。练习记录能暴露偏科习惯，计划要据此调整。",
+    "source": "local OCR extraction round 142, practice record timing notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-platform-mock-test-as-risk-check",
+    "title": "mini 模考用于查流程风险",
+    "keywords": [
+      "模考",
+      "流程风险",
+      "时间管理",
+      "备考",
+      "PTE"
+    ],
+    "answer": "mini 模考不只是测分。Sunny 会用它检查流程风险：是否能按顺序切换题型，听力后段是否疲劳，写作是否留出检查，口语录音是否稳定。模考结果要拆成流程问题和能力问题分别处理。",
+    "source": "local OCR extraction round 142, mini mock risk-check notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
