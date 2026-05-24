@@ -28552,5 +28552,246 @@
     "source": "local OCR extraction round 144, DI process material notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-root-prefix-negative-a-an",
+    "title": "a/an 前缀要区分否定和状态",
+    "keywords": [
+      "词根词缀",
+      "前缀",
+      "阅读",
+      "词汇",
+      "FIB"
+    ],
+    "answer": "a-、an- 常带否定或无的含义，但也可能表示在某种状态中。Sunny 会让学生结合词根和语境判断：asocial、anonymous 偏否定，alive、aside 偏状态。前缀只是提示方向，不能脱离句子。",
+    "source": "local OCR extraction round 145, prefix a an notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-root-prefix-ab-away-bad",
+    "title": "ab/abs 常提示离开或反向",
+    "keywords": [
+      "词根词缀",
+      "ab",
+      "abs",
+      "阅读",
+      "生词推断"
+    ],
+    "answer": "ab-、abs- 常有离开、相反或变坏的方向，例如 absent、abstract、abnormal、abuse。Sunny 会让学生先用前缀判断语义方向，再看词根和搭配确认具体意思。这样猜词更有边界。",
+    "source": "local OCR extraction round 145, prefix ab abs notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-root-prefix-ad-assimilation",
+    "title": "ad 前缀会随后面辅音变形",
+    "keywords": [
+      "词根词缀",
+      "ad",
+      "前缀变形",
+      "词汇",
+      "拼写"
+    ],
+    "answer": "ad- 表示靠近、加强或朝向，但在拼写上会变成 ac-、af-、ag-、ap-、ar-、as-、at- 等形式。Sunny 会让学生把 accelerate、affirm、aggravate、appoint、assist、attain 放在一组看，减少把它们当成完全无关单词。",
+    "source": "local OCR extraction round 145, prefix ad assimilation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-root-prefix-anti-opposition",
+    "title": "anti 前缀优先看反对关系",
+    "keywords": [
+      "词根词缀",
+      "anti",
+      "阅读",
+      "词汇",
+      "逻辑"
+    ],
+    "answer": "anti- 常提示反对、抵抗或相反关系。Sunny 会让学生看到 antibacterial、antiwar、antibody、antithesis 这类词时，先判断它在反对什么对象。这个方向能帮助阅读时快速抓住立场或功能。",
+    "source": "local OCR extraction round 145, prefix anti notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-root-people-popul-demo",
+    "title": "popul 和 demo 都和人群相关",
+    "keywords": [
+      "词根",
+      "popul",
+      "demo",
+      "阅读",
+      "词汇"
+    ],
+    "answer": "popul 和 demo 都常和人民、人口或群体有关，但使用场景不同。Sunny 会把 population、populate、popularize、democracy、demographic、epidemic 放在一起比较，让学生看到词根如何延伸成社会、政治和人口主题词。",
+    "source": "local OCR extraction round 145, people-root vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-collocation-personal-bank",
+    "title": "FIB 固定搭配要做个人库",
+    "keywords": [
+      "FIB",
+      "固定搭配",
+      "错题库",
+      "阅读",
+      "复盘"
+    ],
+    "answer": "固定搭配资料只能提供范围，真正有效的是个人库。Sunny 会让学生每次 FIB 错题记录三项：原句、搭配、空格前后词性。下次复习时先遮住答案自测，而不是只把清单读一遍。",
+    "source": "local OCR extraction round 145, FIB collocation bank notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-collocation-cause-result",
+    "title": "因果搭配要成组记",
+    "keywords": [
+      "FIB",
+      "固定搭配",
+      "result in",
+      "as a result of",
+      "阅读"
+    ],
+    "answer": "FIB 中因果搭配非常常见，如 as a result of、result in、lead to、due to。Sunny 会让学生按方向记：原因在前还是结果在前，后面接名词还是句子。方向弄错，答案即使意思接近也可能不合结构。",
+    "source": "local OCR extraction round 145, FIB cause-result collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-collocation-role-function",
+    "title": "作用类搭配用于判断句子功能",
+    "keywords": [
+      "FIB",
+      "固定搭配",
+      "play a role",
+      "function",
+      "阅读"
+    ],
+    "answer": "play a role in、play a part in、contribute to、be involved in 这类搭配常表示作用或参与。Sunny 会让学生看到它们时判断主语在整句里承担什么功能，而不是只翻译成起作用。功能判断有助于选择介词和名词。",
+    "source": "local OCR extraction round 145, FIB role-function collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-collocation-awareness-focus",
+    "title": "意识和关注类搭配要记介词",
+    "keywords": [
+      "FIB",
+      "固定搭配",
+      "aware of",
+      "focus on",
+      "emphasis on"
+    ],
+    "answer": "be aware of、focus on、emphasis on、refer to、belong to 这类搭配的关键常在介词。Sunny 会让学生把核心词和介词一起写进错题库，因为考试里漏掉介词比忘记中文意思更常见。",
+    "source": "local OCR extraction round 146, FIB preposition collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-collocation-range-variety",
+    "title": "范围数量搭配要看名词单复数",
+    "keywords": [
+      "FIB",
+      "a range of",
+      "a variety of",
+      "数量",
+      "阅读"
+    ],
+    "answer": "a range of、a variety of、a large quantity of 都表示数量或范围，但后面名词形式和语境不同。Sunny 会让学生看后接可数复数还是不可数，以及句子强调多样性、数量还是范围。",
+    "source": "local OCR extraction round 146, FIB quantity collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-theme-folklore-vocab-cluster",
+    "title": "民俗主题词按文化语境记",
+    "keywords": [
+      "FIB",
+      "主题词",
+      "folklore",
+      "文化",
+      "阅读"
+    ],
+    "answer": "遇到 folklore、superstition、folktale、proverb、locality 这类词时，Sunny 会把它们归入文化和民间传统主题。主题词群能帮助学生预测上下文，也能在 FIB 中判断空格需要文化概念还是动作词。",
+    "source": "local OCR extraction round 146, folklore vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-theme-literature-art-vocab",
+    "title": "文学艺术主题词要看评价角度",
+    "keywords": [
+      "FIB",
+      "文学",
+      "艺术",
+      "Shakespeare",
+      "阅读"
+    ],
+    "answer": "文学艺术类材料常出现 genre、artistry、sophistication、collaborate、works 等词。Sunny 会让学生判断文章是在讲作品类型、艺术水平、创作过程还是历史阶段。评价角度清楚，词义才不会散。",
+    "source": "local OCR extraction round 146, literature art vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-theme-health-disease-vocab",
+    "title": "健康疾病主题抓传播和症状链",
+    "keywords": [
+      "FIB",
+      "健康",
+      "disease",
+      "respiratory",
+      "阅读"
+    ],
+    "answer": "健康类 FIB 可能出现 airborne disease、respiratory、symptoms、vaccine、immunize 等词。Sunny 会让学生按传播方式、身体系统、预防措施和结果来成组记忆。这样比单词孤立背更容易理解文章。",
+    "source": "local OCR extraction round 146, health disease vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-theme-politics-morality-vocab",
+    "title": "政治道德主题抓立场关系",
+    "keywords": [
+      "FIB",
+      "政治",
+      "morality",
+      "welfare",
+      "阅读"
+    ],
+    "answer": "政治和道德类文章常出现 morality、welfare、free riders、political movements、depends on、tolerate 等词。Sunny 会让学生先判断谁受益、谁承担成本、作者是否在评价制度。立场关系比逐词翻译更重要。",
+    "source": "local OCR extraction round 146, politics morality vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-synonym-small-tiny-minute",
+    "title": "小的近义词要看比例和可见度",
+    "keywords": [
+      "易混词",
+      "small",
+      "tiny",
+      "minute",
+      "miniature",
+      "阅读"
+    ],
+    "answer": "small 是普通的小，tiny 强调小得超出正常比例，minute 常指小到难以看见，miniature 指按比例缩小的微型物。Sunny 会让学生看语境是在描述尺寸、比例、显微级别还是模型。",
+    "source": "local OCR extraction round 146, synonym small tiny notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-synonym-lodging-accommodation-flat",
+    "title": "住处类词按临时性和地区用法分",
+    "keywords": [
+      "易混词",
+      "lodging",
+      "accommodation",
+      "apartment",
+      "flat"
+    ],
+    "answer": "lodging 常偏临时租住，accommodation 泛指住宿安排，apartment 更常指成套公寓，flat 多见于英式语境。Sunny 会让学生结合文章地区、居住时长和正式程度判断，不把所有住处都翻成 room。",
+    "source": "local OCR extraction round 146, synonym accommodation notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
