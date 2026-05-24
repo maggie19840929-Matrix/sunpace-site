@@ -28793,5 +28793,235 @@
     "source": "local OCR extraction round 146, synonym accommodation notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-rs-topic-bank-campus-locations",
+    "title": "RS 校园地点句先抓位置关系",
+    "keywords": [
+      "RS",
+      "口语",
+      "校园场景",
+      "位置关系",
+      "repeat sentence"
+    ],
+    "answer": "校园类 RS 常把 building、entrance、campus、hall、center 等地点词放在句子骨架里。Sunny 会让学生先听出“主体在哪里”，再补动作和限定信息；地点短语不要只当背景，它往往决定整句复述顺序。",
+    "source": "local OCR extraction round 147, RS topic practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rs-topic-bank-academic-actions",
+    "title": "RS 学术动作词按任务链记",
+    "keywords": [
+      "RS",
+      "academic vocabulary",
+      "submit",
+      "attend",
+      "research"
+    ],
+    "answer": "学习类 RS 里常见 attend、submit、demonstrate、contain、assemble、skip 等动作。Sunny 会把它们整理成“参加课程-提交项目-展示证据-集合通知”的任务链，复述时先保住动词，再补时间和地点。",
+    "source": "local OCR extraction round 147, RS topic practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rs-safety-lab-before-chain",
+    "title": "RS 带 before 的安全句要保顺序",
+    "keywords": [
+      "RS",
+      "before",
+      "lab safety",
+      "句子顺序"
+    ],
+    "answer": "RS 遇到 safety courses、protective equipment、laboratory 这类安全场景时，before 后面的动作顺序很关键。Sunny 会让学生用“先要求-再进入”的顺序复述，避免只记名词而漏掉时间逻辑。",
+    "source": "local OCR extraction round 147, RS topic practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rs-service-permit-noun-phrase",
+    "title": "RS 服务许可句要抓名词组",
+    "keywords": [
+      "RS",
+      "noun phrase",
+      "permit",
+      "student service",
+      "口语"
+    ],
+    "answer": "含 permit、service center、undergraduate programs、website 等表达的 RS，难点常在长名词组。Sunny 会让学生先压缩成核心名词，再补 can be found、can be obtained 这类被动结构，减少复述时前后倒置。",
+    "source": "local OCR extraction round 147, RS topic practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-topic-list-builds-anticipation",
+    "title": "SST 目录先转成听力预判表",
+    "keywords": [
+      "SST",
+      "听力",
+      "主题预判",
+      "summary"
+    ],
+    "answer": "SST 高频主题常覆盖诗歌、宇宙、能源、粮食、市场、建筑、气候、睡眠、社会研究等领域。Sunny 不让学生背题名，而是把目录转成预判表：每类主题提前准备核心名词、因果动词和可能的立场词。",
+    "source": "local OCR extraction round 147, SST topic logic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-one-sentence-abstraction",
+    "title": "SST 一句话不是拼关键词",
+    "keywords": [
+      "SST",
+      "summary",
+      "一句话逻辑",
+      "听力"
+    ],
+    "answer": "SST 速刷材料容易让学生误以为只要堆关键词。Sunny 会要求把关键词抽象成一句完整判断：主题是什么，讲者说明了什么变化、原因或影响。没有谓语关系的词串不能当摘要。",
+    "source": "local OCR extraction round 147, SST topic logic notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-cause-effect-compression",
+    "title": "SST 因果题压成因果骨架",
+    "keywords": [
+      "SST",
+      "cause effect",
+      "听力摘要",
+      "逻辑"
+    ],
+    "answer": "听到 energy needs、food crisis、climate experiment、market change 这类主题时，Sunny 会让学生优先找 cause、lead to、because、therefore 关系。摘要可以压成“某因素导致某结果，并影响某群体或系统”的骨架。",
+    "source": "local OCR extraction round 147, SST topic logic notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-incomplete-audio-triage",
+    "title": "SST 不完整音频按稳态信息写",
+    "keywords": [
+      "SST",
+      "不完整音频",
+      "summary",
+      "听力策略"
+    ],
+    "answer": "如果练习素材或考场听感出现信息断裂，Sunny 会让学生只写稳定听到的主题、核心变化和明确因果，放弃不确定数字和例子。摘要宁可短而准确，也不要用猜测补满字数。",
+    "source": "local OCR extraction round 147, SST topic logic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-speed-review-meaning-plus-word",
+    "title": "FIBR 速刷要把中文提示还原成英文选择",
+    "keywords": [
+      "FIBR",
+      "阅读填空",
+      "meaning",
+      "vocabulary"
+    ],
+    "answer": "FIBR 速刷常用中文意思帮助回忆空格词，但真正得分来自英文选项判断。Sunny 会让学生把中文提示转回词性、搭配和语义范围，不能只记“降低”“贡献”这类中文标签。",
+    "source": "local OCR extraction round 148, FIBR speed review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibr-collocation-part-of-blank",
+    "title": "FIBR 空格常是固定搭配的一半",
+    "keywords": [
+      "FIBR",
+      "collocation",
+      "固定搭配",
+      "阅读"
+    ],
+    "answer": "FIBR 里有些空格不是孤立词，而是 turn up、contribute to、covered by、in the context of 这类搭配的一部分。Sunny 会让学生看空格前后 2-3 个词，先确认搭配框架，再比较近义选项。",
+    "source": "local OCR extraction round 148, FIBR speed review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibr-context-signal-environment",
+    "title": "FIBR 环境主题看机制链",
+    "keywords": [
+      "FIBR",
+      "environment",
+      "context signal",
+      "阅读"
+    ],
+    "answer": "环境类 FIBR 常围绕 green spaces、temperature、rainfall、plants、well-being 等词展开。Sunny 会让学生抓“因素-过程-结果”机制链，判断空格是在描述贡献、降低、差异、条件还是影响。",
+    "source": "local OCR extraction round 148, FIBR speed review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-register-academic-description",
+    "title": "FIBR 学术描述词要看正式度",
+    "keywords": [
+      "FIBR",
+      "academic register",
+      "detail",
+      "required",
+      "阅读"
+    ],
+    "answer": "学术说明类文章常用 required、detailed、covering、achievement、history 等正式词。Sunny 会提醒学生不要被中文解释带偏，要判断句子是在写过程、范围、要求还是评价，正式语域通常比口语词更合适。",
+    "source": "local OCR extraction round 148, FIBR speed review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ro-reference-chain-pocket-rule",
+    "title": "RO 指代链决定中间句位置",
+    "keywords": [
+      "RO",
+      "reference chain",
+      "this",
+      "that",
+      "阅读排序"
+    ],
+    "answer": "RO 中 this、that、these、such、it 等指代词通常不能放在第一句。Sunny 会让学生先找它们回指的对象，再把“首次提出-随后指代-继续解释”的链条排好，中间句位置往往由指代关系决定。",
+    "source": "local OCR extraction round 148, RO order practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-first-sentence-topic-setting",
+    "title": "RO 首句通常先立主题和范围",
+    "keywords": [
+      "RO",
+      "topic sentence",
+      "阅读排序",
+      "首句"
+    ],
+    "answer": "RO 首句多负责介绍主题、定义对象或给出大范围背景，例如语言、地点、研究对象或写作目标。Sunny 会让学生先排除含明显回指和转折的句子，再找能独立开篇的主题设定句。",
+    "source": "local OCR extraction round 148, RO order practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-contrast-marker-placement",
+    "title": "RO 转折句要放在对比对象之后",
+    "keywords": [
+      "RO",
+      "contrast",
+      "however",
+      "by contrast",
+      "阅读排序"
+    ],
+    "answer": "出现 however、by contrast、but、in fact 这类词时，Sunny 会让学生先问：它在反驳或补充哪一句？转折句通常不能凭感觉提前放，必须跟在被对比的观点或例子之后。",
+    "source": "local OCR extraction round 148, RO order practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-mnemonic-after-understanding",
+    "title": "RO 口诀只能放在理解之后",
+    "keywords": [
+      "RO",
+      "mnemonic",
+      "阅读排序",
+      "复盘"
+    ],
+    "answer": "RO 速记口诀适合复盘，不适合替代阅读。Sunny 会让学生先完成逻辑排序，再把关键词压成记忆钩子；如果一开始就背口诀，遇到换句式或新题时很容易失效。",
+    "source": "local OCR extraction round 148, RO order practice notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
