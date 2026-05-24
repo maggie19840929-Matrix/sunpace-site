@@ -30841,5 +30841,225 @@
     "source": "local OCR extraction round 164, FIBR vocabulary notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-account-name-check",
+    "title": "报名账号姓名必须先做证件一致性检查",
+    "keywords": [
+      "exam booking",
+      "account",
+      "identity",
+      "test day"
+    ],
+    "answer": "注册考试账号时，姓名、邮箱和证件信息会影响预约确认、考试通知和后续成绩处理。Sunny 会让学生先按证件逐项核对，再进入选考位和付款流程，减少临考前返工。",
+    "source": "local OCR extraction round 165, exam workflow notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-seat-search-backup-window",
+    "title": "查考位时同时准备备用日期和地点",
+    "keywords": [
+      "exam booking",
+      "seat search",
+      "backup plan"
+    ],
+    "answer": "考位查询不能只盯一个日期。Sunny 建议学生提前列出主选时间、备用时间和可接受地点，先锁定可执行窗口，再把冲刺计划倒排到考试日。",
+    "source": "local OCR extraction round 165, exam workflow notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-score-send-manual-check",
+    "title": "手动发送成绩前先核对用途和接收方",
+    "keywords": [
+      "score report",
+      "send score",
+      "checklist"
+    ],
+    "answer": "成绩出来后，不要急着点发送。Sunny 会让学生先确认申请用途、接收机构、姓名信息和成绩有效期，再执行手动发送，避免把正确成绩发到错误对象。",
+    "source": "local OCR extraction round 165, exam workflow notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-mock-test-not-final-score",
+    "title": "模考是定位工具不是最终成绩预言",
+    "keywords": [
+      "mock test",
+      "score diagnosis",
+      "review"
+    ],
+    "answer": "模考价值在于暴露流程、体力分配、题型短板和时间控制。Sunny 会把模考结果拆成可训练问题，而不是把一次模考分数当成最终成绩结论。",
+    "source": "local OCR extraction round 165, exam workflow notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-prep-path-four-stage-loop",
+    "title": "备考路径按注册准备考试成绩四段闭环",
+    "keywords": [
+      "study plan",
+      "test day",
+      "results",
+      "workflow"
+    ],
+    "answer": "完整备考不只是刷题。Sunny 会把流程拆成账号和预约、题型准备、考试当天执行、成绩查看和复盘四段，让学生知道每一段需要提前准备什么。",
+    "source": "local OCR extraction round 165, exam workflow notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-template-skeleton-needs-own-content",
+    "title": "模板只给骨架内容必须自己补足",
+    "keywords": [
+      "template",
+      "essay",
+      "RL",
+      "SST"
+    ],
+    "answer": "写作和复述模板只能提供结构，不负责观点质量。Sunny 会训练学生把主题、理由、例子和结论放进固定位置，同时检查语法和逻辑是否支撑目标分。",
+    "source": "local OCR extraction round 165, response template notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-scan-extremes-before-speaking",
+    "title": "DI 开口前先扫最大最小和走势",
+    "keywords": [
+      "DI",
+      "describe image",
+      "data scan",
+      "speaking"
+    ],
+    "answer": "图表题不需要把每个数字都读完。Sunny 会让学生先找标题、最高点、最低点、明显上升或下降，再用稳定句型串成口播，保证信息选择清楚。",
+    "source": "local OCR extraction round 165, response template notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rl-sst-keyword-chain-not-full-script",
+    "title": "RL 和 SST 先建关键词链而不是背整篇",
+    "keywords": [
+      "RL",
+      "SST",
+      "keywords",
+      "summary"
+    ],
+    "answer": "复述和摘要题的安全做法是抓主题词、解释词、转折词和结论词。Sunny 会把关键词连成逻辑链，再生成自己的表达，避免机械背诵导致断句和内容错位。",
+    "source": "local OCR extraction round 165, response template notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-fluency-rhythm-before-speed",
+    "title": "口语流利度先要节奏稳定再追速度",
+    "keywords": [
+      "oral fluency",
+      "rhythm",
+      "phrasing",
+      "speaking"
+    ],
+    "answer": "口语高分不是越快越好，而是节奏、分组和重音稳定。Sunny 会先让学生把短语块读顺，减少长停顿、重复和假开头，再逐步提高速度。",
+    "source": "local OCR extraction round 166, speaking scoring notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-pronunciation-stress-affects-clarity",
+    "title": "发音清晰度要同时检查音素和重音",
+    "keywords": [
+      "pronunciation",
+      "stress",
+      "clarity",
+      "RA"
+    ],
+    "answer": "单个元音或辅音读错会影响可懂度，但常见词重音错也会让系统和听者误判。Sunny 会把音素、词重音和句重音放在同一张检查表里训练。",
+    "source": "local OCR extraction round 166, speaking scoring notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-pronunciation-silent-r-check",
+    "title": "spoken r 和 silent r 要按词位检查",
+    "keywords": [
+      "pronunciation",
+      "r sound",
+      "accent",
+      "RA"
+    ],
+    "answer": "r 音不是每次看到字母 r 都要卷出来。Sunny 会让学生按词尾、后接元音和所练口音规则检查，避免把 RA 读成过度用力或过度省略。",
+    "source": "local OCR extraction round 166, pronunciation guide notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-suffix-stress-check",
+    "title": "后缀会改变词重音需要单独记",
+    "keywords": [
+      "pronunciation",
+      "suffix",
+      "word stress"
+    ],
+    "answer": "很多长词的重音会被后缀牵引，不能只按中文直觉读。Sunny 会把常见后缀和重音位置一起记录，让学生在 RA 和 RS 中减少长词卡顿。",
+    "source": "local OCR extraction round 166, pronunciation guide notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-health-medical-immunity-chain",
+    "title": "健康医学词按预防治疗风险链记",
+    "keywords": [
+      "vocabulary",
+      "health",
+      "vaccine",
+      "surgeon"
+    ],
+    "answer": "health 类阅读可能出现 surgeon、precaution、immunize、vaccine、inoculation、venom 等词。Sunny 会让学生按疾病风险、预防措施和治疗角色分组记忆。",
+    "source": "local OCR extraction round 166, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-law-governance-rights-chain",
+    "title": "法律治理词按权力限制和权利保护记",
+    "keywords": [
+      "vocabulary",
+      "law",
+      "governance",
+      "rights"
+    ],
+    "answer": "law 和 governance 主题常见 prisoner、legislation、sovereignty、executive、oppressive、arbitrary 等词。Sunny 会让学生抓权力、限制、权利和制度动作之间的关系。",
+    "source": "local OCR extraction round 166, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-finance-cybersecurity-risk-chain",
+    "title": "金融网络安全词按风险路径记",
+    "keywords": [
+      "vocabulary",
+      "finance",
+      "cybersecurity",
+      "fraud"
+    ],
+    "answer": "finance 和 technology 文章可能把 financial、fraud、transfer、vulnerable、password、entry 等词连在一起。Sunny 会让学生按系统入口、风险动作和资金后果建立词群。",
+    "source": "local OCR extraction round 166, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-word-form-exactness-check",
+    "title": "阅读填空要检查词形是否匹配语法位置",
+    "keywords": [
+      "FIBR",
+      "word form",
+      "grammar",
+      "vocabulary"
+    ],
+    "answer": "阅读填空不能只看词义相近，还要看空格需要名词、动词、形容词还是副词。Sunny 会让学生把 curriculum、collaborative、implementation、precision 等词按词性和搭配复盘。",
+    "source": "local OCR extraction round 166, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
