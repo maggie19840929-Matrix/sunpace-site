@@ -29023,5 +29023,237 @@
     "source": "local OCR extraction round 148, RO order practice notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-vocabulary-range-fit",
+    "title": "WE 词汇多样性必须服务题意",
+    "keywords": [
+      "WE",
+      "essay",
+      "vocabulary range",
+      "写作"
+    ],
+    "answer": "WE 想提高词汇分，不是把简单词全部换成生僻词。Sunny 会先让学生确认题干关键词，再选择学术、准确、自然的替换；如果替换词改变原意，宁可用普通词也不要硬换。",
+    "source": "local OCR extraction round 149, WE vocabulary and scoring notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-general-linguistic-range-control",
+    "title": "WE 语言广度看清楚表达复杂观点",
+    "keywords": [
+      "WE",
+      "general linguistic range",
+      "复杂句",
+      "写作"
+    ],
+    "answer": "语言广度不是句子越长越好，而是能否清楚表达转折、让步、因果和范围限制。Sunny 会让学生每段只放一个主判断，再用从句或连接结构补细节，避免复杂句失控。",
+    "source": "local OCR extraction round 149, WE vocabulary and scoring notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-keyword-paraphrase-first-step",
+    "title": "WE 第一步先改写题干关键词",
+    "keywords": [
+      "WE",
+      "paraphrase",
+      "题干改写",
+      "写作"
+    ],
+    "answer": "WE 开头段最容易暴露机械模板。Sunny 会要求先圈出题干关键词，改写成同义词、上位词或解释性短语，再决定立场句。这样既减少重复，也能让文章从第一句就贴题。",
+    "source": "local OCR extraction round 149, WE vocabulary and scoring notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-structure-before-expression",
+    "title": "WE 先定结构再套表达",
+    "keywords": [
+      "WE",
+      "essay structure",
+      "agree disagree",
+      "problem solution"
+    ],
+    "answer": "WE 常见题可以先归入同意/不同意、利弊比较、问题解决等结构。Sunny 会先让学生确定论述方向，再选观点表达；如果先套句子再想结构，主体段容易跑成素材堆砌。",
+    "source": "local OCR extraction round 149, WE vocabulary and scoring notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-agree-disagree-intensity",
+    "title": "WE 同意不同意表达要分强度",
+    "keywords": [
+      "WE",
+      "agree",
+      "disagree",
+      "stance",
+      "写作"
+    ],
+    "answer": "agree、be inclined to agree、agree up to a point、take issue with、dissent from 的立场强度不同。Sunny 会让学生按“完全同意、部分同意、温和反对、强烈反对”分层，避免立场词互相打架。",
+    "source": "local OCR extraction round 149, WE stance expression notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-advantage-disadvantage-family",
+    "title": "WE 利弊词要成词族使用",
+    "keywords": [
+      "WE",
+      "advantage",
+      "drawback",
+      "shortcoming",
+      "写作"
+    ],
+    "answer": "advantage、benefit、downside、drawback、shortcoming 不是简单互换。Sunny 会让学生把它们按积极收益、直接好处、潜在负面、结构缺陷分组，再搭配 major、direct、potential、minor 等限定词。",
+    "source": "local OCR extraction round 149, WE stance expression notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-solution-verb-strength",
+    "title": "WE 解决方案动词体现动作力度",
+    "keywords": [
+      "WE",
+      "solution",
+      "tackle",
+      "remedy",
+      "overcome"
+    ],
+    "answer": "solution 题里的 seek、provide、tackle、handle、overcome、remedy 动作力度不同。Sunny 会让学生根据问题严重程度选动词：轻微问题可 handle，系统性问题更适合 tackle 或 remedy。",
+    "source": "local OCR extraction round 149, WE solution expression notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-collocation-beats-rare-word",
+    "title": "WE 地道搭配比冷僻词更稳",
+    "keywords": [
+      "WE",
+      "collocation",
+      "academic writing",
+      "写作"
+    ],
+    "answer": "写作提分常来自 accurate collocation，而不是冷门词。Sunny 会让学生优先掌握 gain a benefit、major drawback、practical solution、identify a problem、overcome a limitation 这类稳定搭配。",
+    "source": "local OCR extraction round 149, WE collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-polysemy-mean-interest-quarter",
+    "title": "阅读多义词要按语境定词义",
+    "keywords": [
+      "Reading",
+      "多义词",
+      "mean",
+      "interest",
+      "quarter"
+    ],
+    "answer": "mean 可表示“意味着、平均的、刻薄的”，interest 可表示“兴趣、利息、利益”，quarter 可表示“四分之一、地区、季度”。Sunny 会让学生先判断句子主题和词性，再选词义。",
+    "source": "local OCR extraction round 150, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-law-government-word-chain",
+    "title": "阅读法律政治词按权力关系记",
+    "keywords": [
+      "Reading",
+      "law",
+      "government",
+      "legislation",
+      "vocabulary"
+    ],
+    "answer": "法律政治类文本常出现 legislation、executive、prisoner、oppressive、arbitrary、suspend 等词。Sunny 会让学生按“谁制定规则、谁执行、谁受限制、权力是否被滥用”的关系链理解。",
+    "source": "local OCR extraction round 150, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-cyber-risk-word-chain",
+    "title": "网络安全词按风险路径串联",
+    "keywords": [
+      "Reading",
+      "computer science",
+      "fraud",
+      "password",
+      "vulnerable"
+    ],
+    "answer": "网络安全类文章可按路径记：network connected to a system，password 被发现，entry 被获得，money 被 transfer，最后形成 fraud 或 financial loss。Sunny 会让学生用动作链代替孤立背词。",
+    "source": "local OCR extraction round 150, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-energy-terms-distinction",
+    "title": "DI 能源词先分来源和技术",
+    "keywords": [
+      "DI",
+      "energy",
+      "hydropower",
+      "renewable",
+      "biofuel"
+    ],
+    "answer": "DI 遇到能源图时，hydropower 指水力发电，hydroelectric 强调水电技术，biofuel 是生物燃料，renewable 是可再生类别，fuel 是泛称燃料。Sunny 会让学生先分来源、技术和类别。",
+    "source": "local OCR extraction round 150, DI vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-geography-name-pronunciation",
+    "title": "DI 地名先切音节再读数据",
+    "keywords": [
+      "DI",
+      "geography",
+      "pronunciation",
+      "地名"
+    ],
+    "answer": "DI 地理图常有国家、地区、海湾和大洲名称。Sunny 会先让学生把长地名切成 2-4 个音节，确认重音，再读数值趋势；地名卡住会拖慢整段口播。",
+    "source": "local OCR extraction round 150, DI vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-science-weather-word-chain",
+    "title": "DI 科学天气词按现象链记",
+    "keywords": [
+      "DI",
+      "science",
+      "weather",
+      "temperature",
+      "precipitation"
+    ],
+    "answer": "temperature、atmosphere、precipitation、reservoir、gulf 等词可组成天气和水文图的现象链。Sunny 会让学生用“环境条件-变化指标-储存或流动位置”来组织描述。",
+    "source": "local OCR extraction round 150, DI vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-pronunciation-vowel-stress",
+    "title": "口语发音分重点看元音辅音和重音",
+    "keywords": [
+      "Speaking",
+      "pronunciation",
+      "stress",
+      "口语"
+    ],
+    "answer": "PTE 口语发音评分重视元音、辅音、词重音和句重音是否清楚。Sunny 会让学生先修影响 intelligibility 的稳定错误，再练连续语流；小口音不是问题，听不清才是问题。",
+    "source": "local OCR extraction round 150, speaking scoring notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-fluency-phrasing-not-speed",
+    "title": "口语流利度不是一味加速",
+    "keywords": [
+      "Speaking",
+      "oral fluency",
+      "phrasing",
+      "hesitation"
+    ],
+    "answer": "PTE 口语流利度看 rhythm、phrasing、hesitation、repetition 和 false start。Sunny 会让学生用短语块稳定推进，速度保持可控；为了快而断词、回读或频繁重启，分数反而不稳。",
+    "source": "local OCR extraction round 150, speaking scoring notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
