@@ -26384,5 +26384,247 @@
     "source": "local OCR extraction round 126, WE advantage disadvantage notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-asq-low-weight-light-practice",
+    "title": "ASQ 按低权重轻量练习",
+    "keywords": [
+      "ASQ",
+      "短问短答",
+      "口语",
+      "备考分配",
+      "轻量练习"
+    ],
+    "answer": "Answer Short Question 通常题量少、分值占比低，备考时不应挤占高分题型的主训练时间。Sunny 建议把 ASQ 当作每日 5 到 8 分钟的轻量口语热身：浏览常识题、练短反应、稳住发音和回答速度即可。",
+    "source": "local OCR extraction round 127, ASQ practice allocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-asq-direct-answer-no-extra-words",
+    "title": "ASQ 回答越短越稳",
+    "keywords": [
+      "ASQ",
+      "口语",
+      "直接回答",
+      "短答案",
+      "流利度"
+    ],
+    "answer": "ASQ 的目标是听懂问题后给出一个直接答案，不需要解释原因。Sunny 会要求学生使用一到三个词完成回答，例如问职业、地点、方向、数量时，只说核心名词或数字。多余解释会增加停顿和发音风险。",
+    "source": "local OCR extraction round 127, ASQ response style notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-asq-category-mini-bank",
+    "title": "ASQ 小题库按类别记忆",
+    "keywords": [
+      "ASQ",
+      "常识题",
+      "分类记忆",
+      "口语",
+      "题库"
+    ],
+    "answer": "ASQ 范围很广，逐题死记效率不高。Sunny 会把题目拆成常见类别：自然现象、职业身份、公共场所、时间数量、基础社会概念。每类准备 10 到 20 个高频问答，比随机背题更容易形成听题后的快速联想。",
+    "source": "local OCR extraction round 127, ASQ category practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-asq-synonym-canonical-answer",
+    "title": "ASQ 同义答案先固定一个",
+    "keywords": [
+      "ASQ",
+      "同义词",
+      "短答案",
+      "口语",
+      "准确性"
+    ],
+    "answer": "有些 ASQ 问题可以用同义词回答，例如职业或地点类答案可能有正式词和口语词。Sunny 建议训练时先固定一个最熟、最清楚的标准答案，考试时减少临场选择。等反应稳定后，再补充同义表达作为听力理解储备。",
+    "source": "local OCR extraction round 127, ASQ synonym answer notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-asq-simple-number-probability",
+    "title": "ASQ 数量题先抓比例和单位",
+    "keywords": [
+      "ASQ",
+      "数量题",
+      "概率",
+      "单位",
+      "口语"
+    ],
+    "answer": "ASQ 中的简单数量题通常不需要复杂计算，重点是听清比较对象、比例和单位。Sunny 会训练学生快速判断多数、少数、年份、世纪、千年等基础概念，并用最短答案回应。先听关键词，再给数字或类别。",
+    "source": "local OCR extraction round 127, ASQ number concept notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-asq-common-knowledge-trigger",
+    "title": "ASQ 用触发词定位答案",
+    "keywords": [
+      "ASQ",
+      "触发词",
+      "常识",
+      "口语",
+      "听题反应"
+    ],
+    "answer": "很多 ASQ 题干都有明显触发词：animal doctor 指向 veterinarian，watch plays 指向 theater，public money 指向 tax。Sunny 会让学生把触发词和答案做成配对卡片，训练听到关键词后 1 秒内开口。",
+    "source": "local OCR extraction round 127, ASQ trigger word notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-keyword-topic-primer",
+    "title": "SST 关键词先用于识别话题",
+    "keywords": [
+      "SST",
+      "关键词",
+      "听力",
+      "话题识别",
+      "Summarize Spoken Text"
+    ],
+    "answer": "SST 关键词表的价值不是让学生机械套句，而是帮助开头 20 秒判断话题。Sunny 会让学生把词汇按经济、建筑、数学、领导力等主题归组，听到连续相关词时立刻建立主题框架，后续记录主旨和因果更稳。",
+    "source": "local OCR extraction round 127, SST keyword grouping notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-keyword-pos-label",
+    "title": "SST 关键词要标注词性和功能",
+    "keywords": [
+      "SST",
+      "关键词",
+      "词性",
+      "听力笔记",
+      "总结"
+    ],
+    "answer": "SST 记录关键词时，只写单词不够。Sunny 会让学生同时标注词性和功能：名词通常是主题或对象，动词提示动作，形容词体现态度或特征。这样写总结时更容易把零散词汇连成完整句子。",
+    "source": "local OCR extraction round 127, SST keyword function notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-economy-topic-vocab-chain",
+    "title": "SST 经济话题按链条记词",
+    "keywords": [
+      "SST",
+      "经济话题",
+      "词汇链",
+      "听力",
+      "总结"
+    ],
+    "answer": "遇到市场、公司、资金、投入、产出、制造等词时，Sunny 会让学生建立经济话题链条：主体是谁、投入什么、产出什么、变化是什么。SST 总结不必堆关键词，而要用链条说明关系。",
+    "source": "local OCR extraction round 128, SST economy topic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-design-topic-vocab-chain",
+    "title": "SST 建筑设计题抓文化与功能",
+    "keywords": [
+      "SST",
+      "建筑设计",
+      "文化",
+      "材料",
+      "听力"
+    ],
+    "answer": "建筑设计类 SST 常会围绕外观、文化差异、材料、缺陷、改造和适应展开。Sunny 会要求学生区分两个层面：建筑看起来如何，以及它是否适合当地文化和使用需求。总结时要写出评价标准，而不只是列名词。",
+    "source": "local OCR extraction round 128, SST design topic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-leadership-topic-vocab-chain",
+    "title": "SST 领导力话题抓定义和对比",
+    "keywords": [
+      "SST",
+      "领导力",
+      "定义",
+      "对比",
+      "听力"
+    ],
+    "answer": "领导力话题常出现 define、goals、power、visibility、authoritative 等词。Sunny 会让学生特别听清讲者是在下定义、举例还是比较不同风格。总结中要呈现观点关系，例如某种领导方式如何影响团队目标和可见度。",
+    "source": "local OCR extraction round 128, SST leadership topic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-solution-verb-object-fit",
+    "title": "WE 解决方案动词要和宾语匹配",
+    "keywords": [
+      "WE",
+      "写作",
+      "solution",
+      "动词搭配",
+      "学术表达"
+    ],
+    "answer": "写解决方案类作文时，不同动词适合不同宾语。Sunny 会训练学生区分 tackle a problem、address an issue、remedy a weakness、overcome a barrier、seek a solution。动词和宾语匹配，句子会更自然，也能提升词汇多样性。",
+    "source": "local OCR extraction round 128, WE solution vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-drawback-shortcoming-downside",
+    "title": "WE 缺点词要区分语气",
+    "keywords": [
+      "WE",
+      "写作",
+      "drawback",
+      "shortcoming",
+      "downside",
+      "词汇"
+    ],
+    "answer": "drawback、shortcoming、downside 都可以表示负面面向，但语气不同。Sunny 建议 drawback 用于具体弊端，shortcoming 用于不足或缺陷，downside 用于相对口语化的负面结果。正式作文中要优先选择语义准确、搭配自然的表达。",
+    "source": "local OCR extraction round 128, WE disadvantage vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-benefit-advantage-scale",
+    "title": "WE 优点表达要体现强弱",
+    "keywords": [
+      "WE",
+      "写作",
+      "advantage",
+      "benefit",
+      "程度",
+      "论证"
+    ],
+    "answer": "优点类表达不能只重复 good 或 advantage。Sunny 会让学生准备强弱梯度，例如 slight advantage、distinct advantage、substantial benefit、direct benefit。根据论点重要程度选择词汇，文章的比较和结论会更有说服力。",
+    "source": "local OCR extraction round 128, WE advantage vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-polysemy-context-check",
+    "title": "RW 多义词必须放回句子判断",
+    "keywords": [
+      "RW",
+      "阅读写作",
+      "多义词",
+      "语境",
+      "词汇"
+    ],
+    "answer": "阅读写作题常见多义词，例如 mean、interest、quarter、element 等，不能只记一个中文意思。Sunny 会要求学生回到句子中看搭配、词性和主题：interest 可能是兴趣也可能是利息，quarter 可能是季度、四分之一或地区。",
+    "source": "local OCR extraction round 128, RW vocabulary context notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-wordlist-active-recall",
+    "title": "RW 词表要做主动回忆",
+    "keywords": [
+      "RW",
+      "词汇",
+      "主动回忆",
+      "阅读写作",
+      "备考"
+    ],
+    "answer": "词表如果只看中文释义，考试时很难调用。Sunny 会把单词训练成主动回忆：看英文说词性、常见搭配、可能话题和一个简单例句。能从单词反推出用法，才算真正进入阅读写作能力。",
+    "source": "local OCR extraction round 128, RW wordlist training notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
