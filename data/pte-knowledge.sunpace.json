@@ -25903,5 +25903,246 @@
     "source": "local OCR extraction round 122, reference tracking notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-ro-no-blind-memorization",
+    "title": "RO 不适合脱离刷题死背顺序",
+    "keywords": [
+      "RO",
+      "阅读排序",
+      "刷题",
+      "逻辑",
+      "备考"
+    ],
+    "answer": "RO 题库数量大、命中不稳定，Sunny 不建议学生脱离题目死背顺序。更有效的是做题后复盘：为什么这一句在前，哪一个代词回扣前文，哪一个连接词开启转折。理解排序线索，比记住某个口诀更能迁移。",
+    "source": "local OCR extraction round 123, RO review strategy notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-reference-chain-first",
+    "title": "RO 先找指代链",
+    "keywords": [
+      "RO",
+      "指代",
+      "代词",
+      "排序",
+      "阅读"
+    ],
+    "answer": "RO 里 this、that、these、it、they 这类指代词常常不是开头句。Sunny 会让学生先找它们指向什么，再把相关句子绑成小组。指代链一旦清楚，段落顺序通常会缩小到两三个可能组合。",
+    "source": "local OCR extraction round 123, RO reference-chain notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-old-new-information",
+    "title": "RO 按旧信息到新信息排序",
+    "keywords": [
+      "RO",
+      "旧信息",
+      "新信息",
+      "段落逻辑",
+      "阅读"
+    ],
+    "answer": "RO 排序常遵循“先介绍，再展开”的信息流。Sunny 会让学生判断每句话里的信息是第一次出现，还是在解释前面已经提到的概念。含有定义、背景和总称的句子更可能靠前；含有代词、例子和结果的句子通常靠后。",
+    "source": "local OCR extraction round 123, RO information-flow notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-transition-contrast-cause",
+    "title": "RO 转折和因果词决定方向",
+    "keywords": [
+      "RO",
+      "转折",
+      "因果",
+      "排序",
+      "连接词"
+    ],
+    "answer": "however、by contrast、because、therefore、the aim was 等连接信号会直接提示句间关系。Sunny 会让学生先把这些词圈出来，再判断它们承接还是反转前一句。连接词不是装饰，它往往决定哪两句必须连在一起。",
+    "source": "local OCR extraction round 123, RO transition-signal notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-lfib-dual-drill-purpose",
+    "title": "SST+LFIB 双练要分清目的",
+    "keywords": [
+      "SST",
+      "LFIB",
+      "双重练",
+      "关键词",
+      "听力"
+    ],
+    "answer": "SST+LFIB 双练的价值在于同时训练篇章逻辑和关键词反应。Sunny 会把它拆成两步：先听全文补关键词，检查拼写和语法；再用关键词回忆文章主旨和结构。不能只填词，也不能只背摘要，两边都要闭环。",
+    "source": "local OCR extraction round 123, SST LFIB dual-drill notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-mind-map-recall",
+    "title": "SST 思维导图用于回忆逻辑",
+    "keywords": [
+      "SST",
+      "思维导图",
+      "逻辑",
+      "复盘",
+      "听力"
+    ],
+    "answer": "SST 思维导图不是用来抄答案，而是帮助学生合上材料后回忆文章逻辑。Sunny 会让学生看一眼图，再口头说出主题、分支和结论。能复述出来，说明结构进入了脑子；只能看懂，说明还没有真正掌握。",
+    "source": "local OCR extraction round 123, SST mind-map recall notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-keyword-spelling-review",
+    "title": "SST 关键词也要查拼写和词性",
+    "keywords": [
+      "SST",
+      "关键词",
+      "拼写",
+      "词性",
+      "复盘"
+    ],
+    "answer": "SST 复盘时，Sunny 不只看学生有没有抓到关键词，还会查关键词的拼写、词性和搭配。因为这些词常常也会出现在 LFIB 或写作摘要中。关键词如果只会认不会写，听力和写作都可能丢分。",
+    "source": "local OCR extraction round 123, SST keyword spelling notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-incomplete-material-warning",
+    "title": "不完整素材只能用于逻辑熟悉",
+    "keywords": [
+      "SST",
+      "不完整素材",
+      "考场回忆",
+      "逻辑",
+      "听力"
+    ],
+    "answer": "有些 SST 素材只有回忆逻辑，没有完整音频。Sunny 会把这类内容限制在熟悉话题和逻辑，不把它当完整训练。真正提分仍要回到有音频、有文本、可核对的材料，否则听力识别能力没有被训练到。",
+    "source": "local OCR extraction round 123, incomplete SST material notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-dirl-anti-template-principle",
+    "title": "DI/RL 要减少无脑模板依赖",
+    "keywords": [
+      "DI",
+      "RL",
+      "模板",
+      "内容逻辑",
+      "口语"
+    ],
+    "answer": "Sunny 会提醒学生，DI/RL 不是把同一句模板换几个词反复说。高分更依赖内容是否和图表或讲座有关，信息是否有逻辑，结构是否自然。框架可以帮助开口，但不能替代观察和理解。",
+    "source": "local OCR extraction round 124, DI RL anti-template notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-content-ratio-over-filler",
+    "title": "DI 有效内容比例大于套话比例",
+    "keywords": [
+      "DI",
+      "图表描述",
+      "套话",
+      "有效信息",
+      "口语"
+    ],
+    "answer": "DI 里“这张图很有用”这类空泛句子不能撑分。Sunny 会让学生把 30 到 40 秒留给标题、项目、单位、最大值、变化趋势和对比关系。有效内容比例越高，答案越像真的看懂图，而不是模板堆积。",
+    "source": "local OCR extraction round 124, DI content-ratio notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-match-chart-type",
+    "title": "DI 先匹配图型再选表达",
+    "keywords": [
+      "DI",
+      "图型",
+      "柱状图",
+      "流程图",
+      "地图",
+      "口语"
+    ],
+    "answer": "DI 作答前先判断图型：线图、柱图、饼图、表格、流程图或地图。Sunny 会让学生用不同观察顺序处理不同图型。数据图看最高、最低和趋势；流程图看起点、步骤和结果。图型不匹配，模板就容易说错重点。",
+    "source": "local OCR extraction round 124, DI chart-type matching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rl-logic-not-random-keywords",
+    "title": "RL 不能只堆关键词",
+    "keywords": [
+      "RL",
+      "逻辑",
+      "关键词",
+      "复述讲座",
+      "口语"
+    ],
+    "answer": "RL 复述讲座时，Sunny 会让学生把关键词放进逻辑链，而不是随机念词。最稳的顺序是主题、两个主要信息、例子或结果、最后一句总结。只堆名词会显得像听到了碎片；有逻辑才像听懂了内容。",
+    "source": "local OCR extraction round 124, RL logic-chain notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-natural-pause-control",
+    "title": "口语自然停顿比硬塞内容更稳",
+    "keywords": [
+      "口语",
+      "DI",
+      "RL",
+      "停顿",
+      "流利度"
+    ],
+    "answer": "DI/RL 为了填满时间而语速过快，容易造成卡顿、回读和识别下降。Sunny 会让学生保留自然停顿，优先保证内容清楚和节奏稳定。说满不是目标，说得可懂、有逻辑、不断线才是目标。",
+    "source": "local OCR extraction round 124, natural pause control notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-number-scale-three-four-group",
+    "title": "英文数字按三位一组训练",
+    "keywords": [
+      "数字",
+      "听力",
+      "DI",
+      "口语",
+      "数量级"
+    ],
+    "answer": "中文数字习惯四位一组，英文数字习惯三位一组。Sunny 会让学生直接建立 thousand、million、billion 的三位分组反应，而不是每次先翻成万和亿。听力和 DI 中，三位分组越熟，反应越快。",
+    "source": "local OCR extraction round 124, number scale training notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-number-audio-to-digits-first",
+    "title": "听到数字先转阿拉伯数字",
+    "keywords": [
+      "数字听力",
+      "阿拉伯数字",
+      "听力",
+      "DI",
+      "反应速度"
+    ],
+    "answer": "听到英文数字时，Sunny 会让学生先把声音转成阿拉伯数字串，再决定是否需要中文表达。不要一开始就试图翻译成“多少万、多少亿”，这样会拖慢反应。先记录数字形状，再处理语言转换。",
+    "source": "local OCR extraction round 124, audio-to-digit notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-number-fraction-decimal-sensitivity",
+    "title": "小数和分数要单独练反应",
+    "keywords": [
+      "小数",
+      "分数",
+      "数字听力",
+      "DI",
+      "听力"
+    ],
+    "answer": "数字训练不只包含整数。Sunny 会单独练 point、nought point、one out of three、one in every three、bottom tenth 这类表达。小数和分数在图表、讲座和听力细节里都可能出现，平时不练，考场很容易慢半拍。",
+    "source": "local OCR extraction round 124, decimal fraction sensitivity notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
