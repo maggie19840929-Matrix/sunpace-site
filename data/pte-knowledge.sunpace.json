@@ -24689,5 +24689,255 @@
     "source": "local OCR extraction round 112, pre-booking mock-test notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-score-diagnose-four-layers",
+    "title": "口语提分先分层诊断",
+    "keywords": [
+      "口语",
+      "发音",
+      "流利度",
+      "连读",
+      "内容完整",
+      "诊断"
+    ],
+    "answer": "Sunny 会把口语卡分先拆成四层看：单词发音是否清楚，连续说话时是否有节奏，句子是否频繁回头重来，以及内容是否真正覆盖题目要求。不要只说自己口音不好。先定位是哪一层拖分，再安排 RA、RS、DI 或 RL 的练习，提分会更可控。",
+    "source": "local OCR extraction round 113, speaking score diagnosis notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-pronunciation-intelligibility-before-accent",
+    "title": "发音目标是清楚可懂不是换口音",
+    "keywords": [
+      "发音",
+      "口音",
+      "清晰度",
+      "口语评分",
+      "PTE",
+      "Pronunciation"
+    ],
+    "answer": "PTE 口语训练不需要把学生变成某一种母语口音。Sunny 更看重每个元音、辅音和重音是否让机器与真人都能稳定听懂。练习时先处理影响辨义的音，比如清浊、长短音和词尾，再慢慢优化自然度。清楚可懂，比模仿腔调更重要。",
+    "source": "local OCR extraction round 113, pronunciation clarity notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-oral-fluency-phrasing-before-speed",
+    "title": "流利度先稳分组再提速度",
+    "keywords": [
+      "流利度",
+      "停顿",
+      "意群",
+      "语速",
+      "口语",
+      "Oral Fluency"
+    ],
+    "answer": "Sunny 不建议学生一上来追求很快的语速。机器更容易奖励稳定节奏、合理意群和少回读的表达。RA 训练时可以先用斜线标出短语边界，每组一口气读完，再逐步压缩停顿。速度是结果，不是第一目标。",
+    "source": "local OCR extraction round 113, oral fluency phrasing notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-false-start-repair",
+    "title": "口语失误后不要回头重读",
+    "keywords": [
+      "口语失误",
+      "重复",
+      "假启动",
+      "RA",
+      "RS",
+      "流利度"
+    ],
+    "answer": "口语题里读错一个小词时，不要整句倒回去重读。反复修正会制造重复和假启动，流利度损失通常比一个小错更大。Sunny 会让学生练习向前修复：短暂停一下，接后面的意群继续说，保证整体声音不断线。",
+    "source": "local OCR extraction round 113, false-start control notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-mouth-shape-mirror-check",
+    "title": "嘴型问题用镜子定位",
+    "keywords": [
+      "嘴型",
+      "镜子练习",
+      "发音",
+      "录音复盘",
+      "口语"
+    ],
+    "answer": "有些发音问题不是听一次就能改，因为学生并不知道自己的嘴型实际长什么样。Sunny 会把镜子和录音一起用：先看唇形、舌位和开口度，再听录音里的清晰度。看得到动作，才更容易把错误从模糊感觉变成可修正细节。",
+    "source": "local OCR extraction round 113, mirror pronunciation practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ipa-minimal-pairs-targeted-drill",
+    "title": "音标对照适合定点纠音",
+    "keywords": [
+      "音标",
+      "最小对立",
+      "发音纠正",
+      "辅音",
+      "元音",
+      "口语"
+    ],
+    "answer": "遇到 p/b、t/d、k/g、s/z 这类容易混的声音时，Sunny 会用成组对照来练，而不是让学生泛泛多读。先确认发音位置和清浊差异，再放进单词和句子。这样纠音更像做定位维修，不是盲目重复。",
+    "source": "local OCR extraction round 113, targeted sound-pair drill notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-connected-speech-linking-control",
+    "title": "连读要服务清晰度",
+    "keywords": [
+      "连读",
+      "弱读",
+      "清晰度",
+      "口语",
+      "RA",
+      "节奏"
+    ],
+    "answer": "连读不是把词全部糊在一起。Sunny 会要求学生先保留关键词、词尾和句子骨架，再在功能词之间做轻微连接。听起来顺，不等于听不清。RA 和 DI 中，连读只应该帮助节奏，不应该牺牲评分能识别的词形。",
+    "source": "local OCR extraction round 113, connected speech control notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sentence-stress-content-words",
+    "title": "句重音优先压内容词",
+    "keywords": [
+      "句重音",
+      "重读",
+      "弱读",
+      "内容词",
+      "口语节奏",
+      "RA"
+    ],
+    "answer": "英语句子不是每个词都平均用力。Sunny 会让学生把名词、动词、形容词和数字等内容词读得更明确，冠词、介词和助动词轻一些。这样既能提升自然节奏，也能让评分系统更容易抓到关键信息。",
+    "source": "local OCR extraction round 113, sentence stress notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-template-logic-not-verbatim",
+    "title": "大作文模板只保留逻辑骨架",
+    "keywords": [
+      "WE",
+      "大作文",
+      "模板",
+      "逻辑",
+      "改写",
+      "写作"
+    ],
+    "answer": "Sunny 会提醒学生，作文模板不能当整段固定台词背。真正有用的是逻辑骨架：开头回应题目，主体段给理由和解释，必要时处理反方，结尾收束立场。句子要按题目改写，否则容易变成套话堆叠，内容分和语言自然度都会受影响。",
+    "source": "local OCR extraction round 114, essay structure notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-position-before-paragraphs",
+    "title": "先定立场再开段落",
+    "keywords": [
+      "WE",
+      "立场",
+      "段落规划",
+      "大作文",
+      "审题"
+    ],
+    "answer": "写 WE 前先用一句话定立场，比马上套开头更重要。Sunny 通常会让学生写下自己的主张、两个理由和一个可能让步点，再动笔成段。立场清楚后，开头、主体和结尾才会朝同一个方向走，不会写到一半换观点。",
+    "source": "local OCR extraction round 114, essay position planning notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-opposing-view-limited",
+    "title": "反方观点只用来完成让步",
+    "keywords": [
+      "WE",
+      "反方观点",
+      "让步",
+      "大作文",
+      "论证"
+    ],
+    "answer": "Agree/Disagree 或优缺点题里可以提到反方，但不要让反方段落抢走主线。Sunny 会建议学生用一到两句承认反方看似合理，再马上解释为什么自己的立场更稳。反方观点的作用是增强论证，不是把文章写成左右摇摆。",
+    "source": "local OCR extraction round 114, opposing argument notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-example-support-reason",
+    "title": "例子要解释论点不是堆信息",
+    "keywords": [
+      "WE",
+      "例子",
+      "论据",
+      "解释",
+      "大作文"
+    ],
+    "answer": "作文里的例子不是越长越好。Sunny 会要求每个例子都回答一个问题：它如何证明本段理由。如果例子只是讲故事、罗列背景或堆数据，反而会挤掉解释空间。好例子要短、贴题，并回扣段落中心句。",
+    "source": "local OCR extraction round 114, essay example support notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-problem-solution-cause-to-action",
+    "title": "问题解决类按原因到措施推进",
+    "keywords": [
+      "Problem Solving",
+      "WE",
+      "原因",
+      "措施",
+      "大作文",
+      "结构"
+    ],
+    "answer": "问题解决类作文不要只列措施。Sunny 会先让学生说明问题为什么出现，再写对应措施如何缓解。原因和措施最好一一匹配，例如原因是成本高，措施就围绕补贴、共享资源或流程优化展开。结构对齐后，文章会更像回答题目，而不是万能建议清单。",
+    "source": "local OCR extraction round 114, problem-solution essay notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-word-count-plan",
+    "title": "大作文用段落字数控制节奏",
+    "keywords": [
+      "WE",
+      "字数",
+      "段落",
+      "时间管理",
+      "写作"
+    ],
+    "answer": "WE 写作要提前规划字数。Sunny 常用的做法是开头简洁，两个主体段占主要篇幅，结尾只做收束。不要把时间花在过长背景句，也不要为了凑字数重复同义表达。字数稳定，检查语法和拼写的时间才留得出来。",
+    "source": "local OCR extraction round 114, essay word-count planning notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-avoid-fabricated-authority",
+    "title": "不要依赖虚构调查撑论点",
+    "keywords": [
+      "WE",
+      "例证",
+      "调查",
+      "论证可信度",
+      "大作文"
+    ],
+    "answer": "有些模板喜欢放名人名言或调查数字，但 Sunny 更建议学生用普通、可解释的例子支撑观点。PTE 写作看的是语言组织和论证完成度，不需要硬编权威来源。与其写一个看似高级但突兀的调查，不如把因果关系说清楚。",
+    "source": "local OCR extraction round 114, essay evidence risk notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-topic-part-of-speech",
+    "title": "词汇积累按主题和词性双标签",
+    "keywords": [
+      "词汇",
+      "主题",
+      "词性",
+      "搭配",
+      "阅读",
+      "写作"
+    ],
+    "answer": "背高频词时，Sunny 不会只让学生记中文意思。更有效的做法是给词打两个标签：它属于哪个主题，以及它在句子里常作什么词性。这样在阅读 FIB 里能判断空格形式，在写作里也能更自然地调用搭配。",
+    "source": "local OCR extraction round 114, vocabulary topic-tag notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
