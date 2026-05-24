@@ -30615,5 +30615,231 @@
     "source": "local OCR extraction round 162, essay template practice notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-logic-review-after-practice",
+    "title": "SST 逻辑速刷适合练后复盘",
+    "keywords": [
+      "SST",
+      "logic review",
+      "listening",
+      "复盘"
+    ],
+    "answer": "SST 逻辑资料最适合在做题后快速回忆结构，而不是替代听力训练。Sunny 会让学生先听写或概括，再用逻辑框架检查自己漏掉了主题、原因、例子还是结论。",
+    "source": "local OCR extraction round 163, SST logic review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-preview-not-memorization",
+    "title": "SST 预判不能变成背答案",
+    "keywords": [
+      "SST",
+      "preview",
+      "listening",
+      "summary"
+    ],
+    "answer": "考前快速浏览主题可以帮助预判词汇和逻辑，但 Sunny 会提醒学生不要背固定答案。真正考试要根据音频内容重建关系，预判只负责降低陌生度。",
+    "source": "local OCR extraction round 163, SST logic review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-incomplete-topic-caution",
+    "title": "SST 不完整题只做主题熟悉",
+    "keywords": [
+      "SST",
+      "incomplete",
+      "prediction",
+      "listening"
+    ],
+    "answer": "没有完整音频或只有回忆线索的 SST 题，只能用于熟悉主题和关键词。Sunny 会让学生把这类材料当预热，不把不确定内容写进自己的固定答案。",
+    "source": "local OCR extraction round 163, SST logic review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-lfib-first-pass-fill-keywords",
+    "title": "SST+LFIB 一刷先补关键词",
+    "keywords": [
+      "SST",
+      "LFIB",
+      "keywords",
+      "听写"
+    ],
+    "answer": "SST 和 LFIB 双练时，第一遍应按考试节奏听全文并补全关键词，同时检查语法和拼写。Sunny 会让学生把空格当听力反应训练，而不是只看答案记单词。",
+    "source": "local OCR extraction round 163, SST LFIB dual practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-lfib-second-pass-mind-map",
+    "title": "SST+LFIB 二刷用思维图复盘",
+    "keywords": [
+      "SST",
+      "LFIB",
+      "mind map",
+      "复盘"
+    ],
+    "answer": "第二遍练习时，Sunny 会让学生用思维图复盘词汇拼写、词汇搭配、文章逻辑、遗漏重点和多写细节。复盘目标是找到失分原因，而不是重复刷熟悉感。",
+    "source": "local OCR extraction round 163, SST LFIB dual practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-lfib-third-pass-recall",
+    "title": "SST+LFIB 三刷做无答案回忆",
+    "keywords": [
+      "SST",
+      "LFIB",
+      "active recall",
+      "keywords"
+    ],
+    "answer": "第三遍可以只看关键词列表，尝试不看答案回忆每题主旨和关键词。Sunny 会用这种主动回忆检查主题词是否真正掌握，比单纯划重点更能迁移到考场。",
+    "source": "local OCR extraction round 163, SST LFIB dual practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-four-layer-breakdown",
+    "title": "RA 拆解可分四层训练",
+    "keywords": [
+      "RA",
+      "chunking",
+      "stress",
+      "pronunciation",
+      "fluency"
+    ],
+    "answer": "RA 精练可分成意群划分、失爆处理、词内重音和易错词四层。Sunny 会先确认单词读音，再针对最弱层训练，让声音更连贯也更容易被识别。",
+    "source": "local OCR extraction round 163, RA breakdown notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-chunking-before-speed",
+    "title": "RA 先分意群再追速度",
+    "keywords": [
+      "RA",
+      "chunking",
+      "fluency",
+      "read aloud"
+    ],
+    "answer": "RA 速度不是越快越好。Sunny 会让学生先用斜线划意群，保证每组词有完整意思，再逐步提高速度；没有意群的快读常会导致吞词和重音混乱。",
+    "source": "local OCR extraction round 163, RA breakdown notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-pronunciation-plosive-contrast-in-ra",
+    "title": "RA 爆破音对比要放进句子练",
+    "keywords": [
+      "pronunciation",
+      "plosive",
+      "p b t d k g",
+      "Speaking"
+    ],
+    "answer": "爆破音 /p/、/t/、/k/ 是清辅音，通常送气且声带不振动；/b/、/d/、/g/ 是浊辅音，声带振动。Sunny 会让学生先练清浊对比，再放进 RA 句子。",
+    "source": "local OCR extraction round 164, consonant pronunciation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-pronunciation-unreleased-plosive",
+    "title": "爆破音后接辅音可弱化成停顿",
+    "keywords": [
+      "pronunciation",
+      "unreleased plosive",
+      "RA",
+      "fluency"
+    ],
+    "answer": "当 /p/、/b/、/t/、/d/、/k/、/g/ 后面接辅音时，Sunny 会让学生做轻微停顿或弱化释放，避免每个爆破都重读。这样 RA 更自然，节奏也更稳。",
+    "source": "local OCR extraction round 164, consonant pronunciation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-s-cluster-ra-application",
+    "title": "s 后 p/t/k 规则要回到 RA 应用",
+    "keywords": [
+      "pronunciation",
+      "s cluster",
+      "aspiration",
+      "Speaking"
+    ],
+    "answer": "s 后接 p、t、k 且后面跟重读元音时，发音通常不强送气。Sunny 会让学生用 speak、stop、school 这类组合练习，再回到 RA 段落里应用。",
+    "source": "local OCR extraction round 164, consonant pronunciation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-fricative-mouth-position",
+    "title": "摩擦音要看唇齿和舌齿位置",
+    "keywords": [
+      "pronunciation",
+      "fricative",
+      "f v th s z",
+      "Speaking"
+    ],
+    "answer": "摩擦音如 /f/、/v/、/th/、/s/、/z/ 的清晰度来自气流通道和发声位置。Sunny 会让学生先观察唇齿或舌齿位置，再练清浊对比。",
+    "source": "local OCR extraction round 164, consonant pronunciation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-folklore-culture-vocab",
+    "title": "FIBR 民俗文化词看传统和叙事",
+    "keywords": [
+      "FIBR",
+      "folklore",
+      "culture",
+      "vocabulary"
+    ],
+    "answer": "民俗类阅读常出现 folklore、superstition、folktale、proverb、locality、repetition 等词。Sunny 会让学生判断文章是在讲传统信念、故事形式还是地方文化。",
+    "source": "local OCR extraction round 164, FIBR vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-literature-artistry-phase",
+    "title": "FIBR 文学艺术题抓阶段和技艺",
+    "keywords": [
+      "FIBR",
+      "literature",
+      "artistry",
+      "vocabulary"
+    ],
+    "answer": "文学艺术类文本常有 genres、sophistication、artistry、collaborated、in a last phase 等表达。Sunny 会让学生看作者是在讲作品类型、成熟阶段还是合作创作。",
+    "source": "local OCR extraction round 164, FIBR vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-academic-conference-vocab",
+    "title": "FIBR 学术会议词按会议层级记",
+    "keywords": [
+      "FIBR",
+      "seminar",
+      "delegate",
+      "panel",
+      "academic"
+    ],
+    "answer": "学术会议类文章会出现 delegates、seminars、association、plenaries、panels、relevance 等词。Sunny 会让学生按参与者、会议形式和讨论主题分组，判断空格词。",
+    "source": "local OCR extraction round 164, FIBR vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-mangrove-shrimp-economics",
+    "title": "FIBR 红树林和养殖题抓生态经济取舍",
+    "keywords": [
+      "FIBR",
+      "mangrove",
+      "shrimp farm",
+      "ecology"
+    ],
+    "answer": "生态经济类 FIBR 可能把 mangrove、productive、commercial profits、proper accounting、shrimp farms 等词放在一起。Sunny 会让学生抓生态价值和商业收益之间的取舍。",
+    "source": "local OCR extraction round 164, FIBR vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
