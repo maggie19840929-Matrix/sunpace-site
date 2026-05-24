@@ -1891,6 +1891,26 @@
 
 备注：两轮完成后执行 JSON 校验、重复 ID 检查、公开品牌敏感词扫描、Sunny 回归，并只提交公开知识库和进度摘要；原始 OCR 文本、队列、日志和第三方材料不进入 GitHub。
 
+## 2026-05-24 Knowledge Distillation 159
+
+- 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交
+- 输入来源：本地 OCR 摘要和 SWT/SST/RL 模板素材，重点参考 SWT topic 指代、which/but/and 逻辑功能、SST 关键词排序、definition 桥接句、RL 名词短语与句子边界、三点模板内容、importance 结尾和口语模板流利度内容平衡素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：SWT 模板句要先确认 Topic 指代、SWT 连接词要承担逻辑功能、SST 关键词模板要按逻辑排序、SST described as 适合定义类主题、RL 模板里名词短语和句子要分清、RL 三点模板每点都要有信息、RL importance 结尾要具体化、模板训练要平衡流利和内容
+
+备注：本轮不发布来源品牌名、课程名、路径信息或第三方逐字文本；公开答案均改写为 SunPace/Sunny 自有指导。
+
+## 2026-05-24 Knowledge Distillation 160
+
+- 模式：白天同步模式；第 159、160 两轮完成后同步 GitHub
+- 输入来源：本地 OCR 摘要和词根词缀/阅读词汇/Essay 模板素材，重点参考词根词缀识词、a/an 前缀、ad 同化家族、popul/demo 人群词根、图表核实词群、人文历史词群、一边倒 Essay 自检和平衡式 drawback 处理素材
+- 输出文件：`data/pte-knowledge.sunpace.json`
+- 本次新增 SunPace 自有知识条目：8 条
+- 覆盖主题：词根词缀用于降低记忆负担、a/an 前缀要区分否定和位置、ad 前缀会随辅音同化、popul 和 demo 都和人群有关但侧重点不同、阅读图表词和核实词要分开记、人文历史词看人群和物证、一边倒 Essay 要检查两段理由是否同向、平衡式 Essay 要处理 drawback 不只是罗列
+
+备注：两轮完成后执行 JSON 校验、重复 ID 检查、公开品牌敏感词扫描、Sunny 回归，并只提交公开知识库和进度摘要；原始 OCR 文本、队列、日志和第三方材料不进入 GitHub。
+
 ## 2026-05-22 Knowledge Distillation 41
 
 - 模式：白天同步模式；继续本地萃取，并按“两轮一同步”节奏准备 GitHub 提交

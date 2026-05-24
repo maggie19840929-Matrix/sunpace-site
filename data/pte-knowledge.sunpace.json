@@ -30162,5 +30162,231 @@
     "source": "local OCR extraction round 158, FIBRW vocabulary notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-template-topic-means-guardrail",
+    "title": "SWT 模板句要先确认 Topic 指代",
+    "keywords": [
+      "SWT",
+      "template",
+      "topic",
+      "summary"
+    ],
+    "answer": "SWT 使用 What the topic means is that 这类框架时，Sunny 会先让学生确认 topic 指代全文核心，而不是标题里的某个名词。Topic 放错，后面 which、but、and 再顺也会偏题。",
+    "source": "local OCR extraction round 159, SWT template practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-which-but-and-function",
+    "title": "SWT 连接词要承担逻辑功能",
+    "keywords": [
+      "SWT",
+      "which",
+      "but",
+      "and",
+      "summary"
+    ],
+    "answer": "SWT 一句话摘要常用 which 补说明、but 转折、and 并列补充。Sunny 会让学生先判断原文关系，再选连接词；连接词只是语法胶水，不能替代真实逻辑。",
+    "source": "local OCR extraction round 159, SWT template practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-keyword-template-order",
+    "title": "SST 关键词模板要按逻辑排序",
+    "keywords": [
+      "SST",
+      "keywords",
+      "template",
+      "listening"
+    ],
+    "answer": "SST 模板中 Keyword 1 到 Keyword 6 不能按听到顺序机械堆叠。Sunny 会让学生先区分主题词、解释词、例子词和结论词，再组织成主题、解释、扩展、总结的顺序。",
+    "source": "local OCR extraction round 159, SST template practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-described-as-bridge",
+    "title": "SST described as 适合定义类主题",
+    "keywords": [
+      "SST",
+      "definition",
+      "described as",
+      "summary"
+    ],
+    "answer": "当讲座在解释概念、定义现象或介绍理论时，Sunny 会建议用 is described as 或 refers to 建桥。若音频在讲原因、争议或变化，定义句就不一定适合。",
+    "source": "local OCR extraction round 159, SST template practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rl-template-noun-phrase-vs-sentence",
+    "title": "RL 模板里名词短语和句子要分清",
+    "keywords": [
+      "RL",
+      "template",
+      "noun phrase",
+      "retell lecture"
+    ],
+    "answer": "RL 说 This lecture is about 后面可以接名词短语，也可以改成完整句。Sunny 会让学生根据自己能否稳定说完整谓语来选择，避免半句和整句混在一起造成语法断裂。",
+    "source": "local OCR extraction round 159, RL template practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rl-three-point-template-content",
+    "title": "RL 三点模板每点都要有信息",
+    "keywords": [
+      "RL",
+      "three points",
+      "fluency",
+      "content"
+    ],
+    "answer": "Firstly、Secondly、Thirdly 能帮助流利度，但每一点必须有具体名词或动作。Sunny 会要求每个点至少包含一个主题词和一个动词关系，防止模板顺但内容空。",
+    "source": "local OCR extraction round 159, RL template practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rl-importance-ending-specific",
+    "title": "RL importance 结尾要具体化",
+    "keywords": [
+      "RL",
+      "conclusion",
+      "importance",
+      "口语"
+    ],
+    "answer": "RL 结尾说 the importance of something is mentioned 时，Sunny 会让学生把 something 换成讲座核心概念，并补一句具体原因。只说 important 不会给听者足够信息。",
+    "source": "local OCR extraction round 159, RL template practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-template-fluency-content-balance",
+    "title": "模板训练要平衡流利和内容",
+    "keywords": [
+      "Speaking",
+      "template",
+      "fluency",
+      "content"
+    ],
+    "answer": "口语模板能减少停顿，但不能成为内容替代品。Sunny 会让学生先固定开头和连接词，再把每次听到的关键词填进真实逻辑；流利度和信息量要一起保。",
+    "source": "local OCR extraction round 159, template practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-prefix-root-reduce-memory-load",
+    "title": "词根词缀用于降低记忆负担",
+    "keywords": [
+      "vocabulary",
+      "prefix",
+      "root",
+      "suffix"
+    ],
+    "answer": "词根词缀训练的价值不是猜中每个词，而是降低记忆负担。Sunny 会让学生识别前缀改变方向或否定，词根提供核心含义，后缀提示词性，再结合语境确认意思。",
+    "source": "local OCR extraction round 160, prefix and root notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-prefix-a-an-meaning-check",
+    "title": "a/an 前缀要区分否定和位置",
+    "keywords": [
+      "prefix",
+      "a",
+      "an",
+      "vocabulary"
+    ],
+    "answer": "a 或 an 前缀可能表示不、无、非，也可能表示在某处或处于某状态。Sunny 会让学生不要只背一个意思，而是看后面的词根和整句语境来判断。",
+    "source": "local OCR extraction round 160, prefix and root notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-prefix-ad-assimilation-family",
+    "title": "ad 前缀会随辅音同化",
+    "keywords": [
+      "prefix",
+      "ad",
+      "assimilation",
+      "vocabulary"
+    ],
+    "answer": "ad 表示朝向、加强或靠近时，常因后面辅音变成 ac、af、ag、an、ap、ar、as、at 等形式。Sunny 会让学生把它们看成同一家族，减少拼写和识词压力。",
+    "source": "local OCR extraction round 160, prefix and root notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-root-popul-demo-people-contrast",
+    "title": "popul 和 demo 都和人群有关但侧重点不同",
+    "keywords": [
+      "root",
+      "popul",
+      "demo",
+      "vocabulary"
+    ],
+    "answer": "popul 常指人口、大众或居民，demo 常和人民、民主、人口统计相关。Sunny 会让学生看到 population、popularize、democracy、demography 时先判断是数量、人群还是制度。",
+    "source": "local OCR extraction round 160, prefix and root notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-chart-graph-verification-cluster",
+    "title": "阅读图表词和核实词要分开记",
+    "keywords": [
+      "Reading",
+      "chart",
+      "graph",
+      "verification",
+      "vocabulary"
+    ],
+    "answer": "chart、graph 偏数据呈现，verification、judgment、assessment 偏确认和评估。Sunny 会让学生按功能分组：图表负责展示，核实词负责判断可靠性。",
+    "source": "local OCR extraction round 160, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-humanity-aboriginal-artefact",
+    "title": "人文历史词看人群和物证",
+    "keywords": [
+      "Reading",
+      "humanity",
+      "aboriginal",
+      "artefact"
+    ],
+    "answer": "humanity、aboriginal、artefact、immigrant、acquisition 等词常出现在人文历史或社会研究文本中。Sunny 会让学生先判断文章在讲人群身份、物证来源还是文化获得。",
+    "source": "local OCR extraction round 160, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-essay-one-sided-argument-check",
+    "title": "一边倒 Essay 要检查两段理由是否同向",
+    "keywords": [
+      "WE",
+      "one-sided essay",
+      "argument",
+      "writing"
+    ],
+    "answer": "一边倒 Essay 的两个主体段应共同支持同一立场。Sunny 会让学生检查每段的 Topic 1、Topic 2 是否都推向结论，避免第一段支持、第二段却无意中削弱自己的观点。",
+    "source": "local OCR extraction round 160, essay template practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-essay-balanced-drawback-handling",
+    "title": "平衡式 Essay 要处理 drawback 不只是罗列",
+    "keywords": [
+      "WE",
+      "balanced essay",
+      "drawback",
+      "writing"
+    ],
+    "answer": "平衡式 Essay 可以承认 benefits 和 drawbacks，但必须说明最终判断。Sunny 会让学生在第二段处理 drawback 后回到总立场，避免文章停在两边都有道理的模糊状态。",
+    "source": "local OCR extraction round 160, essay template practice notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
