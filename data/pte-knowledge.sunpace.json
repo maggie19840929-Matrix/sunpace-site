@@ -29255,5 +29255,236 @@
     "source": "local OCR extraction round 150, speaking scoring notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-we-template-topic-token-risk",
+    "title": "WE 模板占位词必须彻底替换",
+    "keywords": [
+      "WE",
+      "essay template",
+      "topic words",
+      "写作"
+    ],
+    "answer": "WE 模板练习最常见的问题是只替换主题词，论据、例子和结论仍然像空壳。Sunny 会让学生逐段检查：主题词、立场、理由、例子和回扣句都必须同向服务题目。",
+    "source": "local OCR extraction round 151, essay structure notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-public-attention-opening-control",
+    "title": "WE 开头句不要只写争议很大",
+    "keywords": [
+      "WE",
+      "introduction",
+      "opening sentence",
+      "写作"
+    ],
+    "answer": "“某话题引起关注”可以作为开头框架，但不能替代题目改写。Sunny 会让学生在开头句加入具体对象和争议点，例如谁受影响、争议发生在哪个领域，避免每篇文章都像同一篇。",
+    "source": "local OCR extraction round 151, essay structure notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-example-must-match-claim",
+    "title": "WE 例子必须匹配论点强度",
+    "keywords": [
+      "WE",
+      "examples",
+      "evidence",
+      "写作"
+    ],
+    "answer": "WE 中 survey、study、case 等例子只在服务论点时有价值。Sunny 会让学生检查例子是否回答了“为什么这个理由成立”，如果例子只是泛泛引用或与题目无关，会削弱内容发展。",
+    "source": "local OCR extraction round 151, essay evidence notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-opposing-argument-function",
+    "title": "WE 反方段要承担比较功能",
+    "keywords": [
+      "WE",
+      "opposing argument",
+      "counterargument",
+      "写作"
+    ],
+    "answer": "反方段不是为了凑字数，而是用来承认另一种视角并说明它为什么不如主立场有力。Sunny 会让学生用“表面合理-关键忽略-回到主张”的三步写法，保持立场清楚。",
+    "source": "local OCR extraction round 151, essay structure notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-problem-solution-cause-before-measure",
+    "title": "问题解决题先写原因再写措施",
+    "keywords": [
+      "WE",
+      "problem solution",
+      "cause",
+      "solution"
+    ],
+    "answer": "Problem solving 类 WE 应先说明问题为何出现，再提出对应措施。Sunny 会让学生把每个 solution 对准一个 cause；如果原因和措施不对应，文章看起来完整但逻辑得分会受影响。",
+    "source": "local OCR extraction round 151, problem solution essay notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-solution-sector-scope",
+    "title": "解决措施要区分政府机构和个人责任",
+    "keywords": [
+      "WE",
+      "solution",
+      "government",
+      "citizen",
+      "写作"
+    ],
+    "answer": "写解决方案时，government、institutions、citizens 承担的动作范围不同。Sunny 会让学生把政策制定、资源协调和个人行为分开写，避免所有措施都落在一个模糊主体上。",
+    "source": "local OCR extraction round 151, problem solution essay notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-intensive-foundation-before-gist",
+    "title": "泛听能力建立在精听基础上",
+    "keywords": [
+      "Listening",
+      "泛听",
+      "精听",
+      "SST",
+      "HCS"
+    ],
+    "answer": "篇章泛听不是随便听大意。Sunny 会先用 FIB、HIW、RS、WFD 训练词句级精听，再迁移到 SST、HCS、MCQ、SMW 的篇章大意判断；底层词句听不稳，泛听会变成猜。",
+    "source": "local OCR extraction round 151, listening training notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-gist-task-differences",
+    "title": "篇章泛听要按题型取不同信息",
+    "keywords": [
+      "Listening",
+      "gist",
+      "SST",
+      "HCS",
+      "MCQ",
+      "SMW"
+    ],
+    "answer": "SST 要听主题和逻辑，HCS 要匹配摘要，MCQ 要判断选项细节，SMW 要预测缺失词。Sunny 会让学生同一篇音频做不同任务标记，训练“听大意”背后的信息选择能力。",
+    "source": "local OCR extraction round 151, listening training notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-directory-topic-map",
+    "title": "SWT 目录可转成主题地图",
+    "keywords": [
+      "SWT",
+      "summary",
+      "topic map",
+      "写作"
+    ],
+    "answer": "SWT 题库目录覆盖科技、环境、教育、健康、历史、社会、经济等主题。Sunny 会把目录转成主题地图，让学生提前准备每类文章的核心动词和常见因果关系，而不是背题号。",
+    "source": "local OCR extraction round 152, SWT topic directory notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-science-environment-cluster",
+    "title": "SWT 科学环境题抓变化机制",
+    "keywords": [
+      "SWT",
+      "science",
+      "environment",
+      "机制链"
+    ],
+    "answer": "SWT 科学环境类题常出现 climate change、water resources、energy、plants、soil、micro-plastics 等主题。Sunny 会让学生用“现象-原因-影响-应对”四格整理，避免摘要只列名词。",
+    "source": "local OCR extraction round 152, SWT topic directory notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-society-education-cluster",
+    "title": "SWT 社会教育题抓人群和制度",
+    "keywords": [
+      "SWT",
+      "society",
+      "education",
+      "summary"
+    ],
+    "answer": "SWT 社会教育类题常围绕 online learning、parenting、student support、ageing、language learning、workplace 等主题。Sunny 会让学生先找受影响人群，再写制度或行为如何改变。",
+    "source": "local OCR extraction round 152, SWT topic directory notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-title-not-answer",
+    "title": "SWT 标题不是答案",
+    "keywords": [
+      "SWT",
+      "title",
+      "summary",
+      "写作"
+    ],
+    "answer": "SWT 目录标题只能帮助预判主题，不能直接当答案。Sunny 会提醒学生必须回到原文找主谓关系：文章到底说明、比较、质疑还是解释了什么；标题最多是入口。",
+    "source": "local OCR extraction round 152, SWT topic directory notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-bar-pie-table-rank-pattern",
+    "title": "DI 柱饼表先读排名再补数字",
+    "keywords": [
+      "DI",
+      "bar chart",
+      "pie chart",
+      "table",
+      "口语"
+    ],
+    "answer": "柱状图、饼图和表格类 DI 可以先抓最大、第二大、最小和明显差距。Sunny 会让学生按“图表主题-排名-关键数字-一句趋势结论”输出，比空泛描述更稳。",
+    "source": "local OCR extraction round 152, DI template practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-line-chart-change-pattern",
+    "title": "DI 折线图先说方向和幅度",
+    "keywords": [
+      "DI",
+      "line chart",
+      "increase",
+      "decrease",
+      "口语"
+    ],
+    "answer": "折线图 DI 不只是读起点和终点。Sunny 会让学生先判断 increase、decrease、fluctuate、remain stable，再补 from-to 数字和时间范围；方向词错了，后面数字再准也会显得混乱。",
+    "source": "local OCR extraction round 152, DI template practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-avoid-empty-interesting-ending",
+    "title": "DI 结尾不要只说很有用",
+    "keywords": [
+      "DI",
+      "口语",
+      "conclusion",
+      "template"
+    ],
+    "answer": "DI 结尾如果只说图表 interesting 或 useful，信息密度很低。Sunny 会让学生用一句具体结论收尾：最高项是谁、总体趋势如何、差距是否明显，让结尾也贡献内容。",
+    "source": "local OCR extraction round 152, DI template practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-vocab-cluster-art-health-policy",
+    "title": "阅读词汇按主题场景分组更好记",
+    "keywords": [
+      "Reading",
+      "vocabulary",
+      "art",
+      "health",
+      "policy"
+    ],
+    "answer": "阅读词表里 aesthetic、sketch、surgeon、vaccine、sovereignty、implementation、controversial 等词来自不同语义场。Sunny 会让学生按艺术、医疗、政策、争议等主题分组，记忆和检索都会更快。",
+    "source": "local OCR extraction round 152, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
