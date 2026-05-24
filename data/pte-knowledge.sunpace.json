@@ -28307,5 +28307,250 @@
     "source": "local OCR extraction round 142, mini mock risk-check notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-collocation-component-pair-memory",
+    "title": "学术搭配要成对记忆",
+    "keywords": [
+      "词汇搭配",
+      "academic collocation",
+      "FIB",
+      "写作",
+      "阅读"
+    ],
+    "answer": "学术搭配不能只背单个词。Sunny 会让学生把 Component 1 和 Component 2 成对记，例如 accurate assessment、academic achievement、accept responsibility。成对记忆能同时提升阅读识别和写作输出，尤其适合 FIB 与 WE。",
+    "source": "local OCR extraction round 143, academic collocation component notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-collocation-pos-tag-review",
+    "title": "搭配复习要带词性标签",
+    "keywords": [
+      "词性",
+      "词汇搭配",
+      "FIB",
+      "阅读写作",
+      "复盘"
+    ],
+    "answer": "同一个搭配如果不标词性，学生很难迁移到填空题。Sunny 会让学生记录 adj+n、v+n、adv+adj、adv+v 等结构。看到空格时先判断需要什么词性，再从搭配库里调取可能答案。",
+    "source": "local OCR extraction round 143, collocation POS notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-collocation-academic-family-cluster",
+    "title": "academic 相关搭配按词族成组",
+    "keywords": [
+      "academic",
+      "词汇搭配",
+      "写作",
+      "阅读",
+      "词族"
+    ],
+    "answer": "academic 可以连接 achievement、career、community、debate、discipline、research、skills、writing 等词。Sunny 会把它做成词族组，而不是逐个孤立背。这样写教育或学术主题时，学生能更自然地选出合适名词。",
+    "source": "local OCR extraction round 143, academic collocation cluster notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-collocation-verb-noun-goal-objective",
+    "title": "目标类动词搭配要固定",
+    "keywords": [
+      "词汇搭配",
+      "achieve",
+      "goal",
+      "objective",
+      "写作"
+    ],
+    "answer": "achieve a goal、achieve an objective、achieve an outcome 这类搭配在写作和阅读里很常见。Sunny 会让学生把目标类名词一起记，并区分 goal 偏目标、objective 偏具体目的、outcome 偏结果。",
+    "source": "local OCR extraction round 143, goal objective collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pos-formula-article-noun-check",
+    "title": "冠词后面一定要检查名词结构",
+    "keywords": [
+      "词性公式",
+      "冠词",
+      "名词",
+      "FIB",
+      "语法"
+    ],
+    "answer": "看到 a、an、the 后面，Sunny 会让学生立刻检查是否有名词核心，可能是 a + adj + 单数名词，也可能是 the + 名词短语。很多 FIB 错误不是词义不会，而是冠词后缺少正确名词形式。",
+    "source": "local OCR extraction round 143, article noun formula notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-pos-formula-noun-noun",
+    "title": "名词加名词常是分类关系",
+    "keywords": [
+      "词性公式",
+      "n+n",
+      "阅读",
+      "FIB",
+      "搭配"
+    ],
+    "answer": "n+n 结构常表示类别或用途，例如 policy decision、research method、student debt 这类组合。Sunny 会提醒学生不要机械翻译成两个并列名词，而要判断前一个名词是否在修饰后一个名词。",
+    "source": "local OCR extraction round 143, noun noun formula notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pos-formula-modal-base-verb",
+    "title": "情态动词后面用动词原形",
+    "keywords": [
+      "词性公式",
+      "情态动词",
+      "动词原形",
+      "FIB",
+      "语法"
+    ],
+    "answer": "will、would、can、could、must、should 后面通常接动词原形。Sunny 会把这个规则变成快速检查项：空格前如果是情态动词，优先排除 -ing、过去式和三单形式，除非结构另有原因。",
+    "source": "local OCR extraction round 143, modal base verb notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-pos-formula-be-four-choices",
+    "title": "be 后面先判断四种方向",
+    "keywords": [
+      "词性公式",
+      "be动词",
+      "表语",
+      "被动",
+      "进行时"
+    ],
+    "answer": "be 后面可能接形容词、名词、doing 或 done。Sunny 会让学生先判断句子是在描述状态、定义身份、表示正在进行，还是表达被动关系。方向判断对了，FIB 和语法改错都会快很多。",
+    "source": "local OCR extraction round 143, be pattern notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-synonym-lift-raise-boost-context",
+    "title": "升高类动词要看力量和抽象度",
+    "keywords": [
+      "易混词",
+      "lift",
+      "raise",
+      "boost",
+      "elevate",
+      "阅读"
+    ],
+    "answer": "lift、raise、elevate、boost 都有提高或升起的意思，但场景不同。Sunny 会让学生看对象：具体物体可用 lift/raise，职位或品德可用 elevate，价格、信心、产量等抽象指标常用 boost。",
+    "source": "local OCR extraction round 144, synonym lift raise boost notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-synonym-like-love-enjoy-prefer",
+    "title": "喜欢类动词要看强度和选择性",
+    "keywords": [
+      "易混词",
+      "like",
+      "love",
+      "enjoy",
+      "prefer",
+      "阅读"
+    ],
+    "answer": "like 是普通喜欢，love 更强烈，enjoy 强调从活动中获得满足，prefer 表示在选项之间更倾向某一个。Sunny 会让学生在阅读中看是否存在比较对象和情感强度，再判断哪一个词更合适。",
+    "source": "local OCR extraction round 144, synonym preference notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-synonym-limit-confine-restrict",
+    "title": "限制类词要看边界强弱",
+    "keywords": [
+      "易混词",
+      "limit",
+      "confine",
+      "restrict",
+      "阅读",
+      "写作"
+    ],
+    "answer": "limit 常指范围、数量或程度上设限；restrict 强调限制在某个范围内；confine 更强，可能带束缚或禁闭意味。Sunny 会让学生结合对象和语气判断，不把所有限制都写成 limit。",
+    "source": "local OCR extraction round 144, synonym restriction notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-synonym-list-schedule-table-chart",
+    "title": "表格目录类名词按用途区分",
+    "keywords": [
+      "易混词",
+      "list",
+      "schedule",
+      "table",
+      "chart",
+      "阅读"
+    ],
+    "answer": "list 是普通清单，schedule 偏时间或计划安排，table 适合快速查阅的表，chart 常把数据可视化。Sunny 会让学生看材料目的：是在列项目、排时间、查数据，还是展示趋势。用途决定词。",
+    "source": "local OCR extraction round 144, synonym list table chart notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-synonym-little-few-several-countability",
+    "title": "少量词先看可数不可数",
+    "keywords": [
+      "易混词",
+      "little",
+      "few",
+      "several",
+      "可数名词",
+      "FIB"
+    ],
+    "answer": "little 修饰不可数名词，few 修饰可数复数且偏少，several 表示几个但不多。Sunny 会让学生先看名词可数性，再判断语气是负面偏少还是中性数量。这个点在 FIB 中很常见。",
+    "source": "local OCR extraction round 144, synonym quantity notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-energy-word-pronunciation-meaning",
+    "title": "DI 能源词要同时会读会用",
+    "keywords": [
+      "DI",
+      "能源词汇",
+      "发音",
+      "hydropower",
+      "renewable"
+    ],
+    "answer": "DI 中出现 hydropower、fuel、renewable、hydroelectric、biofuel 等词时，Sunny 会同时训练发音和功能。学生不只要知道中文意思，还要能说出能源来源、变化趋势和环境意义。",
+    "source": "local OCR extraction round 144, DI energy vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-geography-names-stress",
+    "title": "DI 地理名词先练音节和重音",
+    "keywords": [
+      "DI",
+      "地名",
+      "发音",
+      "地图题",
+      "口语"
+    ],
+    "answer": "地名如 Oceania、Colombia、Costa Rica、Papua New Guinea、Netherlands 等，容易因为音节多而卡顿。Sunny 会让学生先拆音节、标重音，再放入图表句中练。地名稳定，整段 DI 节奏就稳。",
+    "source": "local OCR extraction round 144, DI geography pronunciation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-process-material-word-bank",
+    "title": "DI 工艺材料词按过程记",
+    "keywords": [
+      "DI",
+      "process",
+      "materials",
+      "fermentation",
+      "carpentry"
+    ],
+    "answer": "DI 里遇到 fermentation、mold、sculpture、carpentry、reservoir 等词时，Sunny 会按过程或材料记：材料是什么，发生什么变化，结果是什么。这样描述流程图、表格或主题图时不会只停在单词层面。",
+    "source": "local OCR extraction round 144, DI process material notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
