@@ -26626,5 +26626,245 @@
     "source": "local OCR extraction round 128, RW wordlist training notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-select-by-skill",
+    "title": "词汇手册要按题型选择学习",
+    "keywords": [
+      "词汇",
+      "PTE",
+      "听说读写",
+      "备考分配",
+      "学习方法"
+    ],
+    "answer": "PTE 词汇量很大，不能把词表从头背到尾。Sunny 会让学生按题型选择：阅读重搭配和词性，听力重拼写和辨音，口语重发音稳定，写作重学术表达和同义替换。词汇学习先服务题型，再追求数量。",
+    "source": "local OCR extraction round 129, vocabulary handbook planning notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-vocab-card-with-pos-collocation",
+    "title": "单词卡必须包含词性和搭配",
+    "keywords": [
+      "词汇",
+      "词性",
+      "搭配",
+      "阅读写作",
+      "主动回忆"
+    ],
+    "answer": "只记中文意思会让学生在 FIB 和写作中不会用词。Sunny 建议每张单词卡至少包含四项：词性、核心含义、常见搭配和一个短例句。比如名词要记可数性，动词要记常接宾语，形容词要记修饰对象。",
+    "source": "local OCR extraction round 129, vocabulary card design notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-vocab-theme-clusters",
+    "title": "阅读词汇按主题成组吸收",
+    "keywords": [
+      "阅读",
+      "词汇",
+      "主题词",
+      "FIB",
+      "学习方法"
+    ],
+    "answer": "阅读材料常围绕教育、社会、科学、医学、艺术等主题展开。Sunny 会把词汇按主题成组，例如 curriculum、conventional、preliminary 属于学习和制度语境，vaccine、immunize、precaution 属于健康语境。成组记忆更容易在文章中识别语义场。",
+    "source": "local OCR extraction round 129, reading vocabulary theme notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-register-awareness",
+    "title": "词汇要区分正式度和使用场景",
+    "keywords": [
+      "词汇",
+      "正式度",
+      "写作",
+      "阅读",
+      "语境"
+    ],
+    "answer": "同义词不一定能互换，正式度和场景会影响答案。Sunny 会让学生标注词汇是口语、学术、技术还是日常表达。写作优先选择清楚、正式、搭配自然的词；阅读则要能识别作者用词带来的态度和语气。",
+    "source": "local OCR extraction round 129, vocabulary register notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-prefix-root-inference-check",
+    "title": "词根词缀只能辅助推断不能替代语境",
+    "keywords": [
+      "词根词缀",
+      "生词推断",
+      "阅读",
+      "语境",
+      "词汇"
+    ],
+    "answer": "词根词缀能帮助猜生词，但不能单独决定答案。Sunny 会让学生先用前缀、词根、后缀推测大方向，再回到句子检查语法位置和上下文逻辑。推断和语境互相验证，才适合阅读填空。",
+    "source": "local OCR extraction round 129, root affix inference notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-prefix-meaning-families",
+    "title": "前缀按意义家族记忆",
+    "keywords": [
+      "前缀",
+      "词汇",
+      "词根词缀",
+      "阅读",
+      "记忆方法"
+    ],
+    "answer": "前缀不要一个个孤立背。Sunny 会把 a-/an- 归为否定或无，anti- 归为反对，ab-/abs- 归为离开或相反，ad- 及其变体归为靠近或加强。按意义家族学习，遇到新词时更容易判断方向。",
+    "source": "local OCR extraction round 129, prefix family notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-suffix-word-class-clue",
+    "title": "后缀是判断词性的快捷线索",
+    "keywords": [
+      "后缀",
+      "词性",
+      "FIB",
+      "阅读写作",
+      "语法"
+    ],
+    "answer": "阅读填空经常先考词性。Sunny 会让学生熟悉 -tion、-ity 常提示名词，-ous、-ic 常提示形容词，-ize 常提示动词，-er 常提示人或物。后缀不能保证意思，但能快速缩小选项范围。",
+    "source": "local OCR extraction round 129, suffix word-class notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-word-family-expansion",
+    "title": "词汇扩展优先做词族链",
+    "keywords": [
+      "词族",
+      "词根",
+      "词汇扩展",
+      "阅读",
+      "写作"
+    ],
+    "answer": "背一个单词后，应顺手扩展同一词族。Sunny 会把 population、populate、popular、popularize 这类词放在一条链上，让学生同时看词性变化和意义变化。词族链能提升阅读识别速度，也能帮助写作替换。",
+    "source": "local OCR extraction round 129, word family expansion notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-plosive-voicing",
+    "title": "爆破音先分清清浊和送气",
+    "keywords": [
+      "发音",
+      "爆破音",
+      "口语",
+      "RA",
+      "流利度"
+    ],
+    "answer": "/p/、/t/、/k/ 与 /b/、/d/、/g/ 的核心差异是声带振动和送气强弱。Sunny 会让学生用手放在喉咙和嘴前分别检查：清辅音更明显送气，浊辅音更依赖声带振动。分清这组音，RA 和 DI 的清晰度会更稳。",
+    "source": "local OCR extraction round 130, consonant pronunciation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-pronunciation-unreleased-stop",
+    "title": "词尾爆破音可轻收但不能消失",
+    "keywords": [
+      "发音",
+      "爆破音",
+      "词尾",
+      "RA",
+      "口语"
+    ],
+    "answer": "当词尾 /p/、/t/、/k/、/d/、/g/ 后面接辅音时，可以做轻微停顿或弱释放，但不能把词直接读没。Sunny 会训练学生保留口型和节奏，让听者知道这个音存在，同时避免过度爆破打断流利度。",
+    "source": "local OCR extraction round 130, unreleased stop notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-pronunciation-s-cluster-aspiration",
+    "title": "s 后的 p t k 不要过度送气",
+    "keywords": [
+      "发音",
+      "辅音连缀",
+      "s音",
+      "口语",
+      "RA"
+    ],
+    "answer": "在 speak、stop、school 这类 s + p/t/k 结构中，p/t/k 的送气会明显减弱。Sunny 会让学生把它当作辅音连缀练习，而不是拆成两个很重的音。这样读起来更自然，也减少 RA 中的硬顿。",
+    "source": "local OCR extraction round 130, s cluster pronunciation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pronunciation-fricative-contrast",
+    "title": "摩擦音训练要听清清浊对比",
+    "keywords": [
+      "发音",
+      "摩擦音",
+      "清浊对比",
+      "口语",
+      "听辨"
+    ],
+    "answer": "/f/ 和 /v/、/s/ 和 /z/、清浊 th 的差异，常影响口语清晰度。Sunny 会让学生用同一口型练清浊对比：先保持发音位置不变，再切换声带振动。这样比单独模仿某一个音更容易稳定。",
+    "source": "local OCR extraction round 130, fricative contrast notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-energy-topic-vocabulary",
+    "title": "DI 能源环境词汇按场景准备",
+    "keywords": [
+      "DI",
+      "能源",
+      "环境",
+      "词汇",
+      "口语"
+    ],
+    "answer": "DI 中出现 hydropower、renewable、fuel、reservoir、atmosphere、precipitation 等词时，通常属于能源或环境场景。Sunny 会让学生准备一套通用表达：能源来源、变化趋势、环境影响和地区差异，避免看到专业词就停顿。",
+    "source": "local OCR extraction round 130, DI energy environment vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-place-name-pronunciation-list",
+    "title": "DI 地名要单独建发音清单",
+    "keywords": [
+      "DI",
+      "地名",
+      "发音",
+      "地图题",
+      "口语"
+    ],
+    "answer": "地图、表格和区域对比题常出现国家或地区名。Sunny 会让学生把不熟的地名单独做成发音清单，先练重音和音节，再放回句子里读。地名读稳后，DI 描述就不会在关键信息上卡住。",
+    "source": "local OCR extraction round 130, DI place-name pronunciation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-long-word-stress-drill",
+    "title": "DI 多音节词先标重音",
+    "keywords": [
+      "DI",
+      "多音节词",
+      "重音",
+      "发音",
+      "口语"
+    ],
+    "answer": "temperature、fermentation、discipline、humanities 这类多音节词，如果重音错了会明显影响清晰度。Sunny 会让学生先标重音，再练整句里的自然弱读。DI 备词不是只知道意思，还要能顺口说出来。",
+    "source": "local OCR extraction round 130, DI long-word stress notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-vocab-function-before-definition",
+    "title": "DI 词汇先记功能再记细释义",
+    "keywords": [
+      "DI",
+      "词汇",
+      "图表描述",
+      "功能词",
+      "口语"
+    ],
+    "answer": "DI 看到专业词时，不一定需要解释完整定义，更重要的是知道它在图中承担什么功能。Sunny 会训练学生判断词是指标、地区、材料、能源、行业还是过程。先说功能和趋势，再补充细节，表达会更稳定。",
+    "source": "local OCR extraction round 130, DI vocabulary function notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
