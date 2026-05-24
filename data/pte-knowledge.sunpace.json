@@ -29713,5 +29713,229 @@
     "source": "local OCR extraction round 154, ASQ practice notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-market-keywords-by-role",
+    "title": "SST 市场主题词按角色分组",
+    "keywords": [
+      "SST",
+      "market",
+      "manufacturing",
+      "keywords"
+    ],
+    "answer": "SST 遇到市场或制造业主题时，Sunny 会把 stock、market、company、input、output、manufacturing、traditional、modern 分成对象、过程和变化三组。听的时候先抓谁在生产、钱或资源如何投入、结果如何改变。",
+    "source": "local OCR extraction round 155, SST keyword cluster notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-building-design-culture-materials",
+    "title": "SST 建筑设计题抓文化和材料",
+    "keywords": [
+      "SST",
+      "building design",
+      "culture",
+      "materials"
+    ],
+    "answer": "建筑设计类 SST 常围绕 design、architecture、culture、appearance、materials、flaws、modify、adapt 等词展开。Sunny 会让学生判断讲者是在评价外观、材料缺陷、文化差异还是改造适应。",
+    "source": "local OCR extraction round 155, SST keyword cluster notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-math-topic-abstract-words",
+    "title": "SST 数学主题要抓抽象名词",
+    "keywords": [
+      "SST",
+      "mathematics",
+      "symmetry",
+      "abstract words"
+    ],
+    "answer": "数学和科技主题的 SST 常有 mathematics、symmetry、technology、subject、example、celebration 等抽象名词。Sunny 会让学生先听主题范围，再确认例子服务的是历史、应用还是学科价值。",
+    "source": "local OCR extraction round 155, SST keyword cluster notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-leadership-power-spectrum",
+    "title": "SST 领导力主题看权力光谱",
+    "keywords": [
+      "SST",
+      "leadership",
+      "power",
+      "visibility"
+    ],
+    "answer": "领导力主题里 leader、goals、energy、visibility、authoritative、casual、power 等词会提示风格差异。Sunny 会让学生把信息压成“领导者如何设定目标并影响他人”的主线。",
+    "source": "local OCR extraction round 155, SST keyword cluster notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-collocation-academic-family",
+    "title": "academic 搭配要整组记",
+    "keywords": [
+      "collocation",
+      "academic",
+      "vocabulary",
+      "FIB"
+    ],
+    "answer": "academic 后面可接 achievement、career、community、debate、discipline、journal、research、writing 等名词。Sunny 会让学生把它当词组家庭记忆，而不是只背 academic 一个词。",
+    "source": "local OCR extraction round 155, academic collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-collocation-accurate-measurement-record",
+    "title": "accurate 搭配强调信息可靠度",
+    "keywords": [
+      "collocation",
+      "accurate",
+      "assessment",
+      "record"
+    ],
+    "answer": "accurate 常搭配 assessment、description、information、measurement、picture、record。Sunny 会让学生看到 accurate 时先判断后面的名词是在评估、描述、测量还是记录，避免用 precise 乱替。",
+    "source": "local OCR extraction round 155, academic collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-collocation-achieve-acquire-active",
+    "title": "动词搭配区分达成获取参与",
+    "keywords": [
+      "collocation",
+      "achieve",
+      "acquire",
+      "active"
+    ],
+    "answer": "achieve a goal、achieve an objective、acquire knowledge、active participation 表达的动作不同。Sunny 会让学生按“达成结果、获取知识、参与过程”分类，做 FIB 和写作时更快选词。",
+    "source": "local OCR extraction round 155, academic collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-collocation-additional-cost-information",
+    "title": "additional 后常接成本和信息",
+    "keywords": [
+      "collocation",
+      "additional",
+      "cost",
+      "information"
+    ],
+    "answer": "additional 常和 cost、information、evidence、support 等名词搭配，表示在原有基础上增加。Sunny 会提醒学生看语境是在增加费用、资料还是论据，不要一律翻成“额外的东西”。",
+    "source": "local OCR extraction round 155, academic collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-number-english-three-digit-grouping",
+    "title": "英语数字按三位一组反应",
+    "keywords": [
+      "listening",
+      "numbers",
+      "million",
+      "billion"
+    ],
+    "answer": "英语数字按 thousand、million、billion 的三位分组表达，而中文习惯按万和亿分组。Sunny 会让学生先按英语分组听写阿拉伯数字，再需要时转换成中文数量级。",
+    "source": "local OCR extraction round 156, number response notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-number-write-sound-before-meaning",
+    "title": "数字听力先记声音再换算",
+    "keywords": [
+      "listening",
+      "numbers",
+      "note taking",
+      "听力"
+    ],
+    "answer": "长数字听力最怕边听边翻译。Sunny 会让学生先记录 thirty billion、two hundred million 这类声音块或缩写，再统一换算；边听边想“多少亿”会明显拖慢反应。",
+    "source": "local OCR extraction round 156, number response notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-number-decimal-fraction-equivalents",
+    "title": "小数分数要熟悉等价说法",
+    "keywords": [
+      "listening",
+      "decimal",
+      "fraction",
+      "numbers"
+    ],
+    "answer": "0.2 可能听到 zero point two 或 nought point two；one out of three、one in every three 都可指三分之一。Sunny 会让学生把等价表达成组训练，减少听到变体时的迟疑。",
+    "source": "local OCR extraction round 156, number response notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-number-instant-visual-memory",
+    "title": "数字反应要练瞬时视觉记忆",
+    "keywords": [
+      "numbers",
+      "listening",
+      "memory",
+      "口语"
+    ],
+    "answer": "数字训练不只靠听，也要练眼睛扫过数字后迅速移开并复述。Sunny 会用 3-9 位数字做瞬时记忆训练，让学生形成阿拉伯数字和英文读法的条件反射。",
+    "source": "local OCR extraction round 156, number response notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-two-audience-contrast",
+    "title": "SWT 双人群题用对比句压缩",
+    "keywords": [
+      "SWT",
+      "contrast",
+      "summary",
+      "while"
+    ],
+    "answer": "SWT 如果文章分别讨论学生和成人、儿童和家长、个人和政府，Sunny 会让学生用 while 或 whereas 压成一个对比句。这样能同时保留两类对象和不同影响。",
+    "source": "local OCR extraction round 156, SWT sample analysis notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-policy-force-choice-chain",
+    "title": "SWT 政策题抓强制和选择链",
+    "keywords": [
+      "SWT",
+      "policy",
+      "cause effect",
+      "summary"
+    ],
+    "answer": "政策类 SWT 常围绕 compulsory、choice、decision、government、citizen 等词展开。Sunny 会让学生判断政策是否限制选择、是否导致错误决定，以及作者是否支持或反对该措施。",
+    "source": "local OCR extraction round 156, SWT sample analysis notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-quality-equity-conflict",
+    "title": "SWT 教育题常有质量公平冲突",
+    "keywords": [
+      "SWT",
+      "education",
+      "quality",
+      "equity"
+    ],
+    "answer": "教育类 SWT 经常讨论 quality 和 equity 是否能同时提升。Sunny 会让学生找改革目标、失败原因和社会影响，把摘要写成“某改革试图改善 A，但因 B 影响 C”。",
+    "source": "local OCR extraction round 156, SWT sample analysis notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-ethical-ownership-counterpoint",
+    "title": "SWT 伦理所有权题要保留转折",
+    "keywords": [
+      "SWT",
+      "ethics",
+      "ownership",
+      "however"
+    ],
+    "answer": "考古、医学、数据或文化遗产类 SWT 常有研究价值与伦理所有权的冲突。Sunny 会让学生用 but、however 或 due to 保留转折，不能只写技术进步而漏掉争议。",
+    "source": "local OCR extraction round 156, SWT sample analysis notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
