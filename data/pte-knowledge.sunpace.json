@@ -25423,5 +25423,245 @@
     "source": "local OCR extraction round 118, topic-recognition notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-lfib-main-idea-before-blank",
+    "title": "听力 FIB 先抓主旨再等空格",
+    "keywords": [
+      "LFIB",
+      "听力填空",
+      "主旨",
+      "反应速度",
+      "听力"
+    ],
+    "answer": "听力 FIB 不是只等空格词。Sunny 会让学生开头先抓文章主旨和场景，这样空格出现时更容易预测词性和语义范围。只盯着空格容易紧张漏听；先知道这段在讲什么，反应速度会明显更稳。",
+    "source": "local OCR extraction round 119, listening FIB main-idea notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-lfib-wordlist-gap-check",
+    "title": "听力 FIB 高频词表用于查漏",
+    "keywords": [
+      "LFIB",
+      "高频词",
+      "查漏补缺",
+      "拼写",
+      "听力"
+    ],
+    "answer": "高频词表的正确用法不是从头背到尾。Sunny 会让学生用它做查漏：把听不出、拼不稳、词性不熟的词单独标出来，再放回句子音频里练。词表服务错因，不是替代听写。",
+    "source": "local OCR extraction round 119, listening FIB wordlist notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-lfib-word-form-while-listening",
+    "title": "听力 FIB 要边听边判断词形",
+    "keywords": [
+      "LFIB",
+      "词形",
+      "复数",
+      "时态",
+      "拼写"
+    ],
+    "answer": "听力 FIB 的错误常不只是没听到，还包括听到了但写错形式。Sunny 会训练学生在听空格前后时顺手判断：名词是否复数，动词是否过去式，形容词或副词是否符合句子。听力和语法同步，才能减少会听不会写的失分。",
+    "source": "local OCR extraction round 119, listening FIB word-form notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-lfib-reaction-speed-drill",
+    "title": "听力 FIB 反应速度要短组训练",
+    "keywords": [
+      "LFIB",
+      "反应速度",
+      "听写",
+      "短组训练",
+      "听力"
+    ],
+    "answer": "如果学生总是在空格后慢半拍，Sunny 不会让他一口气刷很长音频，而是用短组训练：听一句、定位空格、马上写词、立刻核对。反应速度来自反复做小闭环，不是靠一次听很久硬扛。",
+    "source": "local OCR extraction round 119, listening FIB reaction-speed notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-chunk-before-voice",
+    "title": "RA 先划意群再追求声音",
+    "keywords": [
+      "RA",
+      "意群",
+      "口语",
+      "流利度",
+      "预读"
+    ],
+    "answer": "RA 预读时，Sunny 会先让学生划意群，而不是急着练嗓音。意群决定哪里轻停、哪里连读、哪里保留重音。分组清楚后，声音自然会更连续；如果不分组，读得再响也容易像逐词念清单。",
+    "source": "local OCR extraction round 119, RA chunking notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-lost-plosive-aware",
+    "title": "RA 失爆只做轻处理",
+    "keywords": [
+      "RA",
+      "失爆",
+      "连读",
+      "清晰度",
+      "发音"
+    ],
+    "answer": "RA 里的失爆和连读要轻处理。Sunny 会提醒学生，不要为了显得自然把词尾全部吞掉。关键内容词和语法词尾仍要让系统识别到；可以在相邻辅音处轻收，但不能牺牲清晰度。自然和可识别，要同时守住。",
+    "source": "local OCR extraction round 119, RA lost-plosive notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-word-stress-marking",
+    "title": "RA 易错词先标重音",
+    "keywords": [
+      "RA",
+      "单词重音",
+      "易错词",
+      "发音",
+      "预读"
+    ],
+    "answer": "遇到长词或不熟词时，Sunny 会让学生先标单词重音，再决定读法。很多 RA 低分不是完全不会发音，而是重音落错导致机器识别不稳。预读时间有限，先处理会影响整句节奏的关键词，收益最高。",
+    "source": "local OCR extraction round 119, RA word-stress notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-practice-after-pronunciation-known",
+    "title": "RA 拆解练习要建立在读音已知上",
+    "keywords": [
+      "RA",
+      "拆解练习",
+      "发音",
+      "流利度",
+      "训练顺序"
+    ],
+    "answer": "RA 五步拆解类练习适合在单词读音基本确认后使用。Sunny 会先解决不会读的词，再练意群、重音、连读和流利度。如果学生连词音都不确定就直接练节奏，容易把错误读法重复到更牢固。",
+    "source": "local OCR extraction round 119, RA training-order notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-synonym-context-first",
+    "title": "近义词要放回语境区分",
+    "keywords": [
+      "阅读",
+      "近义词",
+      "语境",
+      "FIB",
+      "词汇"
+    ],
+    "answer": "阅读里遇到意思相近的词，Sunny 不会只让学生背中文区别。真正能帮助 FIB 的是语境：动作对象、正式程度、搭配介词和句子逻辑。把近义词放回句子比较，学生才知道哪个词在当前位置更自然。",
+    "source": "local OCR extraction round 120, synonym context notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-collocation-own-bank",
+    "title": "FIB 固定搭配要做自己的错题库",
+    "keywords": [
+      "FIB",
+      "固定搭配",
+      "错题库",
+      "阅读",
+      "积累"
+    ],
+    "answer": "固定搭配需要积累，但 Sunny 更建议学生从自己的错题里建库。每次 FIB 错题记录搭配、前后词和中文功能，不要只抄一个短语。自己的错题库比大而全的清单更容易复习，也更贴近实际失分点。",
+    "source": "local OCR extraction round 120, FIB collocation bank notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-preposition-signal",
+    "title": "FIB 介词是搭配信号",
+    "keywords": [
+      "FIB",
+      "介词",
+      "固定搭配",
+      "阅读",
+      "语法"
+    ],
+    "answer": "FIB 空格前后的介词经常直接暴露搭配方向。Sunny 会让学生特别看 to、of、in、with、on、between 这些信号词。比如空格后出现某个介词，选项就要同时满足词义和搭配。介词不是小词，它常常是答案线索。",
+    "source": "local OCR extraction round 120, preposition collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-cause-effect-grammar-patterns",
+    "title": "因果搭配要成组记",
+    "keywords": [
+      "FIB",
+      "因果",
+      "result in",
+      "as a result",
+      "阅读"
+    ],
+    "answer": "阅读 FIB 很爱考因果关系。Sunny 会把 as a result of、result in、lead to、because of、due to 这类表达成组复习，并区分后面接名词、动名词还是完整句。因果搭配清楚后，句子逻辑和语法形式会一起变明朗。",
+    "source": "local OCR extraction round 120, cause-result collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-role-function-phrases",
+    "title": "作用类短语要看后接结构",
+    "keywords": [
+      "FIB",
+      "play a role",
+      "function",
+      "搭配",
+      "阅读"
+    ],
+    "answer": "play a role in、play a part in、contribute to 这类作用类表达，看起来意思相近，但后接结构不一样。Sunny 会让学生同时记短语功能和后面常接的词形。这样做 FIB 时不会只因中文意思接近就误选。",
+    "source": "local OCR extraction round 120, role-function phrase notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-quantity-phrase-countability",
+    "title": "数量短语要连可数性一起判断",
+    "keywords": [
+      "FIB",
+      "数量短语",
+      "可数名词",
+      "不可数名词",
+      "阅读"
+    ],
+    "answer": "a range of、a variety of、a large quantity of 等短语不只表示数量，还影响后面名词形式。Sunny 会让学生看到数量短语时立刻检查可数性、单复数和谓语一致。数量线索如果不处理，后面很容易连环错。",
+    "source": "local OCR extraction round 120, quantity phrase notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-contrast-phrases",
+    "title": "对比短语提示句子方向",
+    "keywords": [
+      "FIB",
+      "对比",
+      "contrary to",
+      "even if",
+      "阅读逻辑"
+    ],
+    "answer": "contrary to、even if、whereas、although 这类对比信号会改变句子方向。Sunny 会要求学生先判断前后是否反向，再选词。很多 FIB 错误不是词不认识，而是没看出句子已经转折，导致选了语义方向相反的词。",
+    "source": "local OCR extraction round 120, contrast phrase notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-synonym-register",
+    "title": "近义词还要比较正式程度",
+    "keywords": [
+      "近义词",
+      "正式程度",
+      "阅读",
+      "写作",
+      "词汇"
+    ],
+    "answer": "同义词不一定能互换。Sunny 会让学生比较词的正式程度和使用场景，例如日常表达、学术表达、技术表达可能对应不同词。阅读 FIB 里，文章风格本身就是线索；写作中，也要选和题目语气匹配的词。",
+    "source": "local OCR extraction round 120, synonym register notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
