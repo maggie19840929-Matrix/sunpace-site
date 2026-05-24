@@ -25663,5 +25663,245 @@
     "source": "local OCR extraction round 120, synonym register notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-rs-topic-clustering-memory",
+    "title": "RS 可以按话题成组记忆",
+    "keywords": [
+      "RS",
+      "话题分类",
+      "短时记忆",
+      "口语",
+      "听力"
+    ],
+    "answer": "RS 句子可以按学习、工作、生活、科学、环境等话题成组训练。Sunny 会让学生先熟悉同一话题的常见词和句型，再练听后复述。话题分类不是为了背答案，而是减少陌生感，让短时记忆有抓手。",
+    "source": "local OCR extraction round 121, RS topic-cluster notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rs-structure-splitting-before-repeat",
+    "title": "RS 先拆结构再复述",
+    "keywords": [
+      "RS",
+      "结构划分",
+      "复述",
+      "记忆",
+      "句子主干"
+    ],
+    "answer": "RS 听到长句时，Sunny 会让学生先抓结构：主语做什么、补充信息在哪里、时间或地点放在哪里。复述不是逐词回放，而是按结构还原。结构拆清楚后，即使个别小词漏掉，也更容易保住主干和语法完整度。",
+    "source": "local OCR extraction round 121, RS structure-splitting notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rs-translation-only-for-understanding",
+    "title": "RS 翻译只辅助理解",
+    "keywords": [
+      "RS",
+      "翻译",
+      "理解",
+      "复述",
+      "训练"
+    ],
+    "answer": "RS 材料里的翻译可以帮助理解句意，但 Sunny 不会让学生依赖中文来复述。训练顺序应该是：听英文、抓结构、英文复述，最后才用中文检查意思。否则学生会在脑内翻译一圈，反而拖慢反应。",
+    "source": "local OCR extraction round 121, RS translation-use notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rs-common-campus-sentences",
+    "title": "校园句型要形成听觉模板",
+    "keywords": [
+      "RS",
+      "校园场景",
+      "句型",
+      "听力",
+      "复述"
+    ],
+    "answer": "PTE RS 常出现课程、讲座、图书馆、实验室、作业和服务中心等校园句型。Sunny 会让学生把这些句型练成听觉模板，例如“某物可以在某处获得”“学生需要在某时间前完成某事”。模板熟悉后，听到新句子更容易预测结构。",
+    "source": "local OCR extraction round 121, RS campus sentence notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-logic-speed-review",
+    "title": "SST 逻辑速刷只能做考前复盘",
+    "keywords": [
+      "SST",
+      "逻辑速刷",
+      "考前复盘",
+      "听力",
+      "摘要"
+    ],
+    "answer": "SST 逻辑速刷适合考前快速唤醒主题和结构，但不能替代认真听音频。Sunny 会把它放在最后复盘阶段：先回忆主旨、因果和结论，再回到音频检查自己是否真能听出来。只看逻辑不听音频，分数很难稳定。",
+    "source": "local OCR extraction round 121, SST logic-review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-keywords-to-structure",
+    "title": "SST 关键词要串成结构",
+    "keywords": [
+      "SST",
+      "关键词",
+      "结构",
+      "摘要",
+      "听力"
+    ],
+    "answer": "SST 复盘时，Sunny 不会让学生只背关键词。关键词要被串成结构：主题是什么，原因是什么，例子说明什么，结论落在哪里。只有词没有结构，写出来容易像清单；有结构，才能形成可评分的摘要句。",
+    "source": "local OCR extraction round 121, SST keyword-structure notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-visual-vs-text-memory",
+    "title": "SST 复习方式要匹配记忆习惯",
+    "keywords": [
+      "SST",
+      "思维导图",
+      "文字复盘",
+      "记忆方式",
+      "备考"
+    ],
+    "answer": "有的学生适合用思维导图记 SST 逻辑，有的更适合文字版提纲。Sunny 会让学生选择自己能复述出来的方式，而不是追求资料形式。标准很简单：看完后能不能合上材料讲出主旨和两三个支撑点。",
+    "source": "local OCR extraction round 121, SST memory-style notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-short-cycle-for-limited-time",
+    "title": "备考时间短时 SST 要做短循环",
+    "keywords": [
+      "SST",
+      "短期备考",
+      "复盘",
+      "听力",
+      "时间管理"
+    ],
+    "answer": "备考时间很短时，Sunny 会压缩 SST 训练成短循环：听一遍抓主旨，看逻辑补缺口，立刻复述，再写一句摘要。不要在一篇材料上拖太久。短循环的目标是快速暴露问题，并把高频结构过一遍。",
+    "source": "local OCR extraction round 121, SST limited-time cycle notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-speed-review-with-meaning",
+    "title": "FIBR 速刷要建立在理解上",
+    "keywords": [
+      "FIBR",
+      "速刷",
+      "阅读",
+      "语境",
+      "理解"
+    ],
+    "answer": "FIBR 速刷不是只背空格答案。Sunny 会要求学生同时看空格词、所在句意和前后逻辑。理解为什么填这个词，比记住某个题号更重要。考试中题目变形或语境调整时，理解才能迁移。",
+    "source": "local OCR extraction round 122, FIBR speed-review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibr-blank-word-function",
+    "title": "FIBR 空格词要标功能",
+    "keywords": [
+      "FIBR",
+      "空格词",
+      "词性",
+      "固定搭配",
+      "阅读"
+    ],
+    "answer": "做 FIBR 复盘时，Sunny 会让学生给空格词标功能：它是固定搭配的一部分、句子必需成分，还是语境里的关键词。只记中文意思不够。标出功能后，下一次遇到相似结构才能快速反应。",
+    "source": "local OCR extraction round 122, FIBR blank-function notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibr-context-translation-risk",
+    "title": "FIBR 翻译版复习要回到英文句子",
+    "keywords": [
+      "FIBR",
+      "翻译",
+      "英文句子",
+      "阅读",
+      "复盘"
+    ],
+    "answer": "翻译版速刷可以降低理解门槛，但 Sunny 会要求学生最终回到英文句子。中文概括能告诉你大意，却不能替代英文里的搭配、词性和语序线索。复习时先用中文理解，再用英文确认为什么这个词能放进去。",
+    "source": "local OCR extraction round 122, FIBR translation-risk notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibr-collocation-parentheses",
+    "title": "固定搭配要和空格一起记",
+    "keywords": [
+      "FIBR",
+      "固定搭配",
+      "空格",
+      "阅读",
+      "复习"
+    ],
+    "answer": "如果某个空格词其实是固定搭配的一部分，Sunny 会让学生把整组短语记下来，而不是只记被挖掉的词。比如前后介词、动词和名词要一起复盘。搭配成组记，考场反应才会快。",
+    "source": "local OCR extraction round 122, FIBR collocation annotation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-meaning-and-grammar-double-check",
+    "title": "FIBRW 要同时过意思和语法",
+    "keywords": [
+      "FIBRW",
+      "阅读写作填空",
+      "语法",
+      "语义",
+      "选项"
+    ],
+    "answer": "FIBRW 选项常常语义相近，但语法位置不同。Sunny 会让学生每题做两次检查：第一遍看意思是否贴合，第二遍看词性、搭配、单复数和句子结构是否成立。只靠中文意思选，容易掉进相似词陷阱。",
+    "source": "local OCR extraction round 122, FIBRW double-check notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-attitude-word-check",
+    "title": "批判意识类文章抓态度词",
+    "keywords": [
+      "FIBRW",
+      "批判意识",
+      "态度词",
+      "阅读",
+      "词汇"
+    ],
+    "answer": "遇到信息偏见、证据、客观性和批判意识类文章时，Sunny 会提醒学生重点抓态度词，例如表示客观、批判、刻意、误导的表达。它们通常决定作者立场和空格方向。先看态度，再看选项，判断会更稳。",
+    "source": "local OCR extraction round 122, critical-awareness vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-science-text-verb-noun-pair",
+    "title": "科学类 FIBRW 注意动词名词搭配",
+    "keywords": [
+      "FIBRW",
+      "科学文章",
+      "动词名词搭配",
+      "阅读",
+      "词汇"
+    ],
+    "answer": "科学类文章常出现 research、experience、react、reflect、evidence 这类抽象名词和动词。Sunny 会让学生记录动词和名词如何搭配，而不是单背词义。搭配熟悉后，看到实验、观察、反应、结果等结构时更容易选对。",
+    "source": "local OCR extraction round 122, science-text collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-policy-text-this-reference",
+    "title": "政策类文章要追踪 this 指代",
+    "keywords": [
+      "FIBRW",
+      "this",
+      "指代",
+      "政策文章",
+      "阅读"
+    ],
+    "answer": "FIBRW 政策或环保类文章里，this、these、such 常指向前一句整个情况。Sunny 会让学生先问：这个指代回扣什么？指代关系清楚后，空格里的动词、被动结构或结果词就更好判断。忽略 this，常会误判句子主语。",
+    "source": "local OCR extraction round 122, reference tracking notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
