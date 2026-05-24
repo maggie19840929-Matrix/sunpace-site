@@ -25183,5 +25183,245 @@
     "source": "local OCR extraction round 116, cross-skill vocabulary review notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-prediction-material-as-practice-map",
+    "title": "预测材料只能当练习地图",
+    "keywords": [
+      "预测",
+      "机经",
+      "练习计划",
+      "题库",
+      "PTE"
+    ],
+    "answer": "Sunny 会把预测材料当作练习地图，而不是保分承诺。学生可以用它确认近期常见题型、话题和弱项，但不能只背列表。真正要做的是把材料转成练习安排：哪些题型每天刷，哪些错因要复盘，哪些能力还没补上。",
+    "source": "local OCR extraction round 117, prediction-material planning notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-update-no-last-minute-switch",
+    "title": "临考前不要被更新列表带乱",
+    "keywords": [
+      "预测更新",
+      "临考",
+      "复习节奏",
+      "机经",
+      "冲刺"
+    ],
+    "answer": "看到每周更新时，Sunny 会先问学生：你的核心弱项是否已经稳定？如果 WFD、RA、SST 还没达标，临考前频繁换资料只会打乱节奏。更新列表可以用来补漏，但主线仍应围绕高权重题型和个人错题，而不是追着新增内容跑。",
+    "source": "local OCR extraction round 117, weekly update strategy notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rs-bank-memory-and-syntax",
+    "title": "RS 句库要练记忆和语法",
+    "keywords": [
+      "RS",
+      "句库",
+      "短时记忆",
+      "语法",
+      "复述"
+    ],
+    "answer": "RS 句子材料不只是拿来背答案。Sunny 会让学生用句库练两件事：听完后保留主干顺序，以及复述时把时态、冠词和复数尽量保住。先练短句稳定，再逐步加长句。这样句库才能训练能力，而不是变成碰运气背诵。",
+    "source": "local OCR extraction round 117, RS sentence-bank notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-wfd-bank-meaning-before-spelling",
+    "title": "WFD 句库先过意思再练拼写",
+    "keywords": [
+      "WFD",
+      "句库",
+      "听写",
+      "拼写",
+      "句意"
+    ],
+    "answer": "WFD 高频句要练拼写，但 Sunny 不建议一开始就机械抄句。先快速理解句意和结构，再听写关键词、介词、复数和时态。知道句子在说什么，考场听到音频时更容易补全空缺，也更容易发现自己写出的词形不合理。",
+    "source": "local OCR extraction round 117, WFD sentence-bank notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-topic-list-category-drill",
+    "title": "DI 题目列表要转成图型训练",
+    "keywords": [
+      "DI",
+      "图表",
+      "分类训练",
+      "预测",
+      "口语"
+    ],
+    "answer": "DI 列表里出现很多图表主题时，Sunny 会先按图型分类：折线、柱状、地图、流程、表格、饼图。不要逐题背描述，而是为每类准备观察顺序和口播骨架。图型能力稳定后，即使遇到陌生主题，也能按标题、项目、单位和趋势说下去。",
+    "source": "local OCR extraction round 117, DI topic-list drill notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sgd-rts-scenario-frame",
+    "title": "新口语任务先搭场景框架",
+    "keywords": [
+      "SGD",
+      "RTS",
+      "口语",
+      "场景",
+      "回应"
+    ],
+    "answer": "遇到 SGD 或 RTS 这类场景任务，Sunny 会先让学生建立回应框架：确认问题、表达态度、给出理由或建议、最后收束下一步。不要只背固定句。场景题看的是能不能在校园和生活情境里自然完成任务，框架比逐字模板更稳。",
+    "source": "local OCR extraction round 117, scenario speaking task notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-topic-list-vocab-map",
+    "title": "阅读题单要变成话题词汇图",
+    "keywords": [
+      "阅读",
+      "FIB",
+      "RO",
+      "话题词汇",
+      "预测"
+    ],
+    "answer": "阅读预测列表的价值不只是知道题名。Sunny 会把它改造成话题词汇图，例如教育、医疗、环境、科技、社会和艺术。每个话题积累核心名词、动词和常见搭配。这样遇到 FIB 或 RO 时，学生能更快判断上下文，而不是只靠记住某一题。",
+    "source": "local OCR extraction round 117, reading topic-vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-hiw-fibl-sound-spelling-link",
+    "title": "HIW 和听力 FIB 要连声音和拼写",
+    "keywords": [
+      "HIW",
+      "FIB-L",
+      "听力",
+      "拼写",
+      "辨音"
+    ],
+    "answer": "HIW 和听力 FIB 都考声音到文字的连接。Sunny 会让学生复盘时标出三类错误：没听出音、听出了但拼错、看到了但没意识到语法不对。练习时把音频、拼写和句子位置放在一起看，比分开刷词表更有效。",
+    "source": "local OCR extraction round 117, listening spelling-link notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-one-sentence-main-idea",
+    "title": "SWT 先压出一句主旨",
+    "keywords": [
+      "SWT",
+      "小作文",
+      "主旨",
+      "摘要",
+      "写作"
+    ],
+    "answer": "SWT 开始前，Sunny 会让学生先用中文或英文压出一句主旨：这段主要说明什么。没有主旨就急着拼长句，容易把例子和细节都塞进去。先确定中心，再选择支撑信息，最后写成一个语法完整的英文句子。",
+    "source": "local OCR extraction round 118, SWT main-idea notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-clause-control",
+    "title": "SWT 合并信息要控制从句",
+    "keywords": [
+      "SWT",
+      "从句",
+      "并列句",
+      "语法",
+      "摘要"
+    ],
+    "answer": "SWT 需要把多点信息合成一句，但不是从句越多越好。Sunny 会建议学生优先用一个主句加一到两个从句或分词结构，保证主谓清楚。句子如果长到自己无法检查，就要拆掉次要信息。可控的句子，比炫技长句更安全。",
+    "source": "local OCR extraction round 118, SWT clause-control notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-example-trim-rule",
+    "title": "SWT 例子只留功能不留细节",
+    "keywords": [
+      "SWT",
+      "例子",
+      "摘要",
+      "删减",
+      "主旨"
+    ],
+    "answer": "原文里的例子往往是为了证明观点，不一定都要写进 SWT。Sunny 会让学生判断例子的功能：它是在解释原因、展示结果，还是说明对比。摘要中保留功能即可，具体人名、数字和故事细节通常可以删掉。",
+    "source": "local OCR extraction round 118, SWT example-trimming notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-topic-rotation",
+    "title": "SWT 练习要按话题轮换",
+    "keywords": [
+      "SWT",
+      "话题",
+      "练习计划",
+      "阅读",
+      "写作"
+    ],
+    "answer": "SWT 题材很广，Sunny 不建议连续只练一种话题。可以按科技、教育、环境、历史、社会、健康轮换，每次记录常见结构和关键词。轮换练习能减少考场陌生感，也能让学生学会在不同主题中抓主旨。",
+    "source": "local OCR extraction round 118, SWT topic rotation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-translation-reference-only",
+    "title": "译文只能辅助理解不能当答案",
+    "keywords": [
+      "SWT",
+      "译文",
+      "摘要",
+      "改写",
+      "写作"
+    ],
+    "answer": "带译文的材料可以帮助理解原文，但 Sunny 不会让学生把译文反向翻译成答案。SWT 要写的是英文原文的主旨和逻辑，不是中文解释。正确用法是先读原文、自己总结，再用译文查漏，最后回到英文重写。",
+    "source": "local OCR extraction round 118, SWT translation-use notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-final-grammar-scan",
+    "title": "SWT 最后十秒检查句子完整",
+    "keywords": [
+      "SWT",
+      "语法检查",
+      "主谓一致",
+      "标点",
+      "写作"
+    ],
+    "answer": "SWT 最后十秒不要再大改内容。Sunny 会让学生只检查四件事：是否只有一句，主谓是否完整，连接词是否合理，结尾标点是否正确。很多失分不是因为观点少，而是句子结构在最后合并时断掉了。",
+    "source": "local OCR extraction round 118, SWT final-check notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-education-balanced-position",
+    "title": "教育类作文要避免绝对化",
+    "keywords": [
+      "WE",
+      "教育类",
+      "体育",
+      "学术",
+      "平衡观点"
+    ],
+    "answer": "教育类作文常出现学术学习、体育活动、传统文化或课外活动的取舍。Sunny 会提醒学生不要用绝对化立场。更稳的写法是承认一方价值，再说明在特定年龄、目标或时间压力下如何安排优先级。平衡不等于摇摆，而是让观点更可信。",
+    "source": "local OCR extraction round 118, education essay balance notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-topic-recognition-not-memorization",
+    "title": "真题主题用于识别不是死背",
+    "keywords": [
+      "真题",
+      "阅读",
+      "SWT",
+      "话题识别",
+      "备考"
+    ],
+    "answer": "看到大量真题主题时，Sunny 会让学生提炼可迁移的阅读能力：识别因果、对比、定义、例证和结论。不要试图把每篇文章背下来。考试真正有用的是看见新文章时能快速判断它属于哪类结构，并知道该抓哪些信息。",
+    "source": "local OCR extraction round 118, topic-recognition notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
