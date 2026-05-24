@@ -27826,5 +27826,245 @@
     "source": "local OCR extraction round 138, cyber security vocabulary notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-prediction-list-triage-not-main-plan",
+    "title": "预测列表只能做补漏分流",
+    "keywords": [
+      "预测",
+      "备考计划",
+      "机经",
+      "优先级",
+      "复盘"
+    ],
+    "answer": "每周预测或更新列表不能替代主线备考。Sunny 会把它当作补漏分流工具：先看自己高权重弱项，再决定哪些新增、重回或剔除内容需要处理。主线仍然是 RA、RS、WFD、SST、FIB、RO 等核心能力。",
+    "source": "local OCR extraction round 139, prediction list triage notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-prediction-change-labels-meaning",
+    "title": "新增重回剔除要分开处理",
+    "keywords": [
+      "预测",
+      "新增",
+      "重回",
+      "剔除",
+      "备考"
+    ],
+    "answer": "看到预测表里的新增、重回、剔除时，Sunny 会分三类处理：新增用于快速熟悉题型和主题，重回用于查旧错题是否还会，剔除只作为低优先级参考。不要把所有变化都当成必须背完的任务。",
+    "source": "local OCR extraction round 139, prediction change labels notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rs-update-sentence-pattern-bank",
+    "title": "RS 更新句先归入句型库",
+    "keywords": [
+      "RS",
+      "预测",
+      "句型",
+      "听力",
+      "口语"
+    ],
+    "answer": "RS 更新句不应逐句死背。Sunny 会先把句子归入结构：校园安排、时间地点、学术争议、设施说明、作业要求等。学生练的是听到同类句子后的短时记忆和复述顺序，而不是只记某一句原文。",
+    "source": "local OCR extraction round 139, RS update sentence notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-wfd-update-effective-word-focus",
+    "title": "WFD 更新句按有效词拆练",
+    "keywords": [
+      "WFD",
+      "预测",
+      "听写",
+      "有效词",
+      "拼写"
+    ],
+    "answer": "WFD 更新句要拆成有效词练习：名词、动词、形容词、介词短语和复数词尾。Sunny 会让学生先听整句，再分块默写，最后核对顺序和词形。追求把整句背熟，不如把高频结构和易错词写准。",
+    "source": "local OCR extraction round 139, WFD update sentence notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-prediction-topic-prep",
+    "title": "DI 预测题先准备图表语言和主题词",
+    "keywords": [
+      "DI",
+      "预测",
+      "图表",
+      "主题词",
+      "口语"
+    ],
+    "answer": "DI 预测表出现教育支出、语言、人口增长、空气成分、森林面积等主题时，Sunny 会让学生准备两层内容：图表表达和主题词。图表语言负责趋势与比较，主题词负责读得顺、说得准。",
+    "source": "local OCR extraction round 139, DI prediction topic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sgd-rts-scenario-bank",
+    "title": "新口语场景题要建情境库",
+    "keywords": [
+      "SGD",
+      "RTS",
+      "口语",
+      "场景题",
+      "预测"
+    ],
+    "answer": "SGD 和 RTS 的更新常围绕图书馆投诉、课程选择、设备问题、维修安排、改学习时间等校园场景。Sunny 会把它们整理成情境库：问题是什么、对方需求是什么、你的回应目标是什么。这样比背完整答案更灵活。",
+    "source": "local OCR extraction round 139, SGD RTS scenario notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-update-topic-vocab-route",
+    "title": "FIB 更新题按主题词路由复习",
+    "keywords": [
+      "FIB",
+      "预测",
+      "阅读",
+      "词汇",
+      "主题"
+    ],
+    "answer": "FIB 更新题的主题跨度很大，从电影、研究、经济、基因到高等教育。Sunny 不会让学生逐题硬背，而是按主题路由：先补同主题词汇和搭配，再练空格前后的词性、介词和逻辑。",
+    "source": "local OCR extraction round 139, FIB update topic notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-update-logic-type-review",
+    "title": "RO 更新题先判断逻辑类型",
+    "keywords": [
+      "RO",
+      "预测",
+      "排序",
+      "逻辑",
+      "阅读"
+    ],
+    "answer": "RO 更新题拿到标题后，Sunny 会先判断可能的逻辑类型：人物经历、实验过程、技术问题、历史发展或观点论证。复习时重点看指代、时间顺序、转折和因果，而不是只记某套固定顺序。",
+    "source": "local OCR extraction round 139, RO update logic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-question-bank-coverage-map",
+    "title": "大型题库先做题型覆盖图",
+    "keywords": [
+      "题库",
+      "机经",
+      "备考计划",
+      "题型覆盖",
+      "复盘"
+    ],
+    "answer": "大型题库目录很长，直接从第一页刷容易迷路。Sunny 会先做题型覆盖图：口语、写作、阅读、听力各有哪些任务，每个任务有多少材料，自己的弱项排在哪里。先看覆盖，再安排刷题顺序。",
+    "source": "local OCR extraction round 140, question bank coverage notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-topic-diversity-prep",
+    "title": "RA 题库主题多样性要求预读策略",
+    "keywords": [
+      "RA",
+      "题库",
+      "主题",
+      "预读",
+      "口语"
+    ],
+    "answer": "RA 题库主题覆盖科学、历史、能源、社会、教育、人物和环境。Sunny 会训练学生预读时先扫专名、长词、数字和标点，再决定停顿。主题越多，越不能只靠熟题记忆，必须练通用预读策略。",
+    "source": "local OCR extraction round 140, RA topic diversity notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-question-bank-repeat-dedup",
+    "title": "重复题库要去重而不是重复刷",
+    "keywords": [
+      "题库",
+      "去重",
+      "复习效率",
+      "机经",
+      "备考"
+    ],
+    "answer": "不同版本题库可能包含大量重复目录或相近题目。Sunny 会让学生建立去重表：同题不同版本只保留最清楚的一份，错题记录跟着题型和主题走。这样能减少无效重复，把时间留给真正没掌握的内容。",
+    "source": "local OCR extraction round 140, question bank dedup notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-topic-index-to-vocab-plan",
+    "title": "目录主题可以反推词汇计划",
+    "keywords": [
+      "题库目录",
+      "词汇",
+      "主题",
+      "阅读",
+      "听力"
+    ],
+    "answer": "题库目录本身就能提示高频主题。Sunny 会从目录中抽出能源、环境、科技、健康、教育、经济、文化等大类，再为每类准备核心词和常见搭配。这样复习词汇更贴近题型，不是泛泛背单词。",
+    "source": "local OCR extraction round 140, topic-index vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-environment-science-cross-task-theme",
+    "title": "环境科学主题要跨题型准备",
+    "keywords": [
+      "环境",
+      "科学",
+      "RA",
+      "SST",
+      "FIB"
+    ],
+    "answer": "环境和科学主题会出现在 RA、SWT、SST、FIB、DI 等多个题型中。Sunny 会把 climate change、energy efficiency、pollution、species、microbes 这类主题词跨题型复用：会读、会听、会写、会搭配。",
+    "source": "local OCR extraction round 140, environment science theme notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-social-policy-cross-task-theme",
+    "title": "社会政策主题要抓立场和影响",
+    "keywords": [
+      "社会政策",
+      "写作",
+      "SWT",
+      "SST",
+      "阅读"
+    ],
+    "answer": "社会政策类主题如福利、禁烟、年龄歧视、学生债务、工会和改革，常涉及立场与影响。Sunny 会让学生准备影响对象、利弊权衡和政策结果三个角度。这样写作和摘要都更容易展开。",
+    "source": "local OCR extraction round 140, social policy theme notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-technology-theme-risk-benefit",
+    "title": "科技主题按风险和收益双线整理",
+    "keywords": [
+      "科技",
+      "IT",
+      "网络安全",
+      "写作",
+      "阅读"
+    ],
+    "answer": "科技类题目可能讲信息技术、网络、黑客、媒体变化或人工智能。Sunny 会让学生用双线框架整理：收益是什么，风险是什么，谁受影响，如何控制风险。这个框架能同时服务阅读理解、SWT 和 WE。",
+    "source": "local OCR extraction round 140, technology theme notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-update-stop-rule",
+    "title": "预测更新要有停止规则",
+    "keywords": [
+      "预测",
+      "备考节奏",
+      "停止规则",
+      "高权重",
+      "计划"
+    ],
+    "answer": "预测资料会不断更新，如果没有停止规则，学生会一直追新。Sunny 会设定清晰边界：高权重弱项未稳时不追低优先级更新；考前 48 小时只复盘错题和高频结构；新增材料只做快速熟悉，不打乱主计划。",
+    "source": "local OCR extraction round 140, prediction stop-rule notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
