@@ -26866,5 +26866,245 @@
     "source": "local OCR extraction round 130, DI vocabulary function notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-coherence-paragraph-role",
+    "title": "WE 每个段落先确定功能",
+    "keywords": [
+      "WE",
+      "写作",
+      "coherence",
+      "段落功能",
+      "结构"
+    ],
+    "answer": "作文连贯性不是只靠连接词，而是每个段落都有明确任务。Sunny 会让学生在动笔前标出开头段、让步段、己方观点段和结尾段各自要完成什么。段落功能清楚，文章就不会变成观点堆叠。",
+    "source": "local OCR extraction round 131, essay coherence notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-body-sentence-roles",
+    "title": "主体段句子要各司其职",
+    "keywords": [
+      "WE",
+      "写作",
+      "主体段",
+      "句子功能",
+      "论证"
+    ],
+    "answer": "一个主体段内部也需要分工。Sunny 建议按观点句、解释句、例证句、结果句或回扣句组织，而不是连续写四句相似观点。每句话的作用不同，论证才会向前推进。",
+    "source": "local OCR extraction round 131, essay body paragraph notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-connectors-logic-first",
+    "title": "连接词先看逻辑再选择",
+    "keywords": [
+      "WE",
+      "连接词",
+      "逻辑",
+      "写作",
+      "cohesion"
+    ],
+    "answer": "however、therefore、because、while 不能当装饰词随便放。Sunny 会让学生先判断两句之间是转折、因果、让步、并列还是对比，再选连接词。逻辑关系准确，比堆高级连接词更重要。",
+    "source": "local OCR extraction round 131, essay connector logic notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-keyword-replacement-before-outline",
+    "title": "作文先替换关键词再列提纲",
+    "keywords": [
+      "WE",
+      "关键词替换",
+      "词汇",
+      "写作",
+      "审题"
+    ],
+    "answer": "写作题干里的关键词如果反复照抄，会让文章显得词汇单薄。Sunny 会让学生先做关键词替换表，再写提纲。例如把 study abroad 扩展为 overseas study、international education、further study in another country 等表达。",
+    "source": "local OCR extraction round 131, essay vocabulary replacement notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-collocation-over-rare-words",
+    "title": "写作优先固定搭配而不是稀有词",
+    "keywords": [
+      "WE",
+      "固定搭配",
+      "词汇",
+      "写作",
+      "自然表达"
+    ],
+    "answer": "高分词汇不等于罕见词。Sunny 会优先训练固定搭配，例如 make a decision、pose a risk、exert influence、improve efficiency。搭配自然、语义准确，比硬塞冷门词更能提升 written discourse。",
+    "source": "local OCR extraction round 131, essay collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-complex-sentence-clarity-first",
+    "title": "复杂句必须先保证清楚",
+    "keywords": [
+      "WE",
+      "复杂句",
+      "语法",
+      "写作",
+      "清晰度"
+    ],
+    "answer": "复杂句能展示语法范围，但不清楚的复杂句会伤害表达。Sunny 会让学生先写清楚的主谓宾，再加入 because、although、which、that 等从句。句子越长，越要检查主干是否完整。",
+    "source": "local OCR extraction round 131, essay grammar range notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-spelling-final-pass",
+    "title": "作文最后 60 秒只查拼写和形式",
+    "keywords": [
+      "WE",
+      "拼写",
+      "form",
+      "写作",
+      "检查"
+    ],
+    "answer": "写作拼写容错很低，最后检查不能只看内容。Sunny 会预留最后 60 秒专门看三个点：字数是否在安全区间、常拼错词是否正确、是否有不必要缩写或口语表达。这个检查比临时再加一句更有价值。",
+    "source": "local OCR extraction round 131, essay spelling form notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-formal-discourse-no-contractions",
+    "title": "作文保持正式书面表达",
+    "keywords": [
+      "WE",
+      "written discourse",
+      "正式表达",
+      "写作",
+      "缩写"
+    ],
+    "answer": "PTE 写作应保持正式书面语。Sunny 会提醒学生避免 dont、cant 这类缩写，少用过于口语的说法，并用完整句表达观点。正式不等于复杂，而是语法完整、搭配自然、语气稳定。",
+    "source": "local OCR extraction round 131, essay written discourse notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-theme-library-from-index",
+    "title": "SWT 主题库用于预测结构而非背答案",
+    "keywords": [
+      "SWT",
+      "主题库",
+      "总结",
+      "阅读写作",
+      "备考"
+    ],
+    "answer": "SWT 题目主题覆盖科技、教育、环境、健康、历史和社会政策等方向。Sunny 会把主题库当作结构预热工具：看到题目先预测文章可能在讲定义、原因、影响、争议或解决方案，而不是背固定答案。",
+    "source": "local OCR extraction round 132, SWT theme library notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-one-sentence-two-main-ideas",
+    "title": "SWT 一句话优先合并两个主信息",
+    "keywords": [
+      "SWT",
+      "一句话总结",
+      "主旨",
+      "阅读写作",
+      "结构"
+    ],
+    "answer": "SWT 不是压缩每个细节，而是用一句语法完整的话合并最重要的两层信息。Sunny 会让学生先找主话题和核心变化，再用 and、while、because、which 等结构连接。句子要可读，而不是越长越好。",
+    "source": "local OCR extraction round 132, SWT one-sentence summary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-connector-by-source-logic",
+    "title": "SWT 连接方式跟随原文逻辑",
+    "keywords": [
+      "SWT",
+      "连接词",
+      "逻辑",
+      "总结",
+      "阅读写作"
+    ],
+    "answer": "SWT 常用连接不是模板选择，而是原文逻辑决定。前后是对比时用 while 或 but，原因结果用 because 或 due to，补充并列用 and，解释前文整体事件可用 which。连接词选错，主旨会偏。",
+    "source": "local OCR extraction round 132, SWT connector logic notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-proper-noun-filter",
+    "title": "SWT 不要被专名拖走主旨",
+    "keywords": [
+      "SWT",
+      "专有名词",
+      "主旨",
+      "阅读写作",
+      "筛选"
+    ],
+    "answer": "SWT 原文里常有国家、机构、人物或技术名词。Sunny 会让学生判断专名是否承载主旨：如果只是例子，可以泛化为 researchers、governments、students、technology 等；如果是核心对象，再保留。这样总结更干净。",
+    "source": "local OCR extraction round 132, SWT proper noun filtering notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-paragraph-function-compression",
+    "title": "SWT 先压缩段落功能再成句",
+    "keywords": [
+      "SWT",
+      "段落功能",
+      "总结",
+      "阅读写作",
+      "压缩"
+    ],
+    "answer": "多段 SWT 可以先给每段贴功能标签：背景、问题、证据、影响、转折、结论。Sunny 会让学生把每段压缩成一个短语，再从中选两三个最关键短语合成最终一句。这样比逐句摘词更稳定。",
+    "source": "local OCR extraction round 132, SWT paragraph function notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-health-social-impact-frame",
+    "title": "健康社会类 SWT 抓影响对象",
+    "keywords": [
+      "SWT",
+      "健康话题",
+      "社会影响",
+      "总结",
+      "阅读写作"
+    ],
+    "answer": "健康和社会类 SWT 常围绕某个行为对不同人群的影响展开。Sunny 会让学生先标出影响对象，例如学生、成年人、家庭、社区或政策制定者，再写出影响结果。对象清楚，句子主旨就不会泛泛而谈。",
+    "source": "local OCR extraction round 132, SWT health social frame notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-education-quality-equity-frame",
+    "title": "教育类 SWT 常抓质量与公平张力",
+    "keywords": [
+      "SWT",
+      "教育话题",
+      "质量",
+      "公平",
+      "总结"
+    ],
+    "answer": "教育类 SWT 经常讨论质量、机会、公平、课程改革和社会背景之间的关系。Sunny 会让学生用 tension frame 处理：某项改革想解决 A，却可能带来 B。抓住这种张力，比只写 education is important 更像总结。",
+    "source": "local OCR extraction round 132, SWT education tension notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-ethical-debate-contrast-frame",
+    "title": "伦理争议类 SWT 用对比框架",
+    "keywords": [
+      "SWT",
+      "伦理争议",
+      "对比",
+      "总结",
+      "阅读写作"
+    ],
+    "answer": "伦理争议类文章通常一边说明研究、技术或政策的价值，另一边提出所有权、社会影响、法律或道德问题。Sunny 会让学生用 despite/while/but 结构表达价值与限制，避免只总结一边。",
+    "source": "local OCR extraction round 132, SWT ethical debate notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
