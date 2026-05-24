@@ -26144,5 +26144,245 @@
     "source": "local OCR extraction round 124, decimal fraction sensitivity notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-collocation-pos-formulas",
+    "title": "词性搭配可以用公式复盘",
+    "keywords": [
+      "词性",
+      "搭配",
+      "FIB",
+      "语法",
+      "阅读"
+    ],
+    "answer": "Sunny 会把基础搭配整理成公式来复盘：形容词修饰名词，副词修饰动词或形容词，介词后接名词或动名词，情态动词后接动词原形。做 FIB 时先看空格前后的词性位置，再看意思，能减少凭感觉乱选。",
+    "source": "local OCR extraction round 125, part-of-speech collocation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-article-adjective-noun-pattern",
+    "title": "冠词后常看名词结构",
+    "keywords": [
+      "FIB",
+      "冠词",
+      "形容词",
+      "名词",
+      "语法"
+    ],
+    "answer": "看到 a、an、the 后面有空格时，Sunny 会让学生检查是否需要形容词加名词，或直接需要名词。尤其单数可数名词不能裸放，前面常需要冠词或限定词。冠词线索看似小，却经常决定选项词性。",
+    "source": "local OCR extraction round 125, article adjective noun notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-adv-modifier-position",
+    "title": "副词位置提示后面词性",
+    "keywords": [
+      "FIB",
+      "副词",
+      "修饰",
+      "词性",
+      "阅读"
+    ],
+    "answer": "副词常修饰动词、形容词或整个句子。Sunny 会让学生看到 entirely、usually、rapidly、clearly 这类位置时，判断它后面或前面被修饰的成分是什么。修饰关系清楚后，空格要填动词、形容词还是副词会更明确。",
+    "source": "local OCR extraction round 125, adverb modifier notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-to-after-form-decision",
+    "title": "to 后形式要先判断",
+    "keywords": [
+      "to",
+      "介词",
+      "不定式",
+      "FIB",
+      "语法"
+    ],
+    "answer": "to 后面不一定都是动词原形。Sunny 会让学生先判断 to 是介词还是不定式标记。介词 to 后面接名词或 doing，不定式 to 后面接动词原形。这个判断在 FIB、写作和长句理解里都很常见。",
+    "source": "local OCR extraction round 125, to pattern notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-be-verb-following-patterns",
+    "title": "be 动词后要看三种可能",
+    "keywords": [
+      "be动词",
+      "形容词",
+      "名词",
+      "被动",
+      "FIB"
+    ],
+    "answer": "be 动词后面可能接形容词、名词、doing 或 done。Sunny 会让学生结合句意判断：描述状态常用形容词，说明身份常用名词，表示正在发生用 doing，被动关系用 done。be 后空格不是简单选熟词，要看结构。",
+    "source": "local OCR extraction round 125, be-verb pattern notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-simple-sentence-frame-check",
+    "title": "简单句先找主谓宾",
+    "keywords": [
+      "简单句",
+      "主谓宾",
+      "阅读",
+      "写作",
+      "语法"
+    ],
+    "answer": "长句看不懂时，Sunny 会让学生先退回简单句框架：谁做什么，作用在什么对象上。主语、谓语和宾语找出来后，再处理修饰语、从句和插入信息。主干稳定，阅读 FIB 和写作改错都会更快。",
+    "source": "local OCR extraction round 125, simple sentence frame notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-spelling-system-consistency",
+    "title": "英美拼写要保持体系一致",
+    "keywords": [
+      "英美拼写",
+      "拼写",
+      "写作",
+      "WFD",
+      "PTE"
+    ],
+    "answer": "PTE 接受常见英式和美式拼写，但 Sunny 会提醒学生保持同一篇答案里的拼写体系一致。不要一会儿写 colour，一会儿写 center。平时选定一个体系，WFD 和写作都按同一套习惯练，能减少检查负担。",
+    "source": "local OCR extraction round 125, British American spelling notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-spelling-our-or-re-er-ise-ize",
+    "title": "常见英美拼写差异要成组记",
+    "keywords": [
+      "英美拼写",
+      "our-or",
+      "re-er",
+      "ise-ize",
+      "拼写"
+    ],
+    "answer": "Sunny 会把常见英美拼写差异成组复习：-our 和 -or，-re 和 -er，-ise 和 -ize，-yse 和 -yze。成组记比零散背更快。写作和听写检查时，看到这些词尾就能主动确认自己采用的拼写体系。",
+    "source": "local OCR extraction round 125, spelling pattern group notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-topic-vocab-energy-geography",
+    "title": "DI 主题词要按领域分组",
+    "keywords": [
+      "DI",
+      "词汇",
+      "能源",
+      "地理",
+      "图表"
+    ],
+    "answer": "DI 中常见能源、地理、国家地区、气候和经济类词汇。Sunny 会让学生按领域建立小词组，例如 renewable、hydropower、reservoir、precipitation、gulf 等。领域词熟悉后，看图时更容易读懂标题和项目，不会卡在第一个陌生词上。",
+    "source": "local OCR extraction round 126, DI topic vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-pronunciation-of-place-names",
+    "title": "DI 地名读法要先保证稳定",
+    "keywords": [
+      "DI",
+      "地名",
+      "发音",
+      "图表",
+      "口语"
+    ],
+    "answer": "DI 图表有时会出现国家、城市或地区名。Sunny 不要求学生把每个地名读得完美，但要在预读时决定一个稳定读法，避免读到一半卡住。地名难读时，可以放慢一点，保证后面的数据描述不断线。",
+    "source": "local OCR extraction round 126, DI place-name pronunciation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-number-plus-unit-package",
+    "title": "DI 数字要和单位一起说",
+    "keywords": [
+      "DI",
+      "数字",
+      "单位",
+      "图表",
+      "口语"
+    ],
+    "answer": "DI 说数字时，Sunny 会要求学生同时说出单位或指标。单独说 25、70、three million 没有意义，必须说明是 percent、million tons、students 还是 dollars。数字和单位打包，答案才像真正描述图表。",
+    "source": "local OCR extraction round 126, DI number-unit notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-vocabulary-range-not-word-stuffing",
+    "title": "WE 词汇多样性不是堆高级词",
+    "keywords": [
+      "WE",
+      "词汇多样性",
+      "写作",
+      "学术表达",
+      "自然度"
+    ],
+    "answer": "WE 评分看词汇范围，但 Sunny 会提醒学生：多样性不是把高级词硬塞进去。词要适合学术语境，也要准确表达观点。与其乱换生僻词，不如把关键词、同义改写和固定搭配用得自然，避免重复又不制造歧义。",
+    "source": "local OCR extraction round 126, WE vocabulary range notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-linguistic-range-clarity-first",
+    "title": "复杂句要先保证清楚",
+    "keywords": [
+      "WE",
+      "复杂句",
+      "语言范围",
+      "清晰度",
+      "写作"
+    ],
+    "answer": "WE 想体现语言广度，可以使用复杂句，但 Sunny 会把清晰度放在第一位。复杂观点需要复杂结构，但如果从句堆到自己都检查不了，就会变成语法风险。先把主干写清楚，再用从句补充原因、让步或结果。",
+    "source": "local OCR extraction round 126, WE linguistic range notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-keyword-paraphrase-before-template",
+    "title": "作文先改写题干关键词",
+    "keywords": [
+      "WE",
+      "改写",
+      "题干",
+      "模板",
+      "写作"
+    ],
+    "answer": "WE 开头前，Sunny 会先让学生圈出题干关键词并做自然改写。这样既能回应题目，也能减少整篇重复同一表达。模板只能提供结构，真正贴题的是关键词改写和论证方向。先改写，再套结构，文章会更像自己的答案。",
+    "source": "local OCR extraction round 126, WE keyword paraphrase notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-agree-disagree-language-scale",
+    "title": "同意不同意要有程度表达",
+    "keywords": [
+      "WE",
+      "同意不同意",
+      "立场",
+      "程度",
+      "写作"
+    ],
+    "answer": "Agree/Disagree 题不一定只能全同意或全反对。Sunny 会让学生准备程度表达，例如基本同意、部分同意、在某一点上同意、与某观点存在分歧。立场有层次，文章更容易处理反方，也更符合复杂题目的要求。",
+    "source": "local OCR extraction round 126, WE stance language notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-advantage-disadvantage-balance",
+    "title": "优缺点题要比较权重",
+    "keywords": [
+      "WE",
+      "优缺点",
+      "权重比较",
+      "写作",
+      "论证"
+    ],
+    "answer": "Advantages/Disadvantages 题的关键不是列出两边，而是比较哪一边更重要。Sunny 会让学生给每个优点或缺点配上影响范围、持续时间和可解决程度。最后结论要说明为什么一边 outweigh 另一边，而不是简单重复有好有坏。",
+    "source": "local OCR extraction round 126, WE advantage disadvantage notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
