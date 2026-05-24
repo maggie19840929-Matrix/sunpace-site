@@ -29937,5 +29937,230 @@
     "source": "local OCR extraction round 156, SWT sample analysis notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-five-patterns-fast-scan",
+    "title": "五种句型用于快速扫长句",
+    "keywords": [
+      "grammar",
+      "句型",
+      "SVO",
+      "写作",
+      "阅读"
+    ],
+    "answer": "英语基础句型可先归纳为 S+V、S+V+O、S+V+C、S+V+O+O、S+V+O+C。Sunny 会让学生在阅读长句和写作文时先找骨架，再处理修饰语，避免被从句和插入信息带乱。",
+    "source": "local OCR extraction round 157, grammar structure notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-grammar-linking-verb-state-description",
+    "title": "连系动词常负责状态描述",
+    "keywords": [
+      "grammar",
+      "linking verb",
+      "complement",
+      "写作"
+    ],
+    "answer": "be、look、sound、feel、taste、seem、appear、prove、turn 等动词后常接补语，用来说明主语是什么或处于什么状态。Sunny 会让学生看到这类动词时优先判断后面是否在补足主语。",
+    "source": "local OCR extraction round 157, grammar structure notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-object-complement-test",
+    "title": "宾语补语可用 be 测试",
+    "keywords": [
+      "grammar",
+      "object complement",
+      "SVOC",
+      "阅读"
+    ],
+    "answer": "判断 S+V+O+C 时，可以把宾语和补语拿出来，中间加 be，看是否能成立。Sunny 会用这个方法帮助学生识别 make/find/consider 等结构，防止把补语误判成普通宾语。",
+    "source": "local OCR extraction round 157, grammar structure notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-transitive-passive-check",
+    "title": "被动语态先看动词是否及物",
+    "keywords": [
+      "grammar",
+      "passive voice",
+      "transitive verb",
+      "阅读"
+    ],
+    "answer": "不是所有动词都能自然变被动。Sunny 会让学生先判断动作是否需要宾语承受，例如 kill 这类及物动作可形成被动，而 die 这类不及物动作本身没有被动态。",
+    "source": "local OCR extraction round 157, grammar structure notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-infinitive-purpose-possibility",
+    "title": "不定式常提示目的或可能性",
+    "keywords": [
+      "grammar",
+      "infinitive",
+      "to do",
+      "写作"
+    ],
+    "answer": "不定式和情态助动词一样，常带目的、可能、计划或未实现的语气。Sunny 会让学生在 FIB 和写作中判断动作是否尚未发生或带选择空间，再决定是否用 to do。",
+    "source": "local OCR extraction round 157, grammar structure notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-gerund-continuity",
+    "title": "动名词保留动作和持续感",
+    "keywords": [
+      "grammar",
+      "gerund",
+      "doing",
+      "阅读"
+    ],
+    "answer": "动名词虽然像名词使用，但仍保留动作意味和持续性。Sunny 会让学生区分 doing 是作名词成分，还是现在分词作补语或修饰语；位置和句子功能比中文翻译更可靠。",
+    "source": "local OCR extraction round 157, grammar structure notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-grammar-preposition-clause-boundary",
+    "title": "介词和连接词的边界看从句",
+    "keywords": [
+      "grammar",
+      "preposition",
+      "conjunction",
+      "从句"
+    ],
+    "answer": "after、before、since、until 等词可能作介词，也可能作连接词。Sunny 会让学生看后面接的是名词化成分还是完整从句：前者更像介词，后者更像连接词。",
+    "source": "local OCR extraction round 157, grammar structure notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-grammar-focusing-adverb-placement",
+    "title": "范围副词位置改变意思",
+    "keywords": [
+      "grammar",
+      "only",
+      "focusing adverb",
+      "写作"
+    ],
+    "answer": "only、even、especially、particularly 等范围副词必须贴近被修饰对象。Sunny 会让学生检查副词位置，因为 only I heard、I only heard、only yesterday 的重点完全不同。",
+    "source": "local OCR extraction round 157, grammar structure notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-paragraph-sentence-role-map",
+    "title": "WE 每段每句都要有角色",
+    "keywords": [
+      "WE",
+      "coherence",
+      "paragraph role",
+      "写作"
+    ],
+    "answer": "WE 的 coherence 不只是连接词，而是全篇布局和每句话功能清楚。Sunny 会让学生给每段标注开头、让步、主观点、结论，再给主体段标注观点、解释、例子、回扣。",
+    "source": "local OCR extraction round 158, essay coherence notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-complex-sentence-balance",
+    "title": "WE 复杂句要和简单句平衡",
+    "keywords": [
+      "WE",
+      "complex sentence",
+      "grammar range",
+      "写作"
+    ],
+    "answer": "复杂句能展示语言广度，但不需要每句都复杂。Sunny 会让学生混合使用定语从句、状语从句、宾语从句和清楚的简单句，让表达稳定而不是为了复杂牺牲可读性。",
+    "source": "local OCR extraction round 158, essay grammar notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-written-discourse-no-contractions",
+    "title": "WE 书面语避免缩写和口语化",
+    "keywords": [
+      "WE",
+      "written discourse",
+      "formal writing",
+      "写作"
+    ],
+    "answer": "WE 的 written discourse 要求表达规范。Sunny 会提醒学生避免 do not 写成缩写，也避免过度口语化说法，优先使用完整、正式、清楚的学术句式。",
+    "source": "local OCR extraction round 158, essay written discourse notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-transport-structure-vocab",
+    "title": "FIBRW 交通建筑词按结构记",
+    "keywords": [
+      "FIBRW",
+      "transport",
+      "architecture",
+      "vocabulary"
+    ],
+    "answer": "交通和建筑类 FIBRW 常见 pedestrian、traffic、bridge、strait、architecture、materials、structure 等词。Sunny 会让学生按“人流/车流/结构/材料”分组，读文章时更快抓主题。",
+    "source": "local OCR extraction round 158, FIBRW vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-cell-microscope-vocab",
+    "title": "FIBRW 细胞显微主题抓观察工具",
+    "keywords": [
+      "FIBRW",
+      "science",
+      "cells",
+      "microscope"
+    ],
+    "answer": "细胞和显微观察类文章常出现 organisms、cells、magnify、microscope、micrograph、unaided 等词。Sunny 会让学生先判断是否在讲肉眼观察、放大工具或图像结果。",
+    "source": "local OCR extraction round 158, FIBRW vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-hibernation-metabolism-vocab",
+    "title": "FIBRW 冬眠主题抓代谢变化",
+    "keywords": [
+      "FIBRW",
+      "hibernation",
+      "metabolism",
+      "biology"
+    ],
+    "answer": "冬眠主题常用 hibernation、metabolism、undergo、aestivation、unconsciousness、vulnerable、predator 等词。Sunny 会让学生抓“状态变化-能量消耗-风险”这条生物机制链。",
+    "source": "local OCR extraction round 158, FIBRW vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-language-family-vocab",
+    "title": "FIBRW 语言家族题抓传播和分支",
+    "keywords": [
+      "FIBRW",
+      "language",
+      "family tree",
+      "communication"
+    ],
+    "answer": "语言演化类文章常有 extinct、family tree、sound wave、branch out、means of communication、mother tongue 等表达。Sunny 会让学生判断文章是在讲来源、分化、传播还是沟通方式。",
+    "source": "local OCR extraction round 158, FIBRW vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-mutualism-bees-flowers",
+    "title": "FIBRW 互利关系看双向适应",
+    "keywords": [
+      "FIBRW",
+      "biology",
+      "mutual",
+      "adaptation"
+    ],
+    "answer": "生物互利主题常出现 mutual、disperse、species、specialised、reproductive、simultaneously、physiological adaptation 等词。Sunny 会让学生找双方各自得到什么好处，以及适应是否同时发生。",
+    "source": "local OCR extraction round 158, FIBRW vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
