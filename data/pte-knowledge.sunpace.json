@@ -32851,5 +32851,454 @@
     "source": "local transcript distillation round 182, DI coaching notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-word-form-endings-must-surface",
+    "title": "RA 词形和尾音要读出来",
+    "keywords": [
+      "RA",
+      "word form",
+      "endings",
+      "pronunciation"
+    ],
+    "answer": "RA 里不要只读出大概词义，过去式、复数、第三人称和词尾音都要尽量体现。Sunny 会让学生把 provided、functions、controls 这类词单独练到位，再放回句子里连读，避免因为词形丢失影响清晰度。",
+    "source": "local transcript distillation round 183, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-avoid-known-accent-risk-words",
+    "title": "RA 选段时避开自己稳定错的音",
+    "keywords": [
+      "RA",
+      "range selection",
+      "accent risk",
+      "pronunciation"
+    ],
+    "answer": "如果某个音长期不稳，可以在选读范围时主动避开。Sunny 的策略不是硬读最难的句子，而是在内容足够的前提下选更稳的范围；少读一个高风险词，往往比读错后破坏整句更划算。",
+    "source": "local transcript distillation round 183, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-start-soon-after-beep-even-with-rule-change",
+    "title": "RA 听到提示后仍要尽快开口",
+    "keywords": [
+      "RA",
+      "recording start",
+      "exam behavior",
+      "background noise"
+    ],
+    "answer": "即使考试规则对开口等待更宽松，也不要养成长期沉默的习惯。考场环境嘈杂时，迟迟不开口可能录入旁边声音；Sunny 会建议学生听到提示后尽快进入选好的句子，慢半拍可以，但不要空等太久。",
+    "source": "local transcript distillation round 183, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-filter-out-is-a-phrase",
+    "title": "FIBRW filter out 要整体识别",
+    "keywords": [
+      "FIBRW",
+      "phrasal verb",
+      "filter out",
+      "collocation"
+    ],
+    "answer": "FIBRW 遇到 out 这类小词时，要检查前面的动词能否组成短语。filter out 是“过滤掉、筛除”的整体含义，不能把 filter 和 out 拆开孤立理解；Sunny 会让学生把空格前后短语一起读，再判断语义是否顺。",
+    "source": "local transcript distillation round 183, FIBRW coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-bind-with-needs-context-object",
+    "title": "FIBRW bind with 要看结合对象是否合理",
+    "keywords": [
+      "FIBRW",
+      "bind with",
+      "context",
+      "vocabulary"
+    ],
+    "answer": "bind with 不只是“绑定”，还要看后面的对象是否符合文章逻辑。选项里如果有 soil、liquid、air 等近似领域词，Sunny 会让学生结合 degrade、toxic、pollution 等线索判断到底是与什么结合才合理。",
+    "source": "local transcript distillation round 183, FIBRW coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-obvious-context-do-not-overthink",
+    "title": "FIBRW 明显上下文不要过度推翻",
+    "keywords": [
+      "FIBRW",
+      "context clue",
+      "accuracy",
+      "test strategy"
+    ],
+    "answer": "有些空格上下文已经给出非常强的提示，例如 drinking water、pollution、minimize 这类组合。Sunny 会提醒学生先拿稳明显题，不要为了寻找复杂解释反复推翻第一判断；过度思考常常比词汇不足更容易导致失分。",
+    "source": "local transcript distillation round 183, FIBRW coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-largest-number-needs-logical-link",
+    "title": "DI 最大值句要说清数值和项目的关系",
+    "keywords": [
+      "DI",
+      "largest number",
+      "logic",
+      "content"
+    ],
+    "answer": "DI 说最大值时，不能把数值直接等同于项目。更稳的表达是“the largest number is about X, which is related to Y”或“X belongs to Y”。Sunny 会让学生补出关系词，避免句子听起来像“时间等于活动”。",
+    "source": "local transcript distillation round 183, DI coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-maximum-minimum-often-point-to-values",
+    "title": "FIBRW maximum 和 minimum 常指具体数值",
+    "keywords": [
+      "FIBRW",
+      "maximum",
+      "minimum",
+      "word choice",
+      "context"
+    ],
+    "answer": "maximum/minimum 多数时候对应可量化的最大值或最小值；如果句子在描述领先机构、主要出口方或排名地位，top、leading、major 这类词可能更自然。Sunny 会让学生先判断空格是在说“数值极值”还是“地位领先”。",
+    "source": "local transcript distillation round 183, FIBRW coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-repeated-topic-terms-guide-key-sentences",
+    "title": "SWT 重复主题词能帮助定位关键句",
+    "keywords": [
+      "SWT",
+      "repeated terms",
+      "key sentence",
+      "summary"
+    ],
+    "answer": "SWT 扫文章时，先圈反复出现的主题词和同族词，比如核心名词、动词和它们的变形。Sunny 会让学生用这些重复词判断文章主线，再去找承载观点的句子，而不是从第一句开始平均用力。",
+    "source": "local transcript distillation round 184, SWT coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-signal-phrases-mark-summary-value",
+    "title": "SWT 信号短语常提示总结价值",
+    "keywords": [
+      "SWT",
+      "signal words",
+      "contrast",
+      "conclusion"
+    ],
+    "answer": "SWT 里 yet、but、in other words、we can infer、in fact 这类信号词往往带出转折、解释或结论。Sunny 会让学生看到这些词时停一下，判断后面的句子是否比普通背景信息更值得采进摘要。",
+    "source": "local transcript distillation round 184, SWT coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-complete-sentence-before-fast-typing",
+    "title": "SWT 先保证完整句再追求打字速度",
+    "keywords": [
+      "SWT",
+      "complete sentence",
+      "typing",
+      "format"
+    ],
+    "answer": "SWT 作答时，句子不完整或拼写明显错误会直接影响格式和表达。Sunny 会提醒学生：如果时间紧，不要继续临时找新句子；先把已经确定的关键句连接成完整答案，再检查逗号、连接词和基本拼写。",
+    "source": "local transcript distillation round 184, SWT coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-collocation-beats-direct-translation",
+    "title": "FIBRW 搭配优先于直译",
+    "keywords": [
+      "FIBRW",
+      "collocation",
+      "word choice",
+      "context"
+    ],
+    "answer": "FIBRW 选词不能只看中文直译，要看英文搭配是否自然。比如某些词更常修饰人或目标，另一些词更适合搭配成果、水平或研究语境；Sunny 会让学生把空格两侧词一起读，优先选择搭配成立的选项。",
+    "source": "local transcript distillation round 184, FIBRW coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-verb-object-fit-decides-close-choices",
+    "title": "FIBRW 动词和宾语匹配决定近义词选择",
+    "keywords": [
+      "FIBRW",
+      "verb object fit",
+      "near synonyms",
+      "vocabulary"
+    ],
+    "answer": "遇到 generate、accelerate、achieve 这类近义方向的动词时，要看后面的宾语是什么。Sunny 会让学生判断它是在表达“创造某物”“加速发展”“取得某种水平”，再选动词；只凭大概意思很容易选到不自然搭配。",
+    "source": "local transcript distillation round 184, FIBRW coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-and-parallelism-checks-word-form",
+    "title": "FIBRW and 前后要检查词性并列",
+    "keywords": [
+      "FIBRW",
+      "parallelism",
+      "word form",
+      "grammar"
+    ],
+    "answer": "FIBRW 看到 and 连接两个成分时，要检查前后词性和结构是否一致。如果后面是形容词加名词，前面通常也要选能并列的形容词；Sunny 会把 and 当作词形提示，而不是只看空格所在半句。",
+    "source": "local transcript distillation round 184, FIBRW coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-stop-preview-before-recording-starts",
+    "title": "RA 录音前不要把预读声录进去",
+    "keywords": [
+      "RA",
+      "recording",
+      "pre-read",
+      "exam behavior"
+    ],
+    "answer": "RA 准备时间快结束时，要停止出声预读，调整呼吸，等提示后再正式朗读。Sunny 会提醒学生留意倒计时；如果提示音已经响起还在小声练，预读声可能被录进去，影响正式作答开头。",
+    "source": "local transcript distillation round 184, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-ignore-comma-inside-selected-sentence",
+    "title": "RA 选好一句后逗号不一定要停",
+    "keywords": [
+      "RA",
+      "punctuation",
+      "comma",
+      "fluency"
+    ],
+    "answer": "RA 为了流利度，选定的一句话内部逗号可以轻带过去，不必每个逗号都明显停顿。Sunny 会让学生把重点放在语义组和顺滑输出上；如果标点切得不均匀，按标点停顿反而会拉低连贯度。",
+    "source": "local transcript distillation round 184, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-introduction-needs-background-and-stance",
+    "title": "WE 开头段要同时交代背景和立场",
+    "keywords": [
+      "WE",
+      "introduction",
+      "stance",
+      "essay structure"
+    ],
+    "answer": "WE 开头段不需要复杂，核心是先交代题目背景，再明确自己的立场。Sunny 会让学生用两句话完成第一段：一句说明讨论主题，一句说明自己同意、不同意或部分同意，避免开头铺太长导致后文没时间展开。",
+    "source": "local transcript distillation round 185, WE coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-partial-agree-still-uses-four-paragraphs",
+    "title": "WE 部分同意也按四段展开",
+    "keywords": [
+      "WE",
+      "partial agreement",
+      "essay structure",
+      "argument"
+    ],
+    "answer": "WE 选择部分同意时，结构仍然可以保持四段：背景和立场、优点或支持理由、缺点或限制、结论。Sunny 会提醒学生不要因为观点变成折中就乱结构，先把每段功能固定，内容才更稳。",
+    "source": "local transcript distillation round 185, WE coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-body-paragraph-explain-example-detail",
+    "title": "WE 主体段先解释再举例补细节",
+    "keywords": [
+      "WE",
+      "body paragraph",
+      "example",
+      "development"
+    ],
+    "answer": "WE 主体段不能只抛一个观点就结束。Sunny 会让学生先写清楚论点，再解释原因，然后给一个宽泛例子或细节例子，最后用关键词或替换词收束；这样一段话才像完整论证，而不是句子堆叠。",
+    "source": "local transcript distillation round 185, WE coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibr-in-some-cases-fixed-phrase",
+    "title": "FIBR in some cases 是高频固定表达",
+    "keywords": [
+      "FIBR",
+      "fixed phrase",
+      "in some cases",
+      "collocation"
+    ],
+    "answer": "FIBR 看到 in some ___ 时，要优先想到 in some cases 这类固定表达。Sunny 会让学生先扫空格左右的小词和搭配，如果固定表达成立，就能比单纯查词性更快锁定答案。",
+    "source": "local transcript distillation round 185, FIBR coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibr-use-grammar-to-reduce-option-set",
+    "title": "FIBR 先用语法缩小选项范围",
+    "keywords": [
+      "FIBR",
+      "grammar",
+      "word form",
+      "option elimination"
+    ],
+    "answer": "FIBR 不认识所有选项也能做：先判断空格需要名词、形容词、动词还是复数形式，再排除不合词性的选项。Sunny 会让学生把词性判断放在语义判断前面，用语法先把选择范围缩小。",
+    "source": "local transcript distillation round 185, FIBR coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-practice-aloud-with-stress-before-recording",
+    "title": "RA 准备时要带重弱大声练",
+    "keywords": [
+      "RA",
+      "practice aloud",
+      "stress",
+      "preparation"
+    ],
+    "answer": "RA 准备阶段只默看或很轻地念，往往发现不了真实卡点。Sunny 会让学生在准备时间里用接近正式作答的音量练一遍，并带出实词重读、虚词轻读，这样正式录音时声音更稳、更清楚。",
+    "source": "local transcript distillation round 185, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-stable-compact-speed-beats-rushing",
+    "title": "RA 稳定紧凑比越读越快更重要",
+    "keywords": [
+      "RA",
+      "speed control",
+      "fluency",
+      "stability"
+    ],
+    "answer": "RA 高分不靠越读越快，而是靠稳定、紧凑、不断裂。Sunny 会提醒学生用同一种速度完成整句，避免前面冲太快、后面拖慢；语速变化大时，即使单词读对，也会影响流利度。",
+    "source": "local transcript distillation round 185, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-start-with-extremes-then-compare",
+    "title": "DI 数字多时先最高最低再比较",
+    "keywords": [
+      "DI",
+      "data chart",
+      "highest lowest",
+      "comparison"
+    ],
+    "answer": "DI 遇到数字和文字很多的图，不要平均描述所有点。Sunny 会让学生先找最高值和最低值，再补一句谁比谁高或低；如果小字看得清，再把关键词加进去，内容会更集中，也更容易保持流利。",
+    "source": "local transcript distillation round 185, DI coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-one-sentence-word-limit-guardrail",
+    "title": "SWT 一句话和词数上限是硬边界",
+    "keywords": [
+      "SWT",
+      "format",
+      "word limit",
+      "one sentence"
+    ],
+    "answer": "SWT 必须写成一句话，并且词数不能超过题目上限。Sunny 会把格式分当成硬边界训练：最后只有一个句号，中间用逗号和连接词连接；写超词数或写成多句，内容再好也可能整题失分。",
+    "source": "local transcript distillation round 186, SWT coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-comma-space-connector-pattern",
+    "title": "SWT 连接处用逗号空格加连接词",
+    "keywords": [
+      "SWT",
+      "connector",
+      "punctuation",
+      "format"
+    ],
+    "answer": "SWT 拼接关键句时，连接处要保持干净格式：逗号、空格、连接词，再接下一部分。Sunny 会让学生固定这个手感，避免少空格、乱加句号或把副词当连接词使用，影响格式和可读性。",
+    "source": "local transcript distillation round 186, SWT coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-find-key-sentences-before-rewriting",
+    "title": "SWT 先找关键句再做统一连接",
+    "keywords": [
+      "SWT",
+      "key sentences",
+      "workflow",
+      "summary"
+    ],
+    "answer": "SWT 不要边找边写最终答案。Sunny 会把流程拆成两步：先用重复主题词和信号词找关键句，再统一删改、替换和连接。这样能减少遗漏，也能避免写到一半发现结构不够完整。",
+    "source": "local transcript distillation round 186, SWT coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-image-layout-say-one-side-then-the-other",
+    "title": "DI 图片布局题先说完一边再说另一边",
+    "keywords": [
+      "DI",
+      "image layout",
+      "left right",
+      "organization"
+    ],
+    "answer": "DI 图片题如果包含左右或上下两个区域，先把一个区域说完整，再转到另一个区域。Sunny 会让学生用 on the left、on the right、at the top、at the bottom 组织信息，减少来回跳导致的卡顿和内容混乱。",
+    "source": "local transcript distillation round 186, DI coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-domain-vocabulary-adds-content-score",
+    "title": "DI 场景词汇能补内容分",
+    "keywords": [
+      "DI",
+      "vocabulary",
+      "content score",
+      "image description"
+    ],
+    "answer": "DI 场景图常需要少量领域词汇来支撑内容，例如实验室图可以准备 beaker、liquid、goggles、equipment 这类基础词。Sunny 会让学生先掌握高频场景词，再用简单句描述人物、物品和位置。",
+    "source": "local transcript distillation round 186, DI coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-forty-seconds-needs-clear-ending",
+    "title": "DI 四十秒内要有清楚收尾",
+    "keywords": [
+      "DI",
+      "timing",
+      "ending",
+      "fluency"
+    ],
+    "answer": "DI 不只是说满内容，还要在时间内自然结束。Sunny 会提醒学生控制在四十秒内完成主体描述，最后用简短总结或比较句收尾；如果临近结束还临场加词，容易语速失控或结尾突兀。",
+    "source": "local transcript distillation round 186, DI coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-dropdown-read-around-blanks-not-whole-passage",
+    "title": "FIB 下拉题优先读空格前后",
+    "keywords": [
+      "FIB dropdown",
+      "reading strategy",
+      "context",
+      "time management"
+    ],
+    "answer": "FIB 下拉题不一定要逐字读完整篇。Sunny 会让学生先读每个空格前后，抓固定搭配、指代和语法关系；如果目标分较高，再快速扫前文主旨词，避免把时间耗在无关背景句上。",
+    "source": "local transcript distillation round 186, FIB dropdown coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-collocation-memory-speeds-choice",
+    "title": "FIB 固定搭配熟悉度能直接提速",
+    "keywords": [
+      "FIB dropdown",
+      "collocation",
+      "speed",
+      "accuracy"
+    ],
+    "answer": "FIB 遇到 without much success、capable of doing、be believed to do 等固定结构时，熟悉度会直接决定速度。Sunny 会让学生把常见搭配按短语记忆，而不是每次都重新翻译和推理。",
+    "source": "local transcript distillation round 186, FIB dropdown coaching notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
