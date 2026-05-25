@@ -32402,5 +32402,454 @@
     "source": "local transcript distillation round 178, RA coaching notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-target-accuracy-before-exam",
+    "title": "FIBRW 考前要用正确率判断是否适合上考场",
+    "keywords": [
+      "FIBRW",
+      "accuracy",
+      "exam readiness",
+      "reading"
+    ],
+    "answer": "FIBRW 练习不能只看有没有做完。Sunny 会让学生统计一组题的正确率：如果长期低于目标分段需要的水平，说明还要补搭配、词性和限时策略，不要只靠碰运气上考场。",
+    "source": "local transcript distillation round 179, FIBRW coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-native-to-fixed-pattern",
+    "title": "FIBRW be native to 是固定搭配",
+    "keywords": [
+      "FIBRW",
+      "native to",
+      "collocation",
+      "preposition"
+    ],
+    "answer": "FIBRW 看到 native 这类词时，Sunny 会提醒学生优先检查固定介词搭配。be native to 表示原产于或来源于某地，搭配本身能直接排除很多语法不通的选项。",
+    "source": "local transcript distillation round 179, FIBRW coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-common-word-uncommon-meaning",
+    "title": "FIBRW 熟词僻义要结合上下文判断",
+    "keywords": [
+      "FIBRW",
+      "common word",
+      "uncommon meaning",
+      "context"
+    ],
+    "answer": "FIBRW 里常见词也可能用不常见含义。Sunny 会让学生看到熟词时不要急着套最常见意思，而要回到句子功能和上下文，例如某些名词也可能转成动词表达支持、推动或维护。",
+    "source": "local transcript distillation round 179, FIBRW coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-copy-whole-sentence-when-main-clause-hard",
+    "title": "SWT 主干难拆时先保留整句",
+    "keywords": [
+      "SWT",
+      "whole sentence",
+      "main clause",
+      "safe editing"
+    ],
+    "answer": "SWT 如果一句话很长、主干不好拆，Sunny 会让学生先保留整句，不要强行改写。等所有关键句列出来后，再根据词数删掉最不像关键句或信息重复的句子，减少语法错误风险。",
+    "source": "local transcript distillation round 179, SWT coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-question-mark-answer-signal",
+    "title": "SWT 问句后的回答常是关键句",
+    "keywords": [
+      "SWT",
+      "question mark",
+      "key sentence",
+      "signal"
+    ],
+    "answer": "SWT 文章里如果出现问题句，后面给出的回答或解释通常承担关键信息。Sunny 会让学生把问号当作信号，重点检查后续句子是否提供主旨、原因或结论。",
+    "source": "local transcript distillation round 179, SWT coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-range-change-can-improve-score",
+    "title": "RA 换一个更顺的范围可能直接提分",
+    "keywords": [
+      "RA",
+      "range selection",
+      "fluency",
+      "one sentence"
+    ],
+    "answer": "RA 一句话训练里，同一段材料换一个起点或终点，流利度可能差很多。Sunny 会让学生比较不同范围，优先选择换行少、难词少、能自然连起来的片段。",
+    "source": "local transcript distillation round 179, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-stop-consonant-linking-can-be-swallowed",
+    "title": "RA 爆破音遇辅音可轻吞保护连贯",
+    "keywords": [
+      "RA",
+      "stop consonant",
+      "linking",
+      "fluency"
+    ],
+    "answer": "RA 中爆破音后面紧接辅音时，如果完整爆出来会造成明显中断，Sunny 会训练学生轻吞爆破，让词与词更顺地连起来。重点是连贯清楚，而不是每个爆破都用力喷出来。",
+    "source": "local transcript distillation round 179, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-prepared-range-not-improvised",
+    "title": "RA 正式读的范围必须在准备时间里练过",
+    "keywords": [
+      "RA",
+      "preparation",
+      "improvisation",
+      "fluency"
+    ],
+    "answer": "RA 如果正式开口时才临场决定读哪一段，容易出现卡顿、误读和重音混乱。Sunny 会让学生在准备时间里选定范围并至少顺读几遍，正式作答只执行已经练过的版本。",
+    "source": "local transcript distillation round 179, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-cut-range-to-avoid-known-error",
+    "title": "RA 选段时要主动避开已知错音",
+    "keywords": [
+      "RA",
+      "range selection",
+      "error avoidance",
+      "pronunciation"
+    ],
+    "answer": "RA 一句话训练里，如果某个词单独能读对、放进句子就常错，Sunny 会让学生先把它记入错音本；考试选段时可以主动避开这个词，选择更稳的范围。",
+    "source": "local transcript distillation round 180, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-read-through-needs-word-form-check",
+    "title": "RA read through 要先确认读音和词形",
+    "keywords": [
+      "RA",
+      "read through",
+      "word form",
+      "pronunciation"
+    ],
+    "answer": "RA 遇到 read、through 这类拼写熟但读音容易混的词，Sunny 会让学生在准备阶段先确认它在句中的读法和词形。熟词读错往往比生词跳过更可惜。",
+    "source": "local transcript distillation round 180, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-be-through-linking-without-pause",
+    "title": "RA be 后接 through 这类短语不能断开",
+    "keywords": [
+      "RA",
+      "linking",
+      "phrase fluency",
+      "pause"
+    ],
+    "answer": "RA 中 be read through、be found in 这类短语内部不要随意停。Sunny 会让学生把 be 和后面的核心动词或介词短语连成一个小意群，减少机械断句造成的蹦词感。",
+    "source": "local transcript distillation round 180, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-compare-same-category-across-regions",
+    "title": "DI 可用同一类别跨地区比较",
+    "keywords": [
+      "DI",
+      "comparison",
+      "regions",
+      "category"
+    ],
+    "answer": "DI 多地区数据图不只说最大最小。Sunny 会训练学生选同一类别在两个地区之间比较，例如某种能源在 A 地区比 B 地区更高，这样表达更像读图分析，而不是只套模板。",
+    "source": "local transcript distillation round 180, DI coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-similar-values-use-close-to",
+    "title": "DI 数值接近时用 close to 或 similar",
+    "keywords": [
+      "DI",
+      "similar values",
+      "comparison",
+      "language"
+    ],
+    "answer": "DI 看到两个数值接近，不必硬说谁高谁低。Sunny 会让学生用 is close to、is similar to 或 are both about 这类表达，既准确，也能减少复杂比较句的负担。",
+    "source": "local transcript distillation round 180, DI coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-beyond-max-min-use-comparison",
+    "title": "DI 练熟最大最小后要补比较句",
+    "keywords": [
+      "DI",
+      "max min",
+      "comparison",
+      "high score"
+    ],
+    "answer": "DI 只会最大值和最小值，容易显得模板痕迹重。Sunny 会让学生在最大最小稳定后，再练一两句横向比较、相似值或趋势表达，让内容更丰富。",
+    "source": "local transcript distillation round 180, DI coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-key-term-can-be-captured-later",
+    "title": "SWT 关键词可在后文关键句中采到",
+    "keywords": [
+      "SWT",
+      "key terms",
+      "sentence selection",
+      "word count"
+    ],
+    "answer": "SWT 首句出现核心词，不代表首句一定要保留。Sunny 会让学生检查后文是否有更有信息量的关键句也包含同一关键词；如果有，就可以舍弃较空泛的首句来节省词数。",
+    "source": "local transcript distillation round 180, SWT coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-while-because-however-signal",
+    "title": "SWT while because however 都是关键关系信号",
+    "keywords": [
+      "SWT",
+      "signal words",
+      "while",
+      "because",
+      "however"
+    ],
+    "answer": "SWT 找关键句时，while 常提示对比，让步；because 提示原因；however 提示转折。Sunny 会让学生优先检查这些信号词所在句，看它们是否承载文章核心逻辑。",
+    "source": "local transcript distillation round 180, SWT coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-time-marker-after-pronoun-link",
+    "title": "RO 代词关系之外还要看时间标记",
+    "keywords": [
+      "RO",
+      "time marker",
+      "pronoun reference",
+      "sequence"
+    ],
+    "answer": "RO 排序不能只看 this、they、one day 这类指代关系。Sunny 会让学生继续找 five years later、first、second、then 等时间标记，确认句子之间的先后顺序。",
+    "source": "local transcript distillation round 181, RO coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-every-pair-must-connect",
+    "title": "RO 每相邻两句都要能解释关系",
+    "keywords": [
+      "RO",
+      "sentence ordering",
+      "cohesion",
+      "checking"
+    ],
+    "answer": "RO 排完后不要只看大概顺眼。Sunny 会让学生逐对检查：第一句和第二句为什么连、第二句和第三句为什么连。只要某一对关系怪，就说明排序还要回头调整。",
+    "source": "local transcript distillation round 181, RO coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-general-before-detail-sequence",
+    "title": "RO 通常先总述再进入细节",
+    "keywords": [
+      "RO",
+      "general to detail",
+      "structure",
+      "sequence"
+    ],
+    "answer": "RO 文章常按总分结构推进。Sunny 会让学生先找概括性研究结果或主题句，再放具体年份、样本、第一次和第二次变化等细节句，避免把解释性细节放到主题之前。",
+    "source": "local transcript distillation round 181, RO coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-even-tone-avoid-emotional-reading",
+    "title": "RA 语调要平稳不要像朗读表演",
+    "keywords": [
+      "RA",
+      "intonation",
+      "tone",
+      "fluency"
+    ],
+    "answer": "RA 不是朗诵课。Sunny 会提醒学生不要加入明显情绪、夸张升降调或表演感，尽量用平稳或自然降调表达，让机器更容易捕捉连续、稳定的人声。",
+    "source": "local transcript distillation round 181, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-uniform-force-across-sentence",
+    "title": "RA 全句用力要均匀",
+    "keywords": [
+      "RA",
+      "voice control",
+      "clarity",
+      "sentence flow"
+    ],
+    "answer": "RA 如果前半句很轻、后半句突然加重，听感会不稳定。Sunny 会让学生把音量、咬字力度和节奏保持均匀，重点词可以稍微突出，但不要突然重砸某个词。",
+    "source": "local transcript distillation round 181, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-swallow-stop-when-it-breaks-flow",
+    "title": "RA 爆破音让表达中断时要轻处理",
+    "keywords": [
+      "RA",
+      "stop consonant",
+      "flow",
+      "pronunciation"
+    ],
+    "answer": "RA 中 apartment buildings、need please 这类连接如果完整爆破会让句子断开，Sunny 会让学生把爆破音轻处理或吞掉一部分。目标是清楚连续，而不是把每个尾音都硬顶出来。",
+    "source": "local transcript distillation round 181, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-floor-plan-use-spatial-phrases",
+    "title": "DI 平面图用方位短语组织内容",
+    "keywords": [
+      "DI",
+      "floor plan",
+      "spatial phrases",
+      "image description"
+    ],
+    "answer": "DI 平面图或地图题要靠方位组织。Sunny 会让学生使用 on the left side、in the upper part、at the bottom right、next to 等短语，按区域描述，而不是零散念标签。",
+    "source": "local transcript distillation round 181, DI coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-key-label-pronunciation-protects-content",
+    "title": "DI 标签词读错会影响内容分",
+    "keywords": [
+      "DI",
+      "labels",
+      "pronunciation",
+      "content score"
+    ],
+    "answer": "DI 图片题里，标题和反复出现的标签词如果读错，听者可能抓不到完整信息。Sunny 会让学生先练准核心标签，再用简单句表达区域和位置，保证内容分不因为关键词发音丢失。",
+    "source": "local transcript distillation round 181, DI coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-normal-speed-keeps-word-fullness",
+    "title": "RA 正常语速更容易保住单词完整度",
+    "keywords": [
+      "RA",
+      "speed",
+      "word fullness",
+      "fluency"
+    ],
+    "answer": "RA 不需要抢速度，接近日常清楚说话的速度更稳。Sunny 会提醒学生先把每个词的核心音节读完整，再逐步连顺；读太快时，常见问题不是流利度变高，而是单词被压扁、重音消失、清晰度下降。",
+    "source": "local transcript distillation round 182, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-word-stress-before-speed",
+    "title": "RA 先确认重音再追求连读",
+    "keywords": [
+      "RA",
+      "word stress",
+      "pronunciation",
+      "clarity"
+    ],
+    "answer": "遇到常见词也要先确认重音位置，再放进句子里练。重音放错会让本来简单的词听起来不自然，后面再加速只会放大错误；Sunny 的处理顺序是先单词重音，再短语连贯，最后才是整句速度。",
+    "source": "local transcript distillation round 182, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-natural-tone-without-overacting",
+    "title": "RA 要像自然说明不要用力表演",
+    "keywords": [
+      "RA",
+      "tone",
+      "intonation",
+      "natural delivery"
+    ],
+    "answer": "RA 的声音要清楚、有支撑，但不需要像舞台朗读一样用夸张语气。过度强调每个词会让句子显得僵硬，Sunny 会让学生用自然说明的状态读：主干词清楚，语调平稳，句尾自然落下。",
+    "source": "local transcript distillation round 182, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-preposition-tests-collocation",
+    "title": "FIBRW 介词常常在考固定搭配",
+    "keywords": [
+      "FIBRW",
+      "collocation",
+      "preposition",
+      "vocabulary"
+    ],
+    "answer": "FIBRW 看到空格后面跟固定介词时，要优先检查搭配是否成立。比如某些动词可以直接接宾语，换成另一个动词后却必须搭配特定介词；Sunny 会让学生把空格前后一起读，而不是只凭中文意思选一个近义词。",
+    "source": "local transcript distillation round 182, FIBRW coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fibrw-familiar-word-shifted-meaning",
+    "title": "FIBRW 熟词可能考非常用义项",
+    "keywords": [
+      "FIBRW",
+      "vocabulary",
+      "context",
+      "meaning shift"
+    ],
+    "answer": "FIBRW 里的熟词不一定考最常见意思。遇到看似认识的词，要回到句子逻辑判断它在上下文里是“影响、控制、分散、导致”等哪一类功能；Sunny 会把词义判断放进整句关系中，而不是孤立背中文释义。",
+    "source": "local transcript distillation round 182, FIBRW coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-stop-consonant-swallow-only-target-sound",
+    "title": "RA 爆破音轻吞时只处理目标音",
+    "keywords": [
+      "RA",
+      "stop consonant",
+      "linking",
+      "clarity"
+    ],
+    "answer": "爆破音遇到后面辅音时可以轻处理来保护连贯，但不能把整个词都吞掉。Sunny 会让学生只弱化卡住气流的目标音，其他元音和辅音仍然读出来，这样句子既顺，又不会丢清晰度。",
+    "source": "local transcript distillation round 182, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-content-words-strong-function-words-light",
+    "title": "RA 实词重读虚词轻带更顺",
+    "keywords": [
+      "RA",
+      "sentence stress",
+      "function words",
+      "rhythm"
+    ],
+    "answer": "RA 句子里，名词、动词、形容词等实词要更清楚，with、in、of、to 这类虚词可以轻带过去。Sunny 会让学生用“实词稳、虚词轻”的节奏读短语，避免每个词同样用力造成卡顿。",
+    "source": "local transcript distillation round 182, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-trend-sentence-needs-time-window",
+    "title": "DI 趋势句要带清楚时间区间",
+    "keywords": [
+      "DI",
+      "trend",
+      "time range",
+      "line chart"
+    ],
+    "answer": "DI 描述上升或下降时，不能只说两个指标在变化，还要把时间区间说清楚。Sunny 会让学生用 from A to B 先锁定区间，再说某两个数据同时上升、下降或分化，这样信息更像图表描述，而不是临场拼词。",
+    "source": "local transcript distillation round 182, DI coaching notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
