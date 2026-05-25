@@ -33748,5 +33748,454 @@
     "source": "local transcript distillation round 190, SST coaching notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-day-scratch-paper-refill-before-listening",
+    "title": "考场草稿纸最好在听力前换新",
+    "keywords": [
+      "exam day",
+      "scratch paper",
+      "listening",
+      "pacing"
+    ],
+    "answer": "如果考场草稿纸数量有限，学生要提前控制字迹大小，并在阅读结束、听力开始前的过渡时间主动整理或更换草稿纸。Sunny 会把这个动作放进考前流程，避免听力 SST、FIB 和 WFD 需要记录时才发现纸面不够用。",
+    "source": "local transcript distillation round 191, exam logistics coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-day-noise-management-after-speaking",
+    "title": "口语后要立刻管理考场噪音",
+    "keywords": [
+      "exam day",
+      "noise",
+      "ear protection",
+      "focus"
+    ],
+    "answer": "口语结束后，旁边考生可能还在朗读或键盘输入，容易干扰写作和阅读。Sunny 建议学生只使用考场允许提供的降噪用品，并在听力开始前及时取下，把噪音管理做成固定流程，而不是临场慌乱处理。",
+    "source": "local transcript distillation round 191, exam logistics coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-function-words-should-be-light",
+    "title": "RA 虚词要轻读才有节奏",
+    "keywords": [
+      "RA",
+      "weak forms",
+      "rhythm",
+      "function words"
+    ],
+    "answer": "RA 里 to、in、that 等功能词不应和核心名词、动词一样重。Sunny 会让学生把虚词轻带、内容词压清楚，这样句子听起来更接近自然语流，也更容易保持一口气的连贯度。",
+    "source": "local transcript distillation round 191, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-phrase-final-intonation-press-down",
+    "title": "RA 短语末尾不要习惯性上扬",
+    "keywords": [
+      "RA",
+      "intonation",
+      "phrase ending",
+      "fluency"
+    ],
+    "answer": "很多学生读 RA 时会在每个小短语末尾习惯性上扬，导致整体像在提问。Sunny 会让学生把句中短语读稳，真正收尾的位置再自然下压，避免把朗读做成夸张的聊天语气。",
+    "source": "local transcript distillation round 191, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-ending-consonants-need-controlled-release",
+    "title": "RA 结尾辅音要控制释放",
+    "keywords": [
+      "RA",
+      "word endings",
+      "consonants",
+      "pronunciation"
+    ],
+    "answer": "RA 的 t、d、ed、s 等结尾既不能完全丢掉，也不要读得过重。Sunny 会让学生先判断是否适合轻爆破或弱化，再放回短语里练，目标是清楚但不生硬。",
+    "source": "local transcript distillation round 191, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-template-is-frame-not-full-answer",
+    "title": "WE 模板只是框架不是完整答案",
+    "keywords": [
+      "WE",
+      "essay template",
+      "grammar",
+      "content"
+    ],
+    "answer": "WE 模板只能提供文章地基，真正决定分数上限的是学生填进去的论点、解释、例子和语法准确度。Sunny 会把模板当作结构工具，而不是让学生以为套上框架就自动完成高分作文。",
+    "source": "local transcript distillation round 191, WE coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-avoid-keyword-only-memorized-responses",
+    "title": "WE 不要只靠题目关键词套模板",
+    "keywords": [
+      "WE",
+      "memorized response",
+      "prompt relevance",
+      "content"
+    ],
+    "answer": "如果作文主体主要由预背句和题目关键词拼接而成，内容相关性会很弱。Sunny 会要求学生在模板空位里写出自己的因果解释、对比或例子，让文章真正回应题目，而不是只重复题干词。",
+    "source": "local transcript distillation round 191, WE coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-report-subscores-are-diagnostic-not-final",
+    "title": "成绩单小分只能辅助诊断",
+    "keywords": [
+      "score report",
+      "diagnosis",
+      "subscores",
+      "study plan"
+    ],
+    "answer": "成绩单里的语法、词汇、拼写、流利度等小分不能简单相加成最终沟通分。Sunny 会用小分和四项总分的落差来定位隐性问题，但不会只凭某一个小分判断学生已经没有提升空间。",
+    "source": "local transcript distillation round 191, score report coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-day-allowed-items-need-simple-routine",
+    "title": "考场随身物品要提前简化",
+    "keywords": [
+      "exam day",
+      "allowed items",
+      "check in",
+      "routine"
+    ],
+    "answer": "考试当天进入正式考位前，学生要把随身物品流程简化到证件、储物柜钥匙和考场允许物品。Sunny 会在模考前提醒学生预演这个流程，减少现场翻找、确认和紧张带来的节奏损耗。",
+    "source": "local transcript distillation round 192, exam logistics coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-day-do-not-let-staff-interactions-break-focus",
+    "title": "考场沟通不要打断考试节奏",
+    "keywords": [
+      "exam day",
+      "focus",
+      "test center",
+      "mindset"
+    ],
+    "answer": "考场工作人员的提示、等待或沟通风格可能不完全一致，学生不要把注意力停在这些外部细节上。Sunny 会让学生把目标放回下一题流程：检查设备、确认材料、按固定顺序进入考试状态。",
+    "source": "local transcript distillation round 192, exam logistics coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-precheck-hard-words-before-full-sentence",
+    "title": "RA 难词先单独校准再进句子",
+    "keywords": [
+      "RA",
+      "pronunciation",
+      "hard words",
+      "preparation"
+    ],
+    "answer": "RA 遇到不熟的词，不要直接整句硬冲。Sunny 会让学生先把难词的音节、重音和结尾读顺，再放回短语和整句中，避免一个词拖垮整段流利度。",
+    "source": "local transcript distillation round 192, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-short-sentence-one-breath-practice",
+    "title": "RA 短句要练一口气完成",
+    "keywords": [
+      "RA",
+      "one breath",
+      "fluency",
+      "sentence control"
+    ],
+    "answer": "RA 中较短的句子适合练成一口气完成，重点是保持核心词清楚、虚词轻带、句尾自然收住。Sunny 会先用短句建立连贯感，再逐步放到更长的句子里。",
+    "source": "local transcript distillation round 192, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-template-fillers-need-grammar-check",
+    "title": "WE 模板填空部分更要检查语法",
+    "keywords": [
+      "WE",
+      "grammar",
+      "template",
+      "editing"
+    ],
+    "answer": "WE 模板固定句本身通常比较稳定，真正容易扣分的是学生填进去的观点句和例子句。Sunny 会要求学生重点检查填空部分的动词形式、名词单复数、从句结构和搭配，而不是只背框架。",
+    "source": "local transcript distillation round 192, WE coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-time-allocation-by-score-impact",
+    "title": "听力复习要按分值影响排序",
+    "keywords": [
+      "listening",
+      "study planning",
+      "score impact",
+      "prioritization"
+    ],
+    "answer": "听力备考不能平均用力。Sunny 会先保证学生把跨项贡献大、失分代价高的题型练稳，再用剩余时间补小题，避免把大量精力花在回报较低的细节上。",
+    "source": "local transcript distillation round 192, listening strategy notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-big-tasks-before-small-tasks",
+    "title": "听力大题先稳住再补小题",
+    "keywords": [
+      "listening",
+      "SST",
+      "WFD",
+      "FIB",
+      "priorities"
+    ],
+    "answer": "听力里高价值任务要先建立稳定得分能力，小题也要练，但不能抢走主任务的训练时间。Sunny 会用先主线、后补点的顺序安排 SST、WFD、FIB 和其他听力题，帮助学生把有限时间用在刀刃上。",
+    "source": "local transcript distillation round 192, listening strategy notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-review-is-not-study-strategy",
+    "title": "成绩复核不能当作提分方案",
+    "keywords": [
+      "score report",
+      "review",
+      "mindset",
+      "study plan"
+    ],
+    "answer": "如果成绩异常，复核可以作为核对步骤，但它不能替代真正的备考改进。Sunny 会让学生把重点放在可控动作上：复盘录音质量、题型完成度、写作结构和听力记录，而不是把希望全部放在复核结果上。",
+    "source": "local transcript distillation round 192, score report coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-wfd-write-the-form-you-hear",
+    "title": "WFD 听到什么形式就写什么形式",
+    "keywords": [
+      "WFD",
+      "dictation",
+      "contractions",
+      "accuracy"
+    ],
+    "answer": "WFD 的目标是尽量还原听到的句子形式，缩写、完整形式和词形都不要凭写作习惯自行改写。Sunny 会让学生把“听到什么写什么”作为第一原则，避免把本来听准的词改成另一个不得分形式。",
+    "source": "local transcript distillation round 193, WFD coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-wfd-score-depends-on-correct-word-count",
+    "title": "WFD 分数来自正确还原的词数",
+    "keywords": [
+      "WFD",
+      "scoring",
+      "word count",
+      "listening"
+    ],
+    "answer": "WFD 的单句得分与句子长度和正确词数直接相关，目标不是写出大概意思，而是尽可能多地写对原句单词。Sunny 会让学生先保证听写量，再用拼写和词形检查把可拿的单词分收回来。",
+    "source": "local transcript distillation round 193, WFD coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-wfd-spelling-style-consistency-in-same-sentence",
+    "title": "WFD 同一句拼写风格要一致",
+    "keywords": [
+      "WFD",
+      "spelling",
+      "British spelling",
+      "American spelling"
+    ],
+    "answer": "WFD 中单词拼写要准确，同一句里也要避免英式和美式拼写混用。Sunny 会让学生选定自己更熟的一套拼写习惯，并在同一句答案中保持一致，减少明明听懂却因形式不稳丢分。",
+    "source": "local transcript distillation round 193, WFD coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-wfd-capitalization-and-word-form-count",
+    "title": "WFD 大小写和词形也算准确度",
+    "keywords": [
+      "WFD",
+      "capitalization",
+      "word form",
+      "grammar form"
+    ],
+    "answer": "WFD 不只看单词大意，句首大写、专有名词、日期词以及单复数、时态等词形都可能影响该词是否得分。Sunny 会训练学生在最后几秒快速扫句首、专名和词尾形式。",
+    "source": "local transcript distillation round 193, WFD coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-hcs-preview-options-for-topic-direction",
+    "title": "HCS 听前先用选项判断主题方向",
+    "keywords": [
+      "HCS",
+      "listening",
+      "preview",
+      "structure"
+    ],
+    "answer": "HCS 开始前的预览时间要用来扫第一批选项，先判断文章可能讨论的主题、转折和结论方向。Sunny 会让学生带着结构问题去听，而不是一开头就追逐每个细节词。",
+    "source": "local transcript distillation round 193, HCS coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-hcs-main-idea-over-detail-panic",
+    "title": "HCS 不懂细节时先抓主旨逻辑",
+    "keywords": [
+      "HCS",
+      "main idea",
+      "listening structure",
+      "confidence"
+    ],
+    "answer": "HCS 如果某些句子没听懂，不要立刻判断自己整题失败。Sunny 会让学生继续抓主题句、因果、对比和结论，因为这类题常考主旨与逻辑结构，而不是要求逐词复述。",
+    "source": "local transcript distillation round 193, HCS coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-countable-singular-needs-marker",
+    "title": "阅读语法题注意可数名词单数标记",
+    "keywords": [
+      "reading",
+      "grammar",
+      "countable nouns",
+      "multiple choice"
+    ],
+    "answer": "阅读语法判断中，可数名词单数通常需要冠词、限定词或改成复数形式，不能随意裸用。Sunny 会让学生把这一点作为排除错误选项的快速检查项。",
+    "source": "local transcript distillation round 193, reading grammar notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-avoid-two-finite-verbs-in-one-clause",
+    "title": "阅读选项里警惕一句两个谓语",
+    "keywords": [
+      "reading",
+      "grammar",
+      "finite verbs",
+      "error spotting"
+    ],
+    "answer": "阅读改错或多选题里，如果一个简单分句出现两个并列不清的谓语动词，往往需要改成非谓语、从句或重新连接。Sunny 会让学生先找主干谓语，再判断其他动词是否有合法结构。",
+    "source": "local transcript distillation round 193, reading grammar notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-shared-timer-needs-pacing-plan",
+    "title": "阅读统一计时要提前分配节奏",
+    "keywords": [
+      "reading",
+      "timer",
+      "pacing",
+      "test strategy"
+    ],
+    "answer": "阅读部分是统一计时，某一题型花太久就会压缩后面题目的时间。Sunny 会让学生提前设定每类题的上限时间，遇到低价值或卡住的题及时收手，保证高价值题有足够处理空间。",
+    "source": "local transcript distillation round 194, reading strategy notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-single-choice-do-not-overinvest",
+    "title": "阅读单选不要投入过多时间",
+    "keywords": [
+      "reading",
+      "single choice",
+      "time management",
+      "prioritization"
+    ],
+    "answer": "阅读单选通常单题收益有限，目标分不高的学生不要把整篇文章精读到失控。Sunny 会让学生快速抓题干、定位主旨或关键词，能拿就拿，拿不到也不要让它影响后续题型。",
+    "source": "local transcript distillation round 194, reading strategy notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-target-score-controls-depth",
+    "title": "阅读处理深度要看目标分",
+    "keywords": [
+      "reading",
+      "target score",
+      "strategy",
+      "priorities"
+    ],
+    "answer": "同一道阅读题，对目标 65 和目标 79 的学生要求不同。Sunny 会按目标分决定处理深度：基础目标先保高价值题和完成率，高目标则需要在速度稳定的前提下尽量覆盖小分题。",
+    "source": "local transcript distillation round 194, reading strategy notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-item-order-can-change",
+    "title": "阅读题型顺序可能变化",
+    "keywords": [
+      "reading",
+      "item order",
+      "exam readiness",
+      "workflow"
+    ],
+    "answer": "阅读题型可能不按练习时的固定顺序出现，学生不能只记某一种做题顺序。Sunny 会让学生先认识每种题型的任务和时间策略，这样考试顺序变化时也能快速切换。",
+    "source": "local transcript distillation round 194, reading strategy notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-pte-beginner-learn-task-purpose-first",
+    "title": "PTE 新手先弄清每个题型在做什么",
+    "keywords": [
+      "PTE basics",
+      "beginner",
+      "task purpose",
+      "study plan"
+    ],
+    "answer": "刚开始备考时，不必马上钻进所有细节，但必须先知道每个题型考什么、怎么作答、贡献到哪些分项。Sunny 会先建立题型地图，再安排专项训练，减少盲目刷题。",
+    "source": "local transcript distillation round 194, study planning notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-voice-energy-must-be-audible-and-firm",
+    "title": "RA 声音要清楚有力不发虚",
+    "keywords": [
+      "RA",
+      "voice energy",
+      "fluency",
+      "microphone"
+    ],
+    "answer": "RA 的声音太小、太虚或过尖都会影响录音质量和机器识别稳定性。Sunny 会让学生用清楚、稳定、有支撑的声音朗读，重点词更有力量，虚词自然轻带。",
+    "source": "local transcript distillation round 194, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-verify-uncertain-pronunciation-before-repeat",
+    "title": "RA 不确定的读音要先查再反复练",
+    "keywords": [
+      "RA",
+      "pronunciation",
+      "dictionary",
+      "practice loop"
+    ],
+    "answer": "如果一个单词的音节、重音或元音不确定，不要凭感觉反复读错。Sunny 会让学生先用可靠发音来源确认，再进行单词、短语、整句的递进练习，避免错误发音固化。",
+    "source": "local transcript distillation round 194, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-mouth-shape-separates-similar-words",
+    "title": "RA 相似单词要靠口型区分",
+    "keywords": [
+      "RA",
+      "mouth shape",
+      "pronunciation",
+      "minimal pairs"
+    ],
+    "answer": "有些看似简单的词会因为口型不到位而和其他词混在一起。Sunny 会让学生对比元音口型和唇形位置，先把单词读清楚，再放进句子里保持同样的发音质量。",
+    "source": "local transcript distillation round 194, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
