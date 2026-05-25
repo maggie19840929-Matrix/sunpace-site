@@ -33300,5 +33300,453 @@
     "source": "local transcript distillation round 186, FIB dropdown coaching notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-noisy-room-needs-clear-input",
+    "title": "RA 环境噪声会影响录音质量",
+    "keywords": [
+      "RA",
+      "recording quality",
+      "noise",
+      "microphone"
+    ],
+    "answer": "RA 练习和考试都要关注录音环境。如果背景噪音明显，系统听到的不是完整清晰的人声，Sunny 会建议学生使用稳定麦克风、靠近收音位置，并在开口前确认环境足够安静。",
+    "source": "local transcript distillation round 187, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-target-word-stress-before-sentence-flow",
+    "title": "RA 关键单词重音先校准再连句",
+    "keywords": [
+      "RA",
+      "word stress",
+      "financial",
+      "contribute"
+    ],
+    "answer": "RA 里有些关键词一旦重音错位，整句听感会立刻变弱。Sunny 会让学生先单独校准容易错的词，再放回句子里练流利度；不要在词还不稳时直接追求整句速度。",
+    "source": "local transcript distillation round 187, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-pre-read-numbers-before-speaking",
+    "title": "DI 数字要在准备时间先读顺",
+    "keywords": [
+      "DI",
+      "numbers",
+      "pre-reading",
+      "fluency"
+    ],
+    "answer": "DI 数据图里，年份、百分比和单位要在准备时间先默读或轻声过一遍。Sunny 会提醒学生把反应时间前置，不要正式录音时才想数字怎么读，否则容易卡顿、读错或打乱整段节奏。",
+    "source": "local transcript distillation round 187, DI coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-do-not-backtrack-after-number-error",
+    "title": "DI 读错数字后不要频繁回读纠正",
+    "keywords": [
+      "DI",
+      "number reading",
+      "fluency",
+      "self correction"
+    ],
+    "answer": "DI 如果数字读错，频繁回读会让错误和停顿都被听见。Sunny 的原则是准备期尽量看准，正式作答时保持往前走；除非错误严重到影响主信息，否则不要为了纠正一个数字牺牲流利度。",
+    "source": "local transcript distillation round 187, DI coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-trend-ending-should-add-new-information",
+    "title": "DI 结尾要补趋势不要重复开头",
+    "keywords": [
+      "DI",
+      "ending",
+      "trend",
+      "line chart"
+    ],
+    "answer": "DI 结尾如果只是重复开头标题，信息价值很低。Sunny 会让学生用一句趋势句收尾，例如整体上升、下降或保持稳定；结尾要给听者新信息，而不是把图表标题再说一遍。",
+    "source": "local transcript distillation round 187, DI coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-if-extreme-is-hard-use-second-extreme",
+    "title": "DI 极值太难可改说第二高或第二低",
+    "keywords": [
+      "DI",
+      "extreme value",
+      "second highest",
+      "strategy"
+    ],
+    "answer": "DI 最大值或最小值如果位置太远、数字太难读，可以选择更稳的第二高、第二低或明显相邻点。Sunny 会让学生以流利和准确为优先，只要信息有代表性，不必执着于最难读的极值。",
+    "source": "local transcript distillation round 187, DI coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-adverbs-cannot-replace-conjunctions",
+    "title": "SWT 副词不能直接当连词连接句子",
+    "keywords": [
+      "SWT",
+      "conjunction",
+      "however",
+      "therefore"
+    ],
+    "answer": "SWT 拼接关键句时，要区分连词和副词。however、therefore 这类词不能像 and、but、so 一样直接连接两个完整句子；Sunny 会让学生优先用语法功能稳定的连接词，保证一句话结构成立。",
+    "source": "local transcript distillation round 187, SWT coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-drag-skim-topic-then-read-blank-context",
+    "title": "FIB 拖拽题先扫主旨再读空格前后",
+    "keywords": [
+      "FIB drag",
+      "topic skimming",
+      "blank context",
+      "time management"
+    ],
+    "answer": "FIB 拖拽题不需要把无关背景逐字读完。Sunny 会让学生先用几秒扫题目主旨，再重点读每个空格前后，抓固定搭配、指代和语法关系；基础好的学生可再补看前文关键词。",
+    "source": "local transcript distillation round 187, FIB drag coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-two-sided-topics-need-balanced-frame",
+    "title": "WE 优缺点题适合用双边框架",
+    "keywords": [
+      "WE",
+      "two-sided essay",
+      "advantages disadvantages",
+      "structure"
+    ],
+    "answer": "WE 遇到优缺点、积极消极影响、好坏并存这类题时，双边结构更稳。Sunny 会让学生一段写支持面，一段写限制面，结尾回应两边并给出取舍或措施，而不是把所有内容挤进单边论证。",
+    "source": "local transcript distillation round 188, WE coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-memorize-changing-sentences-not-whole-template",
+    "title": "WE 框架只重点记变化句",
+    "keywords": [
+      "WE",
+      "template",
+      "framework",
+      "essay preparation"
+    ],
+    "answer": "WE 单边和双边框架大部分骨架可以共用，真正需要重点记的是立场句、反方段主题句和结尾回应句。Sunny 会让学生先固定段落功能，再替换少数关键句，降低背诵负担。",
+    "source": "local transcript distillation round 188, WE coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-leave-two-minutes-for-checking",
+    "title": "WE 要预留约两分钟检查",
+    "keywords": [
+      "WE",
+      "proofreading",
+      "spelling",
+      "time management"
+    ],
+    "answer": "WE 写完后要预留时间检查拼写、语法、词数和明显漏词。Sunny 会提醒学生，作文不是写完就结束，键盘不熟或打字过快时很容易少字母；最后两分钟能救回不少低级错误。",
+    "source": "local transcript distillation round 188, WE coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-drag-spread-through-collocation",
+    "title": "FIB 拖拽 spread through 是常见搭配",
+    "keywords": [
+      "FIB drag",
+      "spread through",
+      "collocation",
+      "vocabulary"
+    ],
+    "answer": "FIB 拖拽题看到 spread 和 through 组合时，要优先识别“传播到、蔓延到”的整体含义。Sunny 会让学生把动词和后面的介词一起看，很多空格不是单词意思题，而是短语搭配题。",
+    "source": "local transcript distillation round 188, FIB drag coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-drag-reach-success-more-formal-than-get",
+    "title": "FIB 拖拽 reach success 比 get 更正式",
+    "keywords": [
+      "FIB drag",
+      "reach",
+      "get",
+      "word choice"
+    ],
+    "answer": "FIB 拖拽里遇到 get 和 reach 这类近义词时，要看语体和宾语。表达“达到某种成功或状态”时，reach 往往比 get 更正式、更贴合学术文本；Sunny 会让学生先判断搭配自然度，再看中文大意。",
+    "source": "local transcript distillation round 188, FIB drag coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-drag-pair-near-synonyms-in-options",
+    "title": "FIB 拖拽选项可先按近义分组",
+    "keywords": [
+      "FIB drag",
+      "option grouping",
+      "near synonyms",
+      "strategy"
+    ],
+    "answer": "FIB 拖拽给多个选项时，可以先把明显近义或同词性的词分组。Sunny 会让学生发现 got/reached、spread/purge 这类候选关系，再回到空格语境里二选一，这比逐个选项乱试更快。",
+    "source": "local transcript distillation round 188, FIB drag coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-drag-and-signals-parallel-adjectives",
+    "title": "FIB 拖拽 and 常提示并列形容词",
+    "keywords": [
+      "FIB drag",
+      "parallel adjectives",
+      "and",
+      "word form"
+    ],
+    "answer": "FIB 拖拽看到 accurate and ___ 这类结构时，and 往往提示空格要和前面词性一致。Sunny 会让学生先看并列关系和后面的名词，再选择形容词；这样即使不认识所有选项，也能排除不合结构的词。",
+    "source": "local transcript distillation round 188, FIB drag coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-paraphrase-by-keeping-core-svo",
+    "title": "SWT 改写可先保留主谓宾主干",
+    "keywords": [
+      "SWT",
+      "paraphrase",
+      "sentence reduction",
+      "SVO"
+    ],
+    "answer": "SWT 新要求下不能只照抄关键句，基础较弱的学生可以先做缩句：保留主语、谓语、宾语和必要信息，删掉不重要的从句或修饰。Sunny 会让学生先保证意思不丢，再做词汇替换和逻辑连接。",
+    "source": "local transcript distillation round 188, SWT coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-drag-predict-word-form-before-looking-options",
+    "title": "FIB 拖拽先预判词性再看选项",
+    "keywords": [
+      "FIB drag",
+      "word form",
+      "prediction",
+      "option elimination"
+    ],
+    "answer": "FIB 拖拽题不要一上来就试选项。Sunny 会让学生先读空格前后，判断这里需要形容词、名词、动词还是介词短语，再去选项里找同类词；这样能先排掉一半干扰项。",
+    "source": "local transcript distillation round 189, FIB drag coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-drag-after-the-usually-noun",
+    "title": "FIB 拖拽 the 后面常常要名词",
+    "keywords": [
+      "FIB drag",
+      "grammar",
+      "article",
+      "noun"
+    ],
+    "answer": "FIB 拖拽看到空格前有 the，要警觉后面很可能需要名词或名词短语。Sunny 会让学生先用冠词和介词判断结构，再看语义是否匹配，避免把动词或形容词硬塞进去。",
+    "source": "local transcript distillation round 189, FIB drag coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-drag-at-age-for-exact-age",
+    "title": "FIB 拖拽具体年龄常用 at the age of",
+    "keywords": [
+      "FIB drag",
+      "preposition",
+      "age",
+      "time point"
+    ],
+    "answer": "FIB 拖拽里，具体年龄或明确时间点通常用 at，而一段时间范围更常用 during/throughout 等表达。Sunny 会让学生把年龄看作时间点来处理，看到数字年龄时优先检查 at the age of 这类结构。",
+    "source": "local transcript distillation round 189, FIB drag coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-drag-one-option-one-blank",
+    "title": "FIB 拖拽默认一个选项只填一个空",
+    "keywords": [
+      "FIB drag",
+      "option use",
+      "test strategy",
+      "checking"
+    ],
+    "answer": "FIB 拖拽题通常是一个选项对应一个空，不能把同一个词反复拖进多个位置。Sunny 会让学生做完后检查是否重复使用选项；如果重复了，要回头看是否有另一个同义或同类选项。",
+    "source": "local transcript distillation round 189, FIB drag coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-drag-context-can-reveal-unknown-words",
+    "title": "FIB 生词可通过上下文推功能",
+    "keywords": [
+      "FIB drag",
+      "unknown words",
+      "context",
+      "inference"
+    ],
+    "answer": "FIB 遇到不认识的词，不要立刻放弃。Sunny 会让学生看它周围是否有天赋、成功、时间、领域等线索，先推断这个词大概是人物特征、抽象名词还是动作，再决定是否能填入空格。",
+    "source": "local transcript distillation round 189, FIB drag coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-one-of-linking-should-be-automatic",
+    "title": "RA one of 这类连读要练成自动反应",
+    "keywords": [
+      "RA",
+      "linking",
+      "one of",
+      "fluency"
+    ],
+    "answer": "RA 里 one of、variety of、eruption of 这类高频结构要练成自然连读。Sunny 会让学生把 of 前后的衔接单独练熟，正式读时不再临场想规则，句子就会更紧凑。",
+    "source": "local transcript distillation round 189, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-breathe-at-clause-boundaries",
+    "title": "RA 换气点优先放在从句或并列前",
+    "keywords": [
+      "RA",
+      "breath control",
+      "clause boundary",
+      "fluency"
+    ],
+    "answer": "RA 长句不一定必须一口气读完，但换气点要放在语法边界上。Sunny 会让学生优先在并列成分前、从句前或主谓之间的自然位置轻停，避免把固定短语或介词结构拆开。",
+    "source": "local transcript distillation round 189, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-after-minor-slip-keep-forward",
+    "title": "RA 小错后继续往前读",
+    "keywords": [
+      "RA",
+      "self correction",
+      "fluency",
+      "mistake recovery"
+    ],
+    "answer": "RA 读错一个小词、加了一个词或跳过一个生词时，不要回头重读整段。Sunny 会提醒学生保持语速、音量和节奏继续往前走；频繁回读会把错误扩大成流利度问题。",
+    "source": "local transcript distillation round 189, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-punctuation-density-does-not-mean-many-pauses",
+    "title": "RA 标点密集不等于每处都停",
+    "keywords": [
+      "RA",
+      "punctuation",
+      "pauses",
+      "fluency"
+    ],
+    "answer": "RA 句子里逗号和并列标点很多时，不要机械地每个标点都停一下。Sunny 会让学生先按意思划分语群，能一口气读完的并列成分就连起来，只在真正需要换气的位置轻停。",
+    "source": "local transcript distillation round 190, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-dark-l-in-adjectives-needs-shape",
+    "title": "RA 形容词结尾 dark L 要有口型",
+    "keywords": [
+      "RA",
+      "dark L",
+      "pronunciation",
+      "word endings"
+    ],
+    "answer": "RA 里 behavioral、social 这类形容词结尾常带 dark L，不能读成松散的尾音。Sunny 会让学生单独练尾部口型，再放进短语里读，保证词形和结尾都能被听清。",
+    "source": "local transcript distillation round 190, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-two-syllable-verbs-often-stress-later",
+    "title": "RA 双音节动词常常后重",
+    "keywords": [
+      "RA",
+      "word stress",
+      "two syllable verbs",
+      "pronunciation"
+    ],
+    "answer": "RA 遇到 predict、prevent 这类双音节动词，要注意重音常落在后面。Sunny 会让学生把动词重音和名词重音分开练，避免把关键词读得平或重音前移。",
+    "source": "local transcript distillation round 190, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-long-sentence-can-pause-before-to-phrase",
+    "title": "RA 长句可在 to 短语前轻停",
+    "keywords": [
+      "RA",
+      "breath control",
+      "to phrase",
+      "long sentence"
+    ],
+    "answer": "RA 长句如果气息不够，可以在不定式或介词短语前轻停，例如在 to do、to meeting 这类结构前后安排自然换气。Sunny 会让学生把停顿放在结构边界上，而不是拆开固定词组。",
+    "source": "local transcript distillation round 190, RA coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-read-large-numbers-clearly-not-fast",
+    "title": "RA 大数字要清楚不要一带而过",
+    "keywords": [
+      "RA",
+      "numbers",
+      "clarity",
+      "speed"
+    ],
+    "answer": "RA 里的大数字不要为了速度糊过去。Sunny 会让学生把数字作为信息重点读清楚，尤其是 three-digit numbers 或带单位的数字；数字读稳比整句盲目加速更重要。",
+    "source": "local transcript distillation round 190, RA coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-first-listen-capture-structure",
+    "title": "SST 第一遍先抓文章结构",
+    "keywords": [
+      "SST",
+      "first listen",
+      "structure",
+      "note taking"
+    ],
+    "answer": "SST 第一遍盲听时，不必追求逐词记录。Sunny 会让学生先判断文章是总分、对比还是问题解决结构，再把每一部分对应的主题词记下来；结构清楚，后面补细节会容易很多。",
+    "source": "local transcript distillation round 190, SST coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-note-core-nouns-and-locations",
+    "title": "SST 笔记优先记核心名词和地点",
+    "keywords": [
+      "SST",
+      "note taking",
+      "keywords",
+      "locations"
+    ],
+    "answer": "SST 笔记要优先记录能支撑内容分的核心名词、地点、群体和影响词。Sunny 会让学生把零散听到的词按主题归类，而不是写一串没有关系的声音片段。",
+    "source": "local transcript distillation round 190, SST coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-compound-word-spelling-matters",
+    "title": "SST 复合词拼写要提前确认",
+    "keywords": [
+      "SST",
+      "spelling",
+      "compound words",
+      "accuracy"
+    ],
+    "answer": "SST 里有些关键词是复合词或固定写法，分开写可能影响准确度。Sunny 会让学生在练习时整理高频主题词的标准拼写，避免考试时听懂了意思却写错形式。",
+    "source": "local transcript distillation round 190, SST coaching notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
