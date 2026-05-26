@@ -34421,5 +34421,341 @@
     "source": "local OCR distillation round 196, writing review notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-preview-punctuation-before-speaking",
+    "title": "RA 开口前先看标点和句子边界",
+    "keywords": [
+      "RA",
+      "punctuation",
+      "phrasing",
+      "speaking"
+    ],
+    "answer": "RA 准备时间不要只扫生词。Sunny 会让学生先看逗号、句号、并列结构和长主语位置，把句子切成可读的意群；开口后按意群推进，能减少中途乱停和尾句没力的问题。",
+    "source": "local OCR distillation round 197, RA workflow notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-playback-checks-volume-rhythm-and-clarity",
+    "title": "RA 录音复盘看音量、节奏和清晰度",
+    "keywords": [
+      "RA",
+      "recording review",
+      "volume",
+      "rhythm"
+    ],
+    "answer": "RA 复盘不要只问单词有没有读对。Sunny 会让学生听自己的录音，按音量是否稳定、重弱读是否有层次、关键辅音是否清楚三项打勾。机器更怕含混和忽大忽小，而不是轻微口音。",
+    "source": "local OCR distillation round 197, RA review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-rl-template-is-track-not-content",
+    "title": "DI/RL 模板是轨道，不是内容本身",
+    "keywords": [
+      "DI",
+      "RL",
+      "template",
+      "content"
+    ],
+    "answer": "DI 和 RL 可以用固定句型稳定开头和连接，但模板不能替代图面或音频内容。Sunny 会让学生先用模板搭轨道，再填入标题、对象、变化、原因或例子；如果只背框架不放内容，分数上限会被压住。",
+    "source": "local OCR distillation round 197, DI RL template notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-rts-sgd-new-task-start-with-task-verb",
+    "title": "新口语题先抓任务动词",
+    "keywords": [
+      "RTS",
+      "SGD",
+      "speaking",
+      "task verb"
+    ],
+    "answer": "遇到不熟悉的新口语题型时，Sunny 会让学生先抓任务动词：describe、summarize、discuss、support 或 choose。动词决定回答方向，比急着套模板更重要；先确认任务，再组织两到三个稳定信息点。",
+    "source": "local OCR distillation round 197, speaking task notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-extensive-and-intensive-training-split",
+    "title": "听力泛听和精听要分工训练",
+    "keywords": [
+      "listening",
+      "extensive listening",
+      "intensive listening",
+      "training"
+    ],
+    "answer": "听力训练不能只反复听同一句，也不能只大量泛听。Sunny 会把泛听用于建立语速和话题熟悉度，把精听用于抓弱读、连读、词尾和拼写。两种训练分工清楚，WFD、FIB 和 HIW 才能一起进步。",
+    "source": "local OCR distillation round 197, listening training notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-fib-hiw-error-bank-by-sound-and-form",
+    "title": "听力 FIB/HIW 错题按声音和词形归类",
+    "keywords": [
+      "listening FIB",
+      "HIW",
+      "error bank",
+      "word form"
+    ],
+    "answer": "听力 FIB 和 HIW 的错题不要只记答案。Sunny 会让学生标出错误原因：没听到弱读、混淆近音词、拼写不熟、词形判断错。按声音和词形归类后，下一轮训练才知道要修听辨还是修词汇。",
+    "source": "local OCR distillation round 197, listening error bank notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-task-type-before-template-choice",
+    "title": "写作先判断任务类型再选框架",
+    "keywords": [
+      "writing",
+      "essay",
+      "SWT",
+      "task type"
+    ],
+    "answer": "写作不能看到题就直接套同一个框架。Sunny 会让学生先判断题目是在要求观点、讨论、优缺点、原因结果还是总结原文，再选择段落结构和连接方式。框架跟任务匹配，内容才不容易偏。",
+    "source": "local OCR distillation round 197, writing planning notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-vocabulary-prefix-root-suffix-as-guessing-map",
+    "title": "词根词缀可做生词猜义地图",
+    "keywords": [
+      "vocabulary",
+      "prefix",
+      "suffix",
+      "word roots"
+    ],
+    "answer": "阅读和听力遇到生词时，不必每次都停下来背整词。Sunny 会让学生先看前缀判断方向，词根判断核心意义，后缀判断词性；即使不能精确翻译，也能帮助 FIB、阅读选择和听力定位做出更稳的判断。",
+    "source": "local OCR distillation round 197, vocabulary strategy notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-mind-map-notes-into-one-sentence",
+    "title": "SST 笔记先成图再成句",
+    "keywords": [
+      "SST",
+      "mind map",
+      "notes",
+      "summary"
+    ],
+    "answer": "SST 不是把听到的词逐个堆进一句话。Sunny 会让学生先把笔记整理成“主题、两三个核心信息、结果或态度”的小图，再压缩成一个完整句。这样能减少语法断裂，也能避免只写零散关键词。",
+    "source": "local OCR distillation round 198, SST note organization",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-prioritize-key-nouns-and-causal-verbs",
+    "title": "SST 优先保留关键名词和因果动词",
+    "keywords": [
+      "SST",
+      "key words",
+      "causal verbs",
+      "listening"
+    ],
+    "answer": "SST 记不下全部细节时，Sunny 会优先保留话题名词、主体对象和表示因果/变化的动词。形容词和例子可以少写，但核心对象与关系不能丢，否则总结会变成漂亮但空泛的一句话。",
+    "source": "local OCR distillation round 198, SST content selection",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-axis-labels-before-template-sentence",
+    "title": "DI 先读轴和单位再套句子",
+    "keywords": [
+      "DI",
+      "axis",
+      "unit",
+      "template"
+    ],
+    "answer": "DI 图表题开口前先确认标题、横纵轴、单位和图例。Sunny 会让学生先把这些信息读进脑子，再套描述句；否则模板说得很流畅，但数字对象讲错，内容分会被拖累。",
+    "source": "local OCR distillation round 198, DI chart reading",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rl-notes-group-by-topic-action-result",
+    "title": "RL 笔记按主题、动作、结果分组",
+    "keywords": [
+      "RL",
+      "note taking",
+      "lecture",
+      "structure"
+    ],
+    "answer": "RL 听讲座时不要把词随机散在纸上。Sunny 会让学生按主题、人物或对象、动作/变化、结果/评价四类分组记录；复述时按组展开，比按听到顺序硬串更稳。",
+    "source": "local OCR distillation round 198, RL note structure",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fibrw-first-test-word-form-then-collocation",
+    "title": "FIBRW 先验词形，再验搭配",
+    "keywords": [
+      "FIBRW",
+      "word form",
+      "collocation",
+      "reading"
+    ],
+    "answer": "FIBRW 不要一上来只看中文意思。Sunny 会让学生先判断空格需要名词、动词、形容词还是副词，再看前后搭配和句意。词形不对的选项先排除，能明显提高选择效率。",
+    "source": "local OCR distillation round 198, FIBRW strategy",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-ro-chronology-and-reference-crosscheck",
+    "title": "RO 用时间顺序和指代关系互相验证",
+    "keywords": [
+      "RO",
+      "chronology",
+      "reference",
+      "sentence order"
+    ],
+    "answer": "RO 排序不能只依赖一个连接词。Sunny 会让学生同时检查时间推进、代词指代、this/these 指向和总结句位置。两个线索同时支持的顺序更可靠，单一线索冲突时要回到全文逻辑。",
+    "source": "local OCR distillation round 198, RO logic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-wfd-high-frequency-practice-needs-personal-error-list",
+    "title": "WFD 高频练习要变成个人错词表",
+    "keywords": [
+      "WFD",
+      "high frequency",
+      "error list",
+      "dictation"
+    ],
+    "answer": "WFD 高频材料不能只刷遍数。Sunny 会要求学生把每次错的词、漏的词尾和听混的短语整理成个人错词表，下一轮先复习错词再听新句，才能把练习量转化成稳定得分。",
+    "source": "local OCR distillation round 198, WFD error review",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-mock-test-fatigue-pattern-review",
+    "title": "模考复盘要看疲劳点出在哪一段",
+    "keywords": [
+      "mock test",
+      "fatigue",
+      "review",
+      "test strategy"
+    ],
+    "answer": "模考分数波动有时不是单题不会，而是后半场疲劳导致操作变形。Sunny 会让学生记录从哪个题型开始注意力下降、打字错误增加或听力漏词变多，再调整练习顺序和休息策略。",
+    "source": "local OCR distillation round 198, mock review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-test-flow-practice-with-screen-order",
+    "title": "考试流程要按屏幕顺序练",
+    "keywords": [
+      "test flow",
+      "screen order",
+      "practice",
+      "test day"
+    ],
+    "answer": "备考不能只按题型单独练。Sunny 会让学生定期按真实屏幕顺序走一遍流程，熟悉录音提示、准备时间、答题时间和下一题切换。流程熟了，考试当天才不会把精力浪费在操作紧张上。",
+    "source": "local OCR distillation round 199, test flow notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-report-diagnosis-links-errors-to-subskills",
+    "title": "成绩诊断要把错误连到子能力",
+    "keywords": [
+      "score report",
+      "diagnosis",
+      "subskills",
+      "study plan"
+    ],
+    "answer": "看到分数后不要只说某一科差。Sunny 会把错误连接到更小的子能力：发音清晰度、听写形式、阅读语法、写作内容完整度等。找到子能力，下一阶段训练才会更具体。",
+    "source": "local OCR distillation round 199, scoring diagnosis notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-do-not-let-prep-time-go-silent-in-mind",
+    "title": "口语准备时间脑内也要排练",
+    "keywords": [
+      "speaking",
+      "prep time",
+      "mental rehearsal",
+      "fluency"
+    ],
+    "answer": "口语准备时间不是盯屏幕等待。Sunny 会让学生在心里先走一遍开头、关键词和收尾，确认第一句话怎么出口。脑内预演越清楚，开口后越不容易卡顿。",
+    "source": "local OCR distillation round 199, speaking prep notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-difficult-word-plan-skip-or-simplify-before-start",
+    "title": "RA 难词要开口前决定处理方式",
+    "keywords": [
+      "RA",
+      "difficult words",
+      "fluency",
+      "recovery"
+    ],
+    "answer": "RA 遇到难词不要读到那里才临时慌。Sunny 会让学生在准备时标出难词，提前决定是按音节读、轻带过去，还是用近似但顺畅的读法保护流利度。临场犹豫比轻微不准更伤整体表现。",
+    "source": "local OCR distillation round 199, RA recovery notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-vocabulary-review-by-topic-and-word-family",
+    "title": "阅读词汇按主题和词族复习",
+    "keywords": [
+      "reading",
+      "vocabulary",
+      "word family",
+      "topic"
+    ],
+    "answer": "阅读词汇不要只背孤立单词。Sunny 会让学生按主题和词族整理，例如环境、教育、科技，再把名词、动词、形容词变形放在一起。这样做 FIB 和选择题时更容易识别词性和搭配。",
+    "source": "local OCR distillation round 199, reading vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-before-audio-predict-grammar-position",
+    "title": "听力题音频前先预测语法位置",
+    "keywords": [
+      "listening",
+      "prediction",
+      "grammar",
+      "FIB"
+    ],
+    "answer": "有文字材料的听力题，音频前先看空格或选项所在的语法位置。Sunny 会让学生预测那里可能是名词、动词、数字、地点还是转折词，听的时候就有抓手，而不是被整段音频推着走。",
+    "source": "local OCR distillation round 199, listening prediction notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-one-sentence-needs-main-relation",
+    "title": "SWT 一句话必须保留主关系",
+    "keywords": [
+      "SWT",
+      "summary",
+      "main relation",
+      "writing"
+    ],
+    "answer": "SWT 压缩成一句话时，不是把所有名词串起来。Sunny 会让学生先找原文的主关系：原因导致结果、问题对应解决、对比带出结论。主关系保住后，再用从句或并列补关键细节。",
+    "source": "local OCR distillation round 199, SWT writing notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-essay-body-paragraph-one-idea-one-proof",
+    "title": "大作文主体段一段一个观点一个证明",
+    "keywords": [
+      "essay",
+      "body paragraph",
+      "argument",
+      "proof"
+    ],
+    "answer": "大作文主体段不要一段塞多个方向。Sunny 会让学生保持一段一个清楚观点，再用原因、例子或影响证明它。观点太多会让逻辑散，证明太少会让段落像口号。",
+    "source": "local OCR distillation round 199, essay planning notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
