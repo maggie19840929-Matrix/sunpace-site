@@ -35317,5 +35317,790 @@
     "source": "local OCR distillation round 204, SWT research structure notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-rl-chart-lecture-describe-topic-then-data",
+    "title": "RL 图表类讲座先说主题再说数据",
+    "keywords": [
+      "RL",
+      "chart lecture",
+      "speaking",
+      "note taking"
+    ],
+    "answer": "RL 如果给的是图表类信息，Sunny 会让学生先说图表主题和比较对象，再补一两个代表性数据或趋势。不要一开口就读数字，因为听众需要先知道这组数据在解释什么问题。",
+    "source": "local OCR distillation round 205, RL chart lecture notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-wfd-prediction-list-use-as-dictation-drill",
+    "title": "WFD 清单只当听写训练材料",
+    "keywords": [
+      "WFD",
+      "dictation",
+      "prediction",
+      "listening"
+    ],
+    "answer": "WFD 清单不能替代真实听写。Sunny 会把它当训练材料：先听写，不看文本；再对照检查冠词、复数、介词和拼写；最后把错句放入个人错句本。看熟句子不等于会在音频里写对。",
+    "source": "local OCR distillation round 205, WFD dictation practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-wfd-sentence-bank-group-by-grammar-pattern",
+    "title": "WFD 错句按语法模式分组",
+    "keywords": [
+      "WFD",
+      "grammar",
+      "sentence bank",
+      "review"
+    ],
+    "answer": "WFD 复盘时，Sunny 会把错句按语法模式分组：被动语态、提交截止、地点时间、学术观点、数量表达。这样学生练的是听到句型后的预测能力，而不是零散背句。",
+    "source": "local OCR distillation round 205, WFD sentence bank notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-fib-vocabulary-sort-by-sound-and-word-form",
+    "title": "听力 FIB 词汇按声音和词形双分类",
+    "keywords": [
+      "listening FIB",
+      "vocabulary",
+      "word form",
+      "sound"
+    ],
+    "answer": "听力 FIB 高频词表不要只背中文意思。Sunny 会让学生按两条线整理：容易听混的声音，和容易写错的词形。比如名词复数、动词过去式、副词后缀都要标出来，听写时才知道该防什么错。",
+    "source": "local OCR distillation round 205, listening FIB vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-listening-combined-practice-split-skills",
+    "title": "读听综合练习要拆开技能目标",
+    "keywords": [
+      "reading",
+      "listening",
+      "combined practice",
+      "skill goals"
+    ],
+    "answer": "一套材料同时覆盖阅读和听力时，Sunny 会先拆技能目标：阅读练词性、搭配和句法关系；听力练关键词、拼写和音变。目标拆清楚后，同一材料可以复用，但每一遍只解决一个问题。",
+    "source": "local OCR distillation round 205, reading listening combined practice notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-final-review-resource-menu-prioritize-weakness",
+    "title": "总复习资源按短板优先选择",
+    "keywords": [
+      "final review",
+      "resource planning",
+      "weakness",
+      "exam prep"
+    ],
+    "answer": "考前资源越多，越需要按短板选择。Sunny 会先看学生最近模考和错题：如果口语不稳，优先录音复盘；如果听力掉分，优先 WFD 和 FIB；如果写作失分，优先 SWT/SST 框架。资源服务问题，不按热闹程度排序。",
+    "source": "local OCR distillation round 205, final review resource notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-line-chart-include-trend-after-extremes",
+    "title": "DI 线图说完极值要补趋势",
+    "keywords": [
+      "DI",
+      "line chart",
+      "trend",
+      "speaking"
+    ],
+    "answer": "线图描述不能只说最高和最低。Sunny 会要求学生在两个代表数据点之后补一句整体趋势，例如整体上升、下降或波动。趋势句能把散点连成图表信息，也是 DI 更像描述而不是读数的关键。",
+    "source": "local OCR distillation round 205, DI line chart trend notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-cram-plan-one-resource-per-goal",
+    "title": "考前冲刺每个目标只配一个主资源",
+    "keywords": [
+      "cram plan",
+      "resources",
+      "planning",
+      "exam prep"
+    ],
+    "answer": "考前冲刺阶段不要给一个目标配三四份材料。Sunny 会让每个目标只绑定一个主资源：一个录音池练口语，一个错句本练 WFD，一个错题表练阅读填空。资源少而动作明确，比到处切换更容易见效。",
+    "source": "local OCR distillation round 205, cram planning notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-section-map-large-medium-small-tasks",
+    "title": "口语先按大中小题型建立地图",
+    "keywords": [
+      "speaking",
+      "task map",
+      "RA",
+      "RS"
+    ],
+    "answer": "口语复习前，Sunny 会先把题型按影响和训练动作分层：大题练稳定发音和内容组织，中型题练记忆和复述，小题练快速反应。先有地图，学生才不会把所有口语题都用同一套节奏练。",
+    "source": "local OCR distillation round 206, speaking section map notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-monthly-high-frequency-index-coverage-check",
+    "title": "月度高频目录用于检查覆盖率",
+    "keywords": [
+      "monthly review",
+      "coverage",
+      "practice planning",
+      "exam prep"
+    ],
+    "answer": "月度高频材料的目录适合做覆盖率检查。Sunny 会让学生标出本月是否练到 RA、RS、DI、RL、SWT、Essay、RO、FIB 和 WFD，而不是只看某一题型页数多不多。覆盖率不足的题型优先补动作。",
+    "source": "local OCR distillation round 206, monthly index planning notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-wfd-repeat-sentence-bank-spiral-review",
+    "title": "WFD 重复句库用螺旋复习",
+    "keywords": [
+      "WFD",
+      "spiral review",
+      "sentence bank",
+      "listening"
+    ],
+    "answer": "WFD 重复句不要一口气刷完就算完成。Sunny 会安排螺旋复习：当天听写、隔天复听、一周后混入新句再测。能在混合状态下写对，才说明句子真的转成听写能力。",
+    "source": "local OCR distillation round 206, WFD repeated sentence notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-section-map-swt-essay-separate-skills",
+    "title": "写作复习把 SWT 和 Essay 分开练",
+    "keywords": [
+      "writing",
+      "SWT",
+      "essay",
+      "practice map"
+    ],
+    "answer": "写作不是一个动作。Sunny 会把 SWT 和 Essay 分开训练：SWT 练读懂主关系、压缩成一句话；Essay 练观点展开、段落逻辑和语言检查。两者都叫写作，但短板和评分风险不一样。",
+    "source": "local OCR distillation round 206, writing section map notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-content-points-turn-into-speaking-bullets",
+    "title": "DI 内容点先转成口语项目符号",
+    "keywords": [
+      "DI",
+      "content points",
+      "speaking bullets",
+      "fluency"
+    ],
+    "answer": "DI 复盘里列出的内容点，Sunny 会先转成口语项目符号：主题、最高项、最低项、明显差距或趋势。项目符号越短，现场越容易说顺；不要把解析段落整句背下来。",
+    "source": "local OCR distillation round 206, DI content point notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-extensive-intensive-two-pass-plan",
+    "title": "听力泛听精听用两遍计划",
+    "keywords": [
+      "listening",
+      "extensive listening",
+      "intensive listening",
+      "review"
+    ],
+    "answer": "听力训练不要把泛听和精听混成一遍。Sunny 会先用泛听抓主题和情绪，再用精听补关键词、音变和拼写。第一遍解决理解方向，第二遍解决可得分细节。",
+    "source": "local OCR distillation round 206, listening extensive intensive notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-prediction-calendar-overlap-prioritize-stable-items",
+    "title": "多期预测重合项优先当稳定练习材料",
+    "keywords": [
+      "prediction",
+      "calendar",
+      "overlap",
+      "practice priority"
+    ],
+    "answer": "不同日期的材料如果反复出现同类题型或同类句型，Sunny 会把它当稳定练习材料，而不是神化为必考内容。重合项优先用于训练动作，非重合项只做拓展熟悉。",
+    "source": "local OCR distillation round 206, prediction overlap notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-percentage-table-describe-category-share",
+    "title": "DI 百分比表先说类别占比",
+    "keywords": [
+      "DI",
+      "percentage",
+      "table",
+      "speaking"
+    ],
+    "answer": "DI 遇到百分比或表格时，Sunny 会让学生先说它比较哪些类别的占比，再选最大份额、最小份额和明显差距。百分比题的重点是份额关系，不是把每个格子都念出来。",
+    "source": "local OCR distillation round 206, DI percentage table notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocabulary-handbook-split-by-skill-use-case",
+    "title": "词汇手册按听说读写用途拆分",
+    "keywords": [
+      "vocabulary",
+      "skills",
+      "review",
+      "exam prep"
+    ],
+    "answer": "词汇手册不要按页数硬背。Sunny 会把词汇按用途拆分：阅读词看词性和搭配，听力词看发音和拼写，口语词看是否能顺口说出，写作词看是否能放进安全句型。用途不同，复习动作也不同。",
+    "source": "local OCR distillation round 207, vocabulary handbook notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-rw-topic-bank-for-collocation",
+    "title": "FIB-RW 题库先沉淀搭配主题",
+    "keywords": [
+      "FIB-RW",
+      "collocation",
+      "reading",
+      "topic bank"
+    ],
+    "answer": "FIB-RW 目录里反复出现的主题可以转成搭配主题库。Sunny 会让学生记录常见学术主题、动词名词搭配和形容词名词搭配，而不是只记某一道题的答案。搭配能迁移，原题不能保证出现。",
+    "source": "local OCR distillation round 207, FIB-RW topic bank notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-rw-dropdown-choice-test-word-family",
+    "title": "FIB-RW 下拉题先验词族和词性",
+    "keywords": [
+      "FIB-RW",
+      "dropdown",
+      "word family",
+      "word form"
+    ],
+    "answer": "FIB-RW 下拉选项常考同词族或近义词。Sunny 会让学生先判断空格需要名词、动词、形容词还是副词，再看选项是否属于正确词族和搭配。先验位置，再看意思，准确率更稳。",
+    "source": "local OCR distillation round 207, FIB-RW dropdown notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rl-chart-data-note-use-three-labels",
+    "title": "RL 图表笔记只保留三类标签",
+    "keywords": [
+      "RL",
+      "chart",
+      "note taking",
+      "speaking"
+    ],
+    "answer": "RL 图表类笔记不需要抄满数字。Sunny 会让学生只保留三类标签：图表主题、最高或最低的数据点、整体趋势或对比关系。三类标签足够支撑一段清楚复述，也能减少现场卡顿。",
+    "source": "local OCR distillation round 207, RL chart note notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-wfd-daily-list-mix-old-new-sentences",
+    "title": "WFD 日清单要混合新句和旧错句",
+    "keywords": [
+      "WFD",
+      "daily practice",
+      "review",
+      "dictation"
+    ],
+    "answer": "每天的 WFD 训练不要只刷新句。Sunny 会把新句、昨天错句和一周前错句混在一起测。新句练反应，旧错句练修正是否真正发生；只刷新句会让错因一直被刷新感掩盖。",
+    "source": "local OCR distillation round 207, WFD daily list notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-intensive-training-replay-for-micro-errors",
+    "title": "精听训练专门修微错误",
+    "keywords": [
+      "listening",
+      "intensive listening",
+      "micro errors",
+      "review"
+    ],
+    "answer": "精听不是把音频听到熟，而是定位微错误。Sunny 会让学生复听漏掉的弱读、连读、复数尾音、过去式尾音和功能词。每次精听只修少量错误，修完再回到整段理解。",
+    "source": "local OCR distillation round 207, intensive listening notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-course-map-reading-and-speaking-dual-score",
+    "title": "RA 同时服务阅读和口语分",
+    "keywords": [
+      "RA",
+      "read aloud",
+      "speaking",
+      "reading"
+    ],
+    "answer": "RA 不是单纯朗读题。Sunny 会提醒学生它同时影响口语流利度、发音表现和阅读理解入口。练 RA 时既要看意群和标点，也要听自己的节奏、重音和清晰度。",
+    "source": "local OCR distillation round 207, RA course map notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-time-box-practice-before-recording",
+    "title": "RA 录音前用短准备框固定动作",
+    "keywords": [
+      "RA",
+      "preparation",
+      "recording",
+      "fluency"
+    ],
+    "answer": "RA 开录前的准备时间很短，Sunny 会固定三个动作：扫标点，圈难词，预判第一口气读到哪里。准备动作固定，开口就更稳；准备时反复默读全文，反而容易拖慢反应。",
+    "source": "local OCR distillation round 207, RA preparation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-communication-topic-define-key-term-first",
+    "title": "SST 抽象主题先定义关键词",
+    "keywords": [
+      "SST",
+      "abstract topic",
+      "definition",
+      "summary"
+    ],
+    "answer": "SST 遇到抽象主题时，Sunny 会让学生先在笔记里写一句关键词定义，再补干扰、原因或例子。抽象词如果不先定义，摘要容易只堆概念名词，读起来没有明确主线。",
+    "source": "local OCR distillation round 208, SST abstract topic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-multi-line-chart-separate-series-before-trend",
+    "title": "DI 多线图先分清每条线",
+    "keywords": [
+      "DI",
+      "multi-line chart",
+      "trend",
+      "speaking"
+    ],
+    "answer": "多线图不能直接说总体上升或下降。Sunny 会先让学生确认每条线代表什么，再选最明显的一条趋势和一条对比关系。先分系列，再说趋势，才能避免把不同数据混在一起。",
+    "source": "local OCR distillation round 208, DI multi-line chart notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-wfd-theme-phrases-build-academic-collocation-bank",
+    "title": "WFD 句子可抽学术搭配库",
+    "keywords": [
+      "WFD",
+      "collocation",
+      "academic phrases",
+      "dictation"
+    ],
+    "answer": "WFD 句子里常出现学术会议、作业提交、研究观点、经济状态、环境变化等搭配。Sunny 会把这些短语抽成搭配库，听到前半段就能预测后半段的词形和拼写。",
+    "source": "local OCR distillation round 208, WFD academic collocation notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-fib-hiw-wfd-rs-integrated-cycle",
+    "title": "FIB HIW WFD RS 可组成听力闭环",
+    "keywords": [
+      "listening",
+      "FIB",
+      "HIW",
+      "WFD",
+      "RS"
+    ],
+    "answer": "听力精听课里，Sunny 会把 FIB、HIW、WFD 和 RS 串成闭环：FIB 练定位词，HIW 练跟读辨错，WFD 练完整句听写，RS 练短时记忆和复述。四类题互补，不应该割裂训练。",
+    "source": "local OCR distillation round 208, integrated listening notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-high-frequency-order-pronunciation-before-speed",
+    "title": "RA 高频练习先修发音再提速度",
+    "keywords": [
+      "RA",
+      "pronunciation",
+      "speed",
+      "high frequency"
+    ],
+    "answer": "RA 高频材料不适合一开始就追速度。Sunny 会先确认生词发音、意群和断句，再逐步提升连贯度。速度建立在清晰度上，模糊地快读只会让流利度和发音一起掉。",
+    "source": "local OCR distillation round 208, RA high frequency practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-under-sixty-words-one-breath-plan",
+    "title": "短 RA 段落也要规划换气点",
+    "keywords": [
+      "RA",
+      "breath",
+      "short passage",
+      "fluency"
+    ],
+    "answer": "即使 RA 段落不长，Sunny 也会让学生提前规划一到两个换气点。短文最怕一口气冲到底，后半句变虚；按标点和意群换气，声音更稳，也更容易保持内容完整。",
+    "source": "local OCR distillation round 208, RA breath planning notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-rw-menu-items-review-by-topic-frequency",
+    "title": "FIB-RW 目录按主题频率安排复习",
+    "keywords": [
+      "FIB-RW",
+      "topic frequency",
+      "review",
+      "reading"
+    ],
+    "answer": "FIB-RW 大目录可以帮助学生看主题频率。Sunny 会优先复习高频学术主题里的搭配和词性，再补低频主题的背景词。复习顺序按主题和错误率排，不按文件页码排。",
+    "source": "local OCR distillation round 208, FIB-RW topic frequency notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-wfd-daily-prediction-ignore-ranking-train-accuracy",
+    "title": "WFD 日预测不按排名迷信只练准确率",
+    "keywords": [
+      "WFD",
+      "daily prediction",
+      "accuracy",
+      "dictation"
+    ],
+    "answer": "WFD 日预测里的高频标记只能帮助安排练习顺序，不能保证考场出现。Sunny 会让学生忽略排名焦虑，把每句都按听写准确率复盘：漏词、错词形、错拼写和标点意识分别记录。",
+    "source": "local OCR distillation round 208, WFD daily prediction notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rl-topic-directory-build-background-grid",
+    "title": "RL 目录可建讲座背景网格",
+    "keywords": [
+      "RL",
+      "topic directory",
+      "background",
+      "speaking"
+    ],
+    "answer": "RL 目录里常覆盖经济、教育、科学实验、城市发展、心理行为等主题。Sunny 会把这些主题做成背景网格，每格准备 3 个常用名词和 2 个常用动词。听到陌生讲座时，学生能更快定位领域。",
+    "source": "local OCR distillation round 209, RL topic directory notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-hierarchy-chart-read-from-bottom-to-top",
+    "title": "DI 层级图先看层级再看标签",
+    "keywords": [
+      "DI",
+      "hierarchy chart",
+      "structure",
+      "speaking"
+    ],
+    "answer": "DI 遇到金字塔或层级图时，Sunny 会先判断层级顺序：底层是什么基础，中层是什么过渡，顶层是什么目标。先说结构，再选两三个标签解释，比逐字读标签更清楚。",
+    "source": "local OCR distillation round 209, DI hierarchy chart notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-logic-map-turns-notes-into-outline",
+    "title": "SST 逻辑图要转成摘要提纲",
+    "keywords": [
+      "SST",
+      "logic map",
+      "outline",
+      "summary"
+    ],
+    "answer": "SST 逻辑图的价值不在图本身，而在能否转成摘要提纲。Sunny 会让学生把图里的主题、转折、原因、结果压成 3 到 4 个提纲点，再写成句子。图越复杂，越要先压缩。",
+    "source": "local OCR distillation round 209, SST logic map notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-research-result-percentages-need-contrast",
+    "title": "SST 研究结果数字要说对比意义",
+    "keywords": [
+      "SST",
+      "research results",
+      "percentages",
+      "contrast"
+    ],
+    "answer": "SST 里出现百分比或研究结果时，Sunny 会让学生写出它说明了什么对比，而不是只抄数字。数字通常服务于差异、趋势或结论；没有解释意义，数字本身很难成为好摘要。",
+    "source": "local OCR distillation round 209, SST research result notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-organic-development-topic-use-timeline",
+    "title": "SST 发展类主题用时间线整理",
+    "keywords": [
+      "SST",
+      "development",
+      "timeline",
+      "listening"
+    ],
+    "answer": "讲某个系统、技术或现象如何发展时，Sunny 会让学生画短时间线：最初目的是什么，后来如何变化，现在带来什么问题或影响。发展线清楚后，摘要更容易写出因果和变化。",
+    "source": "local OCR distillation round 209, SST development timeline notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-template-di-rl-is-scaffold-not-script",
+    "title": "DI/RL 模板是脚手架不是稿子",
+    "keywords": [
+      "DI",
+      "RL",
+      "template",
+      "speaking"
+    ],
+    "answer": "DI/RL 模板只能提供顺序：主题、主要信息、细节、总结。Sunny 不会让学生把模板当完整稿子背，而是用它托住结构，再把现场看到或听到的信息填进去。模板越短，越能适应不同题。",
+    "source": "local OCR distillation round 209, DI RL template notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-practice-page-sync-read-after-independent-read",
+    "title": "RA 跟读要放在独立朗读之后",
+    "keywords": [
+      "RA",
+      "shadowing",
+      "independent reading",
+      "practice order"
+    ],
+    "answer": "RA 同步跟读能修节奏，但不应放在第一步。Sunny 会先让学生独立读一遍，暴露自己的发音和断句问题，再用跟读校准重音和连贯度。直接跟读容易掩盖真实短板。",
+    "source": "local OCR distillation round 209, RA shadowing order notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-pte-core-discount-or-promo-ignore-in-study-plan",
+    "title": "学习计划过滤促销和无关信息",
+    "keywords": [
+      "study plan",
+      "materials",
+      "focus",
+      "exam prep"
+    ],
+    "answer": "材料页里可能混有促销、报名或社交信息。Sunny 会让学生在整理学习资料时过滤这些内容，只保留题型、训练动作、错因和复盘记录。学习计划要服务备考，不被页面噪音分散。",
+    "source": "local OCR distillation round 209, study material filtering notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rl-directory-mark-science-history-economy",
+    "title": "RL 主题清单按领域做听前预热",
+    "keywords": [
+      "RL",
+      "topic list",
+      "background",
+      "pre-listening"
+    ],
+    "answer": "RL 主题清单可以先按科学、历史、经济、教育、心理等领域标记。Sunny 会让学生每次练习前只预热一个领域的核心词和常见动词，这样听讲座时更容易抓住主题方向。",
+    "source": "local OCR distillation round 210, RL topic list notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-drag-drop-preselect-grammar-slot",
+    "title": "阅读拖拽题先预判空格语法槽",
+    "keywords": [
+      "reading FIB",
+      "drag drop",
+      "grammar slot",
+      "word form"
+    ],
+    "answer": "阅读拖拽题不要先看所有选项。Sunny 会让学生先读空格前后，预判这里需要名词、动词、形容词、副词还是介词短语，再回到选项里筛。先定语法槽，选择范围会小很多。",
+    "source": "local OCR distillation round 210, reading drag-drop FIB notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-education-leadership-note-purpose-responsibility",
+    "title": "SST 教育管理类抓目的和责任",
+    "keywords": [
+      "SST",
+      "education",
+      "management",
+      "summary"
+    ],
+    "answer": "教育或管理类 SST 常围绕组织目的、学习目标和责任分配展开。Sunny 会让学生抓两条线：为什么要这样做，以及谁需要承担什么责任。这样摘要不会停留在机构名称或背景介绍上。",
+    "source": "local OCR distillation round 210, SST education management notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-literature-topic-three-point-outline",
+    "title": "SST 文学人物类可用三点提纲",
+    "keywords": [
+      "SST",
+      "literature",
+      "outline",
+      "summary"
+    ],
+    "answer": "文学或人物类 SST 如果信息分散，Sunny 会让学生整理成三点提纲：作品或人物背景、主要特点、为什么重要。三点足够支撑摘要，也能避免被人名、作品名和细节拖走。",
+    "source": "local OCR distillation round 210, SST literature topic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-narrative-development-time-marker",
+    "title": "SST 叙事类用时间标记串发展",
+    "keywords": [
+      "SST",
+      "narrative",
+      "time markers",
+      "listening"
+    ],
+    "answer": "叙事类 SST 通常有过去、现在、后续研究或变化。Sunny 会让学生在笔记里标时间词和阶段变化，再写出从背景到发展再到待解决问题的路径。时间线比孤立关键词更稳。",
+    "source": "local OCR distillation round 210, SST narrative development notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-camp-homework-review-cycle",
+    "title": "听力集训用作业复盘形成闭环",
+    "keywords": [
+      "listening",
+      "homework",
+      "review cycle",
+      "training plan"
+    ],
+    "answer": "听力训练不能只上技巧课。Sunny 会把基础技巧、作业练习、错因讲解和再次测试连成闭环。学生每次复盘都要回答：这次错在没听到、没理解、没记住，还是写错了形式。",
+    "source": "local OCR distillation round 210, listening homework cycle notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-section-big-items-time-protection",
+    "title": "阅读大题要优先保护时间",
+    "keywords": [
+      "reading",
+      "time management",
+      "FIB",
+      "RO"
+    ],
+    "answer": "阅读部分里，大题比小题更需要时间保护。Sunny 会让学生先给 FIB 和 RO 留出稳定时间，再处理选择题。小题卡住要果断跳出，否则会挤压真正拉分的题型。",
+    "source": "local OCR distillation round 210, reading timing notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-ro-fib-practice-separate-order-and-word-form",
+    "title": "RO 和 FIB 分别练排序与词形",
+    "keywords": [
+      "RO",
+      "FIB",
+      "reading",
+      "practice"
+    ],
+    "answer": "阅读课里 RO 和 FIB 不能混成一种阅读练习。Sunny 会把 RO 当作段落逻辑和指代排序训练，把 FIB 当作词形、搭配和句法位置训练。分开练，复盘才知道错因在哪。",
+    "source": "local OCR distillation round 210, reading RO FIB separation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-wfd-business-theme-sentences-group-by-noun-phrases",
+    "title": "WFD 商务主题句按名词短语归类",
+    "keywords": [
+      "WFD",
+      "business theme",
+      "noun phrases",
+      "dictation"
+    ],
+    "answer": "WFD 里常出现商务、政策、实习、会议、销售等主题句。Sunny 会让学生把这些句子按核心名词短语归类，先听出主干名词，再检查限定词和介词。主题归类能减少逐句死记。",
+    "source": "local OCR distillation round 211, WFD business theme notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-percentage-map-compare-regions",
+    "title": "DI 区域百分比图先比较地区份额",
+    "keywords": [
+      "DI",
+      "percentage map",
+      "regions",
+      "speaking"
+    ],
+    "answer": "DI 如果是区域百分比图，Sunny 会让学生先确认有几个区域，再说最大份额、第二大份额和最小份额。区域名称只是标签，真正要表达的是份额关系和差距。",
+    "source": "local OCR distillation round 211, DI regional percentage notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-floor-plan-describe-location-relations",
+    "title": "DI 平面图用方位关系表达",
+    "keywords": [
+      "DI",
+      "floor plan",
+      "location",
+      "speaking"
+    ],
+    "answer": "平面图类 DI 不是看数值，而是看位置关系。Sunny 会让学生用 left, right, next to, opposite, in the center 这类方位词描述主要房间或区域。说清空间关系，比逐个标签朗读更有效。",
+    "source": "local OCR distillation round 211, DI floor plan notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-di-rl-two-scoring-logic-separate",
+    "title": "DI 和 RL 口语评分逻辑要分开练",
+    "keywords": [
+      "DI",
+      "RL",
+      "speaking",
+      "scoring logic"
+    ],
+    "answer": "DI 主要从图像提取信息，RL 主要从听到的讲座组织信息。Sunny 会让学生分开练：DI 看图选点，RL 听音记结构。两者都能用模板托底，但信息来源不同，训练动作不能混。",
+    "source": "local OCR distillation round 211, DI RL scoring logic notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-drag-drop-topic-index-ignore-page-number",
+    "title": "阅读拖拽目录看题型不看页码",
+    "keywords": [
+      "reading FIB",
+      "drag drop",
+      "topic index",
+      "review"
+    ],
+    "answer": "阅读拖拽题目录里的页码对学习价值不高。Sunny 会让学生看主题和错因：哪些主题常错词性，哪些常错搭配，哪些常被上下文指代干扰。复盘按题型问题排，不按页码排。",
+    "source": "local OCR distillation round 211, reading drag-drop index notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rl-topic-list-recycle-for-speaking-vocabulary",
+    "title": "RL 主题清单可反哺口语词汇",
+    "keywords": [
+      "RL",
+      "speaking vocabulary",
+      "topic list",
+      "review"
+    ],
+    "answer": "RL 主题清单不仅用于听力复述，也能反哺口语词汇。Sunny 会把常见主题整理成可说出口的词组，比如研究发现、历史变化、经济影响、教育支出。能说出来，复述时才用得上。",
+    "source": "local OCR distillation round 211, RL speaking vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-wfd-policy-sentence-practice-function-words",
+    "title": "WFD 政策类句子重点防功能词漏写",
+    "keywords": [
+      "WFD",
+      "function words",
+      "policy sentence",
+      "dictation"
+    ],
+    "answer": "政策、承诺、会议类 WFD 句子经常不难懂，但容易漏 of, to, with, in 这类功能词。Sunny 会让学生复盘时专门标功能词，因为这些小词决定句子是否完整。",
+    "source": "local OCR distillation round 211, WFD function word notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-visual-type-switch-from-chart-to-plan",
+    "title": "DI 先切换视觉类型再组织语言",
+    "keywords": [
+      "DI",
+      "visual type",
+      "speaking",
+      "organization"
+    ],
+    "answer": "DI 题库里可能连续出现图表、地图、平面图和流程图。Sunny 会训练学生先切换视觉类型：有数字就说比较，有空间就说位置，有步骤就说流程。视觉类型切对，语言组织才不会乱。",
+    "source": "local OCR distillation round 211, DI visual type switching notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
