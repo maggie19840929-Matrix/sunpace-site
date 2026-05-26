@@ -34197,5 +34197,117 @@
     "source": "local transcript distillation round 194, RA coaching notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-process-template-is-safe-fallback",
+    "title": "DI 流程图框架可作为兜底模板",
+    "keywords": [
+      "DI",
+      "process chart",
+      "template",
+      "fallback"
+    ],
+    "answer": "DI 遇到陌生图或难以分类的图时，流程图框架通常更容易稳定展开。Sunny 会让学生用“标题、步骤、关键对象、趋势收尾”的方式兜底，先保证连续输出，再按图面信息补细节。",
+    "source": "local transcript distillation round 195, DI coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-process-steps-by-visible-order",
+    "title": "DI 流程步骤按画面顺序说",
+    "keywords": [
+      "DI",
+      "process chart",
+      "visible order",
+      "fluency"
+    ],
+    "answer": "DI 流程图不需要学生凭常识推断真实科学顺序。Sunny 会让学生按画面上最容易看见的顺序定义第一步、第二步和最后一步，避免为了判断真实先后而卡住。",
+    "source": "local transcript distillation round 195, DI coaching notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-item-count-by-target-score",
+    "title": "DI 细节数量按目标分调整",
+    "keywords": [
+      "DI",
+      "target score",
+      "details",
+      "strategy"
+    ],
+    "answer": "DI 不是所有学生都必须塞入同样多的细节。Sunny 会按目标分调整输出密度：基础目标先保证两三个清楚信息点，高目标再增加更多项目和比较，避免为了贪多牺牲流利度。",
+    "source": "local transcript distillation round 195, DI coaching notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-ab-structure-limits-noun-choice",
+    "title": "阅读 FIB 的 A of B 结构能限制名词选择",
+    "keywords": [
+      "reading FIB",
+      "grammar",
+      "noun choice",
+      "collocation"
+    ],
+    "answer": "阅读 FIB 看到 A of B 或“某物的某阶段/某部分”这类结构时，可以先判断空格需要能和前后名词搭配的名词。Sunny 会让学生用结构关系排除语义重复或搭配别扭的选项。",
+    "source": "local transcript distillation round 195, reading FIB notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-and-parallelism-hints-word-class",
+    "title": "阅读 FIB 的 and 常提示并列词性",
+    "keywords": [
+      "reading FIB",
+      "parallelism",
+      "word class",
+      "grammar"
+    ],
+    "answer": "阅读 FIB 中 and 前后通常保持词性或语义角色一致。Sunny 会让学生先看 and 两边是人、动作、形容词还是名词，再回到选项里找同类词，减少只凭中文意思选词的误差。",
+    "source": "local transcript distillation round 195, reading FIB notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-fib-passive-needs-past-participle",
+    "title": "阅读 FIB 被动结构要找过去分词",
+    "keywords": [
+      "reading FIB",
+      "passive voice",
+      "past participle",
+      "grammar"
+    ],
+    "answer": "阅读 FIB 如果空格前后形成 be 动词加被动含义，优先寻找过去分词形式。Sunny 会让学生把语态和并列结构一起检查，例如一个被建立、一个被发现这类并列关系。",
+    "source": "local transcript distillation round 195, reading FIB notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-but-links-opposite-ideas",
+    "title": "RO 里的 but 要连接相反逻辑",
+    "keywords": [
+      "RO",
+      "contrast",
+      "logic",
+      "sentence order"
+    ],
+    "answer": "RO 看到 but 时，不只是机械把它放在某句后面，而要找到前面那个被转折的观点。Sunny 会让学生检查 but 前是否刚好提出一个原因、趋势或判断，后句再补充限制或反向信息。",
+    "source": "local transcript distillation round 195, reorder paragraphs notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-pair-certain-sentences-before-inserting-uncertain-one",
+    "title": "RO 先配确定句再插入疑难句",
+    "keywords": [
+      "RO",
+      "sentence ordering",
+      "logic pairs",
+      "strategy"
+    ],
+    "answer": "RO 不确定某句位置时，不要凭一个代词或连接词硬放。Sunny 会让学生先把明显的因果、转折、细节到总结配对，再把疑难句插入读顺的位置，降低局部线索误导的风险。",
+    "source": "local transcript distillation round 195, reorder paragraphs notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
