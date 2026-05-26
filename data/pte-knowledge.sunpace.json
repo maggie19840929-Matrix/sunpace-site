@@ -34309,5 +34309,117 @@
     "source": "local transcript distillation round 195, reorder paragraphs notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-test-day-microphone-distance-and-volume-check",
+    "title": "考试当天先确认麦克风距离和音量",
+    "keywords": [
+      "test day",
+      "microphone",
+      "speaking",
+      "voice"
+    ],
+    "answer": "口语前的设备检查不是走形式。Sunny 会提醒学生把麦克风放在稳定距离，试说时保持自然但有支撑的音量，避免太近造成爆音、太远导致识别不稳。真正考试时重点是从第一题开始维持一致音量和清楚发音。",
+    "source": "local OCR distillation round 196, test day setup notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-guide-read-criteria-before-practice-volume",
+    "title": "刷题前先看题型评分标准",
+    "keywords": [
+      "score guide",
+      "practice planning",
+      "scoring",
+      "PTE"
+    ],
+    "answer": "练习量要建立在评分逻辑上。Sunny 会让学生先弄清每个题型主要贡献哪些能力分、哪些错误会直接扣分，再安排训练量；这样可以避免把时间花在低贡献项目上，却忽略 WFD、RA、FIB 等高影响环节。",
+    "source": "local OCR distillation round 196, scoring guide notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-practice-test-review-process-not-answer-memory",
+    "title": "模考复盘看流程，不背答案",
+    "keywords": [
+      "practice test",
+      "mock test",
+      "review",
+      "strategy"
+    ],
+    "answer": "模考和练习套题的价值不只是对答案。Sunny 会让学生复盘每道题的操作流程：是否读题太慢、是否笔记过多、是否最后检查不足。答案本身会变，但流程问题会反复影响分数。",
+    "source": "local OCR distillation round 196, practice test notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-response-starts-after-clear-prompt-recognition",
+    "title": "口语题先确认提示再开口",
+    "keywords": [
+      "speaking",
+      "prompt",
+      "response timing",
+      "fluency"
+    ],
+    "answer": "口语题不要一看到倒计时就慌忙开口。Sunny 会训练学生先确认题型和任务，再用熟悉的开头进入答案。稳定的开头能保护流利度，也能减少因为误判题目导致的内容跑偏。",
+    "source": "local OCR distillation round 196, speaking workflow notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-fib-read-around-blank-before-audio",
+    "title": "听力 FIB 开始前先读空格前后",
+    "keywords": [
+      "listening FIB",
+      "pre-reading",
+      "grammar",
+      "listening"
+    ],
+    "answer": "听力 FIB 不是纯听写。Sunny 会让学生在音频前快速看空格前后的词性、搭配和语法位置，先预测可能听到名词、动词还是形容词。听到答案后再用上下文检查单复数和时态。",
+    "source": "local OCR distillation round 196, listening FIB notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-hiw-track-meaning-and-sound-together",
+    "title": "HIW 要同时跟声音和意思",
+    "keywords": [
+      "HIW",
+      "listening",
+      "meaning",
+      "sound"
+    ],
+    "answer": "HIW 只盯单个词容易漏掉替换点。Sunny 会让学生用句意跟住段落，同时用声音确认细节；如果某个词在意思上不顺、发音也对不上，就优先标记。训练时不要只追速度，还要保持理解线。",
+    "source": "local OCR distillation round 196, HIW listening notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-wfd-final-pass-checks-form-not-idea",
+    "title": "WFD 最后一遍检查形式错误",
+    "keywords": [
+      "WFD",
+      "dictation",
+      "final check",
+      "spelling"
+    ],
+    "answer": "WFD 写完后最后几秒不要再改句意。Sunny 会让学生固定检查三类形式问题：单复数、动词形态和拼写。只要单词格式不对，即使意思接近也可能丢分，所以最终检查要比纠结同义表达更重要。",
+    "source": "local OCR distillation round 196, WFD checking notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-writing-self-check-after-content-before-submit",
+    "title": "写作提交前先查内容再查语言",
+    "keywords": [
+      "writing",
+      "SWT",
+      "essay",
+      "self-check"
+    ],
+    "answer": "写作最后检查要有顺序。Sunny 会让学生先确认是否回应题目、是否保留主要信息，再检查语法、拼写和标点。先查内容可以避免句子很漂亮但偏题，后查语言可以减少低级错误拖累表达分。",
+    "source": "local OCR distillation round 196, writing review notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
