@@ -36774,5 +36774,453 @@
     "source": "local OCR distillation round 217, grammar sentence-pattern notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-core-write-email-three-themes-checklist",
+    "title": "Write Email 三个主题点先变检查清单",
+    "keywords": [
+      "PTE Core",
+      "Write Email",
+      "checklist",
+      "writing"
+    ],
+    "answer": "Write Email 题干常给三个必须覆盖的主题点。Sunny 会让学生先把它们改成检查清单：情况、细节、请求或行动。写完逐项核对，比先背整封邮件更能保证不漏点。",
+    "source": "local OCR distillation round 218, Core email prompt notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-swt-main-message-word-window",
+    "title": "Core SWT 先抓主信息再控字数",
+    "keywords": [
+      "PTE Core",
+      "SWT",
+      "word count",
+      "summary"
+    ],
+    "answer": "Core SWT 要在短时间里写出主信息和必要支撑。Sunny 会让学生先找作者最想传达的一句话，再把补充信息压到 25-50 词范围内。字数合格但主旨偏了，仍然不是好摘要。",
+    "source": "local OCR distillation round 218, Core SWT summary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-writing-format-rules-before-style",
+    "title": "Core 写作先守格式再追求表达",
+    "keywords": [
+      "PTE Core",
+      "writing",
+      "format",
+      "proofreading"
+    ],
+    "answer": "Core 写作里，大小写、标点、字数和相关性是先检查的底线。Sunny 会让学生最后 30 秒只做格式复查：是否全大写、是否超字数、称呼和结尾是否完整、回答是否贴着题干。",
+    "source": "local OCR distillation round 218, Core writing format notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-speaking-three-second-silence-plan",
+    "title": "Core 口语要有三秒静音预案",
+    "keywords": [
+      "PTE Core",
+      "speaking",
+      "silence",
+      "fluency"
+    ],
+    "answer": "口语题不能长时间沉默。Sunny 会给学生准备三秒静音预案：没想好也先用简短开头承接，再说最确定的信息；完全不知道答案时，给出最接近的简短回应后立刻进入下一题。",
+    "source": "local OCR distillation round 218, Core speaking silence notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-di-plan-intro-details-closing",
+    "title": "DI 准备时间规划开头细节结尾",
+    "keywords": [
+      "DI",
+      "PTE Core",
+      "image description",
+      "speaking"
+    ],
+    "answer": "DI 的准备时间先用来定三件事：图像大意、两到三个关键细节、最后一句总结。Sunny 会让学生按这个顺序说完，而不是看到什么说什么；说错一个细节时继续往下说，不停顿重来。",
+    "source": "local OCR distillation round 218, DI planning notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-respond-situation-role-tone-action",
+    "title": "Respond to a Situation 先定身份语气行动",
+    "keywords": [
+      "PTE Core",
+      "Respond to a Situation",
+      "tone",
+      "speaking"
+    ],
+    "answer": "情境回应题先判断自己在对谁说话：朋友、同事、陌生人或负责人。Sunny 会让学生用 20 秒确定身份、语气和解决动作，再开口。语气合适、行动明确，比堆复杂句更重要。",
+    "source": "local OCR distillation round 218, Core situation response notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-core-asq-short-answer-and-move-on",
+    "title": "ASQ 简短作答后马上进入下一题",
+    "keywords": [
+      "ASQ",
+      "PTE Core",
+      "short answer",
+      "speaking"
+    ],
+    "answer": "ASQ 不需要完整长句。Sunny 会训练学生听到问题后快速说一到几个词，确认回答已录入就进入下一题。多解释不会额外加分，反而可能占用注意力并增加出错机会。",
+    "source": "local OCR distillation round 218, ASQ short-answer notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-monthly-bank-deduplicate-before-practice",
+    "title": "RA 月度题库先去重再练",
+    "keywords": [
+      "RA",
+      "question bank",
+      "deduplication",
+      "practice planning"
+    ],
+    "answer": "不同月份的 RA 题库常有大量重复或相近主题。Sunny 会先合并重复目录，再按主题和难度选练习顺序。追逐每个版本的页码更新，不如把稳定高频材料练到发音和节奏可复现。",
+    "source": "local OCR distillation round 218, RA monthly bank notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-rw-prediction-use-as-sampling-not-memory",
+    "title": "FIB-RW 预测清单当抽样练习不当背诵",
+    "keywords": [
+      "FIB-RW",
+      "prediction",
+      "practice planning",
+      "reading"
+    ],
+    "answer": "FIB-RW 预测清单可以帮助学生抽样练高频文本类型，但不能当作背诵任务。Sunny 会把清单拆成限时练习、错因统计和搭配复盘三步；如果只记答案，换一个选项就会失效。",
+    "source": "local OCR distillation round 219, FIB-RW prediction practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-rw-choice-must-pass-grammar-and-meaning",
+    "title": "FIB-RW 选项要同时通过语法和语义",
+    "keywords": [
+      "FIB-RW",
+      "grammar",
+      "meaning",
+      "reading"
+    ],
+    "answer": "FIB-RW 不能只看哪个词眼熟。Sunny 会让学生先判断空格需要的词性、时态或介词关系，再检查整句意思是否连贯。语法正确但语义别扭，或语义像但词形错，都要排除。",
+    "source": "local OCR distillation round 219, FIB-RW option-check notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-report-read-four-skills-before-overall",
+    "title": "成绩单先看四项再解释总分",
+    "keywords": [
+      "score report",
+      "diagnosis",
+      "skills",
+      "PTE"
+    ],
+    "answer": "总分只能告诉学生结果，四项分数才帮助定位训练方向。Sunny 会先看听说读写的短板，再回到题型供分关系：口语低不一定只练口语，听力低也可能和 WFD、RS、SST 的稳定度有关。",
+    "source": "local OCR distillation round 219, score report diagnosis notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-guide-target-requirement-first",
+    "title": "评分指南要先对齐目标要求",
+    "keywords": [
+      "score guide",
+      "target score",
+      "exam planning",
+      "PTE"
+    ],
+    "answer": "看评分指南时，Sunny 会先确认学生申请或移民目标需要的是总分、单项分还是特定考试版本。目标要求不同，训练优先级不同；先对齐要求，再决定冲分策略，避免练错重点。",
+    "source": "local OCR distillation round 219, score-guide target notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-asq-train-by-category-not-random-list",
+    "title": "ASQ 按类别反应训练不要乱刷列表",
+    "keywords": [
+      "ASQ",
+      "category",
+      "short answer",
+      "speaking"
+    ],
+    "answer": "ASQ 题库看起来杂，但可以按类别训练：职业、地点、数字、时间、自然、法律、工具和常识。Sunny 会让学生用类别触发答案，而不是从长列表里死记顺序。",
+    "source": "local OCR distillation round 219, ASQ category training notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-asq-either-or-question-listen-to-contrast",
+    "title": "ASQ 二选一题先听对比关系",
+    "keywords": [
+      "ASQ",
+      "either-or",
+      "listening",
+      "speaking"
+    ],
+    "answer": "ASQ 有些题会把两个相近选项放在一起。Sunny 会训练学生先听问题里的对比关系，再说目标词。不要把两个选项都重复一遍；答案越短越清楚，越不容易引入无关词。",
+    "source": "local OCR distillation round 219, ASQ contrast-question notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-mock-test-recording-playback-is-required",
+    "title": "模考前必须回听录音质量",
+    "keywords": [
+      "mock test",
+      "recording",
+      "playback",
+      "speaking setup"
+    ],
+    "answer": "模考设备检测显示能录到声音，不等于录音质量合格。Sunny 会要求学生回听样本：是否喷麦、是否太小、是否含糊、是否有环境噪音。回听通过后再进入正式模考，成绩才有诊断价值。",
+    "source": "local OCR distillation round 219, mock recording playback notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-mock-test-interruption-mark-as-invalid-session",
+    "title": "模考中断要标记为无效诊断场次",
+    "keywords": [
+      "mock test",
+      "diagnosis",
+      "interruption",
+      "exam prep"
+    ],
+    "answer": "如果模考过程中出现掉线、加载失败、设备异常或频繁中断，Sunny 会把这场标记为无效诊断场次。可以记录暴露出的流程问题，但不要用这次分数判断真实水平。",
+    "source": "local OCR distillation round 219, mock interruption notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-we-collocations-turn-into-argument-toolbox",
+    "title": "WE 主题词伙要转成论证工具箱",
+    "keywords": [
+      "WE",
+      "essay",
+      "collocations",
+      "argument"
+    ],
+    "answer": "大作文主题词伙不能只当高级词清单。Sunny 会把它们分成问题、原因、影响、责任主体和解决动作五类。写作时先选论证功能，再选词伙，表达才会服务观点。",
+    "source": "local OCR distillation round 220, WE collocation toolbox notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-prompt-type-decides-paragraph-job",
+    "title": "WE 题型决定主体段任务",
+    "keywords": [
+      "WE",
+      "essay",
+      "prompt type",
+      "planning"
+    ],
+    "answer": "WE 先判断题型：观点题要表明立场，利弊题要平衡讨论，问题解决题要对应原因和方案。Sunny 会让学生先给每段分配任务，再写例子，避免所有作文都写成同一种模板。",
+    "source": "local OCR distillation round 220, essay prompt-type notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-we-zero-gates-content-and-form-first",
+    "title": "WE 先避开内容和格式零分门槛",
+    "keywords": [
+      "WE",
+      "essay",
+      "content",
+      "form"
+    ],
+    "answer": "大作文评分里，跑题和严重格式问题会先拉低整体表现。Sunny 会把内容相关性、字数区间、标点和句子完整性放在最后检查的最前面。先过底线，再追求词汇和复杂句。",
+    "source": "local OCR distillation round 220, essay scoring gate notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-mnemonic-use-as-clue-chain",
+    "title": "RO 口诀要还原成线索链",
+    "keywords": [
+      "RO",
+      "mnemonic",
+      "cohesion",
+      "reading"
+    ],
+    "answer": "RO 速记口诀只能帮助回忆顺序，不能替代排序理由。Sunny 会要求学生把口诀还原成线索链：主题句、代词指代、时间顺序、转折和总结。能说出连接理由，才算真正会排。",
+    "source": "local OCR distillation round 220, RO mnemonic notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-proper-nouns-are-anchors-not-answers",
+    "title": "RO 专有名词是锚点不是答案",
+    "keywords": [
+      "RO",
+      "proper nouns",
+      "anchors",
+      "reading"
+    ],
+    "answer": "RO 里出现地名、人名或机构名时，Sunny 会把它们当作定位锚点，而不是直接决定顺序。第一次出现通常引入背景，后续代词或简称负责承接；排序仍要看句间关系。",
+    "source": "local OCR distillation round 220, RO anchor notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-gap-map-from-target-score",
+    "title": "听力成绩诊断先看目标差距",
+    "keywords": [
+      "listening",
+      "score diagnosis",
+      "target score",
+      "study plan"
+    ],
+    "answer": "听力复盘不要只看当前分数。Sunny 会先把目标分和当前分做差，再映射到重点题型：差距大时优先 WFD、SST、RS 等高影响题；差距小则查拼写、复数和细节稳定性。",
+    "source": "local OCR distillation round 220, listening gap-map notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-multiple-answer-select-only-supported",
+    "title": "听力多选只选有证据的选项",
+    "keywords": [
+      "listening",
+      "multiple answers",
+      "evidence",
+      "negative marking"
+    ],
+    "answer": "听力多选不能靠感觉多选几个。Sunny 会让学生只选择听到明确证据支持的选项；听不清时宁可少选，也不要把相似词、常识判断或半听到的信息硬塞进去。",
+    "source": "local OCR distillation round 220, listening multiple-answer notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-hiw-fib-wfd-easy-look-needs-spelling-discipline",
+    "title": "HIW/FIB/WFD 看似简单但要守拼写纪律",
+    "keywords": [
+      "HIW",
+      "FIB",
+      "WFD",
+      "spelling"
+    ],
+    "answer": "有些听力题看起来像送分题，但真正丢分常来自拼写、大小写、复数和词形。Sunny 会把 HIW、听力 FIB 和 WFD 放进同一套拼写纪律训练：听到、识别、写对、复查。",
+    "source": "local OCR distillation round 220, listening spelling-discipline notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-test-booking-special-arrangements-before-payment",
+    "title": "订考前先确认特殊安排",
+    "keywords": [
+      "booking",
+      "test arrangements",
+      "exam process",
+      "PTE"
+    ],
+    "answer": "订考不是只选日期和考点。Sunny 会让学生先确认证件、特殊安排、未成年人材料、改期和退费规则，再付款。流程问题提前处理，比临近考试再补材料更稳。",
+    "source": "local OCR distillation round 221, test booking process notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-sharing-plan-after-results",
+    "title": "出分后要准备成绩发送路径",
+    "keywords": [
+      "score report",
+      "score sharing",
+      "after test",
+      "PTE"
+    ],
+    "answer": "出分后，Sunny 会让学生区分两件事：自己查看成绩单，以及把成绩发送给学校、机构或申请系统。提前知道发送路径和所需编号，可以减少出分后手忙脚乱。",
+    "source": "local OCR distillation round 221, score sharing process notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-speaking-offline-practice-must-record-yourself",
+    "title": "口语离线练习必须自己录音",
+    "keywords": [
+      "speaking",
+      "offline practice",
+      "recording",
+      "self review"
+    ],
+    "answer": "离线口语练习没有真实考试倒计时和自动录音，所以 Sunny 会要求学生自己录音、计时并回听。只读完题不复盘，无法知道发音、停顿、音量和内容是否真的可用。",
+    "source": "local OCR distillation round 221, offline speaking practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-practice-compare-clarity-not-accent",
+    "title": "RA 复盘比较清晰度而不是口音",
+    "keywords": [
+      "RA",
+      "recording",
+      "clarity",
+      "pronunciation"
+    ],
+    "answer": "RA 录音复盘时，Sunny 不会要求学生模仿某种口音，而是比较清晰度：实词是否听得清、重音是否自然、停顿是否帮助理解、音量是否稳定。清楚可懂比口音像更重要。",
+    "source": "local OCR distillation round 221, RA recording review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-vocabulary-list-convert-to-active-sentence-bank",
+    "title": "词汇表要转成可输出句库",
+    "keywords": [
+      "vocabulary",
+      "sentence bank",
+      "spelling",
+      "output"
+    ],
+    "answer": "词汇表如果只背单词和中文，输出时仍然卡住。Sunny 会把重点词转成可输出句库：词性、常见搭配、一个短句和一个可替换场景。这样词汇能进入写作和口语。",
+    "source": "local OCR distillation round 221, vocabulary sentence-bank notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-visual-type-decides-content-order",
+    "title": "DI 视觉类型决定内容顺序",
+    "keywords": [
+      "DI",
+      "visual type",
+      "content order",
+      "speaking"
+    ],
+    "answer": "DI 不同图像不能用同一套顺序。Sunny 会按视觉类型决定内容：地图先方位，流程图先步骤，平面图先位置，数据图先最大最小和趋势。顺序对了，表达才不乱。",
+    "source": "local OCR distillation round 221, DI visual-type notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-cap-content-points-for-time-control",
+    "title": "DI 内容点要按时间上限截断",
+    "keywords": [
+      "DI",
+      "time control",
+      "content points",
+      "speaking"
+    ],
+    "answer": "DI 图里信息很多时，Sunny 会限制学生只说三到四个核心点：主题、最高或最明显点、一个对比或步骤、总结。信息全说完不是目标，在时间内说清楚才是目标。",
+    "source": "local OCR distillation round 221, DI time-control notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rl-bank-build-topic-skeletons",
+    "title": "RL 题库先建主题骨架",
+    "keywords": [
+      "RL",
+      "topic bank",
+      "skeleton",
+      "listening"
+    ],
+    "answer": "RL 题库目录适合用来建立主题骨架。Sunny 会让学生为每类主题准备三格：背景定义、关键变化、影响或例子。听讲座时把信息放进骨架里，比背题目标题更可靠。",
+    "source": "local OCR distillation round 221, RL topic-skeleton notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
