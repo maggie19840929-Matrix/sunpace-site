@@ -38119,5 +38119,117 @@
     "source": "local OCR distillation round 229, audio-script review notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-paper-practice-needs-screen-simulation",
+    "title": "纸面套题练习要模拟机考动作",
+    "keywords": [
+      "practice test",
+      "computer simulation",
+      "workflow",
+      "PTE"
+    ],
+    "answer": "纸面套题不能只圈答案。Sunny 会要求学生模拟机考动作：口语要录音，写作要打字，阅读填空要按拖拽或下拉选择思路处理，听力要按音频节奏推进。练的是屏幕流程，不只是题目内容。",
+    "source": "local OCR distillation round 230, paper-to-computer practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-practice-test-self-timing-two-modes",
+    "title": "套题自计时分学习和诊断两种模式",
+    "keywords": [
+      "practice test",
+      "timing",
+      "diagnosis",
+      "study mode"
+    ],
+    "answer": "自练套题时，Sunny 会先标模式：学习模式可以暂停、查错、重做；诊断模式必须按时间走完。两个模式不要混在一起，否则既学不深，也看不出真实考试状态。",
+    "source": "local OCR distillation round 230, self-timing practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-audio-track-practice-individual-and-continuous",
+    "title": "听力音频要交替练单题和连续段",
+    "keywords": [
+      "listening",
+      "audio track",
+      "continuous practice",
+      "review"
+    ],
+    "answer": "听力材料如果按单题分轨，Sunny 会安排两种练法：单题反复修弱读、拼写和选项判断；连续播放训练任务切换和注意力恢复。只练单题会细，连续段才能接近考试节奏。",
+    "source": "local OCR distillation round 230, audio-track practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-full-response-recording-review",
+    "title": "口语套题练习要保存完整录音",
+    "keywords": [
+      "speaking",
+      "recording",
+      "full response",
+      "review"
+    ],
+    "answer": "口语套题练习时，Sunny 会保存完整录音，而不是只凭感觉判断。复盘时看开头是否及时、音量是否稳定、中间是否乱停、结尾是否拖尾。录音证据比练完后的印象可靠。",
+    "source": "local OCR distillation round 230, spoken-answer recording notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-written-practice-type-final-answer",
+    "title": "写作套题最终答案必须打字完成",
+    "keywords": [
+      "writing",
+      "typing",
+      "essay",
+      "SWT"
+    ],
+    "answer": "写作可以先手写构思，但最终答案要用键盘完成。Sunny 会训练学生在屏幕上修改、删减、检查字数和拼写；只手写会漏掉真实考试里的打字速度、编辑顺序和低级拼写问题。",
+    "source": "local OCR distillation round 230, typed-writing practice notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sample-responses-compare-level-gap-not-copy",
+    "title": "样例回答用于比较等级差距",
+    "keywords": [
+      "sample response",
+      "review",
+      "scoring",
+      "writing"
+    ],
+    "answer": "样例回答要在自己完成后再看。Sunny 会让学生找最接近自己答案的等级样例，比较内容完整度、语法稳定性和词汇范围，记录差距；不要把样例改成背诵稿。",
+    "source": "local OCR distillation round 230, sample-response review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-task-timer-icon-becomes-mini-plan",
+    "title": "题目计时信息要变成小计划",
+    "keywords": [
+      "timer",
+      "time management",
+      "task plan",
+      "exam prep"
+    ],
+    "answer": "看到题目计时信息时，Sunny 会把它拆成小计划：准备几秒，作答几秒，检查几秒。计时不是用来制造紧张，而是让每个题型都有固定动作，避免最后才发现时间失控。",
+    "source": "local OCR distillation round 230, task-timer notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-practice-tests-remove-guidance-gradually",
+    "title": "套题提示要逐步撤掉",
+    "keywords": [
+      "practice test",
+      "guidance",
+      "independent practice",
+      "review"
+    ],
+    "answer": "套题材料如果前面有提示、后面没有提示，Sunny 会把它当撤梯训练：第一套学方法，第二套看提醒，后面独立完成。学生最终要能在没有提示的情况下自己判断题型动作。",
+    "source": "local OCR distillation round 230, guided-to-independent practice notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
