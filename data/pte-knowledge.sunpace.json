@@ -37783,5 +37783,341 @@
     "source": "local OCR distillation round 226, DI prediction-bank notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-weekly-prediction-sheet-convert-to-practice-menu",
+    "title": "周预测表先转成练习菜单",
+    "keywords": [
+      "prediction",
+      "weekly review",
+      "practice menu",
+      "study plan"
+    ],
+    "answer": "周预测表不能直接变成整页刷题清单。Sunny 会先把它拆成必练、抽样、热身三类：高供分题型优先完整练，重复主题抽样复盘，低权重内容只做考前熟悉。",
+    "source": "local OCR distillation round 227, weekly prediction planning notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-large-bank-triage-by-visual-family",
+    "title": "DI 大题库先按图型家族分流",
+    "keywords": [
+      "DI",
+      "large bank",
+      "visual family",
+      "practice planning"
+    ],
+    "answer": "DI 大题库如果按页码刷，很容易重复消耗。Sunny 会先按图型家族分流：趋势、排名、比例、流程、地图和层级。每个家族先练代表题，再补弱图型。",
+    "source": "local OCR distillation round 227, DI large-bank notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-monthly-updates-track-new-visual-types",
+    "title": "DI 月度更新只追踪新图型和新主题",
+    "keywords": [
+      "DI",
+      "updates",
+      "visual type",
+      "review"
+    ],
+    "answer": "DI 月度更新不需要把旧图全部重刷。Sunny 会让学生只追踪两件事：有没有新的图型组合，有没有不熟的主题词。重复图继续用原表达轨道，新增内容才进入重点练习。",
+    "source": "local OCR distillation round 227, DI update review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-large-bank-sample-by-lecture-genre",
+    "title": "SST 大题库按讲座类型抽样",
+    "keywords": [
+      "SST",
+      "large bank",
+      "lecture genre",
+      "sampling"
+    ],
+    "answer": "SST 大题库不适合从头到尾平均刷。Sunny 会按讲座类型抽样：概念解释、问题解决、实验研究、历史变化、观点对比。每类至少练出一套听记框架，再扩大题量。",
+    "source": "local OCR distillation round 227, SST large-bank notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-duplicate-topic-merge-one-master-note",
+    "title": "SST 重复主题合并成一张主笔记",
+    "keywords": [
+      "SST",
+      "duplicate topics",
+      "master note",
+      "review"
+    ],
+    "answer": "同一类 SST 主题在不同材料中反复出现时，Sunny 会合并成一张主笔记：主题词、核心关系、常见例子类型和个人漏点。复习主笔记比重复抄多份答案更有效。",
+    "source": "local OCR distillation round 227, SST duplicate-topic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-practice-test-cold-read-stamina",
+    "title": "RA 套题材料训练冷读耐力",
+    "keywords": [
+      "RA",
+      "practice test",
+      "cold read",
+      "stamina"
+    ],
+    "answer": "成套练习里的 RA 段落适合训练冷读耐力。Sunny 会让学生不预背、不暂停，按真实准备时间读完，再听录音检查意群、音量和尾音。目标是陌生文本也能稳定开口。",
+    "source": "local OCR distillation round 227, RA practice-test notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-long-practice-material-after-timing-baseline",
+    "title": "长套题材料放在计时基线之后",
+    "keywords": [
+      "practice test",
+      "timing",
+      "baseline",
+      "study sequence"
+    ],
+    "answer": "长套题材料不要在基本动作还没稳定时大量消耗。Sunny 会先建立各题型计时基线，再用长材料检查耐力、切换速度和后半场错误。先专项，后长套题，复盘才有意义。",
+    "source": "local OCR distillation round 227, long practice material notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-prediction-day-sheet-check-against-error-log",
+    "title": "每日预测要对照个人错题日志",
+    "keywords": [
+      "prediction",
+      "daily practice",
+      "error log",
+      "review"
+    ],
+    "answer": "每日预测不是新的主计划。Sunny 会让学生先拿个人错题日志对照：今天材料能不能覆盖自己的听写、填空、口语或写作短板。能覆盖就练，不能覆盖就只做轻量熟悉。",
+    "source": "local OCR distillation round 227, daily prediction review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-pack-page-count-needs-task-budget",
+    "title": "周材料页数要先换算成任务预算",
+    "keywords": [
+      "weekly materials",
+      "page count",
+      "task budget",
+      "study plan"
+    ],
+    "answer": "一份周材料页数很大时，Sunny 不会让学生平均翻完。先按题型分配任务预算：口语练多少段，听写练多少句，阅读填空练多少组，剩余内容只做检索和标记。",
+    "source": "local OCR distillation round 228, weekly material budgeting notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-prediction-index-use-for-navigation-not-pressure",
+    "title": "预测目录用于导航，不制造压力",
+    "keywords": [
+      "prediction",
+      "index",
+      "navigation",
+      "planning"
+    ],
+    "answer": "预测目录的作用是帮学生快速定位题型区域，不是证明自己有多少页没看完。Sunny 会把目录当导航栏：先进入当前短板题型，再记录完成度，避免被材料体量压垮。",
+    "source": "local OCR distillation round 228, prediction index notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-sample-answer-audit-content-ratio",
+    "title": "DI 样例答案要审内容比例",
+    "keywords": [
+      "DI",
+      "sample answer",
+      "content ratio",
+      "speaking"
+    ],
+    "answer": "看到 DI 样例答案时，Sunny 会先审内容比例：标题和对象有没有说清，代表数据是否足够，趋势或比较是否自然，结尾是否占用太多时间。样例是审计对象，不是照读稿。",
+    "source": "local OCR distillation round 228, DI sample-answer audit notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-unit-words-decide-number-sentence",
+    "title": "DI 单位词决定数字句怎么说",
+    "keywords": [
+      "DI",
+      "units",
+      "numbers",
+      "speaking"
+    ],
+    "answer": "DI 读数字前先看单位词。Sunny 会让学生区分年份、人数、金额、百分比、距离和次数，再选择对应表达。单位不清时，数字越多越容易乱；单位清楚后，一两个数字就能支撑答案。",
+    "source": "local OCR distillation round 228, DI unit-language notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-frequency-label-does-not-change-workflow",
+    "title": "DI 高频标签不改变答题流程",
+    "keywords": [
+      "DI",
+      "frequency label",
+      "workflow",
+      "speaking"
+    ],
+    "answer": "DI 材料里的高频标签只能提醒复习优先级，不能改变现场流程。Sunny 仍会要求学生按图型、标题、单位、代表点和趋势走，不能因为见过类似图就跳过观察。",
+    "source": "local OCR distillation round 228, DI frequency-label notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-page-number-is-retrieval-tool",
+    "title": "SWT 页码只是检索工具",
+    "keywords": [
+      "SWT",
+      "page number",
+      "retrieval",
+      "question bank"
+    ],
+    "answer": "SWT 目录里的页码方便回找材料，但不能决定练习优先级。Sunny 会按主题陌生度、结构类型和历史错因排序；页码只负责快速定位，不负责告诉学生先练哪一篇。",
+    "source": "local OCR distillation round 228, SWT index review notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-topic-title-build-question-before-reading",
+    "title": "SWT 标题先转成阅读问题",
+    "keywords": [
+      "SWT",
+      "topic title",
+      "reading question",
+      "summary"
+    ],
+    "answer": "SWT 标题不要直接当摘要素材。Sunny 会让学生先把标题转成问题：文章解释什么、比较什么、证明什么或反驳什么。带着问题读正文，最后摘要更容易抓到主关系。",
+    "source": "local OCR distillation round 228, SWT title-to-question notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-cross-month-repeat-items-check-process-gain",
+    "title": "跨月重复题检查流程有没有进步",
+    "keywords": [
+      "repeat items",
+      "monthly review",
+      "process gain",
+      "practice"
+    ],
+    "answer": "同一类题跨月重复出现时，Sunny 不会只问学生还记不记得答案，而是检查流程有没有进步：预读更快了吗，笔记更稳了吗，复述更顺了吗。重复题要用来验证能力增长。",
+    "source": "local OCR distillation round 228, repeated-material review notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-hit-rate-label-is-not-practice-order",
+    "title": "RA 命中率标签不能决定练习顺序",
+    "keywords": [
+      "RA",
+      "hit rate",
+      "practice order",
+      "speaking"
+    ],
+    "answer": "RA 材料里的命中率或优先级标签只能做参考，不能替代个人练习顺序。Sunny 会先看学生的发音、意群、长句和生词问题，再选择材料；自己的短板比标签更能决定当天练哪一段。",
+    "source": "local OCR distillation round 229, RA prediction-label notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-use-swt-sst-fib-texts-for-cold-reading",
+    "title": "RA 可借其他题型文本练冷读",
+    "keywords": [
+      "RA",
+      "cold reading",
+      "SWT",
+      "practice"
+    ],
+    "answer": "RA 不一定只用 RA 题库练。Sunny 会把 SWT、SST 或阅读填空里的短文当陌生文段，训练准备时间内切意群、标重音、稳定开口。冷读能力强，现场文本变化也不容易慌。",
+    "source": "local OCR distillation round 229, RA cold-reading notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-prediction-material-review-date-check",
+    "title": "预测材料复习要标检查日期",
+    "keywords": [
+      "prediction",
+      "review date",
+      "updates",
+      "planning"
+    ],
+    "answer": "预测材料会更新，Sunny 会让学生给每次复习标检查日期。过期材料先做能力训练，不再当最新范围；近期材料才用于考前抽样。日期清楚，复习优先级才不会混乱。",
+    "source": "local OCR distillation round 229, prediction update-date notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-wfd-list-clean-format-before-dictation",
+    "title": "WFD 清单听写前先清理格式",
+    "keywords": [
+      "WFD",
+      "format cleanup",
+      "dictation",
+      "spelling"
+    ],
+    "answer": "WFD 清单如果有断行、连字符或粘连空格，Sunny 会先清理成可听写句子，再进入练习。格式不干净会让学生把注意力浪费在排版上，真正训练应放在有效词、词尾和拼写。",
+    "source": "local OCR distillation round 229, WFD list-format notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-swt-catalog-build-coverage-matrix",
+    "title": "SWT 目录可做主题覆盖矩阵",
+    "keywords": [
+      "SWT",
+      "catalog",
+      "coverage matrix",
+      "review"
+    ],
+    "answer": "SWT 目录除了看主题，还可以做覆盖矩阵：主题类型、结构类型、常错关系、是否练过限时摘要。Sunny 会用矩阵找缺口，而不是只统计看过多少标题。",
+    "source": "local OCR distillation round 229, SWT catalog matrix notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-swt-long-catalog-choose-contrastive-topics",
+    "title": "SWT 长目录优先选差异大的主题",
+    "keywords": [
+      "SWT",
+      "long catalog",
+      "topic selection",
+      "summary"
+    ],
+    "answer": "SWT 长目录里不要连续练太相似的文章。Sunny 会故意选择差异大的主题，比如科技、健康、历史、社会政策交替出现，让学生练主关系迁移，而不是沉在同一类背景词里。",
+    "source": "local OCR distillation round 229, SWT topic-selection notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-practice-test-map-integrated-skill-demands",
+    "title": "成套材料先标综合技能需求",
+    "keywords": [
+      "practice test",
+      "integrated skills",
+      "score map",
+      "study plan"
+    ],
+    "answer": "成套材料里的很多题型同时牵动听说读写。Sunny 会先标综合技能需求：哪些题要听后说，哪些题要读后写，哪些题靠听写和拼写。知道组合关系后，复盘不会只按单科归因。",
+    "source": "local OCR distillation round 229, integrated-skill overview notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-audio-scripts-used-only-after-own-attempt",
+    "title": "音频文本只能在自练后使用",
+    "keywords": [
+      "audio scripts",
+      "listening",
+      "review",
+      "practice test"
+    ],
+    "answer": "听力材料附带的音频文本不要提前看。Sunny 会要求学生先听、记、作答，再用文本核对漏听、弱读、连读和词形。提前看文本会制造看懂的错觉，削弱真实听力训练。",
+    "source": "local OCR distillation round 229, audio-script review notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
