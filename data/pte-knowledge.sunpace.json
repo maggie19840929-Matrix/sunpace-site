@@ -39688,5 +39688,779 @@
     "source": "local OCR distillation round 243, public-safe distillation notes",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-word-level-vs-sentence-level",
+    "title": "精听要分词语级和句子级",
+    "keywords": [
+      "listening",
+      "FIB",
+      "HIW",
+      "WFD",
+      "RS"
+    ],
+    "answer": "精听不是只反复听同一段。Sunny 会把它拆成词语级和句子级：FIB 和 HIW 更适合练具体词、词形和拼写反应；RS 和 WFD 更适合练完整句子的顺序、结构和小词。训练目标不同，复盘表也要分开，不要把所有听力错因混成一个“没听懂”。",
+    "source": "SunPace knowledge distillation round 244",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-passage-level-task-family",
+    "title": "篇章泛听要按题型抓不同信息",
+    "keywords": [
+      "listening",
+      "SST",
+      "HCS",
+      "SMW",
+      "MCQ"
+    ],
+    "answer": "篇章泛听不是每题都用同一种笔记法。SST 要抓主题和支撑逻辑，HCS 要判断哪一个总结最贴近主旨，SMW 要听结尾缺失的信息方向，选择题要抓题干目标和选项差异。Sunny 会让学生先知道每个题型要抓什么，再练整段听力。",
+    "source": "SunPace knowledge distillation round 244",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-cross-score-map",
+    "title": "听力分数要看交叉供分题",
+    "keywords": [
+      "listening score",
+      "cross scoring",
+      "WFD",
+      "SST"
+    ],
+    "answer": "听力不是只由听力页面里的题决定。Sunny 会让学生把供分题按技能交叉看：RS、WFD、SST、FIB、HIW 等都可能影响听力表现，也会牵动口语、写作或阅读小项。听力低时，不要只刷选择题，先查高权重、可复盘、能交叉供分的题型。",
+    "source": "SunPace knowledge distillation round 244",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-big-small-task-priority",
+    "title": "听力复习要区分大题和小题",
+    "keywords": [
+      "listening",
+      "priority",
+      "task weight",
+      "study plan"
+    ],
+    "answer": "Sunny 会把听力相关题型按投入产出分层。WFD、SST、RS 这类更值得重点复盘，因为单题影响和训练反馈更明显；选择题、SMW、HCS 等也要会做，但不适合占掉全部主训练时间。时间有限时，先稳高权重题，再维护小题反应。",
+    "source": "SunPace knowledge distillation round 244",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-separate-vs-shared-timer",
+    "title": "听力题要分清单独计时和整体计时",
+    "keywords": [
+      "listening",
+      "timer",
+      "SST",
+      "time management"
+    ],
+    "answer": "听力里有些任务是单独计时，有些任务共享整体时间。Sunny 会提醒学生：SST 要按自己的倒计时完成听、写和检查；共享计时题则不能在某一道选择题上拖太久。计时方式不同，策略也不同。先分清时间池，才能安排跳题和检查。",
+    "source": "SunPace knowledge distillation round 244",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-listening-fib-hiw-precision-loop",
+    "title": "FIB 和 HIW 精听要追求精确词形",
+    "keywords": [
+      "FIB",
+      "HIW",
+      "listening",
+      "word form"
+    ],
+    "answer": "FIB 和 HIW 训练时，Sunny 会让学生把注意力放到具体词形：单复数、时态、词尾、拼写和相近音。听懂大意不等于能拿分，因为这些题考的是精确定位和精确输入。复盘时要记录自己是没听到、听错音，还是听到了但写错形式。",
+    "source": "SunPace knowledge distillation round 244",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-listening-rs-wfd-sentence-memory",
+    "title": "RS 和 WFD 要练句子顺序记忆",
+    "keywords": [
+      "RS",
+      "WFD",
+      "sentence memory",
+      "listening"
+    ],
+    "answer": "RS 和 WFD 不是单词列表题。Sunny 会让学生按意群记句子：先抓主语、谓语和核心宾语，再补介词、冠词、复数和修饰语。句子顺序稳住后，复述和听写才不会变成散词拼接。短句练准确，长句练主干保留，是两个阶段。",
+    "source": "SunPace knowledge distillation round 244",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-scoring-two-logic-families",
+    "title": "口语题要先分清两类评分逻辑",
+    "keywords": [
+      "speaking",
+      "scoring logic",
+      "RA",
+      "RS",
+      "DI",
+      "RL"
+    ],
+    "answer": "Sunny 会先把口语题分成两类：有标准答案的题更看重严格匹配和准确复现，没有标准答案的题更看重信息提取、表达组织和稳定输出。RA、RS、ASQ 不适合靠空泛模板糊过去；DI、RL 则要在有限时间里抓核心信息并说成完整回应。",
+    "source": "SunPace knowledge distillation round 245",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-speaking-di-rl-screen-cues",
+    "title": "DI 和 RL 切题要看屏幕线索",
+    "keywords": [
+      "DI",
+      "RL",
+      "screen cue",
+      "speaking"
+    ],
+    "answer": "DI 和 RL 的界面容易在紧张时混淆。Sunny 会让学生用屏幕线索确认题型：DI 通常先给图片、图表或流程图并留准备时间；RL 会出现音频播放过程，听完后再复述。不要只靠上一题顺序猜题型，先确认输入材料是视觉还是听觉。",
+    "source": "SunPace knowledge distillation round 245",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-content-breadth-before-polish",
+    "title": "DI 内容分先求覆盖再求漂亮",
+    "keywords": [
+      "DI",
+      "content",
+      "image description",
+      "speaking"
+    ],
+    "answer": "DI 的内容不是只说一个最显眼的数字。Sunny 会要求先覆盖图里的主要元素、关系和结论，再考虑措辞是否漂亮。训练时先问自己：我有没有说清对象、变化、对比、最高最低点和整体趋势？覆盖不够时，流利也很难补回内容分。",
+    "source": "SunPace knowledge distillation round 245",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-explicit-and-implicit-information",
+    "title": "DI 要同时说显性信息和隐含结论",
+    "keywords": [
+      "DI",
+      "trend",
+      "comparison",
+      "conclusion"
+    ],
+    "answer": "DI 不能只读图上的标签，也不能只编总结。Sunny 会把信息分成两层：显性信息是标题、坐标、类别、数字和趋势；隐含结论是比较关系、上升下降、差距变化和可能的总体含义。先说显性事实，再补一层结论，回应会更完整。",
+    "source": "SunPace knowledge distillation round 245",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-response-balance",
+    "title": "DI 回答要同时守住内容、流利和发音",
+    "keywords": [
+      "DI",
+      "fluency",
+      "pronunciation",
+      "content"
+    ],
+    "answer": "DI 的准备时间很短，Sunny 会让学生用固定检查顺序：先锁定主题和两三个关键点，再组织成顺畅句群，最后用能稳定发音的词说出来。不要为了说更多生词牺牲流利，也不要只追求不卡顿而完全不描述图中关系。",
+    "source": "SunPace knowledge distillation round 245",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-one-segment-is-emergency-not-core",
+    "title": "RA 片段读法只能当临场急救",
+    "keywords": [
+      "RA",
+      "read aloud",
+      "emergency strategy",
+      "speaking"
+    ],
+    "answer": "RA 的主训练仍然应该是全文朗读能力。Sunny 只会把片段读法当作临场急救：遇到大量生词或复杂结构时，选择一个能稳定读好的连续片段，可能比硬读全篇更稳。但它只能微调表现，不能代替长期的发音、节奏和准确度训练。",
+    "source": "SunPace knowledge distillation round 245",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-segment-selection-continuous",
+    "title": "RA 选片段不能东拼西凑",
+    "keywords": [
+      "RA",
+      "read aloud",
+      "segment selection",
+      "accuracy"
+    ],
+    "answer": "如果 RA 临场选择只读片段，Sunny 会要求它必须是连续、完整、可自然朗读的一段。不要从开头摘几个词、结尾摘几个词拼成一句，因为这种读法会破坏语义和节奏，也更容易暴露停顿。片段越自然，越容易保持准确率和流利度。",
+    "source": "SunPace knowledge distillation round 245",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-segment-length-and-rhythm",
+    "title": "RA 片段要够长也要读得顺",
+    "keywords": [
+      "RA",
+      "fluency",
+      "phrasing",
+      "rhythm"
+    ],
+    "answer": "RA 片段太短，流利度和节奏证据不足；太长，又失去规避难词的意义。Sunny 会建议选择能在十秒左右稳定读完的连续片段，并保证里面有自然意群和连贯节奏。读片段时仍然要停顿、连读、重读和弱读，不能变成孤立单词。",
+    "source": "SunPace knowledge distillation round 245",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-speaking-prioritize-ra-rs",
+    "title": "PTE Core 口语先稳 RA 和 RS",
+    "keywords": [
+      "PTE Core",
+      "speaking",
+      "RA",
+      "RS"
+    ],
+    "answer": "Sunny 会把 PTE Core 口语的第一优先级放在 RA 和 RS，因为这两类题不只影响口语，也会牵动阅读或听力。报考前至少要确认自己能稳定完成这两项：RA 要读清、读顺；RS 要听出核心句子并按顺序复述。否则后面的题做得再热闹，总分结构也容易被拉低。",
+    "source": "SunPace knowledge distillation round 246",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-ra-start-timing",
+    "title": "RA 开口时机要看录音状态",
+    "keywords": [
+      "RA",
+      "read aloud",
+      "timing",
+      "PTE Core"
+    ],
+    "answer": "RA 不要在准备时间结束前抢读，也不要听到提示后还迟疑太久。Sunny 会让学生等录音进度条真正出现后立刻开口，并在短时间内进入稳定节奏。读完后直接进入下一题，减少反复犹豫造成的时间和状态损耗。",
+    "source": "SunPace knowledge distillation round 246",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-core-ra-content-and-function-words",
+    "title": "RA 要读清实词、带过功能词",
+    "keywords": [
+      "RA",
+      "pronunciation",
+      "fluency",
+      "function words"
+    ],
+    "answer": "RA 的清晰度不是每个词都同样用力。Sunny 会让学生把名词、动词、形容词、副词和数字读清楚，把介词、连词、代词等功能词用更轻、更快的方式带过。这样既能保留内容识别度，也能让句子听起来更自然、更连贯。",
+    "source": "SunPace knowledge distillation round 246",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-ra-phrase-grouping-practice",
+    "title": "RA 练习要先按意群读顺",
+    "keywords": [
+      "RA",
+      "phrasing",
+      "connected speech",
+      "practice"
+    ],
+    "answer": "RA 练习不能只盯单词音标。Sunny 会让学生先把句子划成自然意群，再练重弱读、连读和停顿。每次练习都要问：句子有没有一口气推进？重点词是否清楚？小词是否过重？意群稳定后，再扩大到更长文章。",
+    "source": "SunPace knowledge distillation round 246",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-rs-recording-cue",
+    "title": "RS 要等录音条出现再复述",
+    "keywords": [
+      "RS",
+      "repeat sentence",
+      "recording cue",
+      "PTE Core"
+    ],
+    "answer": "RS 的常见失误是音频结束后太急或太慢。Sunny 会提醒学生：听完句子后没有额外提示音时，也要确认录音状态已经开始，再用稳定语速复述。开口前不要重新组织太久，先保主干顺序，再补小词和修饰信息。",
+    "source": "SunPace knowledge distillation round 246",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-rs-set-practice-review",
+    "title": "RS 要按考试组练再统一复盘",
+    "keywords": [
+      "RS",
+      "repeat sentence",
+      "practice set",
+      "review"
+    ],
+    "answer": "RS 单句反复磨很容易失真。Sunny 会让学生按一组十题左右的节奏练，模拟考试连续输入和连续输出的压力。整组说完后再回看错因：是没听到核心词、顺序乱了、吞了小词，还是发音和流利度掉线。这样复盘更接近真实考试。",
+    "source": "SunPace knowledge distillation round 246",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-core-di-template-with-keywords",
+    "title": "DI 模板必须装进图中关键词",
+    "keywords": [
+      "DI",
+      "describe image",
+      "template",
+      "keywords"
+    ],
+    "answer": "DI 可以用稳定句型降低压力，但不能空转模板。Sunny 会让学生在准备时间里先圈出图表主题、类别、趋势和一两个关键数字，再把这些关键词放进固定表达里。模板负责流利，图中信息负责内容，两者缺一不可。",
+    "source": "SunPace knowledge distillation round 246",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-asq-fast-and-specific",
+    "title": "ASQ 要快速给具体答案",
+    "keywords": [
+      "ASQ",
+      "short answer",
+      "speaking",
+      "PTE Core"
+    ],
+    "answer": "ASQ 占比不高，但不能因为小题就空白。Sunny 会让学生在听到问题后快速说出最可能的具体名词或短答案；如果有同义答案，也可以补一个最接近的替代表达。关键是三秒内进入回答，不要把简单常识题拖成沉默。",
+    "source": "SunPace knowledge distillation round 246",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-pause-after-long-subject",
+    "title": "RA 长主语后要给谓语让路",
+    "keywords": [
+      "RA",
+      "pause",
+      "subject",
+      "phrasing"
+    ],
+    "answer": "RA 断句时，Sunny 会先找主语和谓语。如果主语很长，先把主语完整读完，再在谓语前做一个短暂停顿。这样能避免一路冲到动词后才发现句子结构乱掉，也能让评分系统更容易听出句子的主干。",
+    "source": "SunPace knowledge distillation round 247",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-pause-before-heavy-adverbial",
+    "title": "RA 状语太重时要提前分组",
+    "keywords": [
+      "RA",
+      "adverbial",
+      "preposition",
+      "pause"
+    ],
+    "answer": "遇到介词短语或其他较长状语时，Sunny 会让学生先读完主谓宾，再在状语前短暂停顿。重点不是机械按标点断，而是让核心意思先成立，再补时间、地点、来源或方式信息。这样读起来更稳，也更容易保持语速均匀。",
+    "source": "SunPace knowledge distillation round 247",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ra-and-word-vs-clause",
+    "title": "RA 里的 and 要判断连接层级",
+    "keywords": [
+      "RA",
+      "and",
+      "phrasing",
+      "connected speech"
+    ],
+    "answer": "RA 里看到 and 不一定都停顿。Sunny 会让学生判断它连接的是词语还是句子：如果只是两个名词或短语并列，通常可以连读；如果连接两个完整动作或句子，就更适合在 and 前轻微停顿。判断层级比死记规则更重要。",
+    "source": "SunPace knowledge distillation round 247",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ra-parenthetical-pause-after",
+    "title": "RA 插入语要读成一个小括号",
+    "keywords": [
+      "RA",
+      "parenthetical",
+      "pause",
+      "fluency"
+    ],
+    "answer": "遇到 however、therefore、for example 这类插入信息时，Sunny 会让学生把它当成句子里的小括号：前面不要过度停顿，读完插入语后再轻轻分开。这样主句不断，补充信息也清楚，整体节奏更自然。",
+    "source": "SunPace knowledge distillation round 247",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-core-di-three-image-types",
+    "title": "PTE Core DI 先判断图片类型",
+    "keywords": [
+      "PTE Core",
+      "DI",
+      "chart",
+      "process"
+    ],
+    "answer": "PTE Core 的 DI 可以先分成图表、流程图和照片三类。Sunny 会让学生在准备时间里先判断类型，再决定抓什么：图表抓最高、最低和趋势；流程图抓第一步、最后一步和循环关系；照片抓场景、人物、动作和环境。",
+    "source": "SunPace knowledge distillation round 247",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-di-keywords-before-template",
+    "title": "DI 模板前先拿到关键词",
+    "keywords": [
+      "DI",
+      "keywords",
+      "template",
+      "PTE Core"
+    ],
+    "answer": "Sunny 不会让学生空背 DI 模板。更稳的流程是先拿到标题、类别、趋势、步骤或场景关键词，再把这些词放进熟悉句型里。模板只负责降低卡顿，真正让答案像在描述图片的是关键词。",
+    "source": "SunPace knowledge distillation round 247",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-di-avoid-template-speed-gap",
+    "title": "DI 不要模板飞快、内容卡顿",
+    "keywords": [
+      "DI",
+      "fluency",
+      "pronunciation",
+      "template"
+    ],
+    "answer": "DI 的问题常常不是不会说，而是模板部分很快，填图中信息时突然卡住。Sunny 会让学生把模板句和关键词句练成同一种语速、同一种清晰度。宁可内容简单一点，也不要出现明显停顿、蹦词或吞音。",
+    "source": "SunPace knowledge distillation round 247",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-core-rts-turn-prompt-into-response",
+    "title": "RTS 可以把题干改写成回应",
+    "keywords": [
+      "PTE Core",
+      "RTS",
+      "scenario response",
+      "keywords"
+    ],
+    "answer": "RTS 的核心是回应生活场景。Sunny 会让学生先从题干里抓人物、问题、请求和限制条件，再把第二人称场景改成第一人称回应。这样既保留关键词，又不会变成生硬复读题干。最后补一句礼貌目的或下一步行动，答案会更完整。",
+    "source": "SunPace knowledge distillation round 247",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-module-weight-map",
+    "title": "阅读复习要先分清大中小题",
+    "keywords": [
+      "reading",
+      "priority",
+      "FIB",
+      "RO"
+    ],
+    "answer": "Sunny 会把阅读题先按影响和训练价值分层：FIB-RW 和 FIB-R 属于更值得重点复盘的大题，RO 属于需要固定方法的中题，单选和多选属于要控时的小题。复习时间有限时，不要把全部精力花在选择题上，先稳可积累、可复盘的填空和排序。",
+    "source": "SunPace knowledge distillation round 248",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-shared-timer-discipline",
+    "title": "阅读共享时间要给大题留空间",
+    "keywords": [
+      "reading",
+      "timer",
+      "time management",
+      "MCQ"
+    ],
+    "answer": "阅读模块通常是整体时间池。Sunny 会让学生提前给不同题型设上限：选择题快速处理，RO 保留必要推理时间，FIB 留出词性、搭配和语义检查时间。某一道小题拖太久，后面的高价值题就会被挤压。",
+    "source": "SunPace knowledge distillation round 248",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-mcq-single-paraphrase",
+    "title": "单选题答案常被改写",
+    "keywords": [
+      "MCQ single",
+      "reading",
+      "paraphrase",
+      "evidence"
+    ],
+    "answer": "阅读单选不要只找和原文一模一样的词。Sunny 会提醒学生：正确选项常常是原文意思的改写，所以要看证据句和选项之间的逻辑等价。看到熟悉词不等于正确，看到换词表达也不能马上排除。",
+    "source": "SunPace knowledge distillation round 248",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-mcq-single-one-evidence-chain",
+    "title": "单选题只需要锁定一条证据链",
+    "keywords": [
+      "MCQ single",
+      "reading",
+      "evidence",
+      "strategy"
+    ],
+    "answer": "单选题不要把整篇文章重新翻译一遍。Sunny 会让学生先明确问题问什么，再在文章里找一条能直接支持答案的证据链：题干目标、原文信息、选项改写三者能闭合，就可以选择。无法形成证据链的选项，即使语言相似也要谨慎。",
+    "source": "SunPace knowledge distillation round 248",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-mcq-multiple-negative-marking",
+    "title": "多选题宁可少选也别乱选",
+    "keywords": [
+      "MCQ multiple",
+      "reading",
+      "negative marking",
+      "selection"
+    ],
+    "answer": "阅读多选有扣分风险，Sunny 会让学生只选有明确证据的选项。模糊、半对、只出现关键词但不符合题干的选项，不要为了凑数量硬选。多选题的目标不是选得多，而是让每个被选项都能回到原文证据。",
+    "source": "SunPace knowledge distillation round 248",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-mcq-multiple-question-first",
+    "title": "多选题先看题干和选项再回文",
+    "keywords": [
+      "MCQ multiple",
+      "reading",
+      "skim",
+      "question first"
+    ],
+    "answer": "多选题信息量更大，Sunny 会建议先看题干和选项，知道要找哪些维度，再回到文章定位证据。这样可以减少无目标通读，也能及时发现选项之间的细微差别。回文时重点找支持或排除证据，而不是逐句翻译。",
+    "source": "SunPace knowledge distillation round 248",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-radio-vs-checkbox-check",
+    "title": "先看按钮形态确认单选还是多选",
+    "keywords": [
+      "MCQ",
+      "reading",
+      "interface",
+      "careless mistakes"
+    ],
+    "answer": "Sunny 会让学生用界面先确认题型：单选通常只需要一个答案，多选则要求选择所有正确回应。考试紧张时不要凭记忆猜题型，先看题目要求和按钮形态，再决定读题策略。题型确认错了，后面的推理再好也会丢分。",
+    "source": "SunPace knowledge distillation round 248",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-small-tasks-time-cap",
+    "title": "阅读小题要设置硬时间上限",
+    "keywords": [
+      "reading",
+      "MCQ",
+      "time cap",
+      "exam pacing"
+    ],
+    "answer": "选择题属于阅读里的小题，Sunny 会要求设置硬时间上限。到点仍然没有证据，就用排除法选择最稳的一项并继续前进。阅读高分不是每道小题都纠结到完美，而是在有限时间内把高价值题和确定分守住。",
+    "source": "SunPace knowledge distillation round 248",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-score-adjacent-pairs",
+    "title": "RO 得分看相邻句是否排对",
+    "keywords": [
+      "RO",
+      "reorder paragraphs",
+      "adjacent pairs",
+      "reading"
+    ],
+    "answer": "RO 不是只看整题最终顺序，Sunny 会让学生把目标拆成相邻句关系。每判断两句话能否紧密相连，就在减少一次连环失误风险。练习时不要只问“哪句第一”，更要问“这两句为什么必须挨着”。",
+    "source": "SunPace knowledge distillation round 249",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-avoid-first-sentence-fixation",
+    "title": "RO 不要一上来死找第一句",
+    "keywords": [
+      "RO",
+      "first sentence",
+      "logic cues",
+      "reading"
+    ],
+    "answer": "Sunny 会提醒学生：RO 开局不要执着找第一句。更稳的方法是先通读每句大意，再找能确定相邻关系的破题点。只要先锁住两三组可靠连接，第一句往往会自然浮出来。",
+    "source": "SunPace knowledge distillation round 249",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-read-whole-set-first",
+    "title": "RO 先通读全组再排序",
+    "keywords": [
+      "RO",
+      "reading comprehension",
+      "sequence",
+      "strategy"
+    ],
+    "answer": "RO 的基础是理解每句话的大意。Sunny 会让学生先快速通读全组，建立主题、对象和大概发展方向，再开始排序。还没看完就凭某个词先入为主，最容易把局部线索误判成全文结构。",
+    "source": "SunPace knowledge distillation round 249",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ro-cue-types-time-turning-pronoun-same-topic",
+    "title": "RO 破题点分四类找",
+    "keywords": [
+      "RO",
+      "logic cues",
+      "time words",
+      "pronouns"
+    ],
+    "answer": "Sunny 会把 RO 破题点分成几类：时间和顺序词说明发展轴，转折词提示前后反差，代词和冠词提示前文已经出现过对象，递进和因果词提示同一件事继续展开。找线索时要问它能不能真正决定前后关系。",
+    "source": "SunPace knowledge distillation round 249",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-time-words-must-share-topic",
+    "title": "RO 时间词只有同主题才有效",
+    "keywords": [
+      "RO",
+      "time words",
+      "chronology",
+      "reading"
+    ],
+    "answer": "看到年份或时间词，不代表一定按时间排。Sunny 会要求同时满足三个条件：至少两句有可比较时间，描述的是同一类事情，时间本身是文章主线的一部分。如果时间只是例子里的补充信息，就不能机械排序。",
+    "source": "SunPace knowledge distillation round 249",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-sequence-words-not-always-adjacent",
+    "title": "RO 顺序词不一定表示紧挨着",
+    "keywords": [
+      "RO",
+      "sequence words",
+      "logic",
+      "reading"
+    ],
+    "answer": "first、second、another、also 这类顺序词很有用，但 Sunny 会提醒学生不要自动判定两句紧挨。它们可能只说明同一对象下的层次，而中间还需要定义、解释或例子。顺序词决定方向，是否相邻还要看内容连接。",
+    "source": "SunPace knowledge distillation round 249",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-ro-common-structure-check",
+    "title": "RO 最后用常见结构复查",
+    "keywords": [
+      "RO",
+      "structure",
+      "review",
+      "reading"
+    ],
+    "answer": "排完 RO 后，Sunny 会让学生用常见文章结构复查：现象到原因再到解决，概念到定义再到应用，起因到经过再到结果。局部线索排得通，不等于全文逻辑通；最后一遍检查要看整组是否像一篇完整短文。",
+    "source": "SunPace knowledge distillation round 249",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-ro-domino-error-control",
+    "title": "RO 要主动防止连环失误",
+    "keywords": [
+      "RO",
+      "domino error",
+      "reading",
+      "exam pacing"
+    ],
+    "answer": "RO 容易一错带多错。Sunny 会让学生先锁最确定的相邻对，把不确定的句子暂时放开，再用全文结构补齐。不要为了凑完整顺序强行连接弱证据。宁可少做一次冒险，也要守住能确定的相邻得分。",
+    "source": "SunPace knowledge distillation round 249",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-collocations-by-structure-family",
+    "title": "FIB 搭配要按结构族记",
+    "keywords": [
+      "FIB",
+      "collocations",
+      "structure family",
+      "reading"
+    ],
+    "answer": "Sunny 不建议把 FIB 搭配当成散词表硬背。更有效的方法是按结构族整理：动词加介词、形容词加介词、名词加介词、动宾搭配、介词短语和固定短语。结构先清楚，考试里看到空格前后关系时才知道该调用哪一类。",
+    "source": "SunPace knowledge distillation round 250",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-preposition-slot-awareness",
+    "title": "FIB 要特别盯住介词槽位",
+    "keywords": [
+      "FIB",
+      "preposition",
+      "slot",
+      "collocation"
+    ],
+    "answer": "很多 FIB 错题不是不认识单词，而是没看出介词槽位。Sunny 会让学生复盘空格前后是否形成固定方向：动词需要什么介词，名词后面接什么介词，形容词和介词是否绑定。介词一旦确定，选项范围会明显缩小。",
+    "source": "SunPace knowledge distillation round 250",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-verb-noun-preposition-chain",
+    "title": "FIB 要识别动词名词介词链",
+    "keywords": [
+      "FIB",
+      "verb noun preposition",
+      "collocation",
+      "reading"
+    ],
+    "answer": "FIB 里常出现一整段搭配链，而不是单个空。Sunny 会训练学生观察动词、名词和介词是否一起工作：动作是什么，动作落到哪个名词上，后面又指向哪个对象。链条完整时，答案通常不只靠中文意思判断。",
+    "source": "SunPace knowledge distillation round 250",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-adjective-preposition-pair",
+    "title": "形容词后介词是 FIB 高频检查点",
+    "keywords": [
+      "FIB",
+      "adjective",
+      "preposition",
+      "grammar"
+    ],
+    "answer": "形容词后面接什么介词，往往能直接决定 FIB 选项。Sunny 会让学生把这类搭配单独建卡：形容词表达的是原因、对象、方向还是范围？后面的介词是否自然承接？这样复盘比单纯背中文释义更稳。",
+    "source": "SunPace knowledge distillation round 250",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-fib-context-before-translation",
+    "title": "FIB 先看语境再看中文意思",
+    "keywords": [
+      "FIB",
+      "context",
+      "translation",
+      "reading"
+    ],
+    "answer": "Sunny 会提醒学生：FIB 不能先把选项翻译成中文再凭感觉选。先看句子关系、空格词性、前后搭配和段落语义，再用中文意思做最后确认。翻译可以辅助理解，但不能替代语法和搭配证据。",
+    "source": "SunPace knowledge distillation round 250",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-card-fields",
+    "title": "FIB 错题卡要记录四个字段",
+    "keywords": [
+      "FIB",
+      "review card",
+      "collocation",
+      "error log"
+    ],
+    "answer": "Sunny 会把 FIB 错题卡做成四个字段：目标搭配、结构类型、触发语境和自己的错因。只写“这个词不会”太粗。要分清是词性没看出、介词没记住、语义方向错了，还是被相近选项干扰。",
+    "source": "SunPace knowledge distillation round 250",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-collocation-active-recall",
+    "title": "FIB 搭配要做主动回忆",
+    "keywords": [
+      "FIB",
+      "active recall",
+      "collocations",
+      "review"
+    ],
+    "answer": "看搭配清单不等于掌握。Sunny 会让学生遮住关键词或介词，根据前后语境主动说出缺失部分。能认出来只是第一层，能在空格位置主动召回，才更接近考试状态。复习时要反复从语境触发答案，而不是从答案回看语境。",
+    "source": "SunPace knowledge distillation round 250",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-fib-rw-vs-fib-r-collocation-use",
+    "title": "FIB-RW 和 FIB-R 都要用搭配证据",
+    "keywords": [
+      "FIB-RW",
+      "FIB-R",
+      "collocation",
+      "reading"
+    ],
+    "answer": "FIB-RW 更强调语法、词性和搭配同时成立，FIB-R 更容易被语义和固定表达牵引。Sunny 会让学生两类题都保留搭配证据：不要只凭意思选，也不要只凭词性选。正确答案通常要同时通过结构和语境两道门。",
+    "source": "SunPace knowledge distillation round 250",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
