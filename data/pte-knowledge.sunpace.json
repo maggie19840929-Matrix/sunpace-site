@@ -39352,5 +39352,229 @@
     "source": "local OCR distillation round 240, registration email notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-tone-strength-before-translation",
+    "title": "态度词先判断语气强度再翻译",
+    "keywords": [
+      "vocabulary",
+      "tone",
+      "reading",
+      "stance"
+    ],
+    "answer": "阅读里遇到 assertive、blatant、derogatory、abusive 这类词时，Sunny 会先让学生判断语气强度：是自信表达、公开明显、贬损评价，还是攻击性语言。态度强度看准了，作者立场就不容易误读。只背一个中文意思，很容易把中性态度和负面批评混在一起。",
+    "source": "local OCR distillation round 241, tone vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-propensity-corollary-logic-roles",
+    "title": "propensity 和 corollary 要按逻辑角色记",
+    "keywords": [
+      "vocabulary",
+      "logic",
+      "FIB",
+      "SWT"
+    ],
+    "answer": "propensity 更像某人或某事内部的倾向，corollary 更像前面事实带出的必然结果。Sunny 会让学生把这类抽象名词放进逻辑链里记：倾向推动行为，结果承接前提。做 FIB 或 SWT 时，先判断空格是在说原因、倾向还是推论，再选词会更稳。",
+    "source": "local OCR distillation round 241, abstract noun logic notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-medical-prevention-symptom-chain",
+    "title": "医学词按疾病、症状、预防和保护链记",
+    "keywords": [
+      "medical vocabulary",
+      "health",
+      "vaccine",
+      "reading"
+    ],
+    "answer": "医学健康类词汇不要混成一堆。Sunny 会把它拆成几格：disease 是疾病，symptom 是表现，inoculation 或 vaccine 是干预方式，immunize 是形成保护，venom、pus 这类词则指向有害物或感染表现。按链条记，阅读时更容易判断文章在说风险、治疗还是预防。",
+    "source": "local OCR distillation round 241, medical vocabulary chain notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-sound-breath-hearing-terms",
+    "title": "声音词要区分听觉、语调和气流",
+    "keywords": [
+      "pronunciation",
+      "vocabulary",
+      "listening",
+      "intonation"
+    ],
+    "answer": "听说材料里常见 auditory、melody、intonation、aspiration、inhalation 这类词。Sunny 会让学生分清它们的层级：auditory 偏听觉，melody 偏旋律线，intonation 是语调，aspiration 和 inhalation 都和气流有关但用途不同。分层之后，发音课和听力材料里的术语不会互相打架。",
+    "source": "local OCR distillation round 241, sound and breath vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-art-product-action-value",
+    "title": "艺术词按作品、动作和评价分组",
+    "keywords": [
+      "art vocabulary",
+      "reading",
+      "SST",
+      "theme vocabulary"
+    ],
+    "answer": "艺术人文类文章里，sketch、photograph、artefact、exhibition、craftsmanship、aesthetic 不在同一层。Sunny 会让学生分成作品、创作动作、展示场景和审美评价。这样听 SST 或读文章时，能更快判断材料是在说对象本身、创作过程，还是评价标准。",
+    "source": "local OCR distillation round 241, art vocabulary grouping notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-vocab-social-problem-policy-action",
+    "title": "社会问题词要分清伤害和政策动作",
+    "keywords": [
+      "social issues",
+      "policy vocabulary",
+      "reading",
+      "WE"
+    ],
+    "answer": "社会议题词汇里，assault、aggression、trauma、illiteracy 更偏问题或后果，abolish、neutralize、alleviate、impede 更偏政策动作或影响方向。Sunny 会让学生先把词放进“问题-原因-措施-结果”框架，再决定作文或阅读里该怎么理解。词义一旦带上功能，写作也更容易组织。",
+    "source": "local OCR distillation round 241, social-problem policy vocabulary notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-vocab-participle-form-role-check",
+    "title": "分词词形要检查是动作还是状态",
+    "keywords": [
+      "word form",
+      "participle",
+      "FIB",
+      "grammar"
+    ],
+    "answer": "词汇表里很多 -ed 和 -ing 形式不能只当新单词背。Sunny 会让学生检查它在句子里是动词动作，还是形容词状态。assigned tasks、abandoned buildings、accentuating a point 这些结构的语法角色不同。FIB 复盘时把词形和句子位置一起记，才不会只认识单词却选错形式。",
+    "source": "local OCR distillation round 241, participle form notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-vocab-ecology-object-process-system",
+    "title": "生态动物词按对象、行为和系统记",
+    "keywords": [
+      "ecology vocabulary",
+      "biology",
+      "reading",
+      "theme vocabulary"
+    ],
+    "answer": "生态和动物类词汇可以按三层整理：willow、antler、bison 是具体对象，grazing、ruminant 描述行为或物种特征，biosphere、habitability 则上升到环境系统。Sunny 会让学生按对象、过程和系统复习，遇到科学阅读时更容易抓住文章层级。",
+    "source": "local OCR distillation round 241, ecology vocabulary grouping notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-energy-vocab-source-output-chain",
+    "title": "DI 能源词按来源和产出分层说",
+    "keywords": [
+      "Describe Image",
+      "energy vocabulary",
+      "hydropower",
+      "biofuel"
+    ],
+    "answer": "DI 或听力材料里遇到 hydropower、hydroelectric、renewable、biofuel、fuel 这类词时，Sunny 会让学生先分层：能源来源是什么，转换方式是什么，最终产出是什么。看图时不必堆复杂解释，只要能说清 renewable energy、hydropower production 或 biofuel use，信息就会更稳。",
+    "source": "local OCR distillation round 242, energy vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-geography-name-read-or-generalize",
+    "title": "DI 地名读不稳时先用地区关系保流利",
+    "keywords": [
+      "Describe Image",
+      "geography",
+      "map",
+      "pronunciation"
+    ],
+    "answer": "DI 地图或数据图里可能出现国家、地区和海湾名称。Sunny 会让学生准备两套处理：能读准的地名直接说，读不稳的地名用 the country in the north、the region on the left、the gulf area 这类关系表达替代。考试目标不是挑战冷门地名，而是让图中位置和对比听得清楚。",
+    "source": "local OCR distillation round 242, geography pronunciation notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-di-climate-words-need-measure",
+    "title": "气候类 DI 词要带测量对象",
+    "keywords": [
+      "Describe Image",
+      "climate",
+      "temperature",
+      "precipitation"
+    ],
+    "answer": "temperature、precipitation、atmosphere 这些词如果只单独念出来，信息不完整。Sunny 会让学生把它们和测量对象连起来：temperature in degrees、annual precipitation、changes in the atmosphere。DI 里先读清对象和单位，再说升降或对比，句子会比单独报词更像有效描述。",
+    "source": "local OCR distillation round 242, climate vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-familiar-word-academic-sense",
+    "title": "熟词在学术句里常换意义",
+    "keywords": [
+      "reading vocabulary",
+      "polysemy",
+      "FIB",
+      "context"
+    ],
+    "answer": "mean、interest、quarter、element、purpose 这类词很熟，但在 PTE 阅读里不一定是日常意思。mean 可能是平均值，interest 可能是利息或利益，quarter 可能是四分之一、季度或地区，element 可能是组成要素。Sunny 会让学生先看话题和搭配，再决定词义，不要被第一反应带跑。",
+    "source": "local OCR distillation round 242, familiar-word polysemy notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-rw-scale-words-anchor-big-picture",
+    "title": "规模词能帮阅读抓文章层级",
+    "keywords": [
+      "reading",
+      "scale",
+      "numbers",
+      "SWT"
+    ],
+    "answer": "billion、decade、enormous、height、depth 这类词会提示规模、时间跨度或空间维度。Sunny 会让学生不要把数字和尺度词孤立记录，而是连着对象写：多少人口、多少资金、持续几个十年、深度或高度是什么。做 SWT 时，规模词常常能帮助判断哪个事实值得保留。",
+    "source": "local OCR distillation round 242, scale vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-spread-control-verbs",
+    "title": "传播和控制动词要看方向",
+    "keywords": [
+      "reading",
+      "verbs",
+      "propagate",
+      "control"
+    ],
+    "answer": "propagate、rampant、exterminate、breach、foresee 这类词常出现在风险、疾病、社会问题或技术文章中。Sunny 会让学生先判断方向：是在传播、失控、突破边界、预见风险，还是消除问题。动词方向看准了，因果关系和作者态度都会更清楚。",
+    "source": "local OCR distillation round 242, spread-control verb notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-civic-institution-word-cluster",
+    "title": "公民制度词按身份、机构和资格分组",
+    "keywords": [
+      "reading vocabulary",
+      "citizenship",
+      "institution",
+      "policy"
+    ],
+    "answer": "republic、citizenship、academy、qualification、secondary、referral 这类词看似分散，其实常在教育、制度和公共服务语境里相遇。Sunny 会让学生按身份、机构、资格和转介关系分组。分组后，阅读时就能更快看出文章是在讲谁有资格、由哪个机构处理、下一步转到哪里。",
+    "source": "local OCR distillation round 242, civic-institution vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rw-food-material-process-vocab",
+    "title": "食物材料词要分原料、过程和状态",
+    "keywords": [
+      "reading vocabulary",
+      "food science",
+      "process",
+      "FIB"
+    ],
+    "answer": "meal、beverage、fermentation、mold、gasoline、timber 这类材料或物质词，做阅读时要先判断它是原料、产品、过程还是状态变化。Sunny 会让学生用“物质-过程-结果”框架复盘：什么被处理，经过什么变化，最后变成什么。这样 FIB 看到 process 或 material 语境时更容易选对词形和搭配。",
+    "source": "local OCR distillation round 242, material-process vocabulary notes",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
