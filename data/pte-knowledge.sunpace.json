@@ -39576,5 +39576,117 @@
     "source": "local OCR distillation round 242, material-process vocabulary notes",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-topic-index-is-navigation-not-answer",
+    "title": "SST 话题索引只能当导航，不能当答案",
+    "keywords": [
+      "SST",
+      "topic index",
+      "high-frequency topics",
+      "review method"
+    ],
+    "answer": "SST 高频材料里常有很长的话题索引。Sunny 会提醒学生：索引的作用是帮你快速定位主题，不是可以直接背成答案。真正复习时，要把每个主题转成三件事：讲座在讨论什么、主要原因或影响是什么、可以写进 summary 的关键词有哪些。",
+    "source": "local OCR distillation round 243, SST topic-index notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-similar-title-needs-angle-label",
+    "title": "SST 相似题名要加角度标签",
+    "keywords": [
+      "SST",
+      "similar topics",
+      "version control",
+      "listening"
+    ],
+    "answer": "SST 里同一大主题可能有多个相似版本。Sunny 不会让学生只按题名记，而是给每篇加角度标签：原因版、影响版、定义版、实验版、问题解决版。这样听到相似开头时，不容易把不同版本的关键词串台。",
+    "source": "local OCR distillation round 243, SST similar-topic notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-topic-bank-turns-into-theme-map",
+    "title": "SST 话题库要整理成主题地图",
+    "keywords": [
+      "SST",
+      "theme map",
+      "topic bank",
+      "study plan"
+    ],
+    "answer": "SST 话题库如果只是从上到下扫一遍，很快就会忘。Sunny 会让学生把它整理成主题地图：环境、科技、教育、健康、社会、经济、语言、艺术和历史。每个主题下放 3-5 个常见关键词和逻辑框架，复习的是迁移能力，不是单个题号。",
+    "source": "local OCR distillation round 243, SST theme-map notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-index-page-numbers-are-noise",
+    "title": "SST 目录页码和编号不要进笔记主线",
+    "keywords": [
+      "SST",
+      "notes",
+      "OCR",
+      "topic list"
+    ],
+    "answer": "OCR 出来的 SST 目录常混着页码、编号和排版噪音。Sunny 会让学生复习时只保留主题词和角度标签，删掉页码、序号和无关宣传信息。笔记越干净，真正听音频时越容易把注意力放回主题、原因、例子和结论。",
+    "source": "local OCR distillation round 243, SST index cleanup notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-update-list-compare-new-and-repeat",
+    "title": "SST 更新表要区分新增和重复主题",
+    "keywords": [
+      "SST",
+      "topic update",
+      "review",
+      "repeat topics"
+    ],
+    "answer": "不同月份或不同版本的 SST 列表可能大量重复。Sunny 会让学生复盘时做两列：新增主题和重复主题。重复主题用来加深听感和关键词反应，新增主题则先补背景词和核心逻辑。这样不会每次看到新列表都从零开始，也不会漏掉真正的新变化。",
+    "source": "local OCR distillation round 243, SST update-list notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-topic-title-before-audio-preview",
+    "title": "SST 听前预览只抓主题方向",
+    "keywords": [
+      "SST",
+      "preview",
+      "topic title",
+      "listening"
+    ],
+    "answer": "SST 练习前看到题名或主题词时，Sunny 只允许学生用它预测方向：可能是实验、政策、环境变化、人物观点还是技术影响。不要在听前把自己记得的答案硬套进去。预览的作用是建立语义预期，真正答案仍然要以音频里听到的关键词和逻辑为准。",
+    "source": "local OCR distillation round 243, SST preview notes",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sst-topic-bank-practice-order",
+    "title": "SST 话题库复习要按难度排序",
+    "keywords": [
+      "SST",
+      "review order",
+      "high-frequency topics",
+      "study plan"
+    ],
+    "answer": "SST 话题库不适合按原目录机械刷。Sunny 会按三类排序：熟悉主题直接听写，半熟主题先看关键词再听，完全陌生主题先补背景词和发音。难度分层后，复习效率更高，也能避免把时间都花在已经很熟的题上。",
+    "source": "local OCR distillation round 243, SST review-order notes",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sst-public-notes-rewrite-topic-not-source",
+    "title": "SST 公开笔记只写方法，不写来源痕迹",
+    "keywords": [
+      "SST",
+      "public notes",
+      "distillation",
+      "safety"
+    ],
+    "answer": "把 SST 材料整理进公开知识库时，Sunny 只保留 SunPace 自有方法：如何分类、如何听关键词、如何区分版本、如何写 summary。来源路径、题库编号、机构名称和原始答案都不进入公开条目。公开内容要像教学建议，不像资料搬运。",
+    "source": "local OCR distillation round 243, public-safe distillation notes",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
