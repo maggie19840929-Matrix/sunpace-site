@@ -40877,5 +40877,128 @@
     "source": "SunPace knowledge distillation round 251",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-skimming-scanning-sequence-round252",
+    "title": "阅读长文本先扫主旨再定位细节",
+    "keywords": [
+      "阅读",
+      "skimming",
+      "scanning",
+      "主旨",
+      "细节定位",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议阅读长文本不要一上来逐词翻译。第一步用很短时间看标题、首末句和段落走向，先判断文章大意和观点位置；第二步再带着题干关键词回文中定位细节。这样做的好处是，学生不会被陌生词拖住，也更容易区分“文章整体在讲什么”和“题目具体问什么”。练习时可以把每篇阅读拆成两栏复盘：左边写主旨判断依据，右边写细节定位依据。",
+    "source": "SunPace knowledge distillation round 252",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-multiple-answer-evidence-control-round252",
+    "title": "阅读多选题要控制证据数量",
+    "keywords": [
+      "阅读",
+      "多选",
+      "证据",
+      "排除",
+      "Sunny"
+    ],
+    "answer": "Sunny 会提醒学生：多选题不是看到相似词就选，而是每个选项都要有独立证据。做题时先判断题干问的是主旨、细节、态度还是推断，再给每个候选选项标记证据强度。没有明确证据的选项先不要碰；只和原文局部相似、但方向或范围不一致的选项要果断排除。复盘时重点记录“我为什么多选了一个”或“我为什么漏选了一个”。",
+    "source": "SunPace knowledge distillation round 252",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-topic-sentence-paraphrase-round252",
+    "title": "主题句题要看后文如何展开",
+    "keywords": [
+      "阅读",
+      "主题句",
+      "改写",
+      "段落结构",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议学生遇到主题句、段落主旨或改写题时，不要只看第一句话里的关键词。正确判断要同时看后文展开方式：是举例、解释原因、对比不同情况，还是提出问题再说明影响。训练时可以先用一句中文概括段落功能，再回到选项中找最接近的改写。这样能避免被单个熟词吸引，也能提高 RO、SWT 和阅读单选的结构判断能力。",
+    "source": "SunPace knowledge distillation round 252",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-discourse-marker-logic-round252",
+    "title": "话语标记要转成逻辑关系来用",
+    "keywords": [
+      "阅读",
+      "逻辑关系",
+      "话语标记",
+      "RO",
+      "SWT",
+      "Sunny"
+    ],
+    "answer": "Sunny 会把话语标记训练成逻辑动作，而不是让学生死背连接词。看到转折，要问前后观点哪里不同；看到原因和结果，要确认谁导致谁；看到补充，要判断是否在扩展同一观点；看到例子，要回到上位观点。这个动作对 RO 排序、SWT 总结和阅读选择题都很有帮助。复盘时不要只写连接词本身，要写它在句子之间承担的关系。",
+    "source": "SunPace knowledge distillation round 252",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-grammar-tense-clue-round252",
+    "title": "阅读里的时态线索能帮助判断语义范围",
+    "keywords": [
+      "阅读",
+      "语法",
+      "时态",
+      "语义范围",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议学生把语法当成理解工具，而不是只在语法题里使用。阅读中常见的现在时、过去时、完成时和进行时，往往提示事实、经历、变化过程或当前状态。做 FIB-RW、FIB-R 和单选时，如果选项都像对，就回到句子的时间范围和动作关系，看哪一个词能和前后语法同时成立。复盘时记录“我忽略了哪个时态或结构信号”。",
+    "source": "SunPace knowledge distillation round 252",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-vocabulary-context-before-translation-round252",
+    "title": "陌生词先看上下文功能再猜意思",
+    "keywords": [
+      "阅读",
+      "陌生词",
+      "上下文",
+      "词义判断",
+      "Sunny"
+    ],
+    "answer": "Sunny 不建议学生在阅读里遇到陌生词就停下来查意思。考试里更实用的动作是：先看它在句子里的词性，再看它连接的是原因、例子、对比还是定义，最后用上下文缩小语义范围。很多时候学生不需要知道一个词的完整中文，只需要判断它是正向、负向、动作、对象还是属性。这个方法能降低生词焦虑，也能保护阅读时间。",
+    "source": "SunPace knowledge distillation round 252",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-learning-cross-skill-note-system-round252",
+    "title": "跨题型笔记要记录同一个错误如何迁移",
+    "keywords": [
+      "复盘",
+      "跨题型",
+      "错题本",
+      "阅读",
+      "写作",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议学生把阅读、写作、听力和口语的错误放进同一个复盘系统里看。比如主题句判断弱，可能同时影响阅读主旨题、SWT 总结和写作段落展开；逻辑词不熟，可能影响 RO、SST 和 Essay 连接。每次复盘可以记录三个字段：错误动作、影响题型、下次修正动作。这样错题本就不是题目堆积，而是能力地图。",
+    "source": "SunPace knowledge distillation round 252",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-writing-speaking-from-input-to-output-round252",
+    "title": "输入材料要转成自己的输出动作",
+    "keywords": [
+      "输入输出",
+      "口语",
+      "写作",
+      "阅读",
+      "Sunny"
+    ],
+    "answer": "Sunny 会提醒学生：看懂材料只是第一步，真正提分要把输入转成可执行输出。阅读中看到清楚的结构，可以拿来练 SWT 的概括顺序；听力中抓到主干，可以拿来练 SST 的笔记层级；口语和写作中遇到表达卡顿，要回到输入材料里整理可复用句型。训练时不要只标记“这个我会了”，而要写清楚“下次我会怎么说、怎么写、怎么判断”。",
+    "source": "SunPace knowledge distillation round 252",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
