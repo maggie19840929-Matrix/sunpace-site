@@ -40462,5 +40462,420 @@
     "source": "SunPace knowledge distillation round 250",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-draft-pte-exam-ops-01-practice-test-and-score-planning-routine",
+    "title": "模考和成绩复盘如何转成学习计划",
+    "keywords": [
+      "模考",
+      "成绩复盘",
+      "学习计划",
+      "提分",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类备考规划内容先整理成一个可执行动作：把模考结果转成下周训练任务，而不是只看总分。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先看各技能的真实短板，再安排训练顺序；把错误分成知识、方法、注意力和时间四类；每次模考后为每个技能写一个可执行动作。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-general-01-resource-triage-and-study-planning",
+    "title": "PTE 资料太多时如何筛选",
+    "keywords": [
+      "资料筛选",
+      "学习计划",
+      "复盘",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类综合备考内容先整理成一个可执行动作：按当前短板和提分影响排序，先保留最有用的一小组材料。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先按当前分数短板筛材料；每轮只保留方法笔记、训练题和复盘记录三类内容；重复或低信号内容先归档，避免打乱主线。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-listening-01-listening-fib-sound-form-training",
+    "title": "听力 FIB 如何训练声音和词形",
+    "keywords": [
+      "听力FIB",
+      "词形",
+      "语法结尾",
+      "精听",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类听力内容先整理成一个可执行动作：先判断空格词性，再核对听到的词形和语法结尾。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：第一轮只抓任务动作，第二轮记录错因；把辨音、拼写、语法结尾和时间压力分开复盘；下一次训练只优先解决最高频的一类错误。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-listening-02-sst-note-to-summary-workflow",
+    "title": "SST 听力总结怎么从笔记变成答案（方法卡）",
+    "keywords": [
+      "SST",
+      "听力总结",
+      "笔记",
+      "概括",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类听力内容先整理成一个可执行动作：先抓主旨和两到三个支撑点，再用自己的句子合成答案。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：第一轮只抓任务动作，第二轮记录错因；把辨音、拼写、语法结尾和时间压力分开复盘；下一次训练只优先解决最高频的一类错误。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-listening-03-wfd-accuracy-loop",
+    "title": "WFD 听写准确率怎么练（方法卡）",
+    "keywords": [
+      "WFD",
+      "听写",
+      "精听",
+      "拼写",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类听力内容先整理成一个可执行动作：把“听到、记住、写准、复查”拆成一个固定循环。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：第一轮只抓任务动作，第二轮记录错因；把辨音、拼写、语法结尾和时间压力分开复盘；下一次训练只优先解决最高频的一类错误。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-reading-01-reading-fib-context-first-selection",
+    "title": "阅读 FIB 如何先看上下文再选词（方法卡）",
+    "keywords": [
+      "阅读FIB",
+      "上下文",
+      "词性",
+      "搭配",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类阅读内容先整理成一个可执行动作：先读句子关系和空格功能，再选择最贴合语境的词。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先判断句子或段落关系，再处理选项；把错题归为词汇、语法、搭配或逻辑衔接；复盘时写下当时误判的依据。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-reading-02-ro-cohesion-map",
+    "title": "RO 排序如何抓衔接关系（方法卡）",
+    "keywords": [
+      "RO",
+      "排序",
+      "逻辑衔接",
+      "段落",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类阅读内容先整理成一个可执行动作：用主题句、代词指代、时间顺序和转折关系建立段落地图。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先判断句子或段落关系，再处理选项；把错题归为词汇、语法、搭配或逻辑衔接；复盘时写下当时误判的依据。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-reading-03-fib-rw-grammar-and-collocation-path",
+    "title": "FIB-RW 如何用语法和搭配判断",
+    "keywords": [
+      "FIB-RW",
+      "阅读写作填空",
+      "语法",
+      "搭配",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类阅读内容先整理成一个可执行动作：先用语法缩小范围，再用搭配和上下文确认答案。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先判断句子或段落关系，再处理选项；把错题归为词汇、语法、搭配或逻辑衔接；复盘时写下当时误判的依据。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-speaking-01-di-rl-flexible-response-frame",
+    "title": "DI/RL 如何用灵活框架回答（方法卡）",
+    "keywords": [
+      "DI",
+      "RL",
+      "口语",
+      "框架",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类口语内容先整理成一个可执行动作：准备可替换的观察、比较和结论表达，而不是死背固定段落。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先确定回答结构，再练声音稳定性；把卡顿、漏词、语速和发音分别记录；每天用短组训练保持节奏，而不是一次练太久。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-speaking-02-new-speaking-task-planning",
+    "title": "新口语题型如何组织回答（方法卡）",
+    "keywords": [
+      "口语",
+      "新题型",
+      "回答结构",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类口语内容先整理成一个可执行动作：先确认任务要求，再用简短结构组织信息和结论。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先确定回答结构，再练声音稳定性；把卡顿、漏词、语速和发音分别记录；每天用短组训练保持节奏，而不是一次练太久。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-speaking-03-read-aloud-fluency-routine",
+    "title": "RA 朗读如何稳定节奏和清晰度（方法卡）",
+    "keywords": [
+      "RA",
+      "朗读",
+      "流利度",
+      "发音",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类口语内容先整理成一个可执行动作：用意群、重音和停顿控制节奏，优先保证稳定清晰。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先确定回答结构，再练声音稳定性；把卡顿、漏词、语速和发音分别记录；每天用短组训练保持节奏，而不是一次练太久。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-speaking-04-repeat-sentence-memory-chain",
+    "title": "RS 复述如何抓主干和意群（方法卡）",
+    "keywords": [
+      "RS",
+      "复述",
+      "记忆链",
+      "意群",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类口语内容先整理成一个可执行动作：先抓句子主干和关键词，再按意群顺序复述。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先确定回答结构，再练声音稳定性；把卡顿、漏词、语速和发音分别记录；每天用短组训练保持节奏，而不是一次练太久。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-writing-01-writing-structure-and-review-checklist",
+    "title": "写作如何建立结构和复盘清单（方法卡）",
+    "keywords": [
+      "写作",
+      "结构",
+      "SWT",
+      "WE",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类写作内容先整理成一个可执行动作：先固定审题、结构和检查顺序，再逐步提高表达质量。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先审题并确定结构，再开始写；完成后按内容完整度、连接、语法和字数顺序检查；错句要改成可复用表达，而不是只看分数。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-general-02-general-study-lesson-synthesis",
+    "title": "PTE 学习内容如何沉淀成稳定方法",
+    "keywords": [
+      "PTE",
+      "学习方法",
+      "复盘",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类综合备考内容先整理成一个可执行动作：把零散内容转成题型动作、错因和下一步训练。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先提炼一个题型动作；再记录一个错因；最后安排下一次可执行训练。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-listening-04-listening-fib-hiw-lesson-derived-sound-workf",
+    "title": "听力 FIB/HIW 怎么做精听复盘",
+    "keywords": [
+      "听力FIB",
+      "HIW",
+      "精听",
+      "辨音",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类听力内容先整理成一个可执行动作：用词性预判、声音辨别和错因记录一起做复盘。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：第一轮只抓任务动作，第二轮记录错因；把辨音、拼写、语法结尾和时间压力分开复盘；下一次训练只优先解决最高频的一类错误。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-listening-05-listening-lesson-method-synthesis",
+    "title": "听力课后如何沉淀成可复用方法",
+    "keywords": [
+      "听力",
+      "复盘",
+      "错因",
+      "方法",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类听力内容先整理成一个可执行动作：把每次听力练习拆成题型动作、错因和下次训练目标。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：第一轮只抓任务动作，第二轮记录错因；把辨音、拼写、语法结尾和时间压力分开复盘；下一次训练只优先解决最高频的一类错误。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-listening-06-sst-lesson-derived-summary-workflow",
+    "title": "SST 听力总结怎么从笔记变成答案（课后复盘）",
+    "keywords": [
+      "SST",
+      "听力总结",
+      "笔记",
+      "概括",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类听力内容先整理成一个可执行动作：先抓主旨和两到三个支撑点，再用自己的句子合成答案。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：第一轮只抓任务动作，第二轮记录错因；把辨音、拼写、语法结尾和时间压力分开复盘；下一次训练只优先解决最高频的一类错误。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-listening-07-wfd-lesson-derived-accuracy-workflow",
+    "title": "WFD 听写准确率怎么练（课后复盘）",
+    "keywords": [
+      "WFD",
+      "听写",
+      "精听",
+      "拼写",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类听力内容先整理成一个可执行动作：把“听到、记住、写准、复查”拆成一个固定循环。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：第一轮只抓任务动作，第二轮记录错因；把辨音、拼写、语法结尾和时间压力分开复盘；下一次训练只优先解决最高频的一类错误。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-reading-04-reading-fib-lesson-derived-decision-workflow",
+    "title": "阅读 FIB 如何先看上下文再选词（课后复盘）",
+    "keywords": [
+      "阅读FIB",
+      "上下文",
+      "词性",
+      "搭配",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类阅读内容先整理成一个可执行动作：先读句子关系和空格功能，再选择最贴合语境的词。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先判断句子或段落关系，再处理选项；把错题归为词汇、语法、搭配或逻辑衔接；复盘时写下当时误判的依据。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-reading-05-reading-lesson-method-synthesis",
+    "title": "阅读课后如何建立题型判断路径",
+    "keywords": [
+      "阅读",
+      "题型判断",
+      "错题复盘",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类阅读内容先整理成一个可执行动作：把错题归到词汇、语法、搭配或逻辑关系，再安排下一轮训练。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先判断句子或段落关系，再处理选项；把错题归为词汇、语法、搭配或逻辑衔接；复盘时写下当时误判的依据。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-reading-06-ro-lesson-derived-cohesion-workflow",
+    "title": "RO 排序如何抓衔接关系（课后复盘）",
+    "keywords": [
+      "RO",
+      "排序",
+      "逻辑衔接",
+      "段落",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类阅读内容先整理成一个可执行动作：用主题句、代词指代、时间顺序和转折关系建立段落地图。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先判断句子或段落关系，再处理选项；把错题归为词汇、语法、搭配或逻辑衔接；复盘时写下当时误判的依据。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-speaking-05-di-rl-lesson-derived-response-workflow",
+    "title": "DI/RL 如何用灵活框架回答（课后复盘）",
+    "keywords": [
+      "DI",
+      "RL",
+      "口语",
+      "框架",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类口语内容先整理成一个可执行动作：准备可替换的观察、比较和结论表达，而不是死背固定段落。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先确定回答结构，再练声音稳定性；把卡顿、漏词、语速和发音分别记录；每天用短组训练保持节奏，而不是一次练太久。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-speaking-06-speaking-lesson-method-synthesis",
+    "title": "口语课后如何转成每日训练动作",
+    "keywords": [
+      "口语",
+      "流利度",
+      "发音",
+      "复盘",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类口语内容先整理成一个可执行动作：把课上方法变成短时高频训练，并记录卡顿原因。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先确定回答结构，再练声音稳定性；把卡顿、漏词、语速和发音分别记录；每天用短组训练保持节奏，而不是一次练太久。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-speaking-07-new-speaking-task-lesson-synthesis",
+    "title": "新口语题型如何组织回答（课后复盘）",
+    "keywords": [
+      "口语",
+      "新题型",
+      "回答结构",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类口语内容先整理成一个可执行动作：先确认任务要求，再用简短结构组织信息和结论。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先确定回答结构，再练声音稳定性；把卡顿、漏词、语速和发音分别记录；每天用短组训练保持节奏，而不是一次练太久。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-speaking-08-ra-lesson-derived-fluency-workflow",
+    "title": "RA 朗读如何稳定节奏和清晰度（课后复盘）",
+    "keywords": [
+      "RA",
+      "朗读",
+      "流利度",
+      "发音",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类口语内容先整理成一个可执行动作：用意群、重音和停顿控制节奏，优先保证稳定清晰。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先确定回答结构，再练声音稳定性；把卡顿、漏词、语速和发音分别记录；每天用短组训练保持节奏，而不是一次练太久。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-speaking-09-rs-lesson-derived-memory-workflow",
+    "title": "RS 复述如何抓主干和意群（课后复盘）",
+    "keywords": [
+      "RS",
+      "复述",
+      "记忆链",
+      "意群",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类口语内容先整理成一个可执行动作：先抓句子主干和关键词，再按意群顺序复述。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先确定回答结构，再练声音稳定性；把卡顿、漏词、语速和发音分别记录；每天用短组训练保持节奏，而不是一次练太久。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-vocab-01-vocabulary-and-grammar-lesson-synthesis",
+    "title": "词汇语法如何服务题型判断",
+    "keywords": [
+      "词汇",
+      "语法",
+      "搭配",
+      "题型判断",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类词汇语法内容先整理成一个可执行动作：把词汇和语法放回题型中练，重点看能否帮助判断答案。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：词汇不单独背清单，要放进题型里验证；优先整理高频搭配、词性变化和语法功能；复盘时记录这个知识点帮助了哪一种判断。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-draft-pte-writing-02-writing-lesson-method-synthesis",
+    "title": "写作如何建立结构和复盘清单（课后复盘）",
+    "keywords": [
+      "写作",
+      "结构",
+      "SWT",
+      "WE",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把这类写作内容先整理成一个可执行动作：先固定审题、结构和检查顺序，再逐步提高表达质量。训练时不要只追求刷完数量，而要按“做题动作、错因分类、下次修正”三个环节复盘。具体可以这样做：先审题并确定结构，再开始写；完成后按内容完整度、连接、语法和字数顺序检查；错句要改成可复用表达，而不是只看分数。建议每次练完都写一行复盘：错在哪里、为什么错、下一次用什么动作修正。这样整理后的内容可以进入学习计划，但仍需要老师或学员根据目标分数做最后取舍。",
+    "source": "SunPace knowledge distillation round 251",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
