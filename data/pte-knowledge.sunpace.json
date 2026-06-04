@@ -41000,5 +41000,126 @@
     "source": "SunPace knowledge distillation round 252",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-di-map-conclusion-implication-round253",
+    "title": "DI 地图题最后要补一句结论或影响",
+    "keywords": [
+      "Describe Image",
+      "地图题",
+      "结论句",
+      "影响",
+      "Sunny"
+    ],
+    "answer": "Sunny 会把地图类 DI 训练成三步：先说图表对象和时间范围，再点出最明显的区域差异，最后补一句可以从图中推出的影响。很多学生只报城市、颜色和数字，内容听起来像清单；如果能用一句话说明某些区域将面临更高风险、资源需求或规划压力，答案就更像完整描述。结论句不需要夸张，稳定使用“这说明……”“因此可能需要……”这类表达即可。",
+    "source": "SunPace knowledge distillation round 253",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-essay-conclusion-summary-opinion-round253",
+    "title": "作文结尾先概括主体再给立场或建议",
+    "keywords": [
+      "Write Essay",
+      "结尾段",
+      "概括",
+      "立场",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议学生把 Essay 结尾写成两个功能块：第一句概括主体段已经论证过的核心理由，第二句回到自己的立场、平衡判断或未来建议。不要在结尾突然展开新例子，也不要只写一句空泛的“总之很重要”。正式表达可以用“总体来看”“因此”“基于以上原因”这类衔接词，语气要收束，观点要清楚。这样结尾既不重复全文，也不会显得仓促。",
+    "source": "SunPace knowledge distillation round 253",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-reading-writer-purpose-clue-words-round253",
+    "title": "阅读作者目的题要看态度词和结构词",
+    "keywords": [
+      "阅读",
+      "作者目的",
+      "态度",
+      "逻辑词",
+      "Sunny"
+    ],
+    "answer": "Sunny 在训练单选或多选阅读时，会让学生先判断作者是在告知、说服、批评、比较还是对比。线索通常藏在词语功能里：中性事实和数据偏向 inform，beneficial、necessary 一类词常带正向说服，poor、ineffective、concerned 常提示批评，similarly 和 both 常提示比较，however、whereas 则提示对比。做题时不要只看主题词是否出现，要判断整段文字的写作动作。",
+    "source": "SunPace knowledge distillation round 253",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-reading-definition-boundary-round253",
+    "title": "学术阅读里的定义句是选项边界",
+    "keywords": [
+      "阅读",
+      "定义句",
+      "多选",
+      "术语",
+      "Sunny"
+    ],
+    "answer": "Sunny 会提醒学生：学术阅读中出现 define、refer to、mean、is known as 或破折号解释时，后面的内容往往决定选项能不能选。定义句的作用不是让学生背术语，而是划清范围：哪些例子属于这个概念，哪些只是相似但不属于。多选题尤其要小心，选项如果把定义范围扩大、缩小或换成常识判断，即使主题相关也要排除。",
+    "source": "SunPace knowledge distillation round 253",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-vocabulary-prefix-function-round253",
+    "title": "前缀学习要绑定功能而不是只背中文",
+    "keywords": [
+      "词汇",
+      "前缀",
+      "re",
+      "mis",
+      "over",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议学生把前缀当作语义方向来记。re- 常提示再次或回到原状态，mis- 常提示错误理解或错误处理，over- 常提示过度；anti-、pro-、non-、pre-、post- 等也都能帮助快速判断词义方向。考试里不一定需要完整翻译一个生词，但如果能先判断它是反对、支持、非某类、提前、之后或跨越，就能更快判断句子态度和选项关系。",
+    "source": "SunPace knowledge distillation round 253",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-rs-linking-fluency-round253",
+    "title": "RS 流利度要练辅音到元音的自然连读",
+    "keywords": [
+      "Repeat Sentence",
+      "连读",
+      "流利度",
+      "发音",
+      "Sunny"
+    ],
+    "answer": "Sunny 在 RS 训练里会把流利度拆到词组层面，尤其关注前一个词以辅音结尾、后一个词以元音开头时的自然连接。学生如果每个词都停顿，句子会变成碎片；如果先把常见短语连成小块，再保持稳定语速，内容即使不完美也更容易听起来完整。练习时可以先标出连读位置，再跟读两遍，最后脱稿复述同一句。",
+    "source": "SunPace knowledge distillation round 253",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-hcs-overview-classification-note-round253",
+    "title": "HCS 笔记先抓总览再分类细节",
+    "keywords": [
+      "Highlight Correct Summary",
+      "听力",
+      "笔记",
+      "分类",
+      "Sunny"
+    ],
+    "answer": "Sunny 训练 HCS 时会强调：开头几句通常给出话题总览或结构方向，后面才展开原因、挑战、例子或结果。学生听的时候不要只记零散名词，而要给笔记分栏，例如背景、原因、问题、结果、评价。选 summary 时先看哪一个选项覆盖了整体结构，再检查细节是否错位。这样可以避免被某个听到过的单词带偏。",
+    "source": "SunPace knowledge distillation round 253",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-essay-problem-solution-introduction-round253",
+    "title": "问题解决型作文开头要同时点出问题和回应方向",
+    "keywords": [
+      "Write Essay",
+      "问题解决",
+      "开头段",
+      "审题",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议学生遇到 problem-solution 类作文时，开头段不要只改写题目。第一句可以交代问题背景，第二句点出题目提出的解决方向，第三句给出自己的判断或文章将讨论的重点。比如城市拥挤和交通问题，不能只说“这是一个严重问题”，还要说明搬离城市、公共交通、住房规划等方案各有利弊。开头段的任务是让考官马上看到你理解了问题类型。",
+    "source": "SunPace knowledge distillation round 253",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
