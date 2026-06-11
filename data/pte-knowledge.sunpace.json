@@ -42032,5 +42032,341 @@
     "source": "SunPace knowledge distillation round 261",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-selfcheck-round262-01",
+    "title": "自检先问能不能复现错误",
+    "keywords": [
+      "自检",
+      "错因复盘",
+      "Sunny 使用",
+      "学习闭环"
+    ],
+    "answer": "学生复盘错题时，第一句自检可以问：我能不能复现这个错误。能复现，说明错因比较稳定，可以安排专项训练；不能复现，说明可能是偶发失误，需要先收集更多样本。Sunny 给建议前也可以先判断错误是否可重复。这样能避免把一次偶然失误误判成长期短板。",
+    "source": "SunPace knowledge distillation round 262",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-selfcheck-round262-02",
+    "title": "口语自检先听节奏再听细音",
+    "keywords": [
+      "口语",
+      "自检",
+      "节奏",
+      "录音复盘"
+    ],
+    "answer": "口语录音自检时，不要一开始就纠结每一个细音。先听整体节奏：有没有长时间停顿、重复回读、句子断裂或尾音拖长。节奏问题通常比个别发音更影响稳定输出。等节奏稳定后，再让 Sunny 帮忙检查容易混淆的音、重音和语调细节，训练顺序会更清楚。",
+    "source": "SunPace knowledge distillation round 262",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-selfcheck-round262-03",
+    "title": "听力自检记录漏掉的信息类型",
+    "keywords": [
+      "听力",
+      "自检",
+      "漏听",
+      "信息类型"
+    ],
+    "answer": "听力错题自检时，学生要记录漏掉的是哪类信息：小词、复数、数字、专有名词、转折，还是句尾内容。只写“没听懂”太粗，无法指导下一步训练。把漏听类型写清楚后，Sunny 才能建议是做功能词听写、数字反应、句尾跟读，还是信息点定位练习。",
+    "source": "SunPace knowledge distillation round 262",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-selfcheck-round262-04",
+    "title": "阅读自检要写出选择依据",
+    "keywords": [
+      "阅读",
+      "自检",
+      "选择依据",
+      "错因"
+    ],
+    "answer": "阅读题自检不能只记录正确答案，还要写出自己当时的选择依据。比如是看词性、看搭配、看逻辑关系，还是凭熟悉感选择。很多阅读错误不是不知道答案，而是判断依据不稳定。让 Sunny 看到选择依据，才能判断学生需要补词汇、语法、句间逻辑，还是做干扰项识别。",
+    "source": "SunPace knowledge distillation round 262",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-selfcheck-round262-05",
+    "title": "写作自检先看任务完成度",
+    "keywords": [
+      "写作",
+      "自检",
+      "任务完成",
+      "结构"
+    ],
+    "answer": "写作自检时，先看任务是否完成，再看表达是否高级。学生可以检查：题目要求有没有回应，结构是否完整，核心观点是否清楚，句子是否有明显语法错误。高级表达是加分项，但任务完成度和结构稳定是底盘。Sunny 给写作建议时，也应先保护底盘，再逐步优化词句。",
+    "source": "SunPace knowledge distillation round 262",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-selfcheck-round262-06",
+    "title": "复述类自检区分记忆失败和表达失败",
+    "keywords": [
+      "复述",
+      "自检",
+      "记忆",
+      "表达"
+    ],
+    "answer": "复述类任务出错时，学生要区分是记忆失败，还是表达失败。记忆失败表现为信息点没抓住；表达失败表现为知道内容但说不顺、句子组织慢或频繁停顿。两类问题训练方式不同：前者练信息捕捉和笔记，后者练句型组织和限时输出。Sunny 的诊断也应该先分清这两条线。",
+    "source": "SunPace knowledge distillation round 262",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-selfcheck-round262-07",
+    "title": "模考自检用三句话完成初筛",
+    "keywords": [
+      "模考",
+      "自检",
+      "初筛",
+      "复盘"
+    ],
+    "answer": "模考结束后，学生可以先用三句话完成初筛：本次最拉分的是哪个题型，最重复的错因是什么，下一周只改哪一个动作。三句话不解决所有问题，但能防止复盘发散。之后再把这三句话交给 Sunny，让它帮助拆成训练任务、检查指标和下一次复盘时间。",
+    "source": "SunPace knowledge distillation round 262",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-selfcheck-round262-08",
+    "title": "自检表不要超过五项",
+    "keywords": [
+      "自检表",
+      "学习效率",
+      "复盘",
+      "执行力"
+    ],
+    "answer": "自检表越长，学生越容易放弃。日常自检建议不超过五项，而且每一项都要能直接判断完成或未完成。比如“是否回听录音”“是否记录漏词类型”“是否写出选择依据”。Sunny 可以帮助学生把复杂复盘压缩成短表，重点是提高执行率，而不是把记录做得很复杂。",
+    "source": "SunPace knowledge distillation round 262",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-review-round263-01",
+    "title": "成绩单解读先看目标差距和题型来源",
+    "keywords": [
+      "成绩单",
+      "模考复盘",
+      "目标差距",
+      "题型来源"
+    ],
+    "answer": "学生拿到成绩单后，不要只盯总分，要先看目标差距和分数来源。比如差 5 分和差 20 分，计划完全不同；口语、听力、阅读、写作哪一项拖后腿，也会决定优先训练题型。Sunny 解读成绩时，应把分数翻译成题型动作：先保高供分题，再修影响稳定性的细节。",
+    "source": "SunPace knowledge distillation round 263",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-review-round263-02",
+    "title": "分数下降先排除状态和样本波动",
+    "keywords": [
+      "分数下降",
+      "模考波动",
+      "状态",
+      "样本"
+    ],
+    "answer": "一次模考分数下降，不一定代表能力退步。学生应先排除状态、睡眠、题目难度、做题环境和样本波动，再判断是否需要调整训练。Sunny 可以先问最近练习量和考试状态，再看错题类型是否重复出现。只有重复出现的下降信号，才值得进入专项修正。",
+    "source": "SunPace knowledge distillation round 263",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-review-round263-03",
+    "title": "口语低分要同时检查流利度和内容完整度",
+    "keywords": [
+      "口语低分",
+      "流利度",
+      "内容完整度",
+      "复盘"
+    ],
+    "answer": "口语分低时，学生常只怀疑发音，但 Sunny 应提醒同时检查流利度和内容完整度。停顿、回读、卡壳会影响输出稳定；内容遗漏也会让任务完成度变弱。复盘时先听录音节奏，再检查是否覆盖题目要求。不要把所有口语问题都归因到发音，训练才不会跑偏。",
+    "source": "SunPace knowledge distillation round 263",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-review-round263-04",
+    "title": "听力低分先查高影响任务和漏听类型",
+    "keywords": [
+      "听力低分",
+      "高影响任务",
+      "漏听类型",
+      "复盘"
+    ],
+    "answer": "听力低分时，学生要先查高影响任务表现，再看漏听类型。是句子末尾漏掉、小词漏掉、数字反应慢，还是信息点抓不住。Sunny 的建议应从最能带动分数的任务开始，再安排具体练习。只说“多听精听”太宽泛，无法帮助学生判断今天该练什么。",
+    "source": "SunPace knowledge distillation round 263",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-review-round263-05",
+    "title": "阅读低分要分清词汇缺口和判断流程问题",
+    "keywords": [
+      "阅读低分",
+      "词汇",
+      "判断流程",
+      "错因"
+    ],
+    "answer": "阅读低分不一定只是词汇量不够。学生要分清是看不懂词、不会判断词性、忽略上下文逻辑，还是被干扰项带走。Sunny 复盘阅读时，可以要求学生写出当时选择依据。若依据本身错误，就补判断流程；若依据正确但词不认识，再补词汇和搭配。",
+    "source": "SunPace knowledge distillation round 263",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-review-round263-06",
+    "title": "写作低分先保护结构和任务回应",
+    "keywords": [
+      "写作低分",
+      "结构",
+      "任务回应",
+      "评分风险"
+    ],
+    "answer": "写作低分时，学生容易急着换高级词句，但 Sunny 应先检查结构和任务回应。文章是否回答题目，段落是否清楚，句子是否有明显语法风险，这些比装饰性表达更基础。只有底层结构稳定后，再优化连接、词汇和句型。冲刺阶段尤其要先保评分风险最低的写法。",
+    "source": "SunPace knowledge distillation round 263",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-review-round263-07",
+    "title": "目标分接近时优先减少失误率",
+    "keywords": [
+      "目标分",
+      "失误率",
+      "冲刺",
+      "稳定性"
+    ],
+    "answer": "当学生已经接近目标分时，计划重点应从大量新增内容转向减少失误率。比如固定检查流程、复盘重复错因、减少口语停顿和写作低级错误。Sunny 可以把计划压缩成稳定输出清单，而不是继续加很多新任务。接近目标分时，少错往往比多学更重要。",
+    "source": "SunPace knowledge distillation round 263",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-review-round263-08",
+    "title": "成绩单复盘要输出下一次验证方式",
+    "keywords": [
+      "成绩单复盘",
+      "验证方式",
+      "学习闭环",
+      "Sunny"
+    ],
+    "answer": "成绩单复盘结束时，要输出下一次验证方式。比如三天后做一次小测、一周后看同题型正确率，或下一套模考检查某个小分是否回升。没有验证方式，复盘只是解释过去；有验证方式，复盘才会变成训练闭环。Sunny 的最后一步应帮助学生约定如何判断计划有效。",
+    "source": "SunPace knowledge distillation round 263",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-day-round264-01",
+    "title": "考试当天只保留熟悉流程",
+    "keywords": [
+      "考试当天",
+      "熟悉流程",
+      "冲刺",
+      "稳定输出"
+    ],
+    "answer": "考试当天不适合临时学习新方法。学生应只保留已经练熟的流程：口语按固定节奏开口，写作按固定结构检查，听力按固定记录方式跟进。临场新增技巧容易打乱节奏。Sunny 的考前提醒应该帮助学生减少变量，而不是给出一长串新任务。",
+    "source": "SunPace knowledge distillation round 264",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-day-round264-02",
+    "title": "考前热身要短而明确",
+    "keywords": [
+      "考前热身",
+      "考试当天",
+      "短练习",
+      "状态"
+    ],
+    "answer": "考前热身不需要做很多题，重点是唤醒状态。可以用少量口语朗读、几句听写、一个写作结构回顾和两三道阅读判断题。热身的目标不是刷出进步，而是让大脑进入考试节奏。Sunny 给考前热身建议时，应控制数量，避免让学生在开考前就疲劳。",
+    "source": "SunPace knowledge distillation round 264",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-day-round264-03",
+    "title": "临场卡住时先恢复下一题节奏",
+    "keywords": [
+      "临场卡顿",
+      "考试节奏",
+      "心态",
+      "下一题"
+    ],
+    "answer": "考试中某一题卡住时，最重要的是恢复下一题节奏。学生可以快速做完当前可完成部分，然后把注意力转到下一题。一次失误不能变成连续失误。Sunny 的临场策略应提醒学生：先止损，再恢复节奏；不要在考试中反复回想已经过去的题。",
+    "source": "SunPace knowledge distillation round 264",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-day-round264-04",
+    "title": "口语开头三题优先稳住声音和速度",
+    "keywords": [
+      "口语",
+      "考试当天",
+      "声音",
+      "速度"
+    ],
+    "answer": "口语部分一开始，学生应优先稳住声音和速度。前几题不是用来追求完美发音，而是建立输出节奏：音量清楚、速度稳定、不要回读、不要长停顿。开头过度紧张会影响后续表现。Sunny 可以把口语临场提醒压缩成一句：清楚开口，稳定往前读。",
+    "source": "SunPace knowledge distillation round 264",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-day-round264-05",
+    "title": "写作检查先抓结构再抓小错",
+    "keywords": [
+      "写作检查",
+      "考试当天",
+      "结构",
+      "小错"
+    ],
+    "answer": "写作临场检查时，先抓结构，再抓小错。学生应先确认题目回应、段落完整、观点清楚，再检查时态、单复数、拼写和标点。若时间很少，结构风险比个别词句更值得优先处理。Sunny 的写作临场建议应帮助学生按风险排序，不要平均用力。",
+    "source": "SunPace knowledge distillation round 264",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-day-round264-06",
+    "title": "听力后半程要防止注意力下滑",
+    "keywords": [
+      "听力",
+      "注意力",
+      "考试当天",
+      "后半程"
+    ],
+    "answer": "听力后半程容易因为疲劳出现漏听。学生可以用小动作提醒自己：每题开始前重新看任务、听到转折词提高注意、句尾不要提前放松。Sunny 的听力临场策略应强调注意力管理，而不只是听力能力本身。考试后半程稳住，往往能少丢很多不该丢的分。",
+    "source": "SunPace knowledge distillation round 264",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-day-round264-07",
+    "title": "出考场后先记录事实不要立刻否定自己",
+    "keywords": [
+      "考后复盘",
+      "事实记录",
+      "心态",
+      "学习闭环"
+    ],
+    "answer": "出考场后，学生最好先记录事实，不要立刻用情绪判断成败。可以写下哪些题型顺利、哪些地方卡住、是否有明显失误、体力状态如何。事实记录会帮助 Sunny 做考后复盘，也能避免因为紧张记忆而过度放大某个错误。考后第一步是收集信息，不是评价自己。",
+    "source": "SunPace knowledge distillation round 264",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-day-round264-08",
+    "title": "下一次备考从考后事实清单开始",
+    "keywords": [
+      "考后复盘",
+      "下一次备考",
+      "事实清单",
+      "Sunny"
+    ],
+    "answer": "如果需要继续备考，下一轮计划应从考后事实清单开始，而不是从情绪重新开始。学生可以把成绩单、考场感受、明显失误和训练执行情况整理成简短清单，再让 Sunny 判断下一轮优先级。这样每次考试都能沉淀信息，避免重复走同样的弯路。",
+    "source": "SunPace knowledge distillation round 264",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
