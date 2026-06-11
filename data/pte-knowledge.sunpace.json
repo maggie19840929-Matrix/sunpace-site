@@ -41241,5 +41241,348 @@
     "source": "SunPace knowledge distillation round 254",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-quality-round255-01",
+    "title": "转写完成后先看状态，不急着做成答案",
+    "keywords": [
+      "转写结果",
+      "质量分流",
+      "复盘",
+      "学习计划",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议学生看到一批转写或听写记录后，先分状态：可用文本、低文本、空文本、跳过或错误。可用文本才进入方法复盘；低文本只提取少量能验证的听力问题；空文本和错误记录主要用于判断素材质量。这样做可以避免把不稳定材料硬整理成答案，也能把时间留给真正能迁移到考试的训练动作。",
+    "source": "SunPace knowledge distillation round 255",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-quality-round255-02",
+    "title": "低文本记录只提炼错因，不扩写内容",
+    "keywords": [
+      "低文本",
+      "听力复盘",
+      "错因",
+      "质量控制",
+      "Sunny"
+    ],
+    "answer": "低文本记录通常说明素材太短、声音不完整或识别信息不足。Sunny 会让学生只从中提炼错因，比如是不是漏听开头、听不清连读、拼写反应太慢，或者背景噪音影响判断。不要根据低文本去扩写内容，也不要把它当完整题解。低文本的价值是提醒你训练哪里断了，而不是提供可背材料。",
+    "source": "SunPace knowledge distillation round 255",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-quality-round255-03",
+    "title": "空文本记录是素材筛选信号，不是学习失败",
+    "keywords": [
+      "空文本",
+      "音频质量",
+      "素材筛选",
+      "学习效率",
+      "Sunny"
+    ],
+    "answer": "遇到空文本记录时，Sunny 会先把它看作素材筛选信号，而不是学生能力问题。可能原因包括静音、音量过低、截断、格式异常或内容太短。学生要做的是标记原因并换到更稳定的练习材料；如果反复把不可用素材当成听力弱点，会浪费时间，也会让复盘结论失真。",
+    "source": "SunPace knowledge distillation round 255",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-quality-round255-04",
+    "title": "听力错因和素材问题要分开记录",
+    "keywords": [
+      "听力",
+      "错因分类",
+      "素材质量",
+      "复盘表",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议错题表至少分两列：一列写自己的听力错因，一列写素材问题。自己的错因包括没听出重音、词形写错、记忆容量不够；素材问题包括音频截断、背景声重、题目不完整或文本质量低。两类问题混在一起，会导致学生把材料缺陷当成能力缺陷，训练计划也会跟着偏掉。",
+    "source": "SunPace knowledge distillation round 255",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-quality-round255-05",
+    "title": "短音频和长课内容要用不同复盘目标",
+    "keywords": [
+      "短音频",
+      "长课",
+      "复盘目标",
+      "听力训练",
+      "Sunny"
+    ],
+    "answer": "短音频更适合练声音到词形的即时反应，长课或长讲座更适合练结构、主题和方法归纳。Sunny 不建议把两类材料放在同一个复盘标准下比较。短音频看准确率、词形和反应速度；长内容看能否抓主线、分类笔记和输出框架。目标分开以后，训练数据才有解释力。",
+    "source": "SunPace knowledge distillation round 255",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-quality-round255-06",
+    "title": "把每条素材转成一个下一步动作",
+    "keywords": [
+      "复盘",
+      "下一步动作",
+      "训练闭环",
+      "Sunny"
+    ],
+    "answer": "Sunny 会让学生在每条练习素材后面写一个下一步动作，而不是只写对错。比如 WFD 漏小词，就安排 10 句功能词听写；LFIB 词形错，就做同词族转换；SST 抓不到逻辑，就重听并画原因结果链。复盘的终点不是总结一句感受，而是生成下一次练习可以执行的动作。",
+    "source": "SunPace knowledge distillation round 255",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-quality-round255-07",
+    "title": "重复主题素材要合并错因，不重复背内容",
+    "keywords": [
+      "重复素材",
+      "错因合并",
+      "主题复盘",
+      "题库整理",
+      "Sunny"
+    ],
+    "answer": "如果多条素材讲的是相近主题，Sunny 建议合并错因，而不是重复背每一条内容。可以把主题归成环境、教育、科技、健康、经济等标签，再记录自己常漏的是术语、数字、因果关系还是态度词。这样复盘会形成主题能力图；如果只是堆积相似题句，学生容易以为自己练得很多，但实际迁移很少。",
+    "source": "SunPace knowledge distillation round 255",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-quality-round255-08",
+    "title": "公开知识化前先过三问",
+    "keywords": [
+      "公开知识",
+      "改写",
+      "版权安全",
+      "方法萃取",
+      "Sunny"
+    ],
+    "answer": "Sunny 在把内部练习整理成公开知识前，会先过三问：这条内容是不是方法而不是原题，是否去掉了来源和路径信息，是否能帮助学生处理同类问题。如果三问有任何一个答不上来，就继续保留在私有复盘里。公开知识应该像训练建议，而不是材料摘录；这样既安全，也更有长期教学价值。",
+    "source": "SunPace knowledge distillation round 255",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-planning-round256-01",
+    "title": "全资源处理完后先做题型覆盖图",
+    "keywords": [
+      "学习计划",
+      "题型覆盖",
+      "资料整理",
+      "Sunny"
+    ],
+    "answer": "当本地资料都已经完成转写或 OCR 后，Sunny 不建议马上继续堆新材料，而是先做题型覆盖图。把材料按 RA、RS、DI、RL、SWT、WE、FIB、RO、SST、WFD 等题型标出来，再看哪些题型只有题目没有方法，哪些只有讲解没有练习。覆盖图的作用是让学生知道下一周补哪里，而不是证明自己资料很多。",
+    "source": "SunPace knowledge distillation round 256",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-planning-round256-02",
+    "title": "资料完成率不等于能力完成率",
+    "keywords": [
+      "资料完成率",
+      "能力诊断",
+      "备考规划",
+      "Sunny"
+    ],
+    "answer": "Sunny 会提醒学生：资料处理完、题库看完或音频听完，都不等于能力完成。真正要看的指标是能不能在限时里做对，能不能解释错因，能不能把同类错误降下来。完成率只说明材料被整理过；能力完成率要靠模考、专项正确率、录音质量和错题复发率一起判断。",
+    "source": "SunPace knowledge distillation round 256",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-planning-round256-03",
+    "title": "全量材料复盘要按目标分筛选",
+    "keywords": [
+      "目标分",
+      "复盘筛选",
+      "PTE 规划",
+      "Sunny"
+    ],
+    "answer": "同一套资料，对 50 分、65 分和 79+ 目标的使用方式不同。Sunny 建议低目标分先抓高供分和稳定题型，例如 RA、RS、WFD、基础写作结构；中高目标再增加 SST、RO、FIB 和细节复盘。全量材料整理完成后，不要平均分配时间，而要按目标分决定哪些先练、哪些只做补充。",
+    "source": "SunPace knowledge distillation round 256",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-planning-round256-04",
+    "title": "主题热度表只能决定抽样，不决定背诵",
+    "keywords": [
+      "主题热度",
+      "抽样练习",
+      "题库",
+      "Sunny"
+    ],
+    "answer": "把资料按主题整理后，常会看到某些话题反复出现。Sunny 会把主题热度用于抽样，而不是让学生背诵。高频主题可以优先抽 3-5 条代表材料，练听力关键词、写作观点或口语表达；低频主题用来查漏。热度表的价值是安排练习顺序，不是制造押题焦虑。",
+    "source": "SunPace knowledge distillation round 256",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-planning-round256-05",
+    "title": "更新材料先进入等待区，不打断当前训练周",
+    "keywords": [
+      "资料更新",
+      "训练周",
+      "学习节奏",
+      "Sunny"
+    ],
+    "answer": "PTE 资料经常更新，但 Sunny 不建议学生一看到新材料就打断当前训练。更稳的做法是设一个等待区：新材料先记录来源类型、题型、主题和可能用途，等本周训练结束后再决定是否纳入。这样既不会错过新信息，也不会让每天的练习计划被更新通知牵着走。",
+    "source": "SunPace knowledge distillation round 256",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-planning-round256-06",
+    "title": "老师复盘队列要优先看高影响问题",
+    "keywords": [
+      "老师复盘",
+      "问题优先级",
+      "学习反馈",
+      "Sunny"
+    ],
+    "answer": "如果有老师或助教帮学生复盘，Sunny 建议先看高影响问题：口语录音是否可识别，WFD 是否稳定漏词，阅读 FIB 是否一直错词性，写作是否偏题。低影响问题可以晚一点处理，例如个别生词或不影响结构的小表达。复盘队列按影响排序，反馈才不会被零散细节淹没。",
+    "source": "SunPace knowledge distillation round 256",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-planning-round256-07",
+    "title": "个人错题库要定期归档旧问题",
+    "keywords": [
+      "错题库",
+      "归档",
+      "复盘节奏",
+      "Sunny"
+    ],
+    "answer": "错题库越积越多时，Sunny 会让学生每周做一次归档：已经连续两周不再犯的错误移到已稳定区，仍反复出现的错误保留在本周重点，偶发错误只留一个例子。错题库不是越厚越好，而是要让学生一打开就知道当前最该改什么。",
+    "source": "SunPace knowledge distillation round 256",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-planning-round256-08",
+    "title": "公开复盘要写成可执行清单",
+    "keywords": [
+      "公开复盘",
+      "执行清单",
+      "方法萃取",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议把公开复盘写成可执行清单，而不是材料总结。比如不要写某份资料讲了什么，而是写学生可以做什么：今天录 5 条 RA、复听 10 句 WFD、把 FIB 错词标词性、把 SST 笔记改成因果链。清单式表达更安全，也更能帮助不同学生迁移到自己的练习中。",
+    "source": "SunPace knowledge distillation round 256",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-maintenance-round257-01",
+    "title": "资料库清零后要建立维护节奏",
+    "keywords": [
+      "资料库维护",
+      "复盘节奏",
+      "学习系统",
+      "Sunny"
+    ],
+    "answer": "当资料库已经完成一轮转写、OCR 和分流后，Sunny 建议进入维护节奏：每天只处理新增材料，每周复查一次错题分类，每月重看一次题型覆盖图。不要把清零当成结束，而要把它变成更轻的日常维护。这样资料不会再次堆成山，学生也能把注意力放回练习质量。",
+    "source": "SunPace knowledge distillation round 257",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-maintenance-round257-02",
+    "title": "新增资料先打用途标签再决定是否学习",
+    "keywords": [
+      "新增资料",
+      "用途标签",
+      "资料筛选",
+      "Sunny"
+    ],
+    "answer": "Sunny 会让学生给新增资料先打用途标签：诊断、专项练习、模考、词汇、口语录音、写作范文或考前复查。没有明确用途的材料先不进入学习计划。这样做能防止学生被文件名里的“高频”“预测”“最新”带着走，也能让每份资料真正服务一个训练目标。",
+    "source": "SunPace knowledge distillation round 257",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-maintenance-round257-03",
+    "title": "知识库条目要定期合并相似主题",
+    "keywords": [
+      "知识库维护",
+      "相似主题",
+      "合并",
+      "Sunny"
+    ],
+    "answer": "公开知识库持续增长后，Sunny 建议定期合并相似主题。比如多个条目都在讲 WFD 漏小词，就可以保留一个核心方法，再把其他条目转成不同场景的补充。学生端需要的是清晰路径，不是越多越好。合并相似主题能让 Sunny 回答更集中，也能减少学生搜索时的选择成本。",
+    "source": "SunPace knowledge distillation round 257",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-maintenance-round257-04",
+    "title": "旧资料只保留仍能解释错因的部分",
+    "keywords": [
+      "旧资料",
+      "错因解释",
+      "资料取舍",
+      "Sunny"
+    ],
+    "answer": "旧资料不是不能用，但 Sunny 会按一个标准筛选：它还能不能解释当前错因。能帮助学生理解发音、词形、结构或时间管理的部分可以保留；只提供过时列表、重复题句或无法验证答案的部分要降权。旧资料的价值不在年份，而在它是否还能产生下一步训练动作。",
+    "source": "SunPace knowledge distillation round 257",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-maintenance-round257-05",
+    "title": "Sunny 知识更新要先保护高频稳定答案",
+    "keywords": [
+      "Sunny",
+      "知识更新",
+      "稳定答案",
+      "回归检查"
+    ],
+    "answer": "给 Sunny 增加新知识时，不能只看新增条目是否正确，还要保护原来高频问题的稳定答案。Sunny 建议每次更新后至少测试报名、分数、WFD、RA、阅读 FIB、SWT、口语优先级等基础问题。如果新增内容让基础问题跑偏，说明条目关键词或回答范围需要调整。知识库维护的第一原则是新增不破坏基础体验。",
+    "source": "SunPace knowledge distillation round 257",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-maintenance-round257-06",
+    "title": "公开条目标题要像学生真实问题",
+    "keywords": [
+      "知识库标题",
+      "搜索命中",
+      "学生问题",
+      "Sunny"
+    ],
+    "answer": "Sunny 知识条目的标题最好像学生会直接问的问题，而不是内部资料名或老师备课标题。比如“WFD 总是漏小词怎么办”比“听力专项材料第 3 部分”更容易命中真实咨询。标题越贴近学生语言，Sunny 越能在对话里找到合适答案，也越不会暴露私有来源痕迹。",
+    "source": "SunPace knowledge distillation round 257",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-maintenance-round257-07",
+    "title": "维护记录写结果，不写私有路径",
+    "keywords": [
+      "维护记录",
+      "路径安全",
+      "公开文档",
+      "Sunny"
+    ],
+    "answer": "公开维护记录只需要写处理结果和安全边界，例如新增了几条自有方法、覆盖了哪些主题、是否通过校验。Sunny 不需要在公开文档里出现私有路径、原始文件名或逐字内容。这样既能保留工程进度，也能保护资料来源；真正需要追溯的 raw 记录继续留在本地私有目录。",
+    "source": "SunPace knowledge distillation round 257",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-maintenance-round257-08",
+    "title": "每次知识同步后都要留下一条下一步方向",
+    "keywords": [
+      "知识同步",
+      "下一步方向",
+      "维护闭环",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议每次知识同步后都留下一条下一步方向：下一轮要补哪个题型、复查哪个主题、清理哪个重复问题，或者等待哪类新材料。没有下一步方向，同步只是把文件推上去；有了下一步方向，知识库才会持续朝学生真实问题靠近。维护闭环越清楚，后续更新越省力。",
+    "source": "SunPace knowledge distillation round 257",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
