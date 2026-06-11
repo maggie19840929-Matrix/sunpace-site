@@ -692,7 +692,7 @@
     "title": "PTE 官方练习题怎么做",
     "keywords": [
       "官方题",
-      "Practice Tests Plus",
+      "官方练习题册",
       "OG",
       "模考",
       "练习题",
@@ -41119,6 +41119,126 @@
     ],
     "answer": "Sunny 建议学生遇到 problem-solution 类作文时，开头段不要只改写题目。第一句可以交代问题背景，第二句点出题目提出的解决方向，第三句给出自己的判断或文章将讨论的重点。比如城市拥挤和交通问题，不能只说“这是一个严重问题”，还要说明搬离城市、公共交通、住房规划等方案各有利弊。开头段的任务是让考官马上看到你理解了问题类型。",
     "source": "SunPace knowledge distillation round 253",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-short-audio-round254-01",
+    "title": "短音频素材先做微听写，不急着背答案",
+    "keywords": [
+      "短音频",
+      "听写",
+      "WFD",
+      "听力",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议学生把十几秒到一分钟左右的短音频当作微听写材料，而不是直接背题。第一遍只抓主谓宾和关键词，第二遍补介词、冠词、复数和时态，第三遍对照自己的错误类型。这样练出来的是声音到拼写的反应链，遇到新句子也能迁移；如果只记某一句原文，短期看起来熟，换个音频就容易掉线。",
+    "source": "SunPace knowledge distillation round 254",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-short-audio-round254-02",
+    "title": "Item audio 复盘要拆成声音、词形和节奏三栏",
+    "keywords": [
+      "听力",
+      "item audio",
+      "复盘",
+      "词形",
+      "Sunny"
+    ],
+    "answer": "Sunny 会让学生把短音频错题分成三栏：声音没听出来、听出来但拼错、节奏太快来不及写。三类问题对应的训练不同：声音问题要做跟读和最小音对，词形问题要补单复数、过去式和派生词，节奏问题要练缩写和分块记录。不要把所有错误都归为单词量不够，否则复盘会很粗。",
+    "source": "SunPace knowledge distillation round 254",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-short-audio-round254-03",
+    "title": "空文本音频要进入 triage，不要反复消耗训练时间",
+    "keywords": [
+      "音频筛选",
+      "empty transcript",
+      "复盘",
+      "学习效率",
+      "Sunny"
+    ],
+    "answer": "如果一个短音频多次播放后仍然只有噪音、沉默、截断或无法稳定识别的内容，Sunny 会建议把它标记为 triage，而不是继续反复硬听。学生可以记录原因：音量异常、开头被截断、背景声过重、时长太短或内容不完整。真正值得投入时间的是可复现的听力错误；不可用素材只需要归档，避免占用高质量练习时段。",
+    "source": "SunPace knowledge distillation round 254",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-short-audio-round254-04",
+    "title": "短音频批量练习要随机化，避免只熟悉顺序",
+    "keywords": [
+      "短音频",
+      "批量练习",
+      "随机化",
+      "听力",
+      "Sunny"
+    ],
+    "answer": "Sunny 建议学生练短音频时不要永远按同一顺序播放。固定顺序会让大脑提前记住下一题主题，听力反应被顺序记忆替代。更好的做法是把 20-30 条音频分成小组，先顺序完成一轮建立熟悉度，再打乱顺序做第二轮，最后只重听错误率最高的 5 条。这样更接近考试里突然切题的状态。",
+    "source": "SunPace knowledge distillation round 254",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-short-audio-round254-05",
+    "title": "LFIB 短音频训练重点是空格前后的语法预判",
+    "keywords": [
+      "LFIB",
+      "Listening FIB",
+      "语法预判",
+      "短音频",
+      "Sunny"
+    ],
+    "answer": "听力 FIB 的短音频不要只盯着空格那一个词。Sunny 会让学生先读空格前后，判断这里更可能是名词、动词、形容词还是副词；播放时再用声音确认具体词。填完后必须检查单复数、时态和搭配是否与句子一致。这个流程能减少听到了但写错形式的问题，也能帮助学生在口音不清时用语法缩小答案范围。",
+    "source": "SunPace knowledge distillation round 254",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-short-audio-round254-06",
+    "title": "WFD 短句要先保完整结构，再补小词",
+    "keywords": [
+      "WFD",
+      "听写",
+      "短句",
+      "结构",
+      "Sunny"
+    ],
+    "answer": "WFD 训练里，Sunny 会优先保护句子骨架：主语、谓语、宾语或核心补语先写下来，再补冠词、介词、连词和修饰成分。很多学生一开始追求每个小词，结果主干丢失；更稳定的顺序是先完整，再精确。复盘时可以把漏词标成结构词、功能词和词形三类，下一轮训练就知道该补哪一块。",
+    "source": "SunPace knowledge distillation round 254",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-short-audio-round254-07",
+    "title": "RL 和 SST 短讲座音频要提炼主题地图",
+    "keywords": [
+      "Retell Lecture",
+      "SST",
+      "主题地图",
+      "听力笔记",
+      "Sunny"
+    ],
+    "answer": "遇到短讲座类音频，Sunny 建议学生不要把目标设成逐句复述。更有用的是提炼主题地图：话题是什么，讲者给了几个角度，是否有原因、例子、结果或评价。RL 可以把地图转成 35-40 秒口头回答，SST 可以把地图转成一两句核心摘要。这样既避免死记原文，也能训练考试真正需要的结构化输出。",
+    "source": "SunPace knowledge distillation round 254",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-short-audio-round254-08",
+    "title": "公开笔记只写训练动作，不写原题逐字内容",
+    "keywords": [
+      "学习笔记",
+      "版权安全",
+      "题库",
+      "方法整理",
+      "Sunny"
+    ],
+    "answer": "Sunny 会提醒学生：内部练习可以记录自己听错了什么，但公开笔记、群分享或复盘文档只写训练动作和错误类型，不写原题逐字内容。比如可以写“短音频要检查复数和过去式”，不要把完整题句贴出来。这样既保护资料来源，也逼自己从题目记忆转向能力训练，长期更稳。",
+    "source": "SunPace knowledge distillation round 254",
     "visibility": "public",
     "priority": "medium"
   }
