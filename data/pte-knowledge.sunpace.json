@@ -42368,5 +42368,229 @@
     "source": "SunPace knowledge distillation round 264",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-followup-round265-01",
+    "title": "跟进学生先问完成量再问感受",
+    "keywords": [
+      "助教跟进",
+      "完成量",
+      "学习监督",
+      "复盘"
+    ],
+    "answer": "老师或助教跟进学生时，第一步先问完成量，再问感受。比如本周做了几次听写、几条录音、几篇写作和几次模考复盘。完成量能判断计划是否真正执行，感受能补充状态原因。只问“感觉怎么样”容易得到模糊回答；先看完成量，Sunny 才能帮助判断是计划太重、执行不足，还是方法需要调整。",
+    "source": "SunPace knowledge distillation round 265",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-followup-round265-02",
+    "title": "缺交作业要先判断原因类型",
+    "keywords": [
+      "作业缺交",
+      "原因类型",
+      "助教跟进",
+      "学习计划"
+    ],
+    "answer": "学生缺交作业时，不要立刻只催促，要先判断原因类型：任务太多、不会做、时间冲突、状态低落，还是忘记提交。不同原因对应不同动作。任务太多就删减，不会做就补示范，时间冲突就改节奏，忘记提交就设置提醒。Sunny 可以把缺交问题拆成可处理的原因，而不是简单归为不努力。",
+    "source": "SunPace knowledge distillation round 265",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-followup-round265-03",
+    "title": "学习监督记录要有下一次检查点",
+    "keywords": [
+      "学习监督",
+      "检查点",
+      "复盘闭环",
+      "助教"
+    ],
+    "answer": "每次学习监督记录都应该有下一次检查点。检查点可以是下一次提交录音、下一次模考、三天后的错因统计，或一周后的目标题型正确率。没有检查点，跟进记录只是聊天摘要；有检查点，学生知道下一步要交付什么，老师也能判断计划是否有效。",
+    "source": "SunPace knowledge distillation round 265",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-followup-round265-04",
+    "title": "异常信号要比普通进度更早处理",
+    "keywords": [
+      "异常信号",
+      "学习风险",
+      "助教跟进",
+      "备考监督"
+    ],
+    "answer": "助教跟进时，要优先处理异常信号，而不是只记录普通进度。异常信号包括连续缺交、模考突然大幅下滑、口语录音明显变少、学生反复说不知道怎么练，或考前睡眠和情绪明显失衡。发现异常后，应先缩小计划并安排短复盘，避免问题累积到下一次正式测试才暴露。",
+    "source": "SunPace knowledge distillation round 265",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-followup-round265-05",
+    "title": "老师反馈不要一次给太多改进点",
+    "keywords": [
+      "老师反馈",
+      "改进点",
+      "执行力",
+      "学习监督"
+    ],
+    "answer": "老师反馈学生作业时，一次不要给太多改进点。更有效的做法是选一到三个最影响分数或执行的点，并写清下一次要如何验证。反馈过多会让学生不知道先改什么，也会降低执行率。Sunny 可以帮助老师把长反馈压缩成优先级清单，让学生下一轮更容易行动。",
+    "source": "SunPace knowledge distillation round 265",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-followup-round265-06",
+    "title": "跟进记录要区分事实判断和建议",
+    "keywords": [
+      "跟进记录",
+      "事实",
+      "建议",
+      "教学协作"
+    ],
+    "answer": "跟进记录最好区分事实、判断和建议。事实是学生完成了什么；判断是目前主要问题是什么；建议是下一步做什么。三者混在一起时，后续老师接手会很难判断哪些是客观进度，哪些是教学判断。清晰记录能让 Sunny 和教学团队更快衔接，也能减少重复问学生同样的问题。",
+    "source": "SunPace knowledge distillation round 265",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-followup-round265-07",
+    "title": "学生连续完成任务后要提高复盘质量",
+    "keywords": [
+      "任务完成",
+      "复盘质量",
+      "学习进阶",
+      "助教跟进"
+    ],
+    "answer": "如果学生已经能连续完成任务，下一步不是继续机械加量，而是提高复盘质量。可以要求学生提交错因标签、录音自评、选择依据或模考三句总结。完成量解决的是是否在学，复盘质量解决的是是否学对。Sunny 可以根据学生执行稳定度，把跟进重点从催完成转向促改进。",
+    "source": "SunPace knowledge distillation round 265",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-followup-round265-08",
+    "title": "课程跟进要把家长沟通转成学习动作",
+    "keywords": [
+      "家长沟通",
+      "课程跟进",
+      "学习动作",
+      "备考监督"
+    ],
+    "answer": "需要家长或外部支持者了解进度时，沟通重点应转成学习动作，而不是只汇报情绪或评价。可以说明本周完成了什么、主要风险是什么、下周需要配合什么。比如固定学习时段、减少临时打断、提醒提交作业。这样的沟通能帮助学生获得支持，也不会让跟进变成压力传递。",
+    "source": "SunPace knowledge distillation round 265",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-quality-round266-01",
+    "title": "知识库条目要回答一个明确问题",
+    "keywords": [
+      "知识库质量",
+      "问题聚焦",
+      "Sunny",
+      "内容维护"
+    ],
+    "answer": "维护 Sunny 知识库时，每条公开知识最好只回答一个明确问题。标题应该像学生真实会问的问题，答案围绕一个判断或动作展开。若一条内容同时讲计划、题型、心态和资料选择，Sunny 容易给出发散回答。问题越聚焦，学生越容易得到可执行建议，也越方便后续更新。",
+    "source": "SunPace knowledge distillation round 266",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-quality-round266-02",
+    "title": "公开答案要避免引用原始材料细节",
+    "keywords": [
+      "公开发布",
+      "安全检查",
+      "资料保护",
+      "知识库"
+    ],
+    "answer": "公开知识答案应该保留可复用的训练规则，不引用原始材料细节、路径、课程来源或个案原文。比如可以写“听力漏听类型要分类”，不需要说明这个规则来自哪一份内部材料。这样既能保护资料安全，也能让知识更通用。Sunny 面向学生回答时，应优先输出规则和动作，而不是来源线索。",
+    "source": "SunPace knowledge distillation round 266",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-quality-round266-03",
+    "title": "过期建议要用条件句保留边界",
+    "keywords": [
+      "过期内容",
+      "条件句",
+      "知识更新",
+      "Sunny"
+    ],
+    "answer": "如果某条备考建议可能随考试政策、平台界面或课程安排变化，就不要写成绝对规则。可以用条件句保留边界，例如“如果当前成绩单显示听力拖后腿，优先复盘高影响听力任务”。这样的表达更稳，不会因为环境变化而误导学生。Sunny 的公开知识应尽量写成可验证的条件和动作。",
+    "source": "SunPace knowledge distillation round 266",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-quality-round266-04",
+    "title": "高频问题要合并成标准回答入口",
+    "keywords": [
+      "高频问题",
+      "标准回答",
+      "知识库维护",
+      "Sunny"
+    ],
+    "answer": "当多个学生反复问同一类问题时，知识库应把它们合并成标准回答入口。入口不是复制学生原话，而是提炼共同需求：如何开始备考、如何处理分数波动、如何安排考前一周。标准入口能减少 Sunny 回答重复，也能让老师更快发现哪些主题需要继续补充。",
+    "source": "SunPace knowledge distillation round 266",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-quality-round266-05",
+    "title": "答案结尾要给下一步动作",
+    "keywords": [
+      "回答结构",
+      "下一步动作",
+      "Sunny",
+      "执行力"
+    ],
+    "answer": "Sunny 的公开答案最好在结尾给一个下一步动作。动作可以是做一次模考、记录三类错因、提交一条录音自评，或三天后复盘某个指标。没有下一步动作，答案容易停留在解释层面；有下一步动作，学生能马上开始执行。知识库维护时应检查每条答案是否能落地。",
+    "source": "SunPace knowledge distillation round 266",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-quality-round266-06",
+    "title": "相似条目要区分适用场景",
+    "keywords": [
+      "相似条目",
+      "适用场景",
+      "知识库去重",
+      "Sunny"
+    ],
+    "answer": "如果知识库中有相似条目，不一定都要删除，但必须区分适用场景。比如“考前一周计划”和“考试当天热身”都讲冲刺，但前者关注一周安排，后者关注当天状态。场景不清会让 Sunny 回答混乱。维护时可以用目标分、剩余时间、题型和学生状态来区分相似内容。",
+    "source": "SunPace knowledge distillation round 266",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-quality-round266-07",
+    "title": "新增条目后要跑一次学生问法回归",
+    "keywords": [
+      "回归测试",
+      "学生问法",
+      "知识库维护",
+      "Sunny"
+    ],
+    "answer": "每次新增公开知识条目后，都应该用学生真实问法做一次回归检查。比如“我只剩三天怎么办”“听力突然掉分怎么办”“作业总做不完怎么办”。如果 Sunny 能命中合适条目并给出稳定动作，说明更新有效；如果命中偏离，就需要调整标题、关键词或答案结构。",
+    "source": "SunPace knowledge distillation round 266",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-quality-round266-08",
+    "title": "发布前检查第三方来源和路径痕迹",
+    "keywords": [
+      "发布检查",
+      "来源安全",
+      "路径痕迹",
+      "公开知识"
+    ],
+    "answer": "公开发布前，要检查答案中是否出现第三方来源名、内部路径、原始文件名、逐字材料或学生隐私线索。安全检查不是形式步骤，而是保证知识库能长期公开使用的基础。Sunny 知识应呈现为 SunPace 自有教学判断和训练动作，不暴露它背后的原始处理材料。",
+    "source": "SunPace knowledge distillation round 266",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
