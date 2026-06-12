@@ -42592,5 +42592,453 @@
     "source": "SunPace knowledge distillation round 266",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-student-input-round267-01",
+    "title": "问学习计划时先提交四个基础信息",
+    "keywords": [
+      "学习计划",
+      "提交信息",
+      "Sunny 使用",
+      "目标分"
+    ],
+    "answer": "学生请 Sunny 制定学习计划时，先提交四个基础信息：当前分数、目标分数、考试日期和每天可学习时间。没有这些信息，回答只能停留在通用建议；有了这些信息，Sunny 才能判断是先保供分题、补短板，还是做考前稳定。信息越简短清楚，计划越容易执行。",
+    "source": "SunPace knowledge distillation round 267",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-student-input-round267-02",
+    "title": "问错因时提交题型答案和怀疑点",
+    "keywords": [
+      "错因诊断",
+      "提交信息",
+      "题型",
+      "Sunny"
+    ],
+    "answer": "学生请 Sunny 分析错因时，最好提交题型、自己的答案、正确方向和自己怀疑的问题点。比如是听不全、选词凭感觉、口语停顿，还是写作结构不稳。Sunny 不需要大量无关材料，最需要的是能判断错误来源的最小信息。这样回答会更像诊断，而不是泛泛复习建议。",
+    "source": "SunPace knowledge distillation round 267",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-student-input-round267-03",
+    "title": "提交录音问题时要说明自评结果",
+    "keywords": [
+      "口语录音",
+      "自评",
+      "提交信息",
+      "反馈效率"
+    ],
+    "answer": "学生提交口语录音问题时，最好先写一句自评：我觉得这条录音的问题是停顿、速度、音量、发音，还是内容组织。自评不必完全正确，但能让老师或 Sunny 看出学生的判断方式。如果学生自评和实际问题差距很大，下一步就先训练识别问题，而不是只改某个音。",
+    "source": "SunPace knowledge distillation round 267",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-student-input-round267-04",
+    "title": "问分数波动时要带最近练习背景",
+    "keywords": [
+      "分数波动",
+      "练习背景",
+      "模考复盘",
+      "Sunny"
+    ],
+    "answer": "学生问分数为什么波动时，要带上最近一周练习背景：练了什么、练了多久、是否中断、是否换题型或换方法。分数变化不一定只来自能力，也可能来自状态、样本和执行变化。Sunny 需要这些背景，才能判断是正常波动、短期疲劳，还是某个题型真的需要调整。",
+    "source": "SunPace knowledge distillation round 267",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-student-input-round267-05",
+    "title": "问资料怎么用时要说明时间限制",
+    "keywords": [
+      "资料使用",
+      "时间限制",
+      "学习计划",
+      "Sunny"
+    ],
+    "answer": "学生问某份资料怎么用时，先说明剩余备考时间和每天可投入时间。同一份资料，考前两天、两周和两个月的用法完全不同。时间短就做抽样和错因补漏，时间中等就按题型循环，时间充足才系统铺开。没有时间限制的资料建议，很容易变成做不完的大清单。",
+    "source": "SunPace knowledge distillation round 267",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-student-input-round267-06",
+    "title": "问考前冲刺时提交最担心的两件事",
+    "keywords": [
+      "考前冲刺",
+      "担心点",
+      "提交信息",
+      "备考心态"
+    ],
+    "answer": "学生临近考试问冲刺安排时，可以提交最担心的两件事，而不是把所有焦虑都展开。比如担心口语卡顿和听力漏小词，Sunny 就能围绕这两点安排短热身、检查清单和止损策略。考前咨询要帮助学生收窄注意力，不要在最后阶段打开太多新战场。",
+    "source": "SunPace knowledge distillation round 267",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-student-input-round267-07",
+    "title": "问老师反馈时说明想解决的优先问题",
+    "keywords": [
+      "老师反馈",
+      "优先问题",
+      "提交信息",
+      "学习协作"
+    ],
+    "answer": "学生向老师或 Sunny 请求反馈时，可以先说明最想解决的优先问题。比如“这次只想看 RA 节奏”或“这篇只想检查结构是否稳”。优先问题能让反馈更集中，也能避免一次收到太多改进点。学习协作的关键不是让老师看到所有细节，而是让下一步动作足够明确。",
+    "source": "SunPace knowledge distillation round 267",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-student-input-round267-08",
+    "title": "复问 Sunny 时要带上执行结果",
+    "keywords": [
+      "复问",
+      "执行结果",
+      "学习闭环",
+      "Sunny 使用"
+    ],
+    "answer": "学生第二次问同一个问题时，要带上上一次建议的执行结果。比如练了几天、完成了多少、指标有什么变化、哪里仍然卡住。没有执行结果，Sunny 只能重复原建议；有执行结果，Sunny 才能判断是继续、加量、换方法，还是缩小训练范围。复问的价值来自结果反馈。",
+    "source": "SunPace knowledge distillation round 267",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-dashboard-round268-01",
+    "title": "学生进度看板先看三类指标",
+    "keywords": [
+      "进度看板",
+      "学习指标",
+      "教学运营",
+      "Sunny"
+    ],
+    "answer": "学生进度看板不需要一开始做得很复杂，先看三类指标：完成量、错因变化和下一次检查点。完成量说明有没有执行，错因变化说明训练是否有效，检查点说明下一步怎么验证。Sunny 或老师根据这三类指标，就能快速判断学生是需要加量、减负、换重点，还是先恢复节奏。",
+    "source": "SunPace knowledge distillation round 268",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-dashboard-round268-02",
+    "title": "完成率低时先判断计划是否过重",
+    "keywords": [
+      "完成率",
+      "计划负荷",
+      "学习监督",
+      "助教"
+    ],
+    "answer": "如果学生连续完成率低，第一步不是简单催促，而是判断计划是否过重。可以对照每天可学习时间、任务数量和学生反馈，看计划是否超出真实承载。若计划过重，应先删减到能完成的版本；若计划合理但执行不足，再设置提醒和检查点。完成率是调整计划的信号，不只是评价态度的标签。",
+    "source": "SunPace knowledge distillation round 268",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-dashboard-round268-03",
+    "title": "错因趋势比单次正确率更有用",
+    "keywords": [
+      "错因趋势",
+      "正确率",
+      "复盘",
+      "学习数据"
+    ],
+    "answer": "看学生进步时，不要只盯某一次正确率，更要看错因趋势。一次正确率高可能来自题目简单，一次正确率低也可能是状态波动；但同一类错因持续减少，说明训练方向有效。Sunny 做复盘时，可以把错因标签按周统计，帮助学生看到真正变化。",
+    "source": "SunPace knowledge distillation round 268",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-dashboard-round268-04",
+    "title": "看板里的红灯信号要触发短复盘",
+    "keywords": [
+      "红灯信号",
+      "短复盘",
+      "学习风险",
+      "教学运营"
+    ],
+    "answer": "学习看板里的红灯信号应触发短复盘，而不是等到下一次大考后再处理。红灯信号包括连续缺交、同一错因三次以上重复、模考分突然下滑、考前状态明显失衡。短复盘只需要确认原因和下一步动作，目标是尽早止损，防止小问题变成长期掉队。",
+    "source": "SunPace knowledge distillation round 268",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-dashboard-round268-05",
+    "title": "学习记录要能被下一位老师接手",
+    "keywords": [
+      "学习记录",
+      "老师交接",
+      "教学协作",
+      "复盘"
+    ],
+    "answer": "好的学习记录应该让下一位老师能直接接手。记录里至少包含当前目标、最近完成量、主要错因、正在执行的训练动作和下一次检查点。不需要保存大量原始细节，只要能说明学生正在解决什么问题。Sunny 生成记录时，也应优先输出接手所需的信息。",
+    "source": "SunPace knowledge distillation round 268",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-dashboard-round268-06",
+    "title": "数据口径要和学生能理解的动作对应",
+    "keywords": [
+      "数据口径",
+      "学习动作",
+      "看板",
+      "Sunny"
+    ],
+    "answer": "学习看板里的数据口径要和学生能理解的动作对应。比如“WFD 小词漏听次数”比“听力薄弱”更容易指导练习；“RA 长停顿次数”比“流利度不好”更容易自检。Sunny 把模糊评价转成具体指标，学生才知道今天该做什么，老师也更容易跟进。",
+    "source": "SunPace knowledge distillation round 268",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-dashboard-round268-07",
+    "title": "周报不要写满过程要突出变化",
+    "keywords": [
+      "学习周报",
+      "变化",
+      "复盘",
+      "教学运营"
+    ],
+    "answer": "学习周报不需要写满每天过程，更应该突出变化：完成量有什么变化，错因有没有减少，状态是否稳定，下周优先动作是什么。过程太多会淹没判断，变化才帮助决策。Sunny 可以把学生一周记录压缩成变化摘要，让老师和学生都能快速看到下一步重点。",
+    "source": "SunPace knowledge distillation round 268",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-dashboard-round268-08",
+    "title": "看板结论要避免给学生贴标签",
+    "keywords": [
+      "看板结论",
+      "学生支持",
+      "学习监督",
+      "沟通"
+    ],
+    "answer": "学习看板的结论要避免给学生贴标签。比如不要写“学生不自律”，而要写“连续两次未提交录音，需要确认时间安排或任务难度”。事实化表达更容易找到解决动作，也能减少学生防御。Sunny 和老师的共同目标是帮助学生调整行为，而不是用看板评价人格。",
+    "source": "SunPace knowledge distillation round 268",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-support-round269-01",
+    "title": "先自助排查再升级给老师",
+    "keywords": [
+      "自助排查",
+      "老师升级",
+      "学习支持",
+      "Sunny"
+    ],
+    "answer": "学生遇到问题时，可以先用 Sunny 做自助排查，再决定是否升级给老师。自助排查适合处理计划拆分、错因分类、检查清单和复盘问题；如果连续执行后仍没有改善，或涉及评分风险和临考决策，就应该带着执行记录找老师。这样能减少无效等待，也能让老师看到更清楚的问题背景。",
+    "source": "SunPace knowledge distillation round 269",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-support-round269-02",
+    "title": "升级求助要带上已尝试动作",
+    "keywords": [
+      "求助升级",
+      "已尝试动作",
+      "学习闭环",
+      "老师反馈"
+    ],
+    "answer": "学生向老师升级求助时，不要只说“还是不会”，要带上已经尝试过的动作。比如练了几天、完成了多少、指标有没有变化、哪一步仍然卡住。老师看到尝试记录，才能判断是方法不适合、训练量不足，还是问题被误判。升级求助的质量，决定后续反馈能不能精准。",
+    "source": "SunPace knowledge distillation round 269",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-support-round269-03",
+    "title": "助教适合处理执行障碍",
+    "keywords": [
+      "助教协同",
+      "执行障碍",
+      "学习监督",
+      "支持分工"
+    ],
+    "answer": "助教更适合优先处理执行障碍，例如任务做不完、作业缺交、复盘不会写、时间安排混乱。老师更适合处理评分判断、方法调整和高风险题型问题。分工清楚后，学生不会把所有问题都堆给同一个人，也能更快得到支持。Sunny 可以先判断问题属于执行障碍还是教学判断。",
+    "source": "SunPace knowledge distillation round 269",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-support-round269-04",
+    "title": "老师介入前先整理问题摘要",
+    "keywords": [
+      "问题摘要",
+      "老师介入",
+      "教学协作",
+      "复盘"
+    ],
+    "answer": "老师介入前，学生或助教可以先整理一段问题摘要：当前目标、最近完成量、主要错因、已经尝试的动作和想解决的问题。摘要不需要很长，但必须能让老师快速进入判断。Sunny 可以帮助把零散记录压缩成这个摘要，减少老师重新问背景的时间。",
+    "source": "SunPace knowledge distillation round 269",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-support-round269-05",
+    "title": "临考问题要优先判断风险等级",
+    "keywords": [
+      "临考支持",
+      "风险等级",
+      "老师升级",
+      "备考决策"
+    ],
+    "answer": "临近考试时，不是所有问题都需要同等处理。Sunny 可以先帮学生判断风险等级：会直接影响考试表现的高风险问题要及时找老师；一般疑问可以用固定流程解决；情绪波动则先用短清单稳定状态。风险分级能避免考前把精力消耗在低优先级问题上。",
+    "source": "SunPace knowledge distillation round 269",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-support-round269-06",
+    "title": "支持沟通要把情绪翻译成动作",
+    "keywords": [
+      "支持沟通",
+      "情绪",
+      "学习动作",
+      "Sunny"
+    ],
+    "answer": "学生表达焦虑或挫败时，支持沟通的重点不是否定情绪，而是把情绪翻译成下一步动作。比如“我很慌”可以转成“今天只做三项轻量复盘”；“我觉得退步了”可以转成“比较最近两次错因标签”。Sunny 和老师都可以先接住感受，再把问题落到可执行动作上。",
+    "source": "SunPace knowledge distillation round 269",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-support-round269-07",
+    "title": "群内提问要避免一次抛出太多问题",
+    "keywords": [
+      "群内提问",
+      "问题聚焦",
+      "学习支持",
+      "反馈效率"
+    ],
+    "answer": "学生在群内或共享渠道提问时，最好一次只抛出一个主要问题。问题太多会让反馈变散，也容易遗漏关键背景。可以先写题型、当前目标、最想解决的一个卡点和已经尝试的动作。问题聚焦后，老师、助教或 Sunny 都更容易给出明确下一步。",
+    "source": "SunPace knowledge distillation round 269",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-support-round269-08",
+    "title": "支持边界要保护学生自主复盘能力",
+    "keywords": [
+      "支持边界",
+      "自主复盘",
+      "学习能力",
+      "教学协作"
+    ],
+    "answer": "教学支持不是替学生完成所有判断，而是帮助学生逐步形成自主复盘能力。老师和 Sunny 可以提供框架、示例和检查点，但学生仍需要记录完成量、写出错因和反馈执行结果。支持边界清楚，学生才不会只等待答案，而会学会带着证据和问题来求助。",
+    "source": "SunPace knowledge distillation round 269",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-retention-round270-01",
+    "title": "考后保持能力要保留轻量复盘",
+    "keywords": [
+      "考后复盘",
+      "能力保持",
+      "轻量训练",
+      "学习节奏"
+    ],
+    "answer": "考试结束后，如果学生还可能继续备考，不建议完全停止练习太久。可以保留轻量复盘：每周一次听写、一次口语回听、一次错因整理和一次短模考检查。轻量复盘的目的不是继续高强度冲刺，而是防止手感和流程迅速退化。Sunny 可以帮助学生把冲刺计划降级成维护计划。",
+    "source": "SunPace knowledge distillation round 270",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-retention-round270-02",
+    "title": "二次备考先复用上次事实清单",
+    "keywords": [
+      "二次备考",
+      "事实清单",
+      "复盘",
+      "学习计划"
+    ],
+    "answer": "如果学生需要二次备考，第一步不是重新从零开始，而是复用上次事实清单。清单包括上次成绩、明显失误、执行过的训练、有效动作和无效动作。Sunny 根据这份清单，可以更快判断哪些内容要保留，哪些要调整。没有事实清单，二次备考容易重复走同样的弯路。",
+    "source": "SunPace knowledge distillation round 270",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-retention-round270-03",
+    "title": "间隔复习要围绕高流失题型",
+    "keywords": [
+      "间隔复习",
+      "高流失题型",
+      "能力保持",
+      "PTE"
+    ],
+    "answer": "间隔复习不需要平均照顾所有题型，应优先围绕高流失题型。容易退步的通常是需要反应速度、固定流程和输出节奏的任务，例如听写、口语朗读和限时写作检查。学生可以让 Sunny 帮忙列出每周最小维护清单，用少量练习保住关键手感。",
+    "source": "SunPace knowledge distillation round 270",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-retention-round270-04",
+    "title": "停练后恢复不要立刻冲满强度",
+    "keywords": [
+      "恢复训练",
+      "停练",
+      "学习强度",
+      "备考节奏"
+    ],
+    "answer": "学生停练一段时间后恢复备考，不要立刻回到冲刺强度。更稳妥的做法是先用三到五天恢复流程：少量口语、少量听写、一次写作结构检查和一次小测。确认状态后再加量。Sunny 的恢复计划应先保护完成率和信心，再逐步提高训练强度。",
+    "source": "SunPace knowledge distillation round 270",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-retention-round270-05",
+    "title": "防退步记录只追踪少数关键指标",
+    "keywords": [
+      "防退步",
+      "关键指标",
+      "学习记录",
+      "复盘"
+    ],
+    "answer": "防退步记录不需要很复杂，只追踪少数关键指标即可。比如 WFD 漏词数、RA 停顿次数、写作结构检查完成率和一周复盘次数。指标太多会让维护计划变成负担；指标少而稳定，学生更容易坚持。Sunny 可以帮助学生把维护记录压缩成三到五个可观察指标。",
+    "source": "SunPace knowledge distillation round 270",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-retention-round270-06",
+    "title": "成绩达标后仍要保留考试资料归档",
+    "keywords": [
+      "成绩达标",
+      "资料归档",
+      "考后管理",
+      "学习记录"
+    ],
+    "answer": "学生成绩达标后，也建议保留一份考试资料归档。归档内容包括最终计划、有效错因清单、考前热身流程和考后事实记录。以后如果需要补考、升学或给同学分享经验，这份归档能快速恢复上下文。归档不是保存原始材料，而是保存可复用的学习判断和动作。",
+    "source": "SunPace knowledge distillation round 270",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-retention-round270-07",
+    "title": "长期学生要定期更新目标和时间表",
+    "keywords": [
+      "长期备考",
+      "目标更新",
+      "时间表",
+      "学习计划"
+    ],
+    "answer": "长期备考学生容易沿用旧计划，但目标、时间表和状态会变化。建议每两到四周重新确认目标分、考试日期、每天可学习时间和当前短板。Sunny 可以根据这些变化调整任务量和题型优先级。计划不是写一次就固定，而是随着学生现实条件更新。",
+    "source": "SunPace knowledge distillation round 270",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-retention-round270-08",
+    "title": "维护期也要设置重新冲刺触发条件",
+    "keywords": [
+      "维护期",
+      "重新冲刺",
+      "触发条件",
+      "备考决策"
+    ],
+    "answer": "学生进入维护期后，也要设置重新冲刺的触发条件。比如考试日期确定、模考低于目标线、某个关键题型连续退步，或申请时间发生变化。触发条件明确后，学生不会一直模糊拖延，也不会过早高强度消耗。Sunny 可以把维护期和冲刺期的切换规则写进计划。",
+    "source": "SunPace knowledge distillation round 270",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
