@@ -43152,5 +43152,341 @@
     "source": "SunPace knowledge distillation round 271",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-evening-handoff-round272-01",
+    "title": "晚上收尾先写今天完成了什么",
+    "keywords": [
+      "晚上收尾",
+      "完成记录",
+      "学习闭环",
+      "Sunny"
+    ],
+    "answer": "晚上结束学习时，先写今天真实完成了什么，而不是先写明天要补多少。完成记录要尽量具体：练了哪个题型、完成了多少、复盘了哪一个错因、有没有提交可检查的结果。这样 Sunny 第二天才能根据事实继续安排，而不是只根据感觉调整计划。完成记录越清楚，后续计划越不容易失真。",
+    "source": "SunPace knowledge distillation round 272",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-evening-handoff-round272-02",
+    "title": "睡前不要把未完成任务全部滚到明天",
+    "keywords": [
+      "未完成任务",
+      "明日计划",
+      "任务滚动",
+      "学习压力"
+    ],
+    "answer": "当天没完成的任务，不建议睡前全部原样滚到明天。正确做法是先判断未完成原因，再决定保留、拆小、延后或删除。如果只是时间不够，可以保留最高优先级；如果是任务太难，就要拆成更小步骤；如果是重复低效任务，就不该继续堆积。Sunny 可以帮助学生把未完成清单压缩成明天真正需要处理的少数动作。",
+    "source": "SunPace knowledge distillation round 272",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-evening-handoff-round272-03",
+    "title": "晚间复盘只保留一个最重要发现",
+    "keywords": [
+      "晚间复盘",
+      "关键发现",
+      "错因整理",
+      "学习效率"
+    ],
+    "answer": "晚间复盘不需要写成长篇总结，先保留一个最重要发现就够了。这个发现可以是最常出现的错因、最影响分数的失误、最有效的调整动作，或明天必须验证的一个问题。复盘太散会让学生第二天不知道从哪里开始；一个清晰发现更容易变成具体训练。Sunny 可以把当天记录压缩成一句关键发现和一个下一步动作。",
+    "source": "SunPace knowledge distillation round 272",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-evening-handoff-round272-04",
+    "title": "夜间状态差时不要临时加高强度训练",
+    "keywords": [
+      "夜间学习",
+      "高强度训练",
+      "状态管理",
+      "备考节奏"
+    ],
+    "answer": "夜间状态已经明显下降时，不建议临时加高强度训练。疲劳状态下硬做限时题，容易把注意力问题误判成能力问题，也容易留下挫败感。更稳妥的选择是做轻量收尾：整理错因、回听一小段录音、标记明天入口或复看一条流程清单。Sunny 可以提醒学生把夜间任务从冲刺模式切换成收尾模式。",
+    "source": "SunPace knowledge distillation round 272",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-evening-handoff-round272-05",
+    "title": "明天入口要写成第一步动作",
+    "keywords": [
+      "明天入口",
+      "第一步动作",
+      "学习启动",
+      "计划衔接"
+    ],
+    "answer": "给明天留下入口时，不要只写一个大目标，例如“练听力”或“补口语”，而要写成第一步动作。比如“先重听昨天错的三句”“先做五分钟口语热身”“先检查一篇写作结构”。第一步越清楚，第二天启动越容易。Sunny 可以在晚间收尾时把明天入口写成一句能立刻执行的动作，减少重新思考计划的时间。",
+    "source": "SunPace knowledge distillation round 272",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-evening-handoff-round272-06",
+    "title": "一天结束时要区分努力不足和计划不合理",
+    "keywords": [
+      "计划复盘",
+      "完成率",
+      "努力不足",
+      "任务难度"
+    ],
+    "answer": "一天结束时，不要简单把没完成归因于努力不足。需要区分是投入时间不够、任务设计不合理、训练难度过高，还是复盘要求不清楚。不同原因对应不同调整：时间不够要改排程，难度过高要拆步骤，复盘不清楚要给模板。Sunny 的晚间复盘可以先问事实，再判断计划是否需要降级或换顺序。",
+    "source": "SunPace knowledge distillation round 272",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-evening-handoff-round272-07",
+    "title": "晚间记录要避免只写情绪结论",
+    "keywords": [
+      "情绪结论",
+      "事实记录",
+      "晚间记录",
+      "复盘"
+    ],
+    "answer": "晚间记录可以写情绪，但不能只停留在情绪结论。比如“今天很崩溃”后面要补一句事实：卡在哪个题型、错因是什么、是否因为时间不足、明天要先做哪一步。这样情绪不会被忽略，也不会取代学习判断。Sunny 可以先接住学生感受，再把记录转成事实和动作。",
+    "source": "SunPace knowledge distillation round 272",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-evening-handoff-round272-08",
+    "title": "连续晚睡学习要优先保护第二天启动",
+    "keywords": [
+      "晚睡学习",
+      "第二天启动",
+      "学习节奏",
+      "恢复"
+    ],
+    "answer": "如果学生连续几天晚睡学习，计划要优先保护第二天启动，而不是继续延长夜间训练。可以减少夜间刷题量，把收尾改成十分钟复盘和明天入口；第二天早上再做关键题型训练。长期靠熬夜补任务，容易让完成率和状态一起下降。Sunny 可以提醒学生把一部分任务前移或拆小，避免夜间学习挤压第二天。",
+    "source": "SunPace knowledge distillation round 272",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-review-round273-01",
+    "title": "周复盘先看完成率再看分数波动",
+    "keywords": [
+      "周复盘",
+      "完成率",
+      "分数波动",
+      "学习计划"
+    ],
+    "answer": "周复盘不要一开始就只看分数波动，先看本周计划完成率。完成率低时，分数变化往往不能代表真实能力，只能说明训练输入不稳定。先确认哪些任务完成、哪些任务缺失，再分析模考或练习表现，判断才更可靠。Sunny 可以把周复盘分成两步：先核对执行事实，再解释成绩变化。",
+    "source": "SunPace knowledge distillation round 273",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-review-round273-02",
+    "title": "一周只选一个主短板作为突破口",
+    "keywords": [
+      "主短板",
+      "周计划",
+      "题型优先级",
+      "突破口"
+    ],
+    "answer": "每周计划不要同时追太多短板。更稳妥的做法是选一个最影响目标分的主短板作为突破口，再配少量维护任务。主短板可以来自最近错因、模考失分、老师反馈或学生自评，但最终要落到一个具体题型或流程问题。Sunny 可以帮助学生把多个问题排序，避免一周计划变成杂乱清单。",
+    "source": "SunPace knowledge distillation round 273",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-review-round273-03",
+    "title": "周计划要保留固定维护题型",
+    "keywords": [
+      "周计划",
+      "维护题型",
+      "能力保持",
+      "备考节奏"
+    ],
+    "answer": "即使本周有一个主攻短板，也要保留少量固定维护题型。维护题型通常是容易退步、对流程熟练度要求高、或考试当天失误成本高的任务。维护不需要大量刷题，可以用短训练、回听、错因复看或小测保持手感。Sunny 的周计划可以把主攻任务和维护任务分开，防止学生只练短板却丢掉原本稳定的部分。",
+    "source": "SunPace knowledge distillation round 273",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-weekly-review-round273-04",
+    "title": "周末补任务要先删掉低优先级内容",
+    "keywords": [
+      "周末补任务",
+      "低优先级",
+      "任务压缩",
+      "学习负荷"
+    ],
+    "answer": "周末补任务时，不要把一周所有没做完的内容都补回来。先删掉低优先级内容，保留最影响目标分和下周衔接的任务。补任务的目标是恢复学习闭环，不是制造新的疲劳。Sunny 可以把未完成任务分成必须补、可以降级、可以删除三类，让学生周末补得更轻、更准。",
+    "source": "SunPace knowledge distillation round 273",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-review-round273-05",
+    "title": "周复盘要记录一个有效动作",
+    "keywords": [
+      "有效动作",
+      "周复盘",
+      "学习方法",
+      "正反馈"
+    ],
+    "answer": "周复盘不只记录问题，也要记录一个本周有效动作。有效动作可能是某个热身流程、错因标签方式、听写回放方法或写作检查顺序。把有效动作留下来，下周才能继续复用，而不是每周重新试错。Sunny 可以在复盘结尾提醒学生写出本周最值得保留的一件事。",
+    "source": "SunPace knowledge distillation round 273",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-weekly-review-round273-06",
+    "title": "连续两周没有改善要调整训练假设",
+    "keywords": [
+      "训练假设",
+      "连续无改善",
+      "计划调整",
+      "复盘"
+    ],
+    "answer": "如果同一个问题连续两周没有改善，不要只继续加量，而要调整训练假设。可能是错因判断不准、训练方式不匹配、反馈不够及时，或任务难度超过当前阶段。Sunny 可以帮助学生提出新的假设，例如从速度问题改查准确度，从词汇问题改查流程，或从练习量问题改查复盘质量。假设变清楚，下一周才有新的验证方向。",
+    "source": "SunPace knowledge distillation round 273",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-review-round273-07",
+    "title": "周度目标要能落到每天的最小动作",
+    "keywords": [
+      "周度目标",
+      "每日动作",
+      "计划拆分",
+      "执行"
+    ],
+    "answer": "周度目标不能只停留在方向上，例如“提升听力”或“加强口语”。它必须能落到每天的最小动作：每天练几组、复盘什么、记录哪个指标、什么时候检查。目标越大，越需要拆成小动作。Sunny 可以先生成周目标，再把它分配到每天的保底任务，帮助学生看到这一周到底要怎么执行。",
+    "source": "SunPace knowledge distillation round 273",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-weekly-review-round273-08",
+    "title": "周复盘结论要服务下周排课和作业",
+    "keywords": [
+      "周复盘结论",
+      "排课",
+      "作业安排",
+      "教学协作"
+    ],
+    "answer": "周复盘的结论要能服务下周排课和作业，而不是只做情绪总结。结论最好写成可用信息：下周主攻题型、需要老师判断的问题、需要助教监督的执行点、学生自己要提交的证据。这样老师、助教和 Sunny 才能围绕同一个方向协作。周复盘越具体，下周计划越容易落地。",
+    "source": "SunPace knowledge distillation round 273",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sunday-reset-round274-01",
+    "title": "周日复位先确认下周考试距离",
+    "keywords": [
+      "周日复位",
+      "考试距离",
+      "周计划",
+      "Sunny"
+    ],
+    "answer": "周日做下周计划时，先确认距离考试还有多久。离考试越近，计划越要围绕高分差题型、稳定流程和低风险复盘；离考试较远，可以保留更多基础补弱和方法调整。不要把所有学生都套进同一种周计划。Sunny 可以先问考试日期和目标分，再决定下周是冲刺、巩固还是恢复节奏。",
+    "source": "SunPace knowledge distillation round 274",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sunday-reset-round274-02",
+    "title": "下周计划要从本周证据开始",
+    "keywords": [
+      "下周计划",
+      "本周证据",
+      "复盘",
+      "学习闭环"
+    ],
+    "answer": "下周计划不要只凭感觉重新安排，要从本周证据开始。证据包括完成率、错因标签、模考或练习波动、老师反馈、学生自评和未完成原因。证据越具体，下周任务越容易对准问题。Sunny 可以把这些信息整理成简短判断，再生成下周优先级，避免计划每周都像重新开始。",
+    "source": "SunPace knowledge distillation round 274",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sunday-reset-round274-03",
+    "title": "周日不要安排过重的新训练量",
+    "keywords": [
+      "周日计划",
+      "训练负荷",
+      "恢复",
+      "备考节奏"
+    ],
+    "answer": "周日适合复位和规划，不适合临时塞入过重的新训练量。过重训练容易让学生带着疲劳进入下周，也会压缩复盘时间。更合理的周日安排是：回看本周证据、选下周主短板、做少量维护训练、写出周一第一步。Sunny 可以提醒学生把周日从补债日改成复位日。",
+    "source": "SunPace knowledge distillation round 274",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sunday-reset-round274-04",
+    "title": "周一第一步要在周日晚上写好",
+    "keywords": [
+      "周一启动",
+      "第一步动作",
+      "周日收尾",
+      "计划衔接"
+    ],
+    "answer": "周一是否顺利启动，常常取决于周日晚上有没有写好第一步。第一步不能太大，最好是十到二十分钟内能完成的动作，例如复看错因、做一组听写、录一段口语或检查一篇写作结构。这样周一开始时不用重新规划，直接进入执行。Sunny 可以在周日收尾时生成周一第一步。",
+    "source": "SunPace knowledge distillation round 274",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sunday-reset-round274-05",
+    "title": "下周只保留少数可观察指标",
+    "keywords": [
+      "可观察指标",
+      "周计划",
+      "学习记录",
+      "进度追踪"
+    ],
+    "answer": "下周计划里的指标不需要很多，保留少数可观察指标更容易坚持。比如完成率、一个主短板错因次数、一次模考或小测结果、一个口语或听力流程指标。指标太多会让记录变成负担，指标太少又无法判断效果。Sunny 可以帮助学生把下周追踪压缩成三到四个指标。",
+    "source": "SunPace knowledge distillation round 274",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sunday-reset-round274-06",
+    "title": "周日复位要处理拖延任务而不是堆积任务",
+    "keywords": [
+      "拖延任务",
+      "任务堆积",
+      "周日复位",
+      "计划降级"
+    ],
+    "answer": "周日复位时，重点不是把拖延任务全部堆回下周，而是判断它们为什么拖延。任务太大就拆小，价值不高就删除，重复拖延就改方法，需要老师判断就升级。没有处理原因的任务滚动，只会制造下周的新压力。Sunny 可以把拖延任务分成保留、降级、删除和求助四类。",
+    "source": "SunPace knowledge distillation round 274",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-sunday-reset-round274-07",
+    "title": "周计划要给意外情况留缓冲",
+    "keywords": [
+      "计划缓冲",
+      "意外情况",
+      "完成率",
+      "学习节奏"
+    ],
+    "answer": "下周计划不要排到每天都满格，要给意外情况留缓冲。学生一旦遇到加班、上课、身体疲劳或临时安排，满格计划很容易崩掉。更稳妥的做法是设置保底任务和加量任务：先确保保底闭环完成，有余力再加量。Sunny 可以把每一天拆成必须完成和可选加量两层。",
+    "source": "SunPace knowledge distillation round 274",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-sunday-reset-round274-08",
+    "title": "周日复位结论要同步给老师或助教",
+    "keywords": [
+      "周日复位",
+      "老师协作",
+      "助教监督",
+      "学习沟通"
+    ],
+    "answer": "如果学生有老师或助教跟进，周日复位结论最好同步给对方。同步内容不需要长，只要包括下周主短板、保底任务、需要监督的提交物和需要老师判断的问题。这样下周的提醒、作业和反馈会更一致。Sunny 可以把学生的周复盘压缩成一段协作摘要，方便老师和助教快速接上。",
+    "source": "SunPace knowledge distillation round 274",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
