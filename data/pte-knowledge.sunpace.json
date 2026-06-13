@@ -43040,5 +43040,117 @@
     "source": "SunPace knowledge distillation round 270",
     "visibility": "public",
     "priority": "high"
+  },
+  {
+    "id": "sunpace-daily-start-round271-01",
+    "title": "每天开始前先确认当天最小任务",
+    "keywords": [
+      "每日计划",
+      "最小任务",
+      "学习启动",
+      "Sunny"
+    ],
+    "answer": "每天开始学习前，先不要把所有任务一次性铺开，而是确认当天必须完成的最小任务。最小任务建议只保留三类：一个高优先级题型训练、一个复盘动作、一个可交付记录。这样即使当天时间被压缩，学生也能保住学习闭环。Sunny 可以先根据考试日期、目标分和最近薄弱点，把当天任务压缩成可执行清单，再逐步加量。",
+    "source": "SunPace knowledge distillation round 271",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-daily-start-round271-02",
+    "title": "晨间启动要先看昨天的未完成原因",
+    "keywords": [
+      "晨间启动",
+      "未完成原因",
+      "计划调整",
+      "复盘"
+    ],
+    "answer": "早上重新启动学习时，第一步不是直接复制昨天的计划，而是看昨天为什么没有完成。常见原因包括任务过量、题型太难、时间被打断、复盘步骤不清楚或情绪压力过高。原因不同，调整方式也不同：任务过量就减量，题型太难就拆小，时间被打断就改成短块训练。Sunny 的晨间计划应先处理未完成原因，再安排新任务。",
+    "source": "SunPace knowledge distillation round 271",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-daily-start-round271-03",
+    "title": "新一天计划不要同时更换太多方法",
+    "keywords": [
+      "方法稳定",
+      "每日计划",
+      "学习节奏",
+      "执行"
+    ],
+    "answer": "新一天开始时，不建议同时更换太多训练方法。学生如果昨天刚调整了口语节奏，今天又立刻换听力流程和写作模板，很难判断到底哪个动作有效。更稳妥的做法是每天只改一个主要变量，并保留其他流程稳定。Sunny 可以提醒学生记录今天唯一要验证的调整点，避免计划看起来很丰富、实际却无法复盘。",
+    "source": "SunPace knowledge distillation round 271",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-daily-start-round271-04",
+    "title": "早晨低状态时先做低阻力题型热身",
+    "keywords": [
+      "低状态",
+      "热身",
+      "低阻力任务",
+      "学习启动"
+    ],
+    "answer": "如果学生早晨状态低，不要一开始就进入最难的限时训练。可以先做低阻力热身，例如短口语跟读、少量听写回放、错因标签整理或昨日错题快速复看。热身的目的不是刷量，而是让注意力进入考试语言环境。完成热身后，再进入当天最高优先级题型。Sunny 可以把热身控制在十到十五分钟内，防止热身变成拖延。",
+    "source": "SunPace knowledge distillation round 271",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-daily-start-round271-05",
+    "title": "每日任务要给复盘预留固定位置",
+    "keywords": [
+      "每日复盘",
+      "学习闭环",
+      "错因记录",
+      "Sunny"
+    ],
+    "answer": "每日任务清单里必须给复盘预留固定位置，不能只写训练量。没有复盘的刷题，只能看到做了多少，却看不到为什么错、下一次要怎么改。建议把复盘写成明确动作：标一个错因、写一句改法、选一个明天验证点。Sunny 在生成每日计划时，可以把复盘放在每个题型任务后面，而不是等全部练完才补。",
+    "source": "SunPace knowledge distillation round 271",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-daily-start-round271-06",
+    "title": "当天时间不足时优先保留高分差题型",
+    "keywords": [
+      "时间不足",
+      "题型优先级",
+      "目标差距",
+      "备考计划"
+    ],
+    "answer": "当天时间不足时，不要平均删减所有题型，而要优先保留最影响目标差距的任务。判断顺序可以是：离目标分差距最大、近期波动最大、最容易通过固定流程提升、最接近考试当天会失误的题型。低优先级任务可以改成轻量维护。Sunny 可以帮助学生把计划从完整版本降级成保底版本，确保最关键的训练不被挤掉。",
+    "source": "SunPace knowledge distillation round 271",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-daily-start-round271-07",
+    "title": "每日结束前要给明天留下一个入口",
+    "keywords": [
+      "明日入口",
+      "学习连续性",
+      "每日收尾",
+      "计划衔接"
+    ],
+    "answer": "每天结束学习前，最好给明天留下一个清晰入口。这个入口可以是一道需要重做的题、一个未验证的错因、一个要继续观察的指标，或一句明天先做什么。这样第二天开始时，学生不需要重新思考全部计划，能更快进入状态。Sunny 可以在每日收尾时生成一句明天入口，帮助学习节奏不断档。",
+    "source": "SunPace knowledge distillation round 271",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-daily-start-round271-08",
+    "title": "连续几天执行不稳要先降级计划",
+    "keywords": [
+      "执行不稳",
+      "计划降级",
+      "完成率",
+      "学习节奏"
+    ],
+    "answer": "如果学生连续几天执行不稳，优先动作不是继续加压，而是先把计划降级。降级可以减少任务数量、缩短单次训练时长、降低复盘格式要求，或把大任务拆成更小的可提交动作。等完成率恢复后，再逐步加回强度。Sunny 判断计划是否需要降级时，应看连续完成率和卡点原因，而不是只看学生主观努力程度。",
+    "source": "SunPace knowledge distillation round 271",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
