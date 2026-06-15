@@ -43940,5 +43940,341 @@
     "source": "SunPace knowledge distillation round 278",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-coach-handoff-round279-01",
+    "title": "Sunny 结论要能转成老师交接摘要",
+    "keywords": [
+      "老师交接",
+      "协作摘要",
+      "学习跟进",
+      "Sunny"
+    ],
+    "answer": "Sunny 给出的学习结论，最好能转成老师一眼能接上的交接摘要。摘要可以包括学生目标、当前主短板、本周证据、已布置动作和需要老师判断的问题。这样老师不用重新追问背景，可以直接进入反馈和训练安排。",
+    "source": "SunPace knowledge distillation round 279",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-coach-handoff-round279-02",
+    "title": "助教监督要盯提交物而不是盯情绪",
+    "keywords": [
+      "助教监督",
+      "提交物",
+      "学习跟进",
+      "执行"
+    ],
+    "answer": "助教跟进学生时，最好盯具体提交物：录音、错题截图、WFD 练习结果、写作结构或每日完成记录。只问“今天学了吗”容易变成情绪压力；看提交物才能判断学生是真的没做、不会做，还是做了但没有复盘。",
+    "source": "SunPace knowledge distillation round 279",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-coach-handoff-round279-03",
+    "title": "老师介入前先整理一个具体问题",
+    "keywords": [
+      "老师介入",
+      "具体问题",
+      "学习支持",
+      "提问"
+    ],
+    "answer": "学生需要老师介入时，不要只说“我不会”。Sunny 可以先帮学生整理一个具体问题：哪个题型、哪次练习、错在哪里、自己已经试过什么。这样老师收到的信息更完整，反馈会更快，也更容易给到针对性动作。",
+    "source": "SunPace knowledge distillation round 279",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-coach-handoff-round279-04",
+    "title": "课后作业要从 Sunny 建议里拆出保底任务",
+    "keywords": [
+      "课后作业",
+      "保底任务",
+      "学习计划",
+      "执行"
+    ],
+    "answer": "老师或助教把 Sunny 建议转成作业时，先拆保底任务，再拆加量任务。保底任务保证今天有闭环，例如 10 句 WFD、3 条 RA 录音或 1 篇作文结构；加量任务给状态好的时候使用。这样学生不容易因为任务太多直接放弃。",
+    "source": "SunPace knowledge distillation round 279",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-coach-handoff-round279-05",
+    "title": "跟进记录要写清楚下一次检查点",
+    "keywords": [
+      "跟进记录",
+      "检查点",
+      "助教",
+      "学习闭环"
+    ],
+    "answer": "每次跟进结束时，都应该留下下一次检查点：什么时候检查、检查什么、用什么证据判断完成。没有检查点，计划容易停在口头承诺。Sunny 可以把建议改写成“下次带什么回来”，帮助学生和助教形成闭环。",
+    "source": "SunPace knowledge distillation round 279",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-coach-handoff-round279-06",
+    "title": "学生连续未完成时先排查任务设计",
+    "keywords": [
+      "未完成",
+      "任务设计",
+      "跟进",
+      "学习计划"
+    ],
+    "answer": "学生连续几天未完成任务时，不要马上归因为不努力。Sunny 可以先排查任务设计：是否太大、是否不清楚、是否需要老师示范、是否和考试日期不匹配。把任务降到能启动的大小，往往比反复提醒更有效。",
+    "source": "SunPace knowledge distillation round 279",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-coach-handoff-round279-07",
+    "title": "老师反馈后要让学生复述下一步",
+    "keywords": [
+      "老师反馈",
+      "复述",
+      "下一步",
+      "执行确认"
+    ],
+    "answer": "老师给完反馈后，学生最好用自己的话复述下一步：练什么、练多少、怎么提交、什么时候复盘。Sunny 可以帮助学生把老师反馈整理成简短行动清单。能复述清楚，才说明学生真的知道接下来怎么做。",
+    "source": "SunPace knowledge distillation round 279",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-coach-handoff-round279-08",
+    "title": "协作信息要保护学生自主复盘",
+    "keywords": [
+      "老师协作",
+      "自主复盘",
+      "学习支持",
+      "边界"
+    ],
+    "answer": "老师、助教和 Sunny 的协作，不应该替学生完成所有判断。更好的方式是给学生框架，让学生先说自己的错因、证据和下一步，再由老师或 Sunny 校准。这样既有支持，也能保护学生独立复盘能力。",
+    "source": "SunPace knowledge distillation round 279",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-self-troubleshoot-round280-01",
+    "title": "卡住时先判断是不懂题还是不会执行",
+    "keywords": [
+      "自助排查",
+      "卡住",
+      "执行",
+      "诊断"
+    ],
+    "answer": "学生说“我卡住了”时，Sunny 可以先帮他区分两件事：是不懂题型要求，还是知道要求但不会执行。前者需要重新讲规则和评分点；后者需要拆小练习动作。把这两类问题混在一起，只会让学生越问越乱。",
+    "source": "SunPace knowledge distillation round 280",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-self-troubleshoot-round280-02",
+    "title": "升级求助前先写已尝试动作",
+    "keywords": [
+      "升级求助",
+      "已尝试动作",
+      "老师",
+      "助教"
+    ],
+    "answer": "向老师或助教求助前，学生最好先写清楚自己已经尝试过什么：听了几遍、录了几次、改了哪里、看了哪个错因。这样老师能判断是方法没用、执行不到位，还是任务本身设计不合适。没有已尝试动作，求助很容易变成泛泛安慰。",
+    "source": "SunPace knowledge distillation round 280",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-self-troubleshoot-round280-03",
+    "title": "不会做时先缩小到一个题型动作",
+    "keywords": [
+      "不会做",
+      "题型动作",
+      "学习拆解",
+      "执行"
+    ],
+    "answer": "学生说某个题型不会做时，Sunny 不要一次讲完整体系。先缩小到一个动作：RA 先不断句，RS 先复述主干，WFD 先补漏词，FIB 先判断词性，WE 先写清观点句。一个动作能开始，才有后续复盘。",
+    "source": "SunPace knowledge distillation round 280",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-self-troubleshoot-round280-04",
+    "title": "练了没进步要检查练习质量",
+    "keywords": [
+      "练了没进步",
+      "练习质量",
+      "复盘",
+      "错因"
+    ],
+    "answer": "学生说“我练了很多还是没进步”时，Sunny 要先检查练习质量，而不是只加量。关键问题包括：有没有计时、有没有记录错因、有没有复练同类错误、有没有把老师反馈落实到下一次练习。没有复盘的刷题，很容易只增加疲劳。",
+    "source": "SunPace knowledge distillation round 280",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-self-troubleshoot-round280-05",
+    "title": "时间不够时先保护高价值任务",
+    "keywords": [
+      "时间不够",
+      "高价值任务",
+      "优先级",
+      "学习计划"
+    ],
+    "answer": "时间不够时，Sunny 可以帮助学生保留高价值任务，而不是把计划全部取消。低分段优先保 RA、RS、DI、WFD 和基础写作结构；冲高分再补阅读细项、SST 和复杂写作质量。有限时间里，先守住最能影响分数的动作。",
+    "source": "SunPace knowledge distillation round 280",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-self-troubleshoot-round280-06",
+    "title": "错因不清楚时先做最小复盘样本",
+    "keywords": [
+      "错因",
+      "最小复盘",
+      "样本",
+      "诊断"
+    ],
+    "answer": "如果学生说不清错因，Sunny 可以让他先做最小复盘样本：选 3 道刚错的题，写下原答案、正确方向、当时判断和下一次要改的动作。样本不需要多，但要足够具体。三道题通常已经能看出主要问题。",
+    "source": "SunPace knowledge distillation round 280",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-self-troubleshoot-round280-07",
+    "title": "情绪低时先保留启动动作",
+    "keywords": [
+      "情绪低",
+      "启动动作",
+      "低状态",
+      "学习节奏"
+    ],
+    "answer": "学生状态低时，不一定适合安排完整训练。Sunny 可以先保留一个启动动作：读 5 句 RA、听 5 句 WFD、整理 3 个错词，或写一个作文观点句。低状态时的目标是不断线，不是证明自己今天也能满负荷。",
+    "source": "SunPace knowledge distillation round 280",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-self-troubleshoot-round280-08",
+    "title": "自助排查后再决定是否升级给老师",
+    "keywords": [
+      "自助排查",
+      "老师介入",
+      "升级",
+      "学习支持"
+    ],
+    "answer": "Sunny 可以先带学生完成一次自助排查：目标是否清楚、任务是否过大、证据是否足够、错因是否重复、反馈是否执行。排查后如果仍然卡住，再把问题升级给老师。这样老师介入时会更精准，学生也不会完全依赖别人替自己判断。",
+    "source": "SunPace knowledge distillation round 280",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-load-control-round281-01",
+    "title": "学习负荷过重时先砍任务数量",
+    "keywords": [
+      "学习负荷",
+      "任务太重",
+      "计划降级",
+      "完成率"
+    ],
+    "answer": "学生完成率连续偏低时，Sunny 要先判断是不是学习负荷过重。不要一边完不成一边继续加任务。更稳的做法是先砍任务数量，只保留最能影响分数的 1-2 个动作，等连续完成后再加量。",
+    "source": "SunPace knowledge distillation round 281",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-load-control-round281-02",
+    "title": "保底任务要小到可以马上开始",
+    "keywords": [
+      "保底任务",
+      "启动",
+      "低阻力",
+      "学习计划"
+    ],
+    "answer": "保底任务不是缩小版的满负荷计划，而是小到学生可以马上开始的动作。比如 5 句 RA、5 句 WFD、1 个 FIB 错因样本、1 段作文观点。保底任务的目的不是练满，而是保证今天有一个闭环。",
+    "source": "SunPace knowledge distillation round 281",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-load-control-round281-03",
+    "title": "加量任务只在保底完成后出现",
+    "keywords": [
+      "加量任务",
+      "保底完成",
+      "计划分层",
+      "学习节奏"
+    ],
+    "answer": "Sunny 帮学生排计划时，可以把任务分成保底和加量。加量任务只在保底完成后出现，不要一开始就压到学生面前。这样学生能先建立完成感，也能避免因为计划太大而直接放弃。",
+    "source": "SunPace knowledge distillation round 281",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-load-control-round281-04",
+    "title": "时间碎片化时用短闭环题型",
+    "keywords": [
+      "碎片时间",
+      "短闭环",
+      "题型优先级",
+      "时间管理"
+    ],
+    "answer": "学生时间碎片化时，不适合安排长篇复盘或完整套题。Sunny 可以优先安排短闭环题型：RA 录音、WFD 精听、FIB 词性判断、作文观点句。碎片时间要产出明确结果，而不是打开资料看一眼就结束。",
+    "source": "SunPace knowledge distillation round 281",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-load-control-round281-05",
+    "title": "低状态日不要做高消耗任务开头",
+    "keywords": [
+      "低状态",
+      "高消耗任务",
+      "启动",
+      "学习节奏"
+    ],
+    "answer": "学生状态很低时，不建议用最难、最耗脑的任务开头。Sunny 可以先安排低阻力热身，再进入主任务。比如先读几句 RA，再做 RS；先听几句 WFD，再做 SST。先启动，再追质量。",
+    "source": "SunPace knowledge distillation round 281",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-load-control-round281-06",
+    "title": "计划调小不是退步而是提高完成率",
+    "keywords": [
+      "计划调小",
+      "完成率",
+      "学习信心",
+      "调整"
+    ],
+    "answer": "很多学生把计划调小理解成退步，其实在连续完不成时，调小计划是为了恢复完成率。Sunny 可以提醒学生：先把任务做完，再谈强度。连续完成三天，比连续三天写一个很漂亮但没执行的计划更有价值。",
+    "source": "SunPace knowledge distillation round 281",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-load-control-round281-07",
+    "title": "临考前负荷要服务稳定而不是刺激",
+    "keywords": [
+      "临考",
+      "学习负荷",
+      "稳定",
+      "考前计划"
+    ],
+    "answer": "临考前几天，学习负荷要服务稳定，而不是制造刺激。Sunny 可以帮助学生减少新内容，保留熟悉题型、错因复盘和考试流程确认。越接近考试，越要避免把自己练到疲劳、焦虑或节奏乱。",
+    "source": "SunPace knowledge distillation round 281",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-load-control-round281-08",
+    "title": "计划复盘要问负荷是否匹配生活节奏",
+    "keywords": [
+      "计划复盘",
+      "生活节奏",
+      "学习负荷",
+      "执行"
+    ],
+    "answer": "复盘学习计划时，Sunny 不只看学生有没有努力，也要看计划是否匹配生活节奏。上课、工作、通勤、家庭安排都会影响完成率。一个能长期执行的计划，通常比一个看起来很满但每天崩掉的计划更有效。",
+    "source": "SunPace knowledge distillation round 281",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
