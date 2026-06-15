@@ -43600,5 +43600,229 @@
     "source": "SunPace knowledge distillation round 275",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-post-clear-maintenance-round276-01",
+    "title": "资料队列清空后要看回答是否更稳定",
+    "keywords": [
+      "队列清空",
+      "回答稳定",
+      "知识库维护",
+      "Sunny"
+    ],
+    "answer": "本地资料队列清空后，下一步不是追求更多内容，而是观察 Sunny 回答是否更稳定。可以用同一类问题反复测试：学习计划、RA、RS、WFD、SST、阅读 FIB、写作结构。只要回答能稳定给出判断、原因和下一步动作，知识库整理才算真正服务学生。",
+    "source": "SunPace knowledge distillation round 276",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-post-clear-maintenance-round276-02",
+    "title": "知识库维护要保留问题样本",
+    "keywords": [
+      "知识库维护",
+      "问题样本",
+      "回归测试",
+      "质量检查"
+    ],
+    "answer": "维护 Sunny 知识库时，建议保留一组固定问题样本。每次新增公开知识后，都用这些问题检查首选答案是否跑偏：第一次备考、听力提分、WFD、阅读 FIB、SWT、口语、写作和泛提分。这样能避免新内容把核心题型建议挤到后面。",
+    "source": "SunPace knowledge distillation round 276",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-post-clear-maintenance-round276-03",
+    "title": "新材料进入知识库前先判断使用场景",
+    "keywords": [
+      "新材料",
+      "使用场景",
+      "资料筛选",
+      "学习计划"
+    ],
+    "answer": "以后再加入新材料时，Sunny 要先判断它服务哪个场景：新手入门、冲 65、冲 79、单题型补弱、考前一周，还是老师跟进。场景不清楚的内容不要急着公开整理。先明确学生会在什么问题里用到它，再决定是否写成知识库条目。",
+    "source": "SunPace knowledge distillation round 276",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-post-clear-maintenance-round276-04",
+    "title": "过期或低质量材料不要影响学生判断",
+    "keywords": [
+      "过期资料",
+      "低质量材料",
+      "学生判断",
+      "资料筛选"
+    ],
+    "answer": "如果某些材料过旧、文本质量低、音频不完整或不适合当前考试节奏，Sunny 不应该把它们放进学生的主路径。公开回答要以稳定、当前、可执行的建议为主。材料可以作为内部参考，但学生看到的应该是清晰优先级，而不是资料堆叠。",
+    "source": "SunPace knowledge distillation round 276",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-post-clear-maintenance-round276-05",
+    "title": "学生反馈可以反向发现知识缺口",
+    "keywords": [
+      "学生反馈",
+      "知识缺口",
+      "追问",
+      "FAQ"
+    ],
+    "answer": "学生连续追问同一个问题，往往说明知识库还有缺口。Sunny 可以把这些追问归类：听不懂、记不住、写不准、时间不够、计划执行不了。每一类高频追问都可以转成新的 SunPace 自有 FAQ，让后续回答更贴近真实学习卡点。",
+    "source": "SunPace knowledge distillation round 276",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-post-clear-maintenance-round276-06",
+    "title": "公开知识条目要避免同义重复堆叠",
+    "keywords": [
+      "同义重复",
+      "知识条目",
+      "FAQ",
+      "维护"
+    ],
+    "answer": "新增公开知识时，不要只换标题重复同一个建议。相近主题要有明确分工：一个讲判断标准，一个讲执行步骤，一个讲常见误区，一个讲复盘方式。这样 Sunny 检索到多条相关内容时，答案会互相补充，而不是在同一句话上来回打转。",
+    "source": "SunPace knowledge distillation round 276",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-post-clear-maintenance-round276-07",
+    "title": "知识库更新后要检查回答长度",
+    "keywords": [
+      "回答长度",
+      "知识库更新",
+      "可执行",
+      "Sunny"
+    ],
+    "answer": "知识库更新后，Sunny 的回答不应该越来越长。学生更需要短判断和明确动作。可以用一个简单标准检查：第一段说结论，第二段说训练动作，最后只问一个关键补充信息。如果回答需要解释很多背景，说明条目还可以再压缩。",
+    "source": "SunPace knowledge distillation round 276",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-post-clear-maintenance-round276-08",
+    "title": "维护记录要区分本地处理和公开发布",
+    "keywords": [
+      "维护记录",
+      "本地处理",
+      "公开发布",
+      "安全边界"
+    ],
+    "answer": "Sunny 知识维护要把本地处理和公开发布分开记录。本地可以记录转写、OCR、异常素材和队列状态；公开文件只记录 SunPace 自有结论、主题覆盖和安全说明。这样团队能追踪处理进度，学生也不会接触到原始资料或内部路径。",
+    "source": "SunPace knowledge distillation round 276",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-answer-qa-round277-01",
+    "title": "Sunny 回答后要能落到一个动作",
+    "keywords": [
+      "回答质量",
+      "下一步动作",
+      "执行",
+      "Sunny"
+    ],
+    "answer": "一个好的 Sunny 回答，最后应该能落到一个学生今天可以做的动作。比如练 10 句 WFD、录 3 条 RA、整理 5 个 FIB 错词、或把模考错因发来复盘。如果回答只是在解释概念，没有下一步动作，学生很容易听懂但不执行。",
+    "source": "SunPace knowledge distillation round 277",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-answer-qa-round277-02",
+    "title": "学生说看不懂时先换表达方式",
+    "keywords": [
+      "看不懂",
+      "解释方式",
+      "反馈",
+      "学习支持"
+    ],
+    "answer": "学生说“看不懂”时，Sunny 不要直接重复原答案。更好的做法是换成更具体的表达：先用一句话说结论，再给一个例子，最后问学生卡在理解、执行还是判断。很多时候学生不是不努力，而是没有把建议翻译成自己的练习动作。",
+    "source": "SunPace knowledge distillation round 277",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-answer-qa-round277-03",
+    "title": "回答跑偏时用目标分数拉回主线",
+    "keywords": [
+      "答案跑偏",
+      "目标分数",
+      "优先级",
+      "备考主线"
+    ],
+    "answer": "如果 Sunny 的回答开始覆盖太多题型，应该用目标分数把建议拉回主线。50-58 分段先稳住高频基础题；58-65 分段补结构和错因；65+ 再处理更细的阅读、听力和写作质量。目标分数能帮助学生少走弯路，也能让回答更短。",
+    "source": "SunPace knowledge distillation round 277",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-answer-qa-round277-04",
+    "title": "学生追问答案时先确认题型和错因",
+    "keywords": [
+      "追问",
+      "错因",
+      "题型",
+      "诊断"
+    ],
+    "answer": "学生连续追问“答案是什么”时，Sunny 要先确认题型和错因。PTE 备考里，同一道题背答案的价值很有限；更重要的是知道错在听不准、读不懂、词性判断、语法结构还是时间分配。确认错因后，Sunny 再给对应训练方法。",
+    "source": "SunPace knowledge distillation round 277",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-answer-qa-round277-05",
+    "title": "高频问题要沉淀成短 FAQ",
+    "keywords": [
+      "高频问题",
+      "FAQ",
+      "知识沉淀",
+      "维护"
+    ],
+    "answer": "如果学生反复问同一类问题，团队应该把它沉淀成短 FAQ。短 FAQ 不需要很长，只要包含适用场景、判断标准和下一步动作。这样 Sunny 下次遇到类似问题时，可以更快给出稳定答案，也方便老师和助教保持同一口径。",
+    "source": "SunPace knowledge distillation round 277",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-answer-qa-round277-06",
+    "title": "公开回答要少用内部处理语言",
+    "keywords": [
+      "公开回答",
+      "内部处理",
+      "表达方式",
+      "安全边界"
+    ],
+    "answer": "Sunny 面向学生时，不需要提内部处理、文件记录、队列状态或素材清理。公开回答应该直接说学习判断和训练动作。内部维护信息可以帮助团队追踪进度，但对学生来说，最重要的是知道自己今天该练什么、为什么这样练、练完如何复盘。",
+    "source": "SunPace knowledge distillation round 277",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-answer-qa-round277-07",
+    "title": "回答质量可以用三句话自检",
+    "keywords": [
+      "回答质量",
+      "自检",
+      "三句话",
+      "Sunny"
+    ],
+    "answer": "Sunny 的回答可以用三句话自检：第一句有没有说明当前判断，第二句有没有给出训练动作，第三句有没有说明如何反馈结果。如果三句话都说不清，说明回答可能太散。压缩之后再回答，往往比堆更多资料更有帮助。",
+    "source": "SunPace knowledge distillation round 277",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-answer-qa-round277-08",
+    "title": "反馈闭环要记录学生做完后的变化",
+    "keywords": [
+      "反馈闭环",
+      "学习变化",
+      "复盘",
+      "下一轮计划"
+    ],
+    "answer": "Sunny 给完建议后，最好引导学生带回执行结果：做了几题、错了几题、哪里卡住、下次想改什么。没有执行结果，下一轮回答只能继续泛泛建议。有了变化记录，Sunny 才能帮助学生把计划从“应该做”推进到“做完后怎么调整”。",
+    "source": "SunPace knowledge distillation round 277",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
