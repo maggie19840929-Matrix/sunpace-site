@@ -43824,5 +43824,121 @@
     "source": "SunPace knowledge distillation round 277",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-student-evidence-round278-01",
+    "title": "问 Sunny 前先准备三类学习证据",
+    "keywords": [
+      "学习证据",
+      "提问准备",
+      "诊断",
+      "Sunny"
+    ],
+    "answer": "学生问 Sunny 前，最好先准备三类证据：当前分数或目标分数、最近一次卡住的题型、一个具体错题或练习结果。只有“我想提分”太宽，Sunny 只能给通用建议；有了证据，Sunny 才能判断先救分、补弱，还是调整计划。",
+    "source": "SunPace knowledge distillation round 278",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-student-evidence-round278-02",
+    "title": "模考截图要配一句自己的判断",
+    "keywords": [
+      "模考截图",
+      "成绩单",
+      "自我判断",
+      "复盘"
+    ],
+    "answer": "学生发模考截图时，最好同时写一句自己的判断：最担心哪一项、哪题最不稳、这次和上次有什么变化。Sunny 可以根据截图给方向，但学生自己的判断能暴露真正的困惑。这样复盘会从看分数变成找下一步动作。",
+    "source": "SunPace knowledge distillation round 278",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-student-evidence-round278-03",
+    "title": "口语问题要带录音自评",
+    "keywords": [
+      "口语",
+      "录音自评",
+      "RA",
+      "RS",
+      "DI"
+    ],
+    "answer": "问口语问题时，学生不要只说“口语低”，最好带一条录音后的自评：有没有卡顿、漏词、回读、声音太小、模板说不满，还是内容组织乱。Sunny 可以先根据自评判断是流利度、发音清晰度、内容完整度，还是练习量不足。",
+    "source": "SunPace knowledge distillation round 278",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-student-evidence-round278-04",
+    "title": "听力问题要区分听不懂和写不准",
+    "keywords": [
+      "听力",
+      "WFD",
+      "SST",
+      "听不懂",
+      "写不准"
+    ],
+    "answer": "听力提分前要先区分问题：是听不懂主干、记不住细节、拼写写错、语法形式错，还是时间紧张。Sunny 可以让学生带一组 WFD 或 SST 的错因样本。听不懂和写不准对应的训练完全不同，混在一起复盘会浪费时间。",
+    "source": "SunPace knowledge distillation round 278",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-student-evidence-round278-05",
+    "title": "阅读错题要标出词性和定位过程",
+    "keywords": [
+      "阅读",
+      "FIB",
+      "错题样本",
+      "词性",
+      "定位"
+    ],
+    "answer": "阅读 FIB 或 RO 错题不要只发正确答案。更有用的是标出自己当时怎么判断：看了词性、搭配、前后逻辑，还是凭感觉选。Sunny 可以根据这个过程判断学生缺的是词汇、语法、语义连接，还是做题顺序。",
+    "source": "SunPace knowledge distillation round 278",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-student-evidence-round278-06",
+    "title": "写作问题要带结构而不是只问模板",
+    "keywords": [
+      "写作",
+      "WE",
+      "SWT",
+      "结构",
+      "模板"
+    ],
+    "answer": "学生问写作时，如果只问模板，Sunny 很难判断真实问题。更好的证据是带一段自己的结构：观点、理由、例子、连接词和结论。Sunny 可以先看结构是否完整，再判断语法、词汇和时间分配。模板只能托底，不能代替内容组织。",
+    "source": "SunPace knowledge distillation round 278",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-student-evidence-round278-07",
+    "title": "计划执行问题要记录实际完成量",
+    "keywords": [
+      "计划执行",
+      "完成量",
+      "学习记录",
+      "调整计划"
+    ],
+    "answer": "学生觉得计划执行不了时，Sunny 需要看到实际完成量：原计划多少、实际完成多少、卡在哪里、连续几天没完成。不要只说“我拖延”。有完成量记录，Sunny 才能判断是任务太重、时间安排不合适，还是启动动作太模糊。",
+    "source": "SunPace knowledge distillation round 278",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-student-evidence-round278-08",
+    "title": "复盘证据要服务下一轮选择",
+    "keywords": [
+      "复盘证据",
+      "下一轮计划",
+      "错因",
+      "学习闭环"
+    ],
+    "answer": "复盘不是把所有错误都记下来，而是服务下一轮选择。Sunny 可以让学生每次只带一个关键证据：最常错的题型、最重复的错因、最难执行的任务，或最明显的分数变化。证据越聚焦，下一轮计划越容易落地。",
+    "source": "SunPace knowledge distillation round 278",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
