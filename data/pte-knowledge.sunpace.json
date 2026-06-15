@@ -44276,5 +44276,117 @@
     "source": "SunPace knowledge distillation round 281",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-week-risk-round282-01",
+    "title": "考前一周先锁定稳定项",
+    "keywords": [
+      "考前一周",
+      "稳定项",
+      "复习收口",
+      "考试准备"
+    ],
+    "answer": "考前一周，Sunny 要先帮学生锁定已经稳定的得分动作，而不是继续打开很多新任务。可以把每天任务分成三类：必须保留的稳定项、少量修补的薄弱项、暂停扩展的新内容。越接近考试，越要让复习收口，避免因为临时加量把节奏练乱。",
+    "source": "SunPace knowledge distillation round 282",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-week-risk-round282-02",
+    "title": "错题复盘只保留可改动作",
+    "keywords": [
+      "错题复盘",
+      "可改动作",
+      "考前复盘",
+      "学习效率"
+    ],
+    "answer": "考前复盘错题时，Sunny 不需要让学生重新分析所有细节，而是只保留能马上改变的动作。比如 RA 是否回读、RS 是否丢主干、WFD 是否漏复数、FIB 是否忽略词性。复盘结论如果不能变成下一次练习动作，就先不要占用考前精力。",
+    "source": "SunPace knowledge distillation round 282",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-week-risk-round282-03",
+    "title": "新增材料要有明确停止线",
+    "keywords": [
+      "新增材料",
+      "停止线",
+      "资料控制",
+      "考前节奏"
+    ],
+    "answer": "考前如果学生想继续补材料，Sunny 要先设置停止线：只看和当前错因直接相关的内容，只练能当天复盘的量，超过时间就停止。新增材料不是越多越安心，很多时候只是增加焦虑。考前资料控制的重点是少而准。",
+    "source": "SunPace knowledge distillation round 282",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-week-risk-round282-04",
+    "title": "睡眠被打乱时先降级计划",
+    "keywords": [
+      "睡眠",
+      "计划降级",
+      "低状态",
+      "考前风险"
+    ],
+    "answer": "如果考前睡眠被打乱，Sunny 不应继续要求学生按满负荷计划执行。更稳的做法是先降级：保留短热身、关键错因回看和考试流程确认，暂停高消耗套题。状态差时硬冲强度，常常会让信心和节奏一起下滑。",
+    "source": "SunPace knowledge distillation round 282",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-week-risk-round282-05",
+    "title": "口语热身避免过度纠音",
+    "keywords": [
+      "口语热身",
+      "纠音",
+      "流利度",
+      "考前口语"
+    ],
+    "answer": "考前口语热身要服务稳定输出，不要变成过度纠音。Sunny 可以让学生用熟悉材料做短时间热身，重点检查音量、停顿、连贯和不回读。临考前突然追求每个音都完美，容易牺牲流利度，也会让学生说话更紧。",
+    "source": "SunPace knowledge distillation round 282",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-exam-week-risk-round282-06",
+    "title": "听力精听考前抓高频错因",
+    "keywords": [
+      "听力精听",
+      "高频错因",
+      "WFD",
+      "考前听力"
+    ],
+    "answer": "考前听力精听不需要无限加题，Sunny 可以优先抓学生最常见的错因：漏小词、漏复数、时态误判、拼写不稳、听到意思但写不出原词。每次练完只记录一两个高频错误，并把下一组训练专门对准它们。",
+    "source": "SunPace knowledge distillation round 282",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-week-risk-round282-07",
+    "title": "考试当天只看流程清单",
+    "keywords": [
+      "考试当天",
+      "流程清单",
+      "考前准备",
+      "稳定发挥"
+    ],
+    "answer": "考试当天，Sunny 不建议学生再看大量知识点。更适合只看流程清单：证件和到场时间、设备检查、各题型开头动作、遇到卡顿时的处理方式、结束后如何记录反馈。当天清单越清楚，临场注意力越容易留给答题本身。",
+    "source": "SunPace knowledge distillation round 282",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-exam-week-risk-round282-08",
+    "title": "考后反馈先记录异常和证据",
+    "keywords": [
+      "考后反馈",
+      "异常记录",
+      "学习证据",
+      "下一轮复盘"
+    ],
+    "answer": "考试结束后，Sunny 可以先让学生记录异常和证据，而不是马上下结论。包括哪类题最慌、哪里时间不够、哪些题型和平时不一样、是否有设备或状态问题。考后记录越具体，下一轮复盘就越能判断是能力问题、状态问题，还是流程问题。",
+    "source": "SunPace knowledge distillation round 282",
+    "visibility": "public",
+    "priority": "medium"
   }
 ]
