@@ -44388,5 +44388,117 @@
     "source": "SunPace knowledge distillation round 282",
     "visibility": "public",
     "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-review-round283-01",
+    "title": "出分后先分清总分和单项短板",
+    "keywords": [
+      "出分",
+      "成绩单",
+      "单项短板",
+      "复盘"
+    ],
+    "answer": "学生出分后，Sunny 要先把总分和单项短板分开看。总分接近目标但某一项拖后腿时，下一轮不一定需要全科加量；如果多项都不稳，才需要回到基础盘。先判断是哪一类问题，再决定是补单项、稳节奏，还是重做整体计划。",
+    "source": "SunPace knowledge distillation round 283",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-review-round283-02",
+    "title": "低于预期先找可验证原因",
+    "keywords": [
+      "低于预期",
+      "可验证原因",
+      "成绩复盘",
+      "错因"
+    ],
+    "answer": "如果成绩低于预期，Sunny 不要直接用“发挥不好”解释。更可靠的是找可验证原因：哪一项掉分、考试当天是否状态异常、平时练习是否同样暴露过问题、模考结果是否提前提示过风险。能被证据支持的原因，才适合变成下一轮训练重点。",
+    "source": "SunPace knowledge distillation round 283",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-review-round283-03",
+    "title": "接近目标时不要推翻全部计划",
+    "keywords": [
+      "接近目标",
+      "计划调整",
+      "稳定发挥",
+      "提分"
+    ],
+    "answer": "学生离目标只差一点时，Sunny 要避免推翻全部计划。更稳的做法是保留已经有效的训练动作，只针对最明显的扣分点做微调。接近目标阶段，最怕因为焦虑换一整套方法，反而丢掉原本已经稳定的部分。",
+    "source": "SunPace knowledge distillation round 283",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-review-round283-04",
+    "title": "重考间隔要看修复周期",
+    "keywords": [
+      "重考",
+      "考试间隔",
+      "修复周期",
+      "备考节奏"
+    ],
+    "answer": "是否马上重考，Sunny 要看短板能不能在间隔内修复。如果只是流程不熟或状态波动，可以短间隔再考；如果是 WFD、RS、FIB、写作结构这类能力问题，就需要给训练留出周期。重考不是越快越好，而是要让下一次有明确增量。",
+    "source": "SunPace knowledge distillation round 283",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-review-round283-05",
+    "title": "成绩复盘要保留成功动作",
+    "keywords": [
+      "成绩复盘",
+      "成功动作",
+      "保留",
+      "学习方法"
+    ],
+    "answer": "复盘成绩时，Sunny 不能只盯着没考好的地方，也要保留成功动作。哪些任务帮助学生稳定了分数、哪些复盘方法有效、哪些题型已经不用加量，都要写下来。下一轮计划要建立在有效动作上，而不是每次从零开始。",
+    "source": "SunPace knowledge distillation round 283",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-review-round283-06",
+    "title": "分数波动时看训练证据是否稳定",
+    "keywords": [
+      "分数波动",
+      "训练证据",
+      "稳定性",
+      "模考"
+    ],
+    "answer": "如果学生分数波动大，Sunny 要回看训练证据是否稳定。平时 RA 是否连续清楚、RS 是否只偶尔完整、WFD 错词是否反复出现、阅读是否靠运气选对。考试波动往往不是突然发生，而是训练稳定性不足在考场放大了。",
+    "source": "SunPace knowledge distillation round 283",
+    "visibility": "public",
+    "priority": "high"
+  },
+  {
+    "id": "sunpace-score-review-round283-07",
+    "title": "老师复盘前先整理三类信息",
+    "keywords": [
+      "老师复盘",
+      "成绩信息",
+      "沟通",
+      "学习证据"
+    ],
+    "answer": "找老师复盘前，Sunny 可以先帮学生整理三类信息：成绩单结果、考场异常或主观感受、最近一周实际完成的训练证据。这样老师不用从零追问，也能更快判断是方法问题、执行问题，还是考试当天的状态问题。",
+    "source": "SunPace knowledge distillation round 283",
+    "visibility": "public",
+    "priority": "medium"
+  },
+  {
+    "id": "sunpace-score-review-round283-08",
+    "title": "下一轮计划只写三个变化",
+    "keywords": [
+      "下一轮计划",
+      "三个变化",
+      "复盘落地",
+      "执行"
+    ],
+    "answer": "成绩复盘后，Sunny 可以把下一轮计划压缩成三个变化：保留什么、停止什么、加强什么。计划太长会让学生难以执行，尤其是在考后情绪还没稳定时。三个变化足够清楚，就能把复盘从情绪反应带回可执行动作。",
+    "source": "SunPace knowledge distillation round 283",
+    "visibility": "public",
+    "priority": "high"
   }
 ]
